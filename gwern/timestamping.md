@@ -1,0 +1,363 @@
+# Easy Cryptographic Timestamping of Files
+
+[Source](https://gwern.net/timestamping)
+
+- 
+
+
+
+    Skip to main content
+
+
+Warning: JavaScript Disabled!
+
+For support of key website features (link annotation popups/popovers & transclusions, collapsible sections, backlinks, tablesorting, image zooming, sidenotes etc.), you must enable JavaScript.
+
+
+
+
+        # Easy Cryptographic Timestamping of Files
+
+
+
+
+
+Bitcoin, cryptography, Internet archiving, CLI, tutorial
+
+Scripts for convenient free secure Bitcoin-based dating of large numbers of files/strings
+            2015-12-04–2017-12-16
+            finished
+            certainty: highly likely
+            importance: 8
+            backlinks
+            similar
+            bibliography
+
+- Remote Timestamping Service
+
+- Timestamping Files or Strings
+- Timestamping Version Control Systems
+- Timestamping Downloaded Web Pages
+
+- Local Timestamping
+- External Links
+
+
+Local archives are useful for personal purposes, but sometimes, in investigations that may be controversial, you want to be able to prove that the copy you downloaded was not modified and you need to timestamp it and prove the exact file existed on or before a certain date.
+
+
+This can be done by creating a cryptographic hash of the file and then publishing that hash to global chains like centralized digital timestampers or the decentralized Bitcoin blockchain.
+
+
+Current timestamping mechanisms tend to be centralized, manual, cumbersome, or cost too much to use routinely. Centralization can be overcome by timestamping to Bitcoin; costing too much can be overcome by batching up an arbitrary number of hashes and creating just 1 hash/timestamp covering them all; manual & cumbersome can be overcome by writing programs to handle all of this and incorporating them into one’s workflow.
+
+
+So using an efficient cryptographic timestamping service (such as the former OriginStamp Internet service), we can write programs to automatically & easily timestamp arbitrary files & strings, timestamp every commit to a Git repository, and webpages downloaded for archival purposes.
+
+
+We can implement the same idea offline, without reliance on a service, but at the cost of additional software dependencies like a Bitcoin client.
+
+
+The most robust way of timestamping is cryptographic timestamping, where a document (such as a downloaded webpage) is hashed using a cryptographic hash function like SHA-256, and then the hash is published; the hash proves that that exact version of the document existed on/before the date the hash was published on. If published to somewhere like Twitter or one’s blog, though, now one has two problems of timestamping, so it is better to use the Bitcoin blockchain, where one can easily timestamp by methods like sending 1 satoshi to the address corresponding to the document’s hash. (Appropriately, Bitcoin itself is an intellectual descendant of earlier Usenet timestamping services.)
+
+
+Making a full Bitcoin transaction for every version of every file one wants to timestamp works, but requires a Bitcoin client installed, can become expensive due to transaction fees, be a hassle to do manually, and bloats the Bitcoin blockchain (inasmuch as clients verifying the blockchain must keep track of all addresses with unspent funds, and every timestamping transaction represents an additional such address).
+
+# Remote Timestamping Service
+
+
+Using services like Proof of Existence solves the install problem but not the hassle or fees (eg. Proof of Existence charges $3.81₿0.0052015 as of 2015-12-02).
+
+
+We can do better by using a service like (formerly) OriginStamp (Gipp et al 2015) or TzStamp Web: OriginStamp was a web service which receives hashes from users, and then each day, it batches together all hashes submitted that day, hashes them, and makes a Bitcoin transaction to that master hash.1 This gives one day-level granularity of timestamping (which might sound bad but usually day-level precision is fine and in any case, the precision of Bitcoin timestamping is limited by the time delay between each block and mining) To verify any particular hash, one looks up that hash in the OriginStamp archives, finds the day/batch it is part of, hashes the whole batch, and checks that there was a Bitcoin transaction that day. Because OriginStamp only needed to make a single transaction each day, no matter how many hashes are submitted, it had near-zero effect on the Bitcoin blockchain and costs little to run—if one Bitcoin transaction costs 5 cents, then a year of daily transaction fees is <$28.72$202015 (though OriginStamp accepted donations and I have given $67.62₿0.12015 to help support it).
+
+## Timestamping Files or Strings
+
+
+As of 201511ya, we coul get a free API key and then, thanks to OriginStamp’s API, write a simple Bash shell script using `curl` & `sha256sum` to timestamp files or strings, which we will name `timestamp`, make executable with `chmod +x timestamp`, and put somewhere in our path:
+
+
+`#!/usr/bin/env bash
+set -euo pipefail
+
+API_KEY="73be2f5ae81ffa076480ac4d48fa9b2d"
+
+# loop over input targets, hash them whether file or string, and submit:
+for TARGET in "$@"; do
+
+ if [ -f "$TARGET" ]; then
+  # since it's a valid file, tell `sha256sum` to read it and hash it:
+  HASH=$(sha256sum "$TARGET" | cut --delimiter=' ' --fields=1)
+ else
+  # if it's a string we're precommitting to instead, pipe it into `sha256sum`:
+  HASH=$(echo "$TARGET" | sha256sum | cut --delimiter=' ' --fields=1)
+ fi
+
+ echo -n "$TARGET: "
+ curl --request POST --header "Content-Type: application/json" --header "Authorization: Token token=$API_KEY" \
+      --data "{\"hash_sha256\":\"$HASH\"}" 'https://originstamp.com/api/stamps'
+ # print newline to keep output tidier since curl doesn't add a final newline to the JSON output
+ echo
+done`
+
+
+Now we can timestamp arbitrary files or strings as we please:
+
+
+`$ timestamp ~/wiki/catnip.md ~/wiki/image/logo/logo.png
+# /home/gwern/wiki/catnip.md: {"hash_sha256":"4b357388100f3cdf330bfa30572e7b3779564295a8f5e6e695fa8b2304fa450e",
+#  "created_at":"2015-12-02T23:57:56.985Z","updated_at":"2015-12-02T23:57:56.985Z","submitted_at":null,"title":null}
+#
+# /home/gwern/wiki/image/logo/logo.png: {"hash_sha256":"243d5b9b4f97931a07d02497b8fddb181f9ba72dc37bd914077e3714d0163a2f",
+# "created_at":"2015-12-02T23:57:20.996Z","updated_at":"2015-12-02T23:57:20.996Z","submitted_at":null,"title":null}
+
+$ timestamp "Lyndon Johnson was really behind the Kennedy assassination." "Sorry: I ate the last cookie in the jar."
+# Lyndon Johnson was really behind the Kennedy assassination.: {"hash_sha256":"4aef69aeaf777251d08b809ae1458c1b73653ee5f78699670d37849f6f92d116",
+# "created_at":"2015-12-02T23:58:57.615Z","updated_at":"2015-12-02T23:58:57.615Z","submitted_at":null,"title":null}
+#
+# Sorry: I ate the last cookie in the jar.: {"hash_sha256":"508190d52a6dfff315c83d7014266737eeb70ab9b95e0cab253639de383a0b44",
+# "created_at":"2015-12-02T23:59:03.475Z","updated_at":"2015-12-02T23:59:03.475Z","submitted_at":null,"title":null}`
+
+
+## Timestamping Version Control Systems
+
+
+Given this script, we can integrate timestamping elsewhere - for example, into a Git version control system repository of documents using its post-commit hook feature. We could write out the full `curl` call as part of a self-contained script, but we already factored the timestamping out as a separate shell script. So setting it up and enabling it is now as simple as:
+
+
+`echo 'timestamp $(git rev-parse HEAD)' >> .git/hooks/post-commit
+chmod +x .git/hooks/post-commit`
+
+
+Now each commit we make, the SHA-1 hash of the last commit will be timestamped and we can take the repo later and prove that all of the content existed before a certain day; this might be source code, but also anything one might want to track changes to - interviews, web page archives, copies of emails, financial documents, etc.
+
+
+This approach generalizes to most version control systems built on cryptographic hashes as IDs, where timestamping the ID-hashes is enough to assure the entire tree of content. (I’m not sure about other VCSes; perhaps the post-commit hooks could timestamp entire revisions/patches?)
+
+
+There have long been concerns that SHA-1 is increasingly weak; as of 2017, collisions can be generated at feasible costs, so timestamps of SHA-1 hashes no longer prove as much as they used to.
+
+
+It might be possible to use a tool like `git-evtag` for hashing the entire repository history including the changes themselves (rather than just the IDs), and timestamp this master hash instead of the latest-revision hash. Alternately, since there are no worries about SH​A-256 being broken anytime soon, one could write a post-commit script to directly parse out a list of modified files & timestamp each file; in which case, every version of every file has its own separate SH​A-256-based timestamp. (The disadvantage here is also an advantage as it enables selective disclosure: if you are timestamping the entire Git repository, then to subsequently prove the timestamp to a third party, you must provide the entire repository so they can replay it, see what the final state of the relevant file is, and check that it contains what you claim it contains and that the relevant revision’s SHA-1 is correctly timestamped; but if you have timestamped each file separately, you can provide just the relevant version of the relevant file from your repository, rather every version of every file prior. The tradeoff here is similar to that of timestamping a hash of a batch vs timestamping individual hashes.
+
+
+Probably the best approach is to timestamp each file at the beginning, use VCS timestamps subsequently for regular activity, and every once in a long while timestamp all the files again; then for slow-changing files, one will be probably be able to reveal a useful timestamp without needing to reveal the whole VCS history as well, while still having backup timestamps of the whole VCS in case very fine-grained timestamps turn out to be necessary.)
+
+
+## Timestamping Downloaded Web Pages
+
+
+Automatically tracking Git commits is easy because of the hook functionality, but what if we want to download web pages and then timestamp them? Downloading them normally with `wget` and then manually calling `timestamp` on whatever the file winds up being named is a pain, so we want to do it automatically. This gets a little trickier because if we write a script which takes a URL as an argument, we don’t necessarily know what the resulting filepath will be - the URL could redirect us to another version of that page with different arguments, another page on that domain, or to another domain entirely, and then there’s the URL-decoding to deal with.
+
+
+The simple (and stupid) way is to parse out a filename from the `wget` output because it conveniently places the destination filename in a pair of Unicode quote marks, which give us a perfect way to parse out the first2 downloaded filename; this turns out to work well enough in my preliminary testing of it. A script `wget-archive` which does this and works well with my archiver daemon:
+
+
+`#!/usr/bin/env bash
+set -euo pipefail
+
+cd ~/www/
+
+USER_AGENT="Firefox 12.4"
+FILE=$(nice --adjustment=20 ionice -c3 wget --continue --unlink --page-requisites --timestamping -e robots=off \
+                                  --reject .exe,.rar,.7z,.bin,.jar,.flv,.mp4,.avi,.webm,.ico \
+                                  --user-agent="$USER_AGENT" "$@" 2>&1 \
+       | grep -E 'Saving to: ‘.*’' | sed -e 's/Saving to: ‘//' | tr -d '’' | head -1 )
+
+timestamp "$FILE"`
+
+
+“Difficulties of Timestamping Archived Web Pages”, Aturban et al 2017, discuss some of the limitations of timestamping systems and points out a problem with this shell script: only the downloaded file (usually the HTML file) is timestamped, and the files necessary for properly displaying it (like JS or images) are downloaded but not timestamped; these additional files could change (either for normal reasons or maliciously) and change the appearance or content of the main HTML file. They provide a modified shell script (`sha256_include_all.sh`) to include the auxiliary files as well:
+
+
+`#!/usr/bin/env bash
+rm -rf ~/tmp_www/ # [use of `mktemp` would be better]
+cd  ~/tmp_www/
+
+USER_AGENT="Firefox 6.4"
+
+FILE=$(nice --adjustment=20 wget --continue --unlink --page-requisites
+                       --timestamping -e robots=off -k
+                       --user-agent="$USER_AGENT" "$1" 2>&1
+    | grep -E 'Saving to: .*'
+    | sed -e 's/Saving to: //' | tr -d '’')
+
+let "c=0"
+for TARGET in $FILE; do
+    if [ -f "$TARGET" ]; then
+        let "c++"
+        CONT=$(cat $TARGET)
+        HASH=$(echo "$CONT" | shasum -a 256 | awk 'print $1;')
+        echo "$HASH" >> "allhashes.txt"
+    fi
+    done
+
+if [ $c = 1 ]; then
+    FINAL_HASH="$HASH"
+    else
+    FINAL_HASH=$(cat "allhashes.txt" | shasum -a 256
+                 | awk 'print $1;')
+fi
+echo "Final hash: $FINAL_HASH"`
+
+
+Example usage:
+
+
+`$ sha256_include_all.sh \
+http://wsdl-maturban.cs.odu.edu:11011/michael/wayback/20170717185130/https://climate.nasa.gov/vital-signs/carbon-dioxide/
+# Final hash: 2fa7ece06402cc9d89b9cfe7a53e4ec31a4417a34d79fee584c 01d706036e8cb`
+
+
+# Local Timestamping
+
+
+As convenient as OriginStamp was, and as nice as it is to have only one Bitcoin transaction made per day covering all OriginStamp users, one may not want to rely on it for any number of reasons: sporadic Internet connectivity, uncertainty that OriginStamp’s data will remain accessible in the far future, uncertainty OriginStamp correctly implements the timestamping algorithm, needing to timestamp so much that it would seriously burden OriginStamp’s bandwidth/storage resources & interfere with other users, not wanting to leak volume & timing of timestamps, etc.
+
+
+This can be done with yet more scripting, a local Bitcoin client with sufficient funds (~$28.72$202015 should cover a year of usage), and something to convert hashes to Bitcoin addresses (`bitcoind` & `bitcoin-tool` respectively for the latter two).
+
+
+A simple architecture here would be to change `timestamper` to create hashes of inputs as before, but instead of sending them off to OriginStamp, they are stored in a local file. This file accumulates hashes from every use of `timestamper` that day. At the end of the time period, another script runs: it
+
+- 
+
+archives the master file to a date-stamped file (replacing it with an empty file to receive future hashes)
+- 
+
+hashes the archived file to yield the master hash of that batch of hashes
+- 
+
+converts the master hash to a Bitcoin address
+- 
+
+finally, calls a local Bitcoin client like Electrum or Bitcoin Core’s `bitcoind` to make 1 transaction to the address
+
+
+So let’s say that hashes are being stored in `~/docs/timestamps/`; the simpler `timestamper` script reads just:
+
+
+`#!/usr/bin/env bash
+set -euo pipefail
+MASTER_DIR=~/docs/timestamps/
+for TARGET in "$@"; do
+    if [ -f "$TARGET" ]; then
+     HASH=$(sha256sum "$TARGET" | cut --delimiter=' ' --fields=1)
+    else
+      HASH=$(echo "$TARGET" | sha256sum | cut --delimiter=' ' --fields=1)
+    fi
+    echo "$HASH" >> $MASTER_DIR/today.txt
+done`
+
+
+The hardest part is converting a SH​A-256 hash to a valid Bitcoin address, which involves a number of steps, so in this example I’ll use the lightweight `bitcoin-tool` for that part. To give an example of `bitcoin-tool` use, we can verify an OriginStamp timestamp to make sure we’re doing things the same way. Take this test timestamp (formerly at `https://originstamp.com/s/7306a744a285474742f4f9ae8ddae8214fb7625348d578fb3077fb0bae92b8f1`):
+
+
+`$ echo "I have a secret." | sha256sum
+7306a744a285474742f4f9ae8ddae8214fb7625348d578fb3077fb0bae92b8f1`
+
+
+OriginStamp’s page included the full batch of hashes (the “Transaction Seed”), which we can verify includes `7306a..f1`; so far so good. We can then pipe the full list into `sha256sum` using `xclip` which gives us the master hash:
+
+
+`$ xclip -o | sha256sum
+7ad6b91226939f075d79da12e5971ae6c886a48b8d7284915b74c7340ac6f61e  -`
+
+
+`7ad6..1e` is the hash that the OriginStamp page claimed to use as the “Secret”, which also checks out. This hash needs to be converted to a Bitcoin address, so we call `bitcoin-tool` with the relevant options:
+
+
+`$ bitcoin-tool --network bitcoin --input-type private-key --input-format hex --output-type address --output-format base58check \
+    --public-key-compression compressed --input "7ad6b91226939f075d79da12e5971ae6c886a48b8d7284915b74c7340ac6f61e"
+1DMQELo9krQDvHHK5nPjbKLQFnnLtUdMFm`
+
+
+`1DMQ..Fm` is also the same Bitcoin address that OriginStamp claimed to send to on that page, so all that remains is to check that some bitcoin was sent to `1DMQ..Fm` today, and looking on Blockchain.info, we see that some bitcoins were sent. So we have successfully independently verified that that list of hashes was timestamped on the day it was claimed to have been timestamped, and that OriginStamp was both working correctly & our use of `bitcoin-tool` to convert a SH​A-256 hash to a Bitcoin address is likewise working. With that, we can proceed.
+
+
+To stamp a batch, we can write a script we’ll call `timestamper-flush`:
+
+
+`#!/usr/bin/env bash
+set -euo pipefail
+
+MASTER_DIR=~/docs/timestamps/
+DATE=$(date +'%s')
+mv $MASTER_DIR/today.txt $MASTER_DIR/"$DATE".txt && touch $MASTER_DIR/today.txt
+MASTER_HASH=$(sha256sum "$MASTER_DIR/$DATE.txt" | cut --delimiter=' ' --fields=1)
+
+BITCOIN_ADDRESS=$(bitcoin-tool --network bitcoin --input-type private-key --input-format hex \
+                               --output-type address --output-format base58check --public-key-compression compressed \
+                               --input "$MASTER_HASH")
+
+# assuming no password to unlock
+## bitcoind walletpassphrase $PASSWORD 1
+bitcoind sendtoaddress "$BITCOIN_ADDRESS" 0.00000001 "Timestamp for $DATE" || \
+  bitcoind getbalance # no funds?`
+
+
+`timestamper-flush` can be put into a crontab as simply `@daily timestamper-flush` (or `@hourly`/`@weekly`/`@monthly` etc.), and can be called at any time if necessary. (I have not tested these scripts, for lack of disk space to run a full node, but I believe them to be correct; and if not, the idea is clear and one can implement it as one prefers.)
+
+
+Now one has an efficient, local, secure timestamping service.
+
+
+# External Links
+
+
+- 
+
+HN discussion
+- 
+
+drand
+- 
+
+“OpenTimestamps: Scalable, Trustless, Distributed Timestamping with Bitcoin”; “How OpenTimestamps ‘Carbon Dated’ (almost) The Entire Internet With One Bitcoin Transaction”
+- 
+
+“Universal Hash Time”, Jeff Coleman
+- 
+
+“A South African startup is using bitcoin to turn digital pirates against each other”
+
+
+- 
+
+OriginStamp apparently did not use `OP_RETURN` like Proof of Existence does, which should be more efficient; but it is controversial and limited to 80 bytes, was reduced even further to 40 bytes, and then increased again to 80 bytes which I’m not sure is enough storage space for a secure hash.↩︎
+- 
+
+Which is typically the web page we care about, and subsequent files are things like CSS or images which don’t need to be timestamped, but if one is paranoid about this, it should be possible to timestamp all the downloaded files by removing the `| head -1` call and maybe translating the newlines to spaces for the subsequent `timestamp` call.↩︎
+
+
+
+Error: JavaScript disabled.
+
+Backlinks, similar links, and the bibliography require JS enabled to load.
+        # Backlinks
+
+
+        [Backlinks (what links here)]
+        # Similar Links
+
+
+        [Similar links by topic]
+        # Bibliography
+
+ ' is redundant with the ''; but added to parallel Pandoc-generated headers which set all attributes/classes on both. -->
+        [Bibliography of links/references used in page]
+
+
+
+
+        [&hairsp;Send Anonymous Feedback&hairsp;]
+
+[Quote Of The Day]
+
+[Site Of The Day]
+
+[Annotation Of The Day]
+
+[adblock public service announcement]
+
+      ​

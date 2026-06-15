@@ -1,0 +1,1137 @@
+# Are Sunk Costs Fallacies?
+
+[Source](https://gwern.net/sunk-cost)
+
+- 
+
+
+
+    Skip to main content
+
+
+Warning: JavaScript Disabled!
+
+For support of key website features (link annotation popups/popovers & transclusions, collapsible sections, backlinks, tablesorting, image zooming, sidenotes etc.), you must enable JavaScript.
+
+
+
+
+        # Are Sunk Costs Fallacies?
+
+
+
+
+
+economics, philosophy, animal psych, cognitive bias, decision theory, survey
+
+Human and animal sunk costs often aren’t, and sunk cost bias may be useful on an individual level to encourage learning. Convincing examples of sunk cost bias typically operate on organizational levels and are probably driven by non-psychological causes like competition.
+            2012-01-24–7y2019-06-12
+            finished
+            certainty: likely
+            importance: 9
+            backlinks
+            similar
+            bibliography
+
+- Subtleties
+- Animals
+- Humans
+
+- Children
+- Uses
+
+- Learning & Memory
+- Countering Hyperbolic Discounting?
+
+
+- Thoughtlessness: the Real Bias
+- Additional Links
+- External Links
+
+
+It is time to let bygones be bygones.
+
+
+Khieu Samphan1, Khmer Rouge head of state
+
+
+The sunk cost fallacy (“Concorde fallacy”, “escalation bias”, “commitment effect” etc.) could be defined as when an agent ignores that option X has the highest marginal return, and instead chooses option Y because he chose option Y many times before, or simply as “throwing good money after bad”. It can be seen as an attempt to derive some gain from mistaken past choices. (A slogan for avoiding sunk costs: “give up your hopes for a better yesterday!”) The single most famous example, and the reason for it also being called the “Concorde fallacy”, would be the British and French government investing hundreds of millions of dollars into the development of a supersonic passenger jet despite knowing that it would never succeed commercially2. Since Arkes & Blumer 1985’s3 forceful investigation & denunciation, it has become received wisdom4 that sunk costs are a bane of humanity.
+
+
+But to what extent is the “sunk cost fallacy” a real fallacy?
+
+
+Below, I argue the following:
+
+- 
+
+sunk costs are probably issues in big organizations
+
+- 
+
+but maybe not ones that can be helped
+
+- 
+
+sunk costs are not issues in animals
+- 
+
+sunk costs appear to exist in children & adults
+
+- 
+
+but many apparent instances of the fallacy are better explained as part of a learning strategy
+- 
+
+and there’s little evidence sunk cost-like behavior leads to actual problems in individuals
+
+- 
+
+much of what we call “sunk cost” looks like simple carelessness & thoughtlessness
+
+
+# Subtleties
+
+
+One cannot proceed from the informal to the formal by formal means.
+
+
+Alan Perlis, “Epigrams on Programming”
+
+
+A “sunk cost fallacy” is clearly a fallacy in a simple model: ‘imagine an agent A who chooses between option X which will return $10 and option Y which will return $6, and agent A in previous rounds chose Y’. If A chooses X, it will be better off by $4 than if it chooses Y. This is correct and as hard to dispute as ‘A implies B; A; therefore B’. We can call both examples valid. But in philosophy, when we discuss modus ponens, we agree that it is always valid, but we do not always agree that it is sound: that A does in fact imply B, or that A really is the case, and so B is the case. ‘The moon being made of cheese implies the astronauts walked on cheese; the moon is made of cheese; therefore the astronauts walked on cheese’ is logically valid, but not sound, since we don’t think that the moon is made of cheese. Or we differ with the first line as well, pointing out that only some of the Apollo astronauts walked on the moon. We reject the soundness.
+
+
+We can and must do the same thing in economics—but ceteris is never paribus. In simple models, sunk cost is clearly a valid fallacy to be avoided. But is the real world compliant enough to make the fallacy sound? Notice the assumptions we had to make: we wish away issues of risk (and risk aversion), long-delayed consequences, changes in options as a result of past investment, and so on.
+
+
+We can illustrate this by looking at an even more sacred aspect of normative economics: exponential discounting. One of the key justifications of exponential discounting is that any other discounting can be money-pumped by an exponential agent investing at each time period at whatever the prevailing return is or loaning at appropriate times. (George Ainslie in The Breakdown of Will gives the example of a hyperbolic agent improvidently selling its winter coat every spring and buying it just before the snowstorms every winter, being money-pumped by the consistent exponential agent.) One of the assumptions is that certain rates of investment return will be available; but in the real world, rates can stagger around for long periods. “Hyperbolic discounting is rational: valuing the far future with uncertain discount rates” (Farmer & Geanakoplos 200917ya)5 argues that if returns follow a more geometric random walk, hyperbolic discounting is superior6. Are they correct? They are not much-cited or criticized. But even if they are wrong about hyperbolic discounting, it needs proving that exponential discounting does in fact deal correctly with changing returns. (The market over the past few years has not turned in the proverbial 8–9% annual returns, and one wonders if there will ever be a big bull market that makes up for the great stagnation.)
+
+
+If we look at sunk cost literature, we must keep many things in mind. For example:
+
+- 
+
+organization versus individuals
+
+
+Oglaf, “Bilge” (201313ya)
+
+
+Sunk costs seem especially common in groups, as has been noticed since the beginning of sunk cost research7; Khan et al 2000 found that culture influenced how much managers were willing to engage in hypothetical sunk costs (South & East Asian more so than North American), and a 200521ya meta-analysis that sunk cost was an issue, especially in software-related projects8, agreeing with a 200917ya meta-analysis, Desai & Chulkov. Mukerjee 2011 interviewed principals at Californian schools, finding evidence of sunk cost bias. Wikipedia characterizes the Concorde incident as “regarded privately by the British government as a ‘commercial disaster’ which should never have been started, and was almost canceled, but political and legal issues had ultimately made it impossible for either government to pull out.” So at every point, coalitions of politicians and bureaucrats found it in their self-interest to keep the ball rolling.
+
+
+A sunk cost for the government or nation as a whole is far from the same thing as a sunk cost for those coalitions—responsibility is diffused, which encourages sunk cost9 (If Kennedy or other US presidents could not withdraw from Vietnam or Iraq10 or Afghanistan11 due to perceived sunk costs12, perhaps the real problem was why Americans thought Vietnam was so important and why they feared looking weak or provoking another “who lost China” debate.) People commit sunk cost much more easily if someone else is paying, possibly in part because they are trying to still prove themselves right—an understandable and rational choice13! Other anecdotes from Bazerman & Neale 1992 suggest sunk cost can be expensive corporate problems, but of course are only anecdotes; Robert Campeau killed his company by escalating to an impossibly expensive acquisition of Bloomingdale’s but would Campeau ever have been a good corporate raider without his aggressiveness; or can we say the Philip Morris-Proctor & Gamble coffee price war was a mistake without a great deal more information; and was Bobby Fischer’s vendetta against the Soviet Union sunk cost or a rational strategy to Soviet collusion or simply an early symptom of the apparent mental issues that saw him converting to and impoverished by a peculiar church and ultimately an internally persecuted convict in Iceland?
+
+
+And why were those coalitions in power in the first place? France and Britain have not found any better systems of government—systems which operate efficiently and are also Nash equilibriums, which successfully avoid any sunk costs in their myriads of projects and initiatives. In Joseph Tainter’s 198838ya Collapse of Complex Societies, he argues that societies that overreach do so because it is impossible for the organizations and members to back down on complexity as long as there is still wealth to extract, even when margins are diminishing; when we accuse Pueblo Indians of sunk cost and causing their civilization to collapse14, we should keep in mind there may be no governance alternatives. Debacles like the Concorde may be necessary because the alternatives are even worse—decision paralysis or institutional paranoia15. Aggressive policing of projects for sunk-costs may wind up violating Chesterton’s fence if managers in later time periods are not very clear on why the projects were started in the first place and what their benefits will be. If we successfully ‘avoid’ sunk cost-style reasoning, does that mean we will avoid future Vietnams, at the expense of World War IIs?16 Goodhart’s Law comes to mind here, particularly because one study recorded how a bank’s attempt to eliminate sunk cost bias in its loan officers resulted in backfiring and evasion17; the overall results seem to still have been an improvement, but it remains a cautionary lesson.
+
+
+Whatever pressures and feedback loops cause sunk cost fallacy in organizations may be completely different from the causes in individuals.
+- 
+
+Non-monetary rewards and penalties
+
+
+“Individual organisms are best thought of as adaptation-executers rather than as fitness-maximizers.” What does this mean in a sunk cost context? That we should be aware that humans may not treat the model at its literal face value (without careful thought or strong encouragement to do so, anyway), treat the situation as simply as ‘$10 versus $6 (and sunk cost)’. It may be more like ‘$10 (and your—non-existent—tribe’s condemnation of you as greedy, insincere, small-minded, and disloyal) versus $6 (and sunk cost)’18. If humans really are forced to think like this, then the modeling of payoffs simply doesn’t correspond with reality and of course our judgements will be wrong. Some assumptions spit out sunk costs as rational strategies19. This is not a trivial issue here (see the self-justification literature, eg. Brockner 198145ya) or in other areas; for example, providing the correct amount of rewards caused many differences in levels of animal intelligence to simply vanish—the rewards had been unequal (see my excerpts of the essay “If a Lion Could Talk: Animal Intelligence and the Evolution of Consciousness”).
+- 
+
+Sunk costs versus investments and switching costs
+
+
+Many choices for lower immediate marginal return are investments for greater future return. A single-stage model cannot capture this. Likewise, switching to new projects is not free, and the more expensive switches are, the fewer switches is optimal (eg. Chupeau et al 2017).
+- 
+
+Demonstrated harm
+
+
+It’s not enough to suggest that a behavior may be harmful; it needs to be demonstrated. One might argue that an all-you-can-eat buffet will cause overeating and then long-term harm to health, but do experiments bear out that theory?
+
+
+Indeed, meta-analysis of escalation effect studies suggests that sunk cost behavior is not one thing but reflects a variety of theorized behaviors & effects of varying rationality, ranging from protecting one’s image & principal-agent conflict to lack of information/options (Sleesman 2012), not all of which can be regarded as a simple cognitive bias to be fixed by greater awareness.
+
+
+# Animals
+
+
+“It really is the hardest thing in life for people to decide when to cut their losses.”
+
+
+“No, it’s not. All you have to do is to periodically pretend that you were magically teleported into your current situation. Anything else is the sunk cost fallacy.”
+
+
+John, Overcoming Bias
+
+
+Point 3 leads us to an interesting point about sunk cost: it has only been identified in humans, or primates at the widest20.
+
+
+Arkes & Ayton 199927ya (“The Sunk Cost and Concorde Effects: Are Humans Less Rational Than Lower Animals?”) claims (see also the very similar Curio 1987):
+
+
+The sunk cost effect is a maladaptive economic behavior that is manifested in a greater tendency to continue an endeavor once an investment in money, effort, or time has been made. The Concorde fallacy is another name for the sunk cost effect, except that the former term has been applied strictly to lower animals, whereas the latter has been applied solely to humans. The authors contend that there are no unambiguous instances of the Concorde fallacy in lower animals and also present evidence that young children, when placed in an economic situation akin to a sunk cost one, exhibit more normatively correct behavior than do adults. These findings pose an enigma: Why do adult humans commit an error contrary to the normative cost-benefit rules of choice, whereas children and phylogenetically humble organisms do not? The authors attempt to show that this paradoxical state of affairs is due to humans’ overgeneralization of the “Don’t waste” rule.
+
+
+Specifically, in 197254ya, Trivers proposed that fathers are more likely to abandon children, and mothers less likely, because fathers invest less resources into children—mothers are, in effect, committing sunk cost fallacy in taking care of them. Dawkins & Carlisle 1976 pointed out that this is a misapplication of sunk cost, a version of point #3; Arkes & Ayton’s summary:
+
+
+If parental resources become depleted, to which of the two offspring should nurturance be given? According to Trivers’s analysis, the older of the two offspring has received more parental investment by dint of its greater age, so the parent or parents will favor it. This would be an example of a past investment governing a current choice, which is a manifestation of the Concorde fallacy and the sunk cost effect. Dawkins and Carlisle suggested that the reason the older offspring is preferred is not because of the magnitude of the prior investment, as Trivers had suggested, but because of the older offspring’s need for less investment in the future. Consideration of the incremental benefits and costs, not of the sunk costs, compels the conclusion that the older offspring represents a far better investment for the parent to make.
+
+
+Direct testing fails:
+
+
+A number of experimenters who have tested lower animals have confirmed that they simply do not succumb to the fallacy (see, eg. Armstrong & Robertson, 1988; Burger et al 1989; Maestripieri & Alleva, 1991; Wiklund, 199021).
+
+
+A direct example of the Trivers vs Dawkins & Carlisle argument:
+
+
+A prototypical study is that of Maestripieri and Alleva [199135ya], who tested the litter defense behavior of female albino mice. On the 8th day of a mother’s lactation period, a male intruder was introduced to four different groups of mother mice and their litters. Each litter of the first group had been culled at birth to four pups. Each litter of the second group had been culled at birth to eight pups. In the third group, the litters had been culled at birth to eight pups, but four additional pups had been removed 3 to 4 hr before the intruder was introduced. The fourth group was identical to the third except that the removed pups had been returned to the litter after only a 10-min absence.
+
+
+The logic of the Maestripieri & Alleva 199135ya study is straightforward. If each mother attended to past investment, then those litters that had eight pups during the prior 8 days should be defended most vigorously, as opposed to those litters that had only four pups. After all, having cared for eight pups represents a larger past investment than having cared for only four. On the other hand, if each mother attended to future costs and benefits, then those litters that had eight pups at the time of testing should be defended most vigorously, as opposed to those litters that had only four pups. The results were that the mothers with eight pups at the time of testing defended their litters more vigorously than did the mothers with four pups at the time of testing. The two groups of mothers with four pups did not differ in their level of aggression toward the intruder, even though one group of mothers had invested twice the energy in raising the young because they initially had to care for litters of eight pups.
+
+
+Arkes & Ayton rebut 3 studies by arguing:
+
+- 
+
+Dawkins & Brockmann 1980: digger wasps fight harder in proportion to how much food they contributed, rather than the total—because they are too stupid to count the total and only know how much they personally collected & stand to lose
+- 
+
+Lavery 1995: cichlid fish successful in breeding also fight harder against predators; because this may reflect an intrinsic greater healthiness and greater future opportunities, rather than sunk cost fallacy, an argument similar to Northcraft & Wolfe 1984’s criticism of apparent sunk costs in economics22
+- 
+
+Weatherhead 1979: savannah sparrows defend their nests fiercer as the nest approaches hatching; because as already pointed out, the closer to hatching, the less future investment is required for X chicks compared to starting all over
+- 
+
+To which 3 we may add tundra swan feeding habits, which are predicted to be optimal by Pavlic & Passino 201123, who remark “we show how optimization of Eq. 3 predicts the sunk-cost effect for certain scenarios; a common element of every case is a large initial cost.”
+
+
+(Navarro & Fantino 200422ya, “The Sunk Cost Effect In Pigeons And Humans”, claim sunk cost effect in pigeons, but it’s hard to compare its strength to sunk cost in humans, and the setup is complex enough I’m not sure it is sunk cost.)
+
+
+# Humans
+
+
+## Children
+
+
+Arkes & Ayton cite 2 studies finding that committing sunk cost bias increases with age—as in, children do not commit it. They also cite 2 studies saying that
+
+
+Webley & Plaisier 1997 tested children at three different age groups (5–6, 8–9, and 11–12) with the following modification of the Tversky & Kahneman 198145ya experiment …the older children provided data analogous to those found by Tversky & Kahneman 198145ya: When the money was lost, the majority of the respondents decided to buy a ticket. On the other hand, when the ticket was lost, the majority decided not to buy another ticket. This difference was absent in the youngest children. Note that it is not the case that the youngest children were responding randomly. They showed a definite preference for purchasing a new ticket whether the money or the ticket had been lost. Like the animals that appear to be immune to the Concorde fallacy, young children seemed to be less susceptible than older children to this variant of the sunk cost effect. The results of the study by Krouse (198640ya) corroborate this finding: Compared with adult humans, young children, like animals, seem to be less susceptible to the Concorde fallacy/sunk cost effect.
+
+
+… Perhaps the impulsiveness of young children (Mischel, Shoda, & Rodriguez, 198937ya) fostered their desire to buy a ticket for the merry-go-round right away, regardless of whether a ticket or money had been lost. However, this alternative interpretation does not explain why the younger children said that they would buy the ticket less often than the older children in the lost-money condition. Nor does this explanation explain the greater adherence to normative rules of decision making by younger children compared with adults in cases where impulsiveness is not an issue (see, eg. Jacobs & Potenza, 1991; Reyna & Ellis, 1994).
+
+
+I think Arkes & Ayton are probably wrong about children. Those 2 early studies can be criticized easily24, and other studies point the opposite way. Baron et al 1993 asked poor and rich kids (age 5–12) questions including an Arkes & Blumer 198541ya question, and found, in their first study no difference by age, ~30% of the 101 kids committing sunk cost and another ~30% unsure; in their second, they asked 2 questions, with ~50% committing sunk cost—and responses on the 2 questions minimally correlated (r = 0.17). Klaczynski & Cottrell 2004 found that correct (non-sunk cost) responses went up with age (age 5–12, 16%; 5–16, 27%; and adults 37%). Bruine de Bruin et al 200719ya found older adults more susceptible than young adults to some tested fallacies, but that sunk cost resistance increased somewhat with age. Strough et al 2008 studied 75 college age students, finding small or non-statistically-significant results for IQ (as did other studies, see later), education, and age; still older adults (60+) beat their college-age peers at avoiding sunk cost in both Strough et al 200818ya & Strough et al 2011.
+
+
+(Children also violate transitivity of choices & are more hyperbolic than adults, which is hardly normative.25)
+
+
+## Uses
+
+
+### Learning & Memory
+
+
+18. If the fool would persist in his folly he would become wise.
+
+
+46. You never know what is enough unless you know what is more than enough.
+
+
+William Blake, “Proverbs of Hell”
+
+
+Felix Hoeffler in his 200818ya paper “Why humans care about sunk costs while (lower) animals don’t: An evolutionary explanation” takes the previous points at face values and asks how sunk cost might be useful for humans; his answer is that sunk cost forfeits some total gains/utility—just as our simple model indicated—but in exchange for faster learning, an exchange motivated by humans’ well-known risk aversion and dislike of uncertainty26. It is harder to learn the value of choices if one is constantly breaking off before completion to make other choices, or realize any value at all (the classic exploration vs exploitation problem, amusingly illustrated in Clarke’s story “Superiority”).
+
+
+One could imagine a not too intelligent program which is, like humans, over-optimistic about the value of new projects; it always chooses the highest value option, of course, to avoid committing sunk cost bias, but oddly enough, it never seems to finish projects because better opportunities seem to keep coming along… In the real world, learning is valuable and one has many reasons to persevere even past the point one regards a decision as a mistake; McAfee et al 200719ya (remember the exponential vs hyperbolic discounting example):
+
+
+Consider a project that may take an unknown expenditure to complete. The failure to complete the project with a given amount of investment is informative about the expected amount needed to complete it. Therefore, the expected additional investment required for fruition will be correlated with the sunk investment. Moreover, in a world of random returns, the realization of a return is informative about the expected value of continuing a project. A large loss, which leads to a rational inference of a high variance, will often lead to a higher option value because option values tend to rise with variance. Consequently, the informativeness of sunk investments is amplified by consideration of the option value…Moreover, given limited time to invest in projects, as the time remaining shrinks, individuals have less time over which to amortize their costs of experimenting with new projects, and therefore may be rationally less likely to abandon current projects…Past investments in a given course of action often provide evidence about whether the course of action is likely to succeed or fail in the future. Other things equal, a greater investment usually implies that success is closer at hand. Consider the following simple model…The only case in which the size of the sunk investment cannot affect the firm’s rational decision about whether to continue investing is the rather special case in which the hazard is exactly constant.
+
+
+If this model is applicable to humans, we would expect to see a cluster of results related to age, learning, teaching, difficulty of avoiding even with training or education, minimal avoidance with greater intelligence, completion of tasks/projects, largeness of sums (the risks most worth avoiding), and competitiveness of environment. (As well as occasional null results like Elliott & Curme 2006.) And we do! Many otherwise anomalous results snap into focus with this suggestion:
+
+- 
+
+information is worth most to those who have the least: as we previously saw, the young commit sunk cost more than the old
+- 
+
+in situations where participants can learn and update, we should expect sunk cost to be attenuated or disappear; we do see this (eg. Friedman et al 200727, Garland et al 199028, Bornstein et al 199929, Staw 198130, McCain 198631, Phillips et al 199132, Wang & Xu 201233)
+- 
+
+the noisier (higher variance) feedback on profitability was, the more data it took before people give up (Bragger et al 1998, Bragger et al 2003)
+- 
+
+sunk costs were supported more when subjects were given justifications about learning to make better decisions or whether teachers/students were involved (Bornstein & Chapman 199534)
+- 
+
+extensive economic training does not stop economics professors from committing sunk cost, and students can be quickly educated to answer sunk cost questions correctly, but with little carry-through to their lives35, and researchers in the area argue about whether particular setups even represent sunk costs at all, on their own merits36 (but don’t feel smug, you probably wouldn’t do much better if you took quizzes on it either)
+- 
+
+when measured, avoiding sunk cost has little correlation with intelligence37—and one wonders how much of the correlation comes from intelligent people being more likely to try to conform to what they have learned is economics orthodoxy
+- 
+
+a ‘nearly completed’ effect dominates ‘sunk cost’ (Conlon & Garland 1993, Garland & Conlon 1998, Boehne & Paese 2002, Fontino et al 2007)
+- 
+
+for example, the larger the proportion, the more costs were sunk (Garland & Newport 1991)
+- 
+
+it is surprisingly hard to find clear-cut real-world non-government examples of serious sunk costs; the commonly cited non-historical examples do not stack up:
+
+- 
+
+Staw & Hoang 199538 studied the NBA to see whether high-ranked but underperforming players were over-used by coaches, a sunk cost.
+
+
+Unfortunately, they do not track the over-use down to actual effects on win-loss or other measures of team performance, effects which are unlikely to be very large since the overuse amounts to ~10–20 minutes a game. Further, “The econometrics and behavioral economics of escalation of commitment: a re-examination of Staw and Hoang’s NBA data” (Camerer & Weber 199927ya), claims to do a better analysis of the NBA data and find the effect is actually weaker. As usual, there are multiple alternatives39.
+- 
+
+McCarthy et al 199340 is a much-cited correlational study finding that small entrepreneurs invest further in companies they founded (rather than bought) when the company apparently does poorly; but they acknowledge that there are financial strategies clouding the data, and like Staw & Hoang, do not tie the small effect—which appears only for a year or two, as the entrepreneurs apparently learn—to actual negative outcomes or decrease in expected value.
+- 
+
+similar to McCarthy et al 199333ya, Wennberg et al 200941 tracked ‘exit routes’ for young companies such as being bought, merged, or bankrupt—but again, they did not tie apparent sunk cost to actual poor performance.
+- 
+
+in 2 studies42, Africans did not engage in sunk cost with insecticide-treated bed nets—whether they paid a subsidized price or free did not affect use levels, and in one study, this null effect happened despite the same household engaging in sunk cost for hypothetical questions
+- 
+
+Internet users may commit sunk cost in browsing news websites43 (but is that serious?)
+- 
+
+an unpublished 200125ya paper (Barron et al “The Escalation Phenomenon and Executive Turnover: Theory and Evidence”) reportedly finds that projects are ‘significantly more likely’ to be canceled when their top managers leave, suggesting a sunk cost effect of substantial size; but it is unclear how much money is at stake or whether this is—remember point #1—power politics44
+- 
+
+sunk cost only weakly correlates with suboptimal behavior (much less demonstrates causation):
+
+
+Parker & Fischhoff 2005 and Bruine de Bruin et al 2007 compiled a number of questions for several cognitive biases—including sunk cost—and then asked questions about impulsiveness, number of sexual partners, etc., while the latter developed a 34-item index of bad decisions/outcomes (the DOI): ever rent a movie you didn’t watch, get expelled, file for bankruptcy, forfeit your driver’s license, miss an airplane, bounce a check, etc. Then they ran correlations. They replicated the minimal correlation of sunk cost avoidance with IQ, but sunk cost (and ‘path independence’) exhibited fascinating behaviors compared to the other biases/fallacies measured: sunk cost & path independence correlated minimally with the other tested biases/fallacies, Cronbach’s alphas were almost uselessly low, education did not help much, age helped some, and sunk cost had low correlations with the risky behavior or the DOI (eg. after controlling for decision-making styles, 0.13).
+- 
+
+Larrick et al 1993 found tests of normative economic reasoning, including sunk cost questions, correlated with increased academic salaries, even for non-economic professors like biologists & humanists (but the effect size & causality are unclear)
+
+- 
+
+Dissociation in hypotheticals—being told a prior manager made decisions—does not always counteract effects (Biyalogorsky 2006)
+
+
+Sunk costs may also reflect imperfect memory about what information one had in the past; one may reason that one’s past self had better information about all the forgotten details that went into a decision to make some investments, and respect their decision, thus appearing to honor sunk costs (Baliga & Ely 2011).
+
+
+### Countering Hyperbolic Discounting?
+
+
+Use barbarians against barbarians.45
+
+
+Henry Kissinger, On China 2011
+
+
+The classic kicker of hyperbolic discounting is that it induces temporal discounting—your far-sighted self is able to calculate what is best for you, but then your near-sighted self screws it all up by changing tacks. Knowing this, it may be a good idea to not work on your ‘bad’ habit of being overconfident about your projects46 or engaging in planning fallacy, since at least they will counteract a little the hyperbolic discounting; in particular, you should distrust near-term estimates of the fun or value of activities when you have not learned anything very important47. We could run the same argument but instead point to the psychology research on the connection between blood sugar levels and ‘willpower’; if it takes willpower to start a project but little willpower to cease working on or quit a project, then we would expect our decisions to quit be correlated with low willpower and blood sugar levels, and hence to be ignored!
+
+
+It’s hard to oppose these issues: humans are biased hardware. If one doesn’t know exactly why a bias is bad, countering a bias may simply let other biases hurt you. Anecdotally, a number of people have problems with quite the opposite of sunk cost fallacy—overestimating the marginal value of the alternatives and discounting how little further investment is necessary48, and people try to commit themselves by deliberately buying things they don’t value.49 (This seems doubly plausible given the high value of Conscientiousness/Grit50—with marginal return high enough that it suggests most people do not commit long-term nearly enough, and if sunk cost is the price of reaping those gains…)
+
+
+# Thoughtlessness: the Real Bias
+
+
+One of the known ways to eliminate sunk cost bias is to be explicit and emphasize the costs of continuing (Northcraft and Neale, 1986, Tan and Yates, 1995, Brockner et al 198251 & conversely Brockner 198152, McCain 198640ya), as well as setting explicit budgets (Simonson & Staw 1992, Heath 199553, Boulding et al 1997). Fancy tools don’t add much effectiveness54
+
+
+This, combined with the previous learning-based theory of sunk cost, suggests something to me: sunk cost is a case of the ur-cognitive bias, failure to active System II. One doesn’t intrinsically over-value something due to past investment, one fails to think about the value at all.
+
+
+# Additional Links
+
+
+- 
+
+“The Sunk Costs Fallacy or Argument from Waste”, Walton 2002
+- 
+
+“Escalation of Commitment Behavior: a critical, prescriptive historiography”, Rice 201016ya (PhD thesis)
+- 
+
+“The Interpersonal Sunk-Cost Effect”, Olivola 2018
+- 
+
+“Sunk Cost as a Self-Management Device”, Hong et al 2018
+
+
+# External Links
+
+
+- 
+
+LessWrong discussion
+- 
+
+“Just Lose Hope Already”
+- 
+
+“What You Should Know About Megaprojects and Why: An Overview”, Flyvbjerg 2014
+- 
+
+“Shields Down: Happy people don’t leave jobs they love”, Michael Lopp
+
+
+ The implied econometrics calls for structural estimation of the theoretical models, allowing for joint estimation of utility functions and discounting functions. Using data collected from a representative sample of 413 adult Danes in 2009, we draw striking conclusions. Assuming an exponential discounting model we estimate discount rates to be 5.6% on average: this is significantly lower than all previous estimates using controlled experiments. We also find no evidence to support quasi-hyperbolic discounting or 'fixed cost' discounting, and only modest evidence to support other specifications of non-constant discounting. Furthermore, the evidence for non-constant discounting, while statistically-significant, is not economically significant in terms of the size of the estimated discount rates. We undertake extensive robustness checks on these findings, including a detailed review of the previous, comparable literature.
+>
+> ...We do find evidence in favor of flexible Hyperbolic specifications and other nonstandard specifications, but with very modest variations in discount rates compared to those often assumed. We find that a significant portion of the Danish population uses Exponential discounting, even if it is not the single model that best explains observed behavior.
+>
+> Given the contrary nature of our findings, in terms of the received empirical wisdom, section 6 contains a systematic cataloguing of the samples, experimental procedures, and econometric procedures of the alleged evidence for Quasi-Hyperbolic and non-constant discounting. We conclude that the evidence needed reconsideration. The one clear pattern to emerge from the received literature is that non-constant discounting occurs for some university student samples.
+>
+> One major robustness check is therefore to see if the disappointing showing for the Quasi-Hyperbolic model is attributable to our population being the entire adult Danish population, rather than university students. Although it is apparent that the wider population is typically of greater interest, virtually all prior experimental evidence that we give credence to comes from convenience samples of university students. We find that there is indeed a difference in the elicited discount rates with (Danish) university students, and that they exhibit statistically-significant evidence of declining discount rates. On the other hand, the size of the discount rates for shorter time horizons is much smaller than the received wisdom suggests.
+>
+> ...Coller and Williams [1999] were the first to demonstrate the effect of a front end delay; their estimates show a drop in elicited discount rates over money of just over 30 percentage points from an average 71% with no front end delay.^11^ Using the same experimental and econometric methods, and with all choices having a front end delay, Harrison, Lau and Williams [2002] estimated average discount rates over money of 28.1% for the adult Danish population. Andersen, Harrison, Lau and Rutström [2008a] were the first to demonstrate the effect of correcting for non-linear utility; their estimates show a drop in elicited discount rates of 15.1 percentage points from a discount rate over money of 25.2%. These results would lead us to expect discount rates around 10% with a front end delay, with a significantly higher rate when there is no front end delay.
+>
+> ...The Exponential discounting model indicates a discount rate of only 5.6%, where all discount rates will be presented on an annualized basis. The 95% confidence interval for this estimate is between 4.1% and 7.0%, so this indicates even lower discount rates than the 10.1% reported by Andersen, Harrison, Lau and Rutström [2008a] for the same population in 2003.^25^ For comparison, the Exponential discounting model assuming a linear utility function implies an 18.3% discount rate, with a 95% confidence interval between 15.5% and 21.2%, so this is also lower than the estimate for 2003 (25.2%, with a 95% confidence interval between 22.8% and 27.6%). We again conclude that correcting for the non-linearity of the utility function makes a significant quantitative difference to estimated discount rates.
+>
+> The most striking finding from Table 1, for us, is that there is no Quasi-Hyperbolic discounting. The key parameter, \$, is not statistically or economically significantly different from 1, and the parameter * is virtually identical to the estimate from the Exponential discounting model. The p-value on a test of the hypothesis that \$ = 1 has value 0.55, although the 95% confidence interval for \$ is enough to see that it is not significantly different from 1.
+>
+> ...The Weibull discounting model in panel F allows a very different pattern of non-constant discounting. Indeed, these parameter estimates do imply discount rates that vary slightly, from 6.7% for a 1 day horizon, to 6.0% for a 2 week horizon, and then down to 5.1% for a one year horizon. But the 95% confidence intervals on all of these is at least between 3% and 7%, and one cannot reject the Exponential discounting model hypothesis that s = 1 (p-value of 0.73).
+>
+> ...The only demographic covariate to have any statistically-significant impact on elicited discount rates is whether the individual is a female. Women have discount rates that are 6.6 percentage points lower than men, and the p-value on this estimated effect of 0.092. In turn, this derives from women being more risk averse: their RRA is 0.294 higher than men, with a p-value on this estimated effect of 0.026. Hence they have a more concave utility function and, by [Jensen’s inequality](https://en.wikipedia.org/wiki/Jensen%27s_inequality) applied to (0), have a lower implied discount rate. Looking at total effects instead of marginal effects, men on average have discount rates of 7.4% and women have discount rates of 3.6%, and the difference is statistically-significant (p-value = 0.004).
+>
+> ...Our results were a surprise to us, and the robustness checks reported above did not lead us to qualify that reaction. We fully expected to see much more 'hyperbolicky' behavior when we removed the front end delay, and particularly when that was interacted with not providing the implied interest rates of each choice. We were not wedded to one hyperbolicky specification or the other, and did not expect the exponential model to be completely overwhelmed by the alternatives, but we did expect to see much more non-constant discounting. We therefore examined the literature, and tried to draw some inferences about what might explain the apparent differences in results.
+>
+> ...[Literature survey] We ignored all hypothetical survey studies, on the grounds that the evidence is overwhelming that there can be huge and systematic hypothetical biases, and it is simply inefficient to repeat those arguments and waste time taking such evidence seriously. [Like prisoners doing a long sentence, and knowing the jokes and arguments of cellmates by heart, we would rather just point to surveys and evaluations of the evidence in Harrison [2006] and Harrison and Rutström [2008b].] We also focused on experiments, rather than econometric inferences from naturally occurring data, because those data are easier to interpret and have generated the conventional wisdom.^36^ We excluded studies that did not lend themselves to inferring a discount function.^37^ Finally, we excluded any study that used procedures that were patently not incentive-compatible or that involved deception.^38^
+>
+> ...One conclusion that we draw is that virtually all previous evidence of non-constant discounting comes from studies undertaken with students. We therefore conducted a conventional laboratory experiment, described below, using the same procedures as in our (artefactual) field experiment but with students recruited in Copenhagen...In order to determine if the evidence for non-constant discounting, such as it is, derives from the general focus on students samples, we replicated our field experiments with a student sample in Copenhagen recruited using standard methods.^39^ The experimental tasks were identical, to ensure comparability. Table 7 lists estimates from the student responses of the basic models in Table 1. The background risk attitudes of this sample were virtually identical to those of the adult Danish population.^40^ The results are clear: we obtain no evidence of quasi-hyperbolic discounting, no evidence of fixed-cost discounting, and no evidence of simple hyperbolic discounting. We do observe some non-constancy of some discount rates with the Weibull discounting specification, although the overall effect of the student sample is not statistically-significant, as shown by the p-value of 0.18 on the null hypothesis that the specification is actually Exponential.^41^
+-->
+
+
+- 
+
+“World: Asia-Pacific: US demands ‘killing fields’ trial”, BBC 1998-12-29↩︎
+- 
+
+And the Concorde definitely did not succeed commercially: operating it could barely cover costs, its minimal profits never came close to the total R&D or opportunity costs, its last flight was in 200323ya (a shockingly low lifetime in an industry which typically tries to operate individual planes, much less entire designs, for decades), and as of 2017, the Concorde still has no successors in its niche or apparent upcoming successors despite great technological progress & global economic development and the notorious growth in wealth of the “1%”.↩︎
+- 
+
+Arkes & Blumer 198541ya, “The psychology of sunk cost”:
+
+
+The sunk cost effect is manifested in a greater tendency to continue an endeavor once an investment in money, effort, or time has been made. Evidence that the psychological justification for this behavior is predicated on the desire not to appear wasteful is presented. In a field study, customers who had initially paid more for a season subscription to a theater series attended more plays during the next 6 months, presumably because of their higher sunk cost in the season tickets. Several questionnaire studies corroborated and extended this finding. It is found that those who had incurred a sunk cost inflated their estimate of how likely a project was to succeed compared to the estimates of the same project by those who had not incurred a sunk cost. The basic sunk cost finding that people will throw good money after bad appears to be well described by prospect theory (D. Kahneman & A. Tversky, 1979, Econometrica, 47, 263–291). Only moderate support for the contention that personal involvement increases the sunk cost effect is presented. The sunk cost effect was not lessened by having taken prior courses in economics. Finally, the sunk cost effect cannot be fully subsumed under any of several social psychological theories.
+
+
+As an example of the sunk cost effect, consider the following example [from Thaler 198046ya]. A man wins a contest sponsored by a local radio station. He is given a free ticket to a football game. Since he does not want to go alone, he persuades a friend to buy a ticket and go with him. As they prepare to go to the game, a terrible blizzard begins. The contest winner peers out his window over the arctic scene and announces that he is not going, because the pain of enduring the snowstorm would be greater than the enjoyment he would derive from watching the game. However, his friend protests, ‘I don’t want to waste the twelve dollars I paid for the ticket! I want to go!’ The friend who purchased the ticket is not behaving rationally according to traditional economic theory. Only incremental costs should influence decisions, not sunk costs. If the agony of sitting in a blinding snowstorm for 3 h is greater than the enjoyment one would derive from trying to see the game, then one should not go. The $12 has been paid whether one goes or not. It is a sunk cost. It should in no way influence the decision to go. But who among us is so rational?
+
+
+Our final sample thus had eighteen no-discount, nineteen $2 discount, and seventeen $7 discount subjects. Since the ticket stubs were color coded, we were able to collect the stubs after each performance and determine how many persons in each group had attended each play…We performed a 3 (discount: none, $2, $7) x 2 (half of season) analysis of variance on the number of tickets used by each subject. The latter variable was a within-subjects factor. It was also the only significant source of variance, F(1,51) = 32.32, MS, = 1.81, (p < 0.OO). More tickets were used by each subject on the first five plays (3.57) than on the last five plays (2.09). We performed a priori tests on the number of tickets used by each of the three groups during the first half of the theater season. The no-discount group used significantly more tickets (4.11) than both the $2 discount group (3.32) and the $7 discount group (3.29), t = 1.79, 1.83, respectively, p’s < .05, one tailed. The groups did not use significantly different numbers of tickets during the last half of the theater season (2.28, 1 .S4, 2.18, for the no-discount, $2 discount, and $7 discount groups, respectively). Conclusion. Those who had purchased theater tickets at the normal price used more theater tickets during the first half of the season than those who purchased tickets at either of the two discounts. According to rational economic theory, after all subjects had their ticket booklet in hand, they should have been equally likely to attend the plays.
+
+
+…A second feature of prospect theory pertinent to sunk costs is the certainty effect. This effect is manifested in two ways. First, absolutely certain gains (P = 1) are greatly overvalued. By this we mean that the value of certain gains is higher than what would be expected given an analysis of a person’s values of gains having a probability less than 1.0. Second, certain losses (P = 1.0) are greatly undervalued (ie. further from zero). The value is more negative than what would be expected given an analysis of a person’s values of losses having a probability less than 1.0. In other words, certainty magnifies both positive and negative values. Note that in question 3A the decision not to complete the plane results in a certain loss of the amount already invested. Since prospect theory states that certain losses are particularly aversive, we might predict that subjects would find the other option comparatively attractive. This is in fact what occurred. Whenever a sunk cost dilemma involves the choice of a certain loss (stop the waterway project) versus a long shot (maybe it will become profitable by the year 2500), the certainty effect favors the latter option.
+
+
+…Fifty-nine students had taken at least one course; sixty-one had taken no such course. All of these students were administered the Experiment 1 questionnaire by a graduate student in psychology. A third group comprised 61 students currently enrolled in an economics course, who were administered the Experiment 1 questionnaire by their economics professor during an economics class. Approximately three fourths of the students in this group had also taken one prior economics course. All of the economics students had been exposed to the concept of sunk cost earlier that semester both in their textbook (Gwartney & Stroup, 198244ya, p. 125 [Microeconomics: Private and public choice]) and in their class lectures. Results. Table 1 contains the results. The x2 analysis does not approach significance. Even when an economics teacher in an economics class hands out a sunk cost questionnaire to economics students, there is no more conformity to rational economic theory than in the other two groups. We conclude that general instruction in economics does not lessen the sunk cost effect. In a recent analysis of entrapment experiments, Northcraft & Wolf 1984 concluded that continued investment in many of them does not necessarily represent an economically irrational behavior. For example, continued waiting for the bus will increase the probability that one’s waiting behavior will be rewarded. Therefore there is an eminently rational basis for continued patience. Hence this situation is not a pure demonstration of the sunk cost effect. However, we believe that some sunk cost situations do correspond to entrapment situations. The subjects who ‘owned’ the airline company would have endured continuing expenditures on the plane as they sought the eventual goal of financial rescue. This corresponds to the Brockner et al. entrapment situation. However, entrapment is irrelevant to the analysis of all our other studies. For example, people who paid more money last September for the season theater tickets are in no way trapped. They do not incur small continuous losses as they seek an eventual goal. Therefore we suggest that entrapment is relevant only to the subset of sunk cost situations in which continuing losses are endured in the hope of later rescue by a further investment.
+
+
+According to Thomas 198145ya [Microeconomic applications: Understanding the American economy], one person who recognized it as an error was none other than Thomas A. Edison. In the 1880s Edison was not making much money on his great invention, the electric lamp. The problem was that his manufacturing plant was not operating at full capacity because he could not sell enough of his lamps. He then got the idea to boost his plant’s production to full capacity and sell each extra lamp below its total cost of production. His associates thought this was an exceedingly poor idea, but Edison did it anyway. By increasing his plant’s output, Edison would add only 2% to the cost of production while increasing production 25%. Edison was able to do this because so much of the manufacturing cost was sunk cost. It would be present whether or not he manufactured more bulbs. [the Europe price > marginal cost] Edison then sold the large number of extra lamps in Europe for much more than the small added manufacturing costs. Since production increases involved negligible new costs but substantial new income, Edison was wise to increase production. While Edison was able to place sunk costs in proper perspective in arriving at his decision, our research suggests that most of the rest of us find that very difficult to do.
+
+
+Friedman et al 200620ya criticism of Arkes:
+
+
+This is consistent with the sunk cost fallacy, but the evidence is not as strong as one might hope. The reported significance levels apparently assume that (apart from the excluded couples) all attendance choices are independent. The authors do not explain why they divided the season in half, nor do they report the significance levels for the entire season (or first quarter, etc.). The data show no significant difference between the small and large discount groups in the first half season nor among any of the groups in the second half season. We are not aware of any replication of this field experiment.
+
+↩︎
+- 
+
+Davis’s complaint is a little odd, inasmuch as economics textbooks do apparently discuss sunk costs; Steele 199630ya gives examples back to 1910116ya, or from “Do Sunk Costs Matter?”, McAfee et al 200719ya:
+
+
+Introductory textbooks in economics present this as a basic principle and a deep truth of rational decision-making (Frank and Bernanke, 200620ya, p. 10, and Mankiw, 200422ya, p. 297).
+
+↩︎
+- 
+
+Popularized discussions of Farmer & Geanakoplos 200917ya:
+
+- 
+
+“‘Discounting’ the future cost of climate change”, Science News
+- 
+
+“Einstein on Wall Street, Time-Money Continuum: Mark Buchanan”, WSJ column
+
+- 
+
+“Discounting Details”, on Mark Buchanan’s blog “The Physics of Finance”
+
+
+↩︎
+- 
+
+Some quotes from the paper:
+
+
+Conventional economics supposes that agents value the present versus the future using an exponential discounting function. In contrast, experiments with animals and humans suggest that agents are better described as hyperbolic discounters, whose discount function decays much more slowly at large times, as a power law. This is generally regarded as being time inconsistent or irrational. We show that when agents cannot be sure of their own future one-period discount rates, then hyperbolic discounting can become rational and exponential discounting irrational. This has important implications for environmental economics, as it implies a much larger weight for the far future.
+
+
+…Why should we discount the future? Bohm-Bawerk (1889137ya,1923103ya) and Fisher (193096ya) argued that men were naturally impatient, perhaps owing to a failure of the imagination in conjuring the future as vividly as the present. Another justification for declining Ds (τ) in τ, given by Rae (1834192ya,1905121ya), is that people are mortal, so survival probabilities must enter the calculation of the benefits of future potential consumption. There are many possible reasons for discounting, as reviewed by Dasgupta (200422ya, 200818ya). Most economic analysis assumes exponential discounting Ds (τ) = D(τ) = exp(−rτ), as originally posited by Samuelson (193789ya) and put on an axiomatic foundation by Koopmans (196066ya). A natural justification for exponential discounting comes from financial economics and the opportunity cost of foregoing an investment. A dollar at time s can be placed in the bank to collect interest at rate r, and if the interest rate is constant, it will generate exp(r(t—s)) dollars at time t. A dollar at time t is therefore equivalent to exp(−r(t—s)) dollars at time s. Letting τ = t—s, this motivates the exponential discount function Ds (τ) = D(τ) = exp(−rτ), independent of s.
+
+
+…For roughly the first eighty years the certainty equivalent discount function for the geometric random walk stays fairly close to the exponential, but afterward the two diverge substantially, with the geometric random walk giving a much larger weight to the future. A comparison using more realistic parameters is given in Table 1. For large times the difference is dramatic.
+
+
+Farmer & Geanakoplos 200917ya: Table 1, comparing geometric random walk (GRW) vs exponential discounting over increasing time periods showing that GRW eventually decays much slower.
+
+
+year
+
+
+GRW
+
+
+exponential
+
+
+20
+
+
+0.462
+
+
+0.456
+
+
+60
+
+
+0.125
+
+
+0.095
+
+
+100
+
+
+0.051
+
+
+0.020
+
+
+500
+
+
+0.008
+
+
+2 × 10−9
+
+
+1000
+
+
+0.005
+
+
+4 × 10−18
+
+
+…What this analysis makes clear, however, is that the long term behavior of valuations depends extremely sensitively on the interest rate model. The fact that the present value of actions that affect the far future can shift from a few percentage points to infinity when we move from a constant interest rate to a geometric random walk calls seriously into question many well regarded analyses of the economic consequences of global warming. … no fixed discount rate is really adequate—as our analysis makes abundantly clear, the proper discounting function is not an exponential.
+
+↩︎
+- 
+
+For example, Staw 198145ya, “The Escalation of Commitment to a Course of Action”:
+
+
+A second way to explain decisional errors is to attribute a breakdown in rationality to interpersonal elements such as social power or group dynamics. Pfeffer [197749ya] has, for example, outlined how and when power considerations are likely to outweigh more rational aspects of organizational decision making, and Janis [197254ya] has noted many problems in the decision making of policy groups. Cohesive groups may, according to Janis, suppress dissent, censor information, create illusions of invulnerability, and stereotype enemies. Any of these by-products of social interaction may, of course, hinder rational decision making and lead individuals or groups to decisional errors.
+
+↩︎
+- 
+
+Wang & Keil 2005; from the abstract:
+
+
+Using meta-analysis, we analyzed the results of 20 sunk cost experiments and found: (1) a large effect size associated with sunk costs, (2) variability of effect sizes across experiments that was larger than pure subject-level sampling error, and (3) stronger effects in experiments involving IT projects as opposed to non-IT projects.
+
+
+Background on why one might expect effects with IT in particular:
+
+
+Although project escalation is a general phenomenon, IT project escalation has received considerable attention since Keil and his colleagues began studying the phenomenon (Keil, Mixon et al 199531ya). Survey data suggest that 30–40% of all IT projects involve some degree of project escalation (Keil, Mann, and Rai 200026ya). To study the role of sunk cost in software project escalation, Keil et al 199531ya conducted a series of lab experiments, in which sunk costs were manipulated at various levels, and subjects decided whether or not to continue an IT project facing negative prospects. This IT version of the sunk cost experiment was later replicated across cultures (Keil, Tan et al 200026ya), with group decision makers (Boonthanom 200323ya), and under different de-escalation situations (Heng, Tan et al 200323ya). These experiments demonstrated the sunk cost effect to be significant in IT project escalation.
+
+
+The “real option” defense of sunk cost behavior has been suggested for software projects (Tiwana & Fichman 2006)↩︎
+- 
+
+“Diffusion of Responsibility: Effects on the Escalation Tendency”, Whyte 199135ya (see also Whyte 1993):
+
+
+In a laboratory study, the possibility was investigated that group decision making in the initial stages of an investment project might reduce the escalation tendency by diffusing responsibility for initiating a failing project. Support for this notion was found. Escalation effects occurred less frequently and were less severe among individuals described as participants in a group decision to initiate a failing course of action than among individuals described as personally responsible for the initial decision. Self-justification theory was found to be less relevant after group than after individual decisions. Because most decisions about important new policies in organizations are made by groups, these results indicate a gap in theorizing about the determinants of escalating commitment for an important category of escalation situations.
+
+
+…The impact of personal responsibility on persistence in error has been replicated several times (eg. Bazerman, Beekun, & Schoorman, 198244ya; Caldwell & O’Reilly, 198244ya; Staw, 197650ya; Staw & Fox, 197749ya).
+
+↩︎
+- 
+
+Both of them—but the first one on the Iraqi side, specifically Saddam Hussein; Bazerman & Neale 199234ya:
+
+
+Similarly, it could be argued that in the Iraqi/Kuwait conflict, Iraq (Hussein) had the information necessary to rationally pursue a negotiated settlement. In fact, early on in the crisis, he was offered a package for settlement that was far better than anything that he could have expected through a continued conflict. The escalation literature accurately predicts that the initial “investment” incurred in invading Kuwait would lead Iraq to a further escalation of its commitment not to compromise on the return of Kuwait.
+
+↩︎
+- 
+
+Kelly 200422ya:
+
+
+The physicist Eugene Demler informs me that exactly parallel arguments were quite commonly made in the Soviet Union in the late 1980s in an attempt to justify continued Soviet involvement in Afghanistan.
+
+↩︎
+- 
+
+Dawkins & Carlisle 197650ya sarcastically remark:
+
+
+…The idea has been influential4, and it appeals to economic intuition. A government which has invested heavily in, for example, a supersonic airliner, is understandably reluctant to abandon it, even when sober judgement of future prospects suggests that it should do so. Similarly, a popular argument against American withdrawal from the Vietnam war was a retrospective one: ‘We cannot allow those boys to have died in vain’. Intuition says that previous investment commits one to future investment.
+
+↩︎
+- 
+
+The former can be found in Bazerman, Giuliano, & Appelman, 1984, Davis & Bobko, 1986, & Staw, 1976 among other studies cited here. The latter is often called ‘self-justification’ or the ‘justification effect’ (eg. Brockner 1992).
+
+
+Self-justification is, of course, in many contexts a valuable trait to have; is the following an error, or business students demonstrating their precocious understanding of an invaluable bureaucratic in-fighting skill? Bazerman et al 198244ya, “Performance evaluation in a dynamic context: A laboratory study of the impact of prior commitment to the ratee” (see also Caldwell & O’Reilly, 198244ya; Staw, 197650ya; Staw & Fox, 197749ya):
+
+
+A dynamic view of performance evaluation is proposed that argues that raters who are provided with negative performance data on a previously promoted employee will subsequently evaluate the employee more positively if they, rather than their predecessors, made the earlier promotion decision. A total of 298 business majors participated in the study. The experimental group made a promotion decision by choosing among three candidates, whereas the control group was told that the decision had been made by someone else. Both groups evaluated the promoted employee’s performance after reviewing 2 years of data. The hypothesized escalation of commitment effect was observed in that the experimental group consistently evaluated the employee more favorably, provided larger rewards, and made more optimistic projections of future performance than did the control group.
+
+↩︎
+- 
+
+And it is difficult to judge from a distance when sunk cost has occurred: what exactly else are the Indians going to invest in? Remember our exponential discounting example. As long as various settlements are not running at an outright loss or are being subsidized, how steep an opportunity cost do they really face? From the paper:
+
+
+By the end of the occupation in the late-A.D. 800s there is evidence of depletion of wood resources, pi on seeds, and animals (reviewed by Kohler 199234ya). Following the collapse of these villages, the Dolores area was never reoccupied in force by Puebloan farmers. A second similar case comes from nearby Sand Canyon Locality west of Cortez, Colorado, intensively studied by the Crow Canyon Archaeological Center over the last 15 years (Lipe 199234ya). Here the main occupation is several hundred years later than in Dolores, but the patterns of construction in hamlets versus villages are similar (fig. 4, bottom). The demise of the two villages contributing dated construction events to fig. 4 (bottom) coincides with the famous depopulation of the Four Corners region of the U.S. Southwest. There is strong evidence for declining availability of protein in general and large game animals in particular, and increased competition for the best agricultural land, during the terminal occupation (reviewed by Kohler 200026ya). We draw a final example from an intermediate period. The most famous Anasazi structures, the “great houses” of Chaco Canyon, may follow a similar pattern. Windes & Ford 199630ya show that early construction episodes (in the early A.D. 900s) in the canyon great houses typically coincide with periods of high potential agricultural productivity, but later construction continues in both good periods and bad, particularly in the poor period from ca. A.D. 1030–1050.
+
+
+Certainly there is strong evidence of diminishing marginal returns—evidence for the Tainter thesis—but diminishing marginal returns is not sunk cost fallacy. Given the general environment, and given that there was a ‘collapse’, arguably there was no opportunity cost to remaining there. How would the Indians have become better off if they abandoned their villages, given that there is little evidence that other places were better off in that period of great droughts and the observation that they would need to make substantial capital investments wherever they went?↩︎
+- 
+
+Janssen & Scheffer 200422ya:
+
+
+In fact, escalation of commitment is found in group decision making (Bazerman et al 1984). Members of a group strive for unanimity. A typical goal for political decisions within small-scale societies is to reach consensus (Boehm 1996). Once unanimity is reached, the easiest way to protect it is to stay committed to the group’s decision (Bazerman et al 198442ya, Janis 197254ya [Victims of groupthink]). Thus, when the group is faced with a negative feedback, members will not suggest abandoning the earlier course of action, because this might disrupt the existing unanimity.
+
+↩︎
+- 
+
+McAfee et al 200719ya:
+
+
+But there are also examples of people who succeeded by not ignoring sunk costs. The same “we-owe-it-to-our-fallen-countrymen” logic that led Americans to stay the course in Vietnam also helped the war effort in World War II. More generally, many success stories involve people who at some time suffered great setbacks, but persevered when short-term odds were not in their favor because they “had already come too far to give up now.” Columbus did not give up when the shores of India did not appear after weeks at sea, and many on his crew were urging him to turn home (see Olson, 196759ya [The Northmen, Columbus and Cabot, 985–1503], for Columbus’ journal). Jeff Bezos, founder of Amazon.com, did not give up when Amazon’s loss totaled $1.4 billion in 2001, and many on Wall Street were speculating that the company would go broke (see Mendelson and Meza, 2001).
+
+↩︎
+- 
+
+“Banking on Commitment: Intended and Unintended Consequences of an Organization’s Attempt to Attenuate Escalation of Commitment”, McNamara et al 200224ya:
+
+
+The notion that decision makers tend to incorrectly consider previous expenditures when deliberating current utility-based decisions (Arkes & Blumer, 198541ya) has been used to explain fiascoes ranging from the prolonged involvement of the United States in the Vietnam War to the disastrous cost overrun during the construction of the Shoreham Nuclear Power Plant (Ross & Staw, 199333ya). In the Shoreham Nuclear Power Plant example, escalation of commitment meant billions of wasted dollars (Ross & Staw, 199333ya). In the Vietnam War, it may have cost thousands of lives…Kirby and Davis’s (199828ya) experimental study showed that increased monitoring could dampen the escalation of commitment. Staw, Barsade, and Koput’s (199729ya) field data on the banking industry led them to conclude that top manager turnover led to de-escalation of commitment at an aggregate level.
+
+
+…So far, the results support the efficacy of changes in monitoring and decision responsibility as cures for the escalation of commitment bias. We now turn to the side effects of these treatments. Hypotheses 4 and 5 propose that the threat of increased monitoring and change in management responsibility increase the likelihood of a different form of undesirable decision commitment—the persistent underassessment of borrower risk. The results in column 3 of Table 2 support these hypotheses. Both the threat of increased monitoring and the threat of change in decision responsibility increase the likelihood of persistent underassessment of borrower risk (0.47, p < 0.01, and 0.50, p < 0.05, respectively). These findings support the view that decision makers are likely to fail to appropriately downgrade a borrower when, by doing so, they avoid an organizational intervention. We examined the change in investment commitment for borrowers whose risk was persistently underassessed and who faced either increased monitoring or change in decision responsibility if the decision makers had admitted that the risk needed downgrading. We found that decision makers did appear to exhibit escalation of commitment to these borrowers. The change in commitment (on average, over 30%) is significantly greater than 0 (t = 2.94, p < 0.01) and greater than the change in commitment to those borrowers who were correctly assessed as remaining at the same risk level (t = 2.58, p = 0.01). Combined, these findings suggest that although the organizational efforts to minimize undesirable decision commitment appeared successful at first glance, the threat of these interventions increased the likelihood that decision makers would persistently give overfavorable assessments of the risk of borrowers. In turn, the lending officers would then escalate their monetary commitment to these riskier borrowers.
+
+
+On nuclear power plants as sunk cost fallacy, McAfee et al 200719ya:
+
+
+According to evidence reported by De Bondt & Makhija 1988, managers of many utility companies in the U.S. have been overly reluctant to terminate economically unviable nuclear plant projects. In the 1960s, the nuclear power industry promised “energy too cheap to meter.” But nuclear power later proved unsafe and uneconomical. As the U.S. nuclear power program was failing in the 1970s and 1980s, Public Service Commissions around the nation ordered prudency reviews. From these reviews, De Bondt and Makhija find evidence that the Commissions denied many utility companies even partial recovery of nuclear construction costs on the grounds that they had been mismanaging the nuclear construction projects in ways consistent with “throwing good money after bad.”…In most projects there is uncertainty, and restarting after stopping entails costs, making the option to continue valuable. This is certainly the case for nuclear power plants, for example. Shutting down a nuclear reactor requires dismantling or entombment, and the costs of restarting are extremely high. Moreover, the variance of energy prices has been quite large. The option of maintaining nuclear plants is therefore potentially valuable. Low returns from nuclear power in the 1970s and 1980s might have been a consequence of the large variance, suggesting a high option value of maintaining nuclear plants. This may in part explain the evidence (reported by De Bondt and Makhija, 198838ya) that managers of utilities at the time were so reluctant to shut down seemingly unprofitable plants.
+
+↩︎
+- 
+
+Steven Pinker, The Better Angels of Our Nature 201115ya, pg336:
+
+
+In the case of a war of attrition, one can imagine a leader who has a changing willingness to suffer a cost over time, increasing as the conflict proceeds and his resolve toughens. His motto would be: ‘We fight on so that our boys shall not have died in vain.’ This mindset, known as loss aversion, the sunk-cost fallacy, and throwing good money after bad, is patently irrational, but it is surprisingly pervasive in human decision-making.65 People stay in an abusive marriage because of the years they have already put into it, or sit through a bad movie because they have already paid for the ticket, or try to reverse a gambling loss by doubling their next bet, or pour money into a boondoggle because they’ve already poured so much money into it. Though psychologists don’t fully understand why people are suckers for sunk costs, a common explanation is that it signals a public commitment. The person is announcing: ‘When I make a decision, I’m not so weak, stupid, or indecisive that I can be easily talked out of it.’ In a contest of resolve like an attrition game, loss aversion could serve as a costly and hence credible signal that the contestant is not about to concede, preempting his opponent’s strategy of outlasting him just one more round.
+
+
+It’s worth noting that there is at least one example of sunk cost (“entry licenses” [fees]) encouraging cooperation (“collusive price path”) in market agents: Offerman & Potter 200125ya, “Does Auctioning of Entry Licenses Induce Collusion? An Experimental Study”, who point out another case of how our sunk cost map may not correspond to the territory:
+
+
+There is one caveat to the sunk cost argument, however. If the game for which the positions are allocated has multiple equilibria, an entry fee may affect the equilibrium that is being selected. Several experimental studies have demonstrated the force of this principle. For example, Cooper, DeJong, Forsythe & Ross 1993, Van Huyck, Battalio & Beil 1993, and Cachon and Camerer, (199630ya) study coordination games with multiple equilibria and find that an entry fee may induce players to coordinate on a different (Pareto superior) equilibrium.
+
+↩︎
+- 
+
+McAfee et al 2007
+
+
+Reputational Concerns. In team relationships, each participant’s willingness to invest depends on the investments of others. In such circumstances, a commitment to finishing projects even when they appear ex post unprofitable is valuable, because such a commitment induces more efficient ex ante investment. Thus, a reputation for “throwing good money after bad”—the classic sunk cost fallacy—can solve a coordination problem. In contrast to the desire for commitment, people might rationally want to conceal bad choices to appear more talented, which may lead them to make further investments, hoping to conceal their investments gone bad.
+
+
+Kanodia, Bushman, and Dickhaut (198937ya), Prendergast & Stole 1996, and Camerer & Weber 199927ya develop principal-agent models in which rational agents invest more if they have invested more in the past to protect their reputation for ability. We elucidate the general features of these models below and argue that concerns about reputation for ability are especially powerful in explaining apparent reactions to sunk costs by politicians. Carmichael and MacLeod (200323ya) [see also Carpenter & Matthews 2003] develop a model in which agents initially make investments independently and are later matched in pairs, their match produces a surplus, and they bargain over it based on cultural norms of fair division. A fair division rule in which each agent’s surplus share is increasing in their sunk investment, and decreasing in the other’s sunk investment, is shown to be evolutionarily stable.
+
+
+…If a member of an illegal price-fixing cartel seems likely to confess to the government in exchange for immunity from prosecution, the other cartel members may race to be first to confess, since only the first gets immunity (in Europe, such immunity is called “leniency”). Similarly, a spouse who loses faith in the long-term prospects of a marriage invests less in the relationship, thereby reducing the gains from partnership, potentially dooming the relationship. In both cases, beliefs about the future viability matter to the success of the relationship, and there is the potential for self-fulfilling optimistic and pessimistic beliefs.
+
+
+In such a situation, individuals may rationally select others who stay in the relationship beyond the point of individual rationality, if such a commitment is possible. Indeed, ex ante it is rational to construct exit barriers like costly and difficult divorce laws, so as to reduce early exit. Such exit barriers might be behavioral as well as legal. If an individual can develop a reputation for sticking in a relationship beyond the break-even point, it would make that individual a more desirable partner and thus enhance the set of available partners, as well as encourage greater and longer lasting investment by the chosen partner. One way of creating such a reputation is to act as if one cares about sunk costs…We now formalize this concept using a simple two-period model that sets aside consideration of selection…That is, a slight possibility of breach is collectively harmful; both agents would be ex ante better off if they could prevent breach when V—ρ < 1, which holds as long as the reputation cost ρ of breaching is not too small. In this model, a tendency to stay in the relationship due to a large sunk investment would be beneficial to each party.
+
+↩︎
+- 
+
+The qualifier is because hyperbolic discounting has been demonstrated in many primates, and a number of other biases, eg. Chen et al 200620ya, “How Basic Are Behavioral Biases? Evidence from Capuchin Monkey Trading Behavior”↩︎
+- 
+
+See also Radford & Blakey 200026ya, “Intensity of nest defence is related to offspring sex ratio in the great tit Parus major”:
+
+
+Nest-defence behavior of passerines is a form of parental investment. Parents are selected, therefore, to vary the intensity of their nest defence with respect to the value of their offspring. Great tit, Parus major, males were tested for their defence response to both a nest predator and playback of a great tit chick distress call. The results from the two trials were similar; males gave more alarm calls and made more perch changes if they had larger broods and if they had a greater proportion of sons in their brood. This is the first evidence for a relationship between nest-defence intensity and offspring sex ratio. Paternal quality, size, age and condition, lay date and chick condition did not significantly influence any of the measured nest-defence parameters.
+
+
+…The most consistent pattern found in studies of avian nest defence has been an increase in the level of the parental response to predators from clutch initiation to £edging (eg. Biermann & Robertson 1981; Regelmann & Curio 1983; Montgomerie & Weatherhead 1988; Wiklund 199036ya a). This supports the prediction from parental investment theory (Trivers 197254ya) that parents should risk more in defence of young that are more valuable to them. The intensity of nest defence is also expected to be positively correlated with brood size because the benefits of deterring a predator will increase with offspring number (Williams 196660ya; Wiklund 199036ya b).
+
+↩︎
+- 
+
+Northcraft & Wolf 198442ya, “Dollars, sense, and sunk costs: A lifecycle model of research allocation decisions”. Academy of Management Review, 9, 225–234:
+
+
+The decision maker also may treat the negative feedback as simply a learning experience-a cue to redirect efforts within a project rather than abandon it (Connolly, 197650ya).
+
+
+…In some cases (Brockner, Shaw, & Rubin, 197947ya), the expected rate of return for further financial commitment even can be shown with a few assumptions to be increasing and (after a certain amount of investment) financially advisable, despite the claim that further resource commitment under the circumstances is psychologically rather than economically motivated…More to the point, the life cycle model clearly reveals the psychologist’s fallacy: continuing a project in the face of a financial setback is not always irrational (it depends on the stage in the project and the magnitude of the financial setback). Second, the life cycle model provides an insight into the manager’s preoccupation with a project’s financial past. It demonstrates how a project’s financial past can be used heuristically to understand the project’s future.
+
+
+Friedman et al 200620ya:
+
+
+…There are also several possible rational explanations for an apparent concern with sunk costs. Maintaining a reputation for finishing what you start may have sufficient value to compensate for the expected loss on an additional investment. The ‘real option’ value (eg. Dixit and Pindyck, 199432ya [Investment Under Uncertainty]) [cf. O’Brien & Folta 2009, Tiwana & Fichman 200620ya] of continuing a project also may offset an expected loss. Agency problems in organizations may make it personally better for a manager to continue an unprofitable project than to cancel it and take the heat from its supporters (eg. Milgrom and Roberts, 199234ya [Economics, Organization, and Management]).
+
+
+(Certainty effects seem to be supported by fMRI imaging.) One may ask why capital constraints aren’t solved—if the projects really are good profitable ideas—by resort to equity or debt? But those are always last resorts due to fundamental coordination & trust issues; McAfee et al 200719ya:
+
+
+Abundant theoretical literature in corporate finance shows that imposing financial constraints on firm managers improves agency problems (see Stiglitz and Weiss, 198145ya, Myers and Majluf, 198442ya, Lewis and Sappington, 198937ya, and Hart and Moore, 199531ya). The theoretical conclusion finds overwhelming empirical support, and only a small fraction of business investment is funded by borrowing (see Fazzari and Athey, 198739ya, Fazzari and Peterson, 199333ya, and Love, 200323ya). When managers face financial constraints, sunk costs must influence firm investments simply because of budgets…Firms with financial constraints might rationally react to sunk costs by investing more in a project, rather than less, because the ability to undertake alternative investments declines in the level of sunk costs…Given limited resources, if the firm has already sunk more resources into the current project, then the value of the option to start a new project if it arises is lower relative the value of the option to continue the current project, because fewer resources are left over to bring any new project to fruition, and more resources have already been spent to bring the current project to fruition. Therefore, the firm’s incentive to continue investing in the current project is higher the more resources it has already sunk into the project.
+
+- 
+
+Stiglitz, Joseph E. and Weiss, Andrew, 198145ya. “Credit Rationing in Markets with Imperfect Information”, American Economic Review 71, 393–410.
+- 
+
+Myers, Stewart and Majluf, Nicholas S., 198442ya. “Corporate Financing and Investment Decisions when Firms Have Information that Investors Do Not Have,” Journal of Financial Economics 13, 187–221
+- 
+
+Lewis, Tracy and Sappington, David E. M., 198937ya. “Countervailing Incentives in Agency Problems,” Journal of Economic Theory 49, 294–313
+- 
+
+Hart, Oliver and Moore, John, 199531ya. “Debt and Seniority: An Analysis of the Role of Hard Claims in Constraining Management,” American Economic Review 85, 567–585
+- 
+
+Fazzari, Steven and Athey, Michael J., 198739ya. “Asymmetric Information, Financing Constraints, and Investment,” Review of Economics and Statistics 69, 481–487.
+- 
+
+Fazzari, Steven and Petersen, Bruce, 199333ya. “Working Capital and Fixed Investment: New Evidence on Financing Constraints,” RAND Journal of Economics 24, 328–342
+- 
+
+Love, Inessa, 200323ya. “Financial Development and Financing Constraints: International Evidence from the Structural Investment Model,” Review of Financial Studies 16, 765–791
+
+
+↩︎
+- 
+
+The swans:
+
+
+Although none of these terms are used, the same phenomena is also observed by Nolet et al 2001. In particular, tundra swans must expend more energy to “up-end” to feed on deep-water tuber patches than they do to “head-dip” to feed on shallow-water patches; however, contrary to the expectations of Nolet et al the swans feed for a longer time on each high-cost deep-water patch. In every context, the observation of the sunk-cost effect is an enigma because intuition suggests that this behavior is suboptimal. Here, we show how optimization of Eq. (3) predicts the sunk-cost effect for certain scenarios; a common element of every case is a large initial cost.
+
+↩︎
+- 
+
+Klaczynski & Cottrell 200422ya:
+
+
+Although considerable evidence indicates that adults commit the SC fallacy frequently, age differences in the propensity to honour sunk costs have been little studied. In their investigations of 7–15-year-olds (Study 1) and 5–12-year-olds (Study 2), Baron et al 199333ya found no relationship between age and SC decisions. By contrast, Klaczynski (200125yab) reported that the SC fallacy decreased from early adolescence to adulthood, although normative decisions were infrequent across ages. A third pattern of findings is reviewed by Arkes & Ayton 199927ya. Specifically, Arkes and Ayton argue that two studies (Krouse, 198640ya; Webley & Plaiser, 199828ya) indicate that younger children commit the SC fallacy less frequently than older children. Making sense of these conflicting findings is difficult because criticisms can be levied against each investigation. For instance, Arkes & Ayton 199927ya questioned the null findings of Baron et al 199333ya because sample sizes were small (eg. in Baron et al Study 2, n per age group ranged 7–17). The problems used by Krouse (198640ya) and Webley & Plaiser 199828ya were not, strictly speaking, SC problems (rather, they were problems of ‘mental accounting’; see Webley & Plaiser, 199828ya). Because Klaczynski (200125yab) did not include children in his sample, the age trends he reported are limited to adolescence. Thus, an interpretable montage of age trends in SC decisions cannot be created from prior research.
+
+
+…An alternative proposition is based on the previously outlined theory of the role of metacognition in mediating interactions between analytic and heuristic processing. In this view, even young children have had ample opportunities to convert the ‘waste not’ heuristic from a conscious strategy to an automatically activated heuristic stored as a procedural memory. Evidence from children’s experiences with food (eg. Birch, Fisher, & Grimm-Thomas, 199927ya) provides some support for the argument that even preschoolers are frequently reinforced for not ‘wasting’ food. Mothers commonly extort their children to ‘clean up their plates’ even though they are sated and even though the nutritional effects of eating more than their bodies require are generally negative. If the ‘waste not’ heuristic is automatically activated in sunk cost situations for both children and adults, then one possibility is that no age differences in committing the fallacy should be expected. However, if activated heuristics are momentarily available for evaluation in working memory, then the superior metacognitive abilities of adolescents and adults should allow them to intercede in experiential processing before the heuristic is actually used. Although the evidence is clear that most adults do not take advantage of this opportunity for evaluation, the proportion of adolescents and adults who actively inhibit the ‘waste not’ heuristic should be greater than the same proportion of children.
+
+↩︎
+- 
+
+eg. “Discounting of Delayed Rewards: A Life-Span Comparison”, Green et al 199432ya; abstract:
+
+
+In this study, children, young adults, and older adults chose between immediate and delayed hypothetical monetary rewards. The amount of the delayed reward was held constant while its delay was varied. All three age groups showed delay discounting; that is, the amount of an immediate reward judged to be of equal value to the delayed reward decreased as a function of delay. The rate of discounting was highest for children and lowest for older adults, predicting a life-span developmental trend toward increased self-control. Discounting of delayed rewards by all three age groups was well described by a single function with age-sensitive parameters (all R2s > .94). Thus, even though there are quantitative age differences in delay discounting, the existence of an age-invariant form of discount function suggests that the process of choosing between rewards of different amounts and delays is qualitatively similar across the life span.
+
+↩︎
+- 
+
+“The Bias Against Creativity: Why People Desire But Reject Creative Ideas”, Mueller et al 201115ya:
+
+
+Uncertainty is an aversive state (Fiske & Taylor, 199135ya [Social cognition]; Heider, 195868ya [The psychology of interpersonal relations]) which people feel a strong motivation to diminish and avoid (Whitson & Galinsky, 2008).
+
+↩︎
+- 
+
+“Searching for the Sunk Cost Fallacy”, Friedman et al 200719ya:
+
+
+Subjects play a computer game in which they decide whether to keep digging for treasure on an island or to sink a cost (which will turn out to be either high or low) to move to another island. The research hypothesis is that subjects will stay longer on islands that were more costly to find. Nine treatment variables are considered, eg. alternative visual displays, whether the treasure value of an island is shown on arrival or discovered by trial and error, and alternative parameters for sunk costs. The data reveal a surprisingly small and erratic sunk cost effect that is generally insensitive to the proposed psychological drivers.
+
+
+I cite Friedman 200620ya here so much because it’s unusual—as McAfee et al 200719ya puts it:
+
+
+…Most of the existing empirical work has not controlled for changing hazards, option values, reputations for ability and commitment, and budget constraints. We are aware of only one study in which several of these factors are eliminated—Friedman et al 200620ya. In an experimental environment without option value or reputation considerations, the authors find only very small and non-statistically-significant sunk cost effects in the majority of their treatments, consistent with the rational theory presented here.
+
+↩︎
+- 
+
+On the lessons of Garland et al 1990’s observation of non sunk cost fallacy, McAfee et al 200719ya:
+
+
+While some projects have an increasing hazard, others appear to have a decreasing hazard. For example, curing cancer, originally expected to cost $1 billion (see Epstein, 1998), probably has a decreasing hazard; given initial failure, the odds of immediate success recede and the likely expenditures required to complete grow. Oil-exploration projects might also be characterized by decreasing hazards. Suppose a firm acquires a license to drill a number of wells in a fixed area. It decides to drill a well on a particular spot in the area. Suppose the well turns out to be dry. The costs of drilling the well are then sunk. But the dry well might indicate that the likelihood of striking oil on another spot in the area is low since the geophysical characteristics of surface rocks and terrain for the next spot are more or less the same as the ones for the previous spot that turned out to be dry. Thus, the firm might be rationally less likely to drill another well. In general, firms might be less willing to drill another well the more wells they had already found to be dry. This may in part explain the rapid “de-escalation” observed by Garland, Sandeford, and Rogers (199036ya) in their oil-exploration experiments.
+
+↩︎
+- 
+
+Bornstein et al 1999:
+
+
+Measurements and main results: Residents evaluated medical and non-medical situations that varied the amount of previous investment and whether the present decision maker was the same or different from the person who had made the initial investment. They rated reasons both for continuing the initial decision (eg. stay with the medication already in use) and for switching to anew alternative (eg. a different medication). There were two main findings: First, the residents’ ratings of whether to continue or switch medical treatments were not influenced by the amount of the initial investment (p’s > 0.05). Second, residents’ reasoning was more normative in medical than in non-medical situations, in which it paralleled that of undergraduates (p’s < 0.05).
+
+
+Conclusion: Medical residents’ evaluation of treatment decisions reflected good reasoning, in that they were not influenced by the amount of time and/or money that had already been invested in treating a patient. However, the residents did demonstrate a sunk-cost effect in evaluating non-medical situations. Thus, any advantage in decision making that is conferred by medical training appears to be domain specific.
+
+
+Some of this was replicated & generalized in Braverman & Blumenthal-Barby 2012:
+
+
+Specifically, we surveyed 389 health care providers in a large urban medical center in the United States during August 200917ya. We asked participants to make a treatment recommendation based on one of four hypothetical clinical scenarios that varied in the source and type of prior investment described. By comparing recommendations across scenarios, we found that providers did not demonstrate a sunk-cost effect; rather, they demonstrated a significant tendency to over-compensate for the effect. In addition, we found that more than one in ten health care providers recommended continuation of an ineffective treatment.
+
+↩︎
+- 
+
+Staw 198145ya, “The Escalation of Commitment to a Course of Action”:
+
+
+…However, when choosing to commit resources, subjects did not appear to persist unswervingly in the face of continued negative results or to ignore information about the possibility of future returns. These inconsistencies led to a third study [Staw & Ross, 197848ya] designed specifically to find out how individuals process information following negative versus positive feedback. In this third study, previous success/failure and causal information about a setback were both experimentally varied. Results showed that subjects invested more resources in a course of action when information pointed to an exogenous rather than endogenous cause of a setback, and this tendency was most pronounced when subjects had been given a previous failure rather than a success. The exogenous cause in this experiment was one that was both external to the program in which subjects invested and was unlikely to persist, whereas the endogenous cause was a problem central to the program and likely to persist.
+
+↩︎
+- 
+
+“Continuing investment under conditions of failure: A laboratory study of the limits to escalation”, McCain 198640ya:
+
+
+Brockner et al 1982, following Teger (198046ya), have also specifically suggested that entrapment involves two distinct stages. In the first stage subjects respond primarily to economic incentives, whereas self-justification supposedly governs the second. Brockner et al. found that cost salience significantly reduced entrapment early on but had little effect in later periods…Thus, a process that reflects efforts to learn both what caused the setbacks and the implications of that cause for future action may provide a better model of de-escalation.
+
+
+…The findings of this study clearly showed that the escalation effect, defined by a difference between the allocations of high- and low-choice subjects, was limited to the initial stages of continuing investment. The findings were consistent with previous research (Staw & Fox, 1977) and support the contention that investment in failing projects involves two stages. Clearly, too, the availability of alternative investments limited the escalation effect. When subjects were given alternatives to the failing investment, the difference between the investments of the high- and low-choice groups disappeared. The results showed, as well, that high-choice subjects who displayed the escalation effect quit funding the failing investment sooner than comparable low-choice subjects, contrary to a commitment perspective. Similarly, the declining hazard rates observed here support a learning model more than they support the self-justification model…Some authors (eg. Northcraft & Wolf, 1984) have suggested that investors react differently to cost overruns than they react to revenue shortfalls, yet many escalation experiments do not clearly specify whether setbacks result from higher than expected costs or from lower than expected revenues. Clearly, if investors are sensitive to uncertainty, as the attributional model suggests, researchers must consider how subjects may respond to an inadequately specified investment context…
+
+↩︎
+- 
+
+“Sunk and Opportunity Costs in Valuation and Bidding”, Phillips et al 1991, which also mentions another apparent instance of market agents initially committing sunk cost and then learning: Plott & Uhl 198145ya “Competitive Equilibrium with Middlemen: An Empirical Study”, Southern Economic Journal↩︎
+- 
+
+In particular, “Pay-to-bid” penny auctions such as Swoopo have been called instances of sunk cost fallacy, or “escalation of commitment” by no less than Richard H. Thaler, and described by techie Jeff Atwood as being “as close to pure, distilled evil in a business plan as I’ve ever seen”. But as Wang & Xu 201214ya and Caldara 2012 indicate, while people do lose money to the penny auctions, they eventually do learn that penny auctions are not good ideas and escape the trap. A previous analysis of penny auctions, Augenblick 2009, omitted detailed survivorship data but still found some learning effects. And indeed, Swoopo has since shut down.↩︎
+- 
+
+“Learning lessons from sunk costs”, Bornstein & Chapman 199531ya:
+
+
+Study participants rated the quality of several arguments for continuing an original plan in sunk cost situations in order to (a) avoid wasting resources, (b) learn to make better decisions, (c) punish poor decision making, and (d) appear consistent. The lesson-learning argument was perceived as most appropriate when adult teachers taught lessons to others, the original decision was carelessly made, or if it consumed comparatively more resources. Ratings of the lesson-learning argument were higher for teacher-learner than for adult-alone situations, regardless of whether the learner was a child or an adult. The implications for improving decision making and judging whether the sunk cost effect is a bias are discussed…However, prospect theory does not predict an effect of variables such as whether the decision maker acted alone, the care with which the decision was made, or the nature of the relationship between teacher and learner. The other three responses were influenced by these variables.
+
+
+What appears to be a bias in the laboratory may be functional behavior in a more realistic context (Funder, 198739ya; Hogarth, 198145ya), where a variety of justifications for the behavior can be considered. In general, ignoring sunk costs is an adaptive, cost-effective strategy. Yet what appears to be biased, irrational behavior—such as decreasing utility through attention to irretrievably wasted resources—can be described as ‘meta-rational’ (Jungermann, 198640ya), assuming the benefits of learning and implementing the lesson outweigh the costs of sticking to the original plan. However, it raises the interesting question of why continuing a failed plan is the best (or even a good) way to learn to make better decisions in the future. Perhaps one could both abandon the current unsuccessful plan and learn to think more carefully in future decisions.
+
+↩︎
+- 
+
+See Arkes & Blumer 198541ya, which found no resistance in students who had were taken an economics course and most of whom had taken other economics courses; also good is Larrick et al 199333ya or Larrick et al 1990, “Teaching the use of cost-benefit reasoning in everyday life”:
+
+
+It may be seen in Table 1 that economists’ reasoning on the university and international policy questions was more in line with cost-benefit rules than was that of biologists and humanists. This pattern was found for the net-benefit questions (p < 0.05), and for the opportunity cost questions (p < 0.05) and a trend was found for the sunk cost questions (p < 0.15)…Third, economists were more likely than biologists and humanists to report that they ignored sunk costs or attended to opportunity costs in their personal decisions. For instance, they were more likely to have dropped a research project because it was not proving worthwhile. (It is interesting to note that economists were not simply more likely to drop projects. All three disciplines gave the same answer on average to the question “have you ever dropped a research project because of a lack of funding?”) Finally, economists participated in a greater number of time-saving activities…The results show that training people only briefly on an economic principle significantly alters their solutions to hypothetical economic problems [including sunk cost]. Moreover, training effects generalize fully from a financial domain to a nonfinancial one and vice versa…The means for both indices showed that [quick-economics] trained subjects were ignoring sunk costs more than untrained subjects, but only the nine-item index based on the question “Have you bought one of the following items at some time and then not used it in the past month” approached significance. Trained subjects reported that they had paid for but not used 1.14 objects and activities compared to 0.84 for untrained subjects, f(78) = 1.64, p = 0.10.
+
+
+On the other hand, Fennema & Perkins 2008:
+
+
+The results indicate that practicing Certified Public Accountants (CPAs), Masters of Business Administration students (MBAs) and undergraduate accounting students perform better than undergraduate psychology students. The level of training, as measured by the number of college courses in managerial accounting, was found to be positively correlated with performance, while the level of experience, as measured by years of financially-related work, was not. Justification was found to improve decisions only for those participants with significant work experience (MBAs and CPAs). Strategies used in this type of decision were examined with the surprising finding that economically rational decisions can be made even if sunk costs are not ignored.
+
+↩︎
+- 
+
+For example, Heath 1995 spends a page criticizing Brockner & Rubin 1985’s setup of endowed subjects buying tickets in a lottery, pointing out they took subjects quitting ticket purchases after a long run of ticket-buying as evidence of sunk cost, even though if the expected value of the lottery was positive, the normative rational strategy is for the subject spend every penny of the endowment buying tickets! “Consider, for example, the average of $3.82 invested in the game with a $10.00 prize. In this game, the average subject quits at a point where the expected benefits from a marginal investment are three times what they were when the subject began investing.” [emphasis added]↩︎
+- 
+
+The previously mentioned studies of sunk cost in children found minimal correlations with intelligence, when that was measured. For adults, see Strough et al 200818ya, previously cited. Also, Keith E. Stanovich, & West, R. F. (200818yab). “On the relative independence of thinking biases and cognitive ability”. Journal of Personality and Social Psychology, 94, 672–695 (pg7–8):
+
+
+Both cognitive ability groups displayed sunk-cost effects of roughly equal magnitude. For the high-SAT group, the mean in the no-sunk-cost condition was 6.90 and the mean in the sunk-cost condition was 5.08, whereas for the low-SAT group, the mean in the no-sunk-cost condition was 6.50 and the mean in the sunk-cost condition was 4.19. A 2 (cognitive ability) ϫ 2 (condition) ANOVA indicated a significant main effect of cognitive ability, F(1, 725) ϭ 8.40, MSE ϭ 9.13, p Ͻ .01, and a significant main effect of condition, F(1, 725) ϭ 84.9, MSE ϭ 9.13, p Ͻ .001. There was a slight tendency for the low-SAT participants to show a larger sunk-cost effect, but the Cognitive Ability ϫ Condition interaction did not attain statistical-significance, F(1, 725) ϭ 1.21, MSE ϭ 9.13. The interaction was also tested in a regression analyses in which SAT was treated as a continuous variable rather than as a dichotomous variable. The Form ϫ SAT cross product, when entered third in the equation, was not significant, F(1, 725) ϭ 0.32.
+
+
+The sunk-cost effect thus represents another cognitive bias that is not strongly attenuated by cognitive ability. However, this is true only when it is assessed in a between-subjects context. Using a similar sunk-cost problem, Stanovich & West 1999 did find an association with cognitive ability when participants responded in a within-subjects design.
+
+
+And Parker & Fischhoff 200521ya:
+
+
+The first two rows of Table 5 show strong correlations between five of the seven DMC component measures and respondents’ scores on the WISC-R vocabulary test and on Giancola et al.’s (199630ya) measure of ECF. Consistency in risk perception and resistance to sunk cost show little relationship to either of these general cognitive abilities.8,9 [correlations: 0.12, 0.08]
+
+
+Bruine de Bruin et al 200719ya, modifying Parker & Fischhoff 2005’s test battery, improved the consistency of the sunk cost questions, and found similar small correlations with their 2 IQ measures, of 0.17 and 0.04. Larrick et al 199333ya recorded SAT/ACT scores (close proxies for IQ) and found some correlation, and noted that IQ was “positively related to recognition of economists’ position on various economic problems.”↩︎
+- 
+
+“Sunk Costs in the NBA: Why Draft Order Affects Playing Time and Survival in Professional Basketball”:
+
+
+A second problem is that much of the escalation literature, despite its intent to sources of commitment, has not directly explain nonrational challenged the assumptions of economic decision making. By and large, the escalation literature has demonstrated that psychological and social factors can influence resource allocation decisions, not that the rational assumptions of decision making are in error. A third weakness is that almost all the escalation literature is laboratory based. Aside from a few recent qualitative case studies (eg. Ross and Staw, 198640ya, 199333ya), escalation predictions have not been confirmed settings, using data that are or falsified in real organizational generated in their natural context. Therefore, despite the size of the escalation literature, it is still uncertain if to escalation effects can be generalized from the laboratory the field.
+
+
+…Garland, Sandefur, and Rogers (199036ya) found a similar absence of sunk-cost effects in an experiment using an oil-drilling scenario. Prior expenditures on dry wells were not associated with continued drilling, perhaps because dry wells were so clearly seen as reducing rather than increasing the likelihood of future oil production. Thus it appears that sunk costs may only be influential on project decisions when they are linked to the perception (if not the reality) of progress on a course of action.
+
+
+…Table 2 also shows that draft order was a significant predictor of minutes played over the entire five-year period. This effect was above and beyond any effects of a player’s performance, injury, or trade status. The regressions showed that every increment in the draft number decreased playing time by as much as 23 minutes in the second year (I, = −22.77, p < 0.001, one-tailed test). Likewise, being taken in the second rather than the first round of the draft meant 552 minutes less playing time during a player’s second year in the NBA.
+
+↩︎
+- 
+
+Friedman et al 200620ya: “…Of course, it is hard to completely rule out other explanations based on unobserved components of performance or the coaches’ Bayesian priors.”↩︎
+- 
+
+“Reinvestment decisions by entrepreneurs: Rational decision-making or escalation of commitment?”, McCarthy et al 199333ya:
+
+
+The hypotheses were tested using data from a longitudinal study involving 1112 firms. It was found that entrepreneurs who had started their firms and those who had expressed substantial over-confidence were significantly more likely to make the decision to expand. The hypotheses that those who had partners and those who expected to apply their skills would be more likely to expand were not supported. Furthermore, and consistent with previous research, these psychological escalation predictors seemed to exert a greater influence when feedback from the marketplace was negative. As expected, there was a declining influence in the third year as compared with the second. Consistent with the prior literature and the hypotheses, these psychological predictors did show a small, but systematic influence upon reinvestment decisions.
+
+
+…Although the hypothesis regarding PARTNR was not supported, as noted, the zero-order correlation between PARTNR and NEWCAP2 is in the predicted direction (r = 0.06, p < 0.05, one-tailed). Thus, entrepreneurs with partners may be more likely to expand the asset base of their firms than they would be if they were sole owners. This has significant implications for entrepreneurial teams, in that the presence of partners does not inhibit the tendency to escalate, but in fact increases that tendency. This means that having partners is not insurance against the tendency to escalate. This is consistent with the research on escalation (Bazerman et al 198442ya).
+
+
+…A puzzling finding was the lack of any relationship between financial indicators from the previous year and new capital invested in the business. In other words, there was no systematic relationship between sales growth and expansion of the asset base for these young firms. This may mean that many of these firms started with some excess capacity so that it was not necessary to add to facilities to support their early growth. It may also mean that management of working capital was erratic. On the other hand. the psychological factors predicted by escalation theory did, in two of four cases, show systematic relationships to additional investment.
+
+
+…One final issue worth comment is the relatively small amount of variance accounted for by the models described in this study. The variance accounted for in this research is in line with the findings in similar studies of escalation. In a recent field study of the escalation bias, Schoorman (198838ya) reported that the escalation bias accounted for 6% of the variance in performance ratings. Schoorman (198838ya) noted in this article that the escalation variables were more powerful predictors of performance (at 6%) than a measure of ability used in a validated selection test for these same employees…Taken together these findings provide support for the view that escalation bias is a significant and common problem in decision-making among entrepreneurs. The characteristics of entrepreneurs and the nature of the decisions they are required to make leave them particularly vulnerable to escalation bias. Efforts to train entrepreneurs to guard against this bias may be very valuable.
+
+↩︎
+- 
+
+“Reconceptualizing entrepreneurial exit: Divergent exit routes and their drivers”, Wennberg et al 200917ya:
+
+
+…An alternative failure-avoidance strategy is to invest additional equity. We found that such reinvestments reduced the probability of all exit routes. While previous research on reinvestment also found that reinvestment was not related to well-defined performance levels (McCarthy et al 199333ya), it is interesting that it also reduced the odds of harvest sales and harvest liquidations. As a failure-avoidance strategy, reinvestment thus seems to be less effective than cost reduction. Cost reductions have direct effects on firm performance while reinvestments provide a temporary buffer for failing firms. As suggested, there might be disincentives to additional investments if tax laws punish entrepreneurs taking out money as salaries or dividends. If corroborated, this is an important finding for public policy makers.
+
+↩︎
+- 
+
+See Cohen & Dupas 2010 and Ashraf et al 2007; on the hypothetical (summary from Holla & Kremer 2008, pg11):
+
+
+When they divide their sample into households that displayed a sunk-cost effect when responding to a hypothetical scenario posed to them by surveyors and those that did not, they find coefficients of much larger magnitude for the hypothetical-sunk-cost households, although these remain insignificant and cannot be statistically distinguished from the estimated effects for households that did not display this hypothetical sunk-cost effect. Ashraf et al 200719ya identify hypothetical-sunk-cost households from their answers to the following question posed during the follow-up survey: Suppose you bought a bottle of juice for 1,000 Kw. When you start to drink it, you realize you don’t really like the taste. Would you finish drinking it?
+
+↩︎
+- 
+
+Friedman et al 200620ya:
+
+
+Do Internet users respond to sunk time costs? Manley & Seltzer (199729ya) report that after a particular website imposed an access charge, the remaining users stayed longer. A rival explanation to the sunk cost fallacy is selection bias: the users with shortest stays when the site was free are those who stopped coming when they had to pay. Klein et al 1999 report that users stick around longer on their site after encountering delays while playing a game, but again selection bias is a possible alternative explanation. The issue is important in e-commerce because ‘stickier’ sites earn more advertising revenue. Schwartz 199927ya [Digital Darwinism: 7 Breakthrough Business Strategies for Surviving in the Cutthroat Web Economy] reports that managers of the free Wall Street Journal site deliberately slowed the login process in the belief that users would then stay longer. One of us (Lukose) took a sample of 2,000 user logs from a website and found a significant positive correlation between residence time at the site and download latency. One alternative explanation is unobserved congestion on the web, and users may have been responding more to expected future time costs than to time costs already sunk. Also, good sites may be more popular because they are good, leading to (a) congestion and (b) more time spent on the site.
+
+↩︎
+- 
+
+Friedman et al 200620ya:
+
+
+…Barron et al 200125ya find that US firms are significantly more likely to terminate projects following the departure of top managers. This might reflect the new managers’ insensitivity to costs sunk by their predecessors, or it might simply reflect two aspects of the same broad realignment decision.
+
+↩︎
+- 
+
+A “traditional maxim in Chinese statecraft”.↩︎
+- 
+
+Dil Green’s description:
+
+
+- 
+
+‘tactical optimism’: David Bohm’s term for the way in which humans overcome the (so far) inescapable assessment that; ‘in the long run, we’re all dead’. Specifically, within the building industry, rife with non-optimal ingrained conditions, you wouldn’t come to work if you weren’t an optimist. Builders who cease to have an optimistic outlook go and find other things to do.
+
+
+It’s hard not to think of Arkes & Hutzel 200026ya, “The Role of Probability of Success Estimates in the Sunk Cost Effect”
+
+
+The sunk cost effect is manifested in a tendency to continue an endeavor once an investment has been made. Arkes & Blumer 198541ya showed that a sunk cost increases one’s estimated probability that the endeavor will succeed [ p(s)]. Is this p(s) increase a cause of the sunk cost effect, a consequence of the effect, or both? In Experiment 1 participants read a scenario in which a sunk cost was or was not present. Half of each group read what the precise p(s) of the project would be, thereby discouraging p(s) inflation. Nevertheless these participants manifested the sunk cost effect, suggesting p(s) inflation is not necessary for the effect to occur. In Experiment 2 participants gave p(s) estimates before or after the investment decision. The latter group manifested higher p(s), suggesting that the inflated estimate is a consequence of the decision to invest.
+
+↩︎
+- 
+
+The reasoning goes like this:
+
+
+Another reason for honoring the sunk cost of the movie ticket (related to avoiding regret) is that you know yourself well enough to realize you often make mistakes. There are many irrational reasons why you would not want to see the movie after all. Maybe you’re unwilling to get up and go to the movie because you feel a little tired after eating too much. Maybe a friend who has already seen the movie discourages you to go, even though you know your tastes in movies don’t always match. Maybe you’re a little depressed and distracted by work/relationship/whatever problems. Etc.
+
+
+For whatever reason, your past self chose to buy the ticket, and your present self does not want to see the movie. Your present self has more information. But this extra information is of dubious quality, and is not always relevant to the decision. But it still influences your state of mind, and you know that. How do you know which self is right? You don’t, until after you’ve seen the movie. The marginal costs, in terms of mental discomfort, of seeing the movie and not liking it, are usually smaller than the marginal benefit of staying home and thinking about what a great movie it could have been. The reasoning behind this trivial example can easily be adapted to sunk cost choices in situations that do matter.
+
+
+And again:
+
+
+People who take into account sunken costs in everyday decisions will make better decisions on average. My argument relies on the proposition that a person’s estimate of his own utility function is highly noisy. In other words, you don’t really know if going to the movie will make you happy or not, until you actually do it.
+
+
+So if you’re in this movie-going situation, then you have at least two pieces of data. Your current self has produced an estimate that says the utility of going to the movie is negative. But your former self produced an estimate that says the utility is substantially positive—enough so that he was willing to fork over $10. So maybe you average out the estimates: if you currently value the movie at −$5, then the average value is still positive and you should go. The real question is how confident you are in your current estimate, and whether that confidence is justified by real new information.
+
+↩︎
+- 
+
+“Real artists ship”, as the saying goes, and don’t give into the temptation to rewrite entire systems unless starting over or starting an entirely new system is truly necessary (particularly given planning fallacy). One might call using “sunk cost fallacy” to justify abandoning partial projects for new projects the “‘sunk cost fallacy’ fallacy”:
+
+
+I have a problem with never finishing things that I want to work on. I get enthusiastic about them for a while, but then find something else to work on. This problem seems to be powered partially by my sunk costs fallacy hooks. When faced with the choice of finishing my current project or starting this shiny new project, my sunk costs hook activates and says “evaluate future expected utility and ignore sunk costs”. The new project looks very shiny compared to the old project, enough that it looks like a better thing to work on than the rest of the current project. The trouble is that this always seems to be the case. It seems weird that the awesomeness of my project ideas would have exponential growth over time, so there must be something else here.
+
+
+Johnicholas:
+
+
+…Sometimes it can be hard to maintain a good balance among multiple activities. For example, it is important to notice new good ideas. However, I tend to spend too much time pursuing novelty, and not enough time working on the best idea that I’ve found so far. There is a tradition of browser games (see Kingdom Of Loathing) that enforce a kind of balance using a virtual currency of ‘turns’. You accumulate turns slowly in real time, and essentially every action within the game uses up turns. This enforces not spending too much time playing the game (and increases the perceived value of the game via forced artificial scarcity, of course). If I gave myself ‘explore dollars’ for doing non-exploration (so-called exploit) tasks, and charged myself for doing exploration tasks (like reading arXiv or Wikipedia), I could enforce a balance. If I were also prone to the opposite problem (‘A few months in the lab can often save whole hours in the library.’), then I might use two currencies; exploring costs explore points but rewards with exploit points, and exploiting costs exploit points but rewards with explore points. (Virtual currencies are ubiquitous in games, and they can be used for many purposes; I expect to find them able to be placed across from many different failure modes.)
+
+
+Mass Driver:
+
+
+…I have the same problem at work; although, by mainstream society’s standards, I am a reasonably successful professional, I can’t really sit down and write a great essay when I’m too hot, or, at least, it seems like I would be more productive if I stopped writing for 5 minutes and cranked up the A/C or changed into shorts. An hour later, it seems like I would be more productive if I stopped writing for 20 minutes and ate lunch. Later that afternoon, it seems like I would be more productive if I stopped for a few minutes and read an interesting article on general science. These things happen even in an ideal working environment, when I’m by myself in a place I’m familiar with. If I have coworkers, or if I’m in a new town, there are even more distractions. If I have to learn who to ask for help with learning to use the new software so that I can research the data that I need to write a report, then I might spend 6 hours preparing to spend 1 hour writing a report.
+
+
+All this worries me for two reasons: (1) I might be failing to actually optimize for my goals if I only spend 10–20% of my time directly performing target actions like ‘write essay’ or ‘kayak with friends’, and (2) even if I am successfully optimizing, it sucks that the way to achieve the results that I want is to let my attention dwell on the most efficient ways to, say, brush my teeth. I don’t just want to go kayaking, I want to think about kayaking. Thinking about driving to the river seems like a waste of cognitive ‘time’ to me.
+
+
+Daniel Meade:
+
+
+…I’ve had so many ‘projects’ over the past few years I’ve lost count. Has any one of them seen the light of day? Well yes, but that failed miserably. The point is, it’s all too easy to get distracted and move onto something else, perhaps it’s that hurdle where you’re just not sure what to do next or how to do it, so instead of finding a way to tackle it head on, you take the easy way out and start something new. I’m quick to blame my failings on the lack of capital, that I ‘need’ to get my projects off the ground. And that justifies my avoidance. Of course, it doesn’t, far from it. But I just don’t know how to push through, not right now any way.
+
+
+We all have heard of businesses engaged in sunk cost, but that doesn’t tell us anything unless we know to what degree, if any, they engage in the opposite behavior, switching too much; from “How DigiCash Blew Everything”, Next! Magazine:
+
+
+It all started out quite nicely. The brand new company sold a smart card for closed systems which was a cash-cow for years. It was at this time that the first irritants appeared. Even if you are a brilliant scientist, that doesn’t mean you are a good manager. David Chaum was a control freak, someone who couldn’t delegate anything to anyone else, and insisted upon watching over everybody’s shoulders. “That resulted in slowing down research,” explains an ex-DigiCash employee who wished to remain anonymous. “We had a lot of half-finished product. He continuously changed his mind about where things were headed.”
+
+↩︎
+- 
+
+Initiation rituals may increase commitment as they become more unpleasant or demanding (Aronson & Mills 1959); and we can see attempts in our daily lives with consumerism—buying gym memberships or exercise equipment; McAfee et al 200719ya:
+
+
+Anecdotal evidence suggests that individuals may even exploit their own reactions to sunk expenditures to their advantage. Steele (199630ya, p. 610) [cf. Elster 200026ya, Ulysses Unbound: Studies in Rationality, Precommitment and Constraints, and Kelly 2004] and Walton (200224ya, p. 479) recount stories of individuals who buy exercise machines or gym memberships that cost in the thousands of dollars, even though they are reluctant to spend this much money, reasoning that if they do, it will make them exercise, which is good for their health. A reaction to sunk costs that assists in commitment is often helpful.
+
+
+Or prepaying for lessons, or buying excessively expensive writing tools:
+
+
+‘Are Moleskines really worth the cost compared to Mead? If so, why?’
+
+
+Plenty of people seem to swear by them. But here’s the thing—it’s not so much the cost (in absolute sums, it’s not that large). It’s whether you use it. You obviously sweat over costs; perhaps this sweating can be a cudgel to force you to write down whatever. The more a moleskine isn’t worth buying, the more you will find yourself compelled to use it. Then wouldn’t you be better off in the end?
+
+
+Geoffrey Miller mocks this logic (pg122 of Spent 201115ya):
+
+
+All experienced fitness machine salespeople are well aware that this is the fate of most of their products. What they are really selling consumers is the delusion that the sunk costs of buying the machines will force them to exercise conscientiously. (The consumers know that they could have already been jogging for months around their neighborhood parks in their old running shoes, but they also know that their access to the parks and shoes has not, empirically, been sufficient to induce regular exercise.) So, the consumer thinks: ‘If I invest $3,900 in this PreCor EFX5.33 elliptical trainer, it will (1) call forth regular aerobic activity from my flawed and unworthy body, through the techno-fetishistic magic of its build quality, and (2) save me money in the long run by reducing medical expenses.’ The salesperson meanwhile thinks: ‘20% commission!’ and the manufacturer thinks: ‘We can safely offer a ten-year warranty; because the average machine only gets used seventeen times in the first two months after purchase.’ Everybody’s happy, except for most consumers, and they don’t complain because they think it’s all their fault that they’re failing to use the machine.’ The few conscientious consumers who do use the equipment regularly enjoy many benefits: efficient muscle building and fat burning through the low perceived exertion of the PreCor’s smooth elliptical movement; a lean body that elicits lust and respect; a self-satisfied glow of moral superiority.
+
+↩︎
+- 
+
+Grit is a slightly narrower version of Conscientiousness; from “Grit: Perseverance and Passion for Long-Term Goals”:
+
+
+…We define grit as perseverance and passion for long-term goals. Grit entails working strenuously toward challenges, maintaining effort and interest over years despite failure, adversity, and plateaus in progress. The gritty individual approaches achievement as a marathon; his or her advantage is stamina. Whereas disappointment or boredom signals to others that it is time to change trajectory and cut losses, the gritty individual stays the course. Our hypothesis that grit is essential to high achievement evolved during interviews with professionals in investment banking, painting, journalism, academia, medicine, and law. Asked what quality distinguishes star performers in their respective fields, these individuals cited grit or a close synonym as often as talent. In fact, many were awed by the achievements of peers who did not at first seem as gifted as others but whose sustained commitment to their ambitions was exceptional. Likewise, many noted with surprise that prodigiously gifted peers did not end up in the upper echelons of their field.
+
+
+More than 100 years prior to our work on grit, Galton (1892134ya) collected biographical information on eminent judges, statesmen, scientists, poets, musicians, painters, wrestlers, and others. Ability alone, he concluded, did not bring about success in any field. Rather, he believed high achievers to be triply blessed by ‘ability combined with zeal and with capacity for hard labour’ (p. 33). Similar conclusions were reached by Cox (1926100ya) in an analysis of the biographies of 301 eminent creators and leaders drawn from a larger sample compiled by J. M. Cattell (1903123ya). Estimated IQ and Cattell’s rank order of eminence were only moderately related (r = ϭ.16) when reliability of data was controlled for. Rating geniuses on 67 character traits derived from Webb (1915111ya), Cox concluded that holding constant estimated IQ, the following traits evident in childhood predicted lifetime achievement: ‘persistence of motive and effort, confidence in their abilities, and great strength or force of character’ (p. 218).
+
+
+…However, in the Terman longitudinal study of mentally gifted children, the most accomplished men were only 5 points higher in IQ than the least accomplished men (Terman & Oden, 194779ya). To be sure, restriction on range of IQ partly accounted for the slightness of this gap, but there was sufficient variance in IQ (SD ϭ 10.6, compared with SD ϭ 16 in the general population) in the sample to have expected a much greater difference. More predictive than IQ of whether a mentally gifted Terman subject grew up to be an accomplished professor, lawyer, or doctor were particular noncognitive qualities: ‘Perseverance, Self-Confidence, and Integration toward goals’ (Terman & Oden, 194779ya, p. 351). Terman and Oden, who were close collaborators of Cox, encouraged further inquiry into why intelligence does not always translate into achievement: ‘Why this is so, what circumstances affect the fruition of human talent, are questions of such transcendent importance that they should be investigated by every method that promises the slightest reduction of our present ignorance’ (p. 352).
+
+
+…The cross-sectional design of Study 1 limits our ability to draw strong causal inferences about the observed positive association between grit and age. Our intuition is that grit grows with age and that one learns from experience that quitting plans, shifting goals, and starting over repeatedly are not good strategies for success. In fact, a strong desire for novelty and a low threshold for frustration may be adaptive earlier in life: Moving on from dead-end pursuits is essential to the discovery of more promising paths. However, as Ericsson & Charness 199432ya demonstrated, excellence takes time, and discovery must at some point give way to development. Alternatively, McCrae et al 199927ya speculated that maturational changes in personality, at least through middle adulthood, might be genetically programmed. From an evolutionary psychology perspective, certain traits may not be as beneficial when seeking mates as when providing for and raising a family. A third possibility is that the observed association between grit and age is a consequence of cohort effects. It may be that each successive generation of Americans, for social and cultural reasons, has grown up less gritty than the one before (cf. Twenge, Zhang, & Im, 200422ya).
+
+↩︎
+- 
+
+“Factors Affecting Entrapment in Escalating Conflicts: The Importance of Timing”, Brockner et al 1982
+
+
+All subjects were given an initial monetary stake and had the opportunity to win more by taking part in an entrapping investment situation. In Experiment 1, half the subjects were provided with a payoff chart that made salient the costs associated with investing (High-cost salience condition) whereas half were not (Low-cost salience condition). Moreover, for half of the subjects the payoff chart was introduced before they were asked to invest (Early condition) whereas for the other half it was introduced after they had invested a considerable portion of their resources (Late condition). Entrapment was lower in the High salience-Early than in the Low Salience-Early condition. However, there was no difference between groups in the Late condition. In Experiment 2, the perceived presence of an audience interacted with personality variables related to face-saving to effect entrapment. When the audience was described as ‘experts in decision making,’ subjects high in public self-consciousness (or social anxiety) became less entrapped than those low on these dimensions. When the audience consisted of individuals who ‘wished simply to observe the experimental procedure,’ however, high public self-consciousness (or social anxiety) individuals were…more entrapped than lows. Moreover, these interaction effects occurred when the audience was introduced late, but not early, into the entrapment situation. Taken together, these (and other) findings suggest that economic factors are more influential determinants of behavior in the earlier stages of an entrapping conflict, whereas face-saving variables are more potent in the later phases.
+
+
+…For example, individuals may ‘throw good money after bad’ in repairing an old car, remain for an excessively long period of time in unsatisfying jobs or romantic relationships, or decide to escalate the arms race (even in the face of information suggesting the impracticality of all these actions) because of their belief that they have ‘too much invested to quit’ (Teger, 198046ya).
+
+↩︎
+- 
+
+“Face-saving and entrapment”, Brockner 198145ya:
+
+
+Entrapping conflicts are those in which individuals: (1) have made substantial, unrealized investments in pursuit of some goal, and (2) feel compelled to justify these expenditures with continued investments, even if the likelihood of goal attainment is low. It was hypothesized that entrapment (ie. amount invested) would be influenced by the relative importance individuals attach to the costs and rewards associated with continued investments. Two experiments tested the notion that entrapment would be more pronounced when costs were rendered less important (and/or rewards were made more important). In Experiment 1, half of the subjects were instructed beforehand of the virtues of investing conservatively (Cautious condition), whereas half were informed of the advantages of investing a considerable amount (Risky condition). Investments were more than twice as great in the Risky condition. Moreover, consistent with a face-saving analysis, (1) the instructions had a greater effect on subjects with high rather than low social anxiety, and (2) individuals with high social anxiety who participated in front of a large audience were more influenced by the instructions than were individuals with low social anxiety who participated in front of a small audience. In the second experiment, the importance of costs and rewards were varied in a 2 × 2 design. As predicted, subjects invested statistically-significantly more when cost importance was low rather than high. Contrary to expectation, reward importance had no effect. Questionnaire data from this study also suggested that entrapment was at least partially mediated by the participants’ concern over the way they thought they would be evaluated. Theoretical implications are discussed.
+
+
+Disagreeing with Brockner 198145ya on the social concern part; “Factors Affecting Entrapment: Justification Needs, Face Concerns, and Personal Networks”, Karavanov & Cai 200719ya:
+
+
+The current investigation did not support the findings from previous studies that suggest that justification processes and face concerns lead to entrapment. This study found that only internal self-justification and other-positive face concerns are related to entrapment, but instead of contributing to entrapment, these aspects prevent individuals from becoming entrapped. Personal networks were demonstrated to have positive effect on both self- and other-positive face concerns, providing empirical support for the value of using personal networks as a predictor of face goals. However, personal networks did not contribute to entrapment.
+
+↩︎
+- 
+
+Heath takes the use of ‘budget accounting’—which can lead to reduced total return, as it did for subjects in his experiments, who if they stuck it out and escalated commitments earned $7.35 versus the budget-users at $4.84—as often conflicting with normative standards. My own perspective is to wonder how much budget making resembles writing down one’s justification for a particular probabilistic prediction, a strategy which reduces hindsight bias when one’s predictions are ultimately falsified.↩︎
+- 
+
+See, for example, Pala et al 2007 which investigated whether causal loop diagrams helped people prevent sunk cost more than being given “a list of important factors”. They didn’t.↩︎
+
+
+
+Error: JavaScript disabled.
+
+Backlinks, similar links, and the bibliography require JS enabled to load.
+        # Backlinks
+
+
+        [Backlinks (what links here)]
+        # Similar Links
+
+
+        [Similar links by topic]
+        # Bibliography
+
+ ' is redundant with the ''; but added to parallel Pandoc-generated headers which set all attributes/classes on both. -->
+        [Bibliography of links/references used in page]
+
+
+
+
+        [&hairsp;Send Anonymous Feedback&hairsp;]
+
+[Quote Of The Day]
+
+[Site Of The Day]
+
+[Annotation Of The Day]
+
+[adblock public service announcement]
+
+      ​
