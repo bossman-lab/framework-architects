@@ -1,0 +1,1085 @@
+# The Melancholy of Subculture Society
+
+[Source](https://gwern.net/subculture)
+
+- 
+
+
+
+    Skip to main content
+
+
+Warning: JavaScript Disabled!
+
+For support of key website features (link annotation popups/popovers & transclusions, collapsible sections, backlinks, tablesorting, image zooming, sidenotes etc.), you must enable JavaScript.
+
+
+
+
+        # The Melancholy of Subculture Society
+
+
+
+
+
+My Little Pony, terrorism, insight porn, Japan, psychology, parasociality
+
+Internet links small groups, helping dissolve big groups; good, bad? But a bit sad.
+            2009-01-12–10y2019-02-05
+            finished
+            certainty: possible
+            importance: 9
+            backlinks
+            similar
+            bibliography
+
+- Surfing Alone
+
+- And Then There Were None
+- Welcome to the N.H.K.!
+- Opting Out
+- The Bigger Screen
+
+- But I Can Get a Higher Score!
+
+- Monoculture
+- Subcultures Set You Free
+- Growing Up
+- Special, like Everyone Else
+- “A Winner Is You”
+
+- Sympathy for the Poor Devil
+- See Also
+- External Links
+- Appendix
+
+- Japan and the Internet
+
+
+If you crack open some of the mustier books about the Internet—you know the ones I’m talking about, the ones which invoke Roland Barthes and discuss the sexual transgressing of MUDs—one of the few still relevant criticisms is the concern that the Internet by uniting small groups will divide larger ones.
+
+# Surfing Alone
+
+
+You may remember this as the Bowling Alone thesis applied to the Internet; it got some traction in the late 1990s. The basic idea is: electronic entertainment devices grows in sophistication and inexpensiveness as the years pass, until by the 1980s and 1990s, they have spread across the globe and have devoured multiple generations of children; these devices are more pernicious than traditional geeky fares inasmuch as they are often best pursued solo. Spending months mastering Super Mario Bros—all alone—is a bad way to grow up normal.
+
+## And Then There Were None
+
+
+The 4 or 5 person Dungeons & Dragons party (with a dungeon master) gives way to the classic arcade with its heated duels and oneupsmanship; the arcade gives way to the flickering console in the bedroom with one playing Final Fantasy VII—alone. The increased graphical realism, the more ergonomic controllers, the introduction of genuinely challenging AI techniques… Trend after trend was rendering a human opponent unnecessary. And gamer after gamer was now playing alone.
+
+
+Perhaps, the critic says, the rise of the Internet has ameliorated that distressing trend—the trends favored no connectivity at first, but then there was finally enough surplus computing power and bandwidth for massive connectivity to become the order of the day.
+
+
+It is much more satisfactory and social to play MMORPGs on your PC than single-player RPGS, much more satisfactory to kill human players in Halo matches than alien AIs. The machines finally connect humans to humans, not human to machine. We’re forced to learn some basic social skills, to maintain some connections. We’re no longer retreating into our little cocoons, interacting with no humans.
+
+
+## Welcome to the N.H.K.!
+
+
+But, the critic continues, things still are not well. We are still alienated from one another. The rise of the connected machines still facilitates withdrawal and isolation. It presents the specter of the hikikomori—the person who ceases to exist in the physical realm as much as possible. It is a Japanese term, of course. They are 5 years further in our future than we are (or perhaps one should say, were?). Gibson writes, back in 200125ya (see also his “Shiny Balls of Mud” short essay):
+
+
+The Japanese seem to the rest of us to live several measurable clicks down the time line. The Japanese are the ultimate Early Adopters, and the sort of fiction I write behooves me to pay serious heed to that. If you believe, as I do, that all cultural change is essentially technologically driven, you pay attention to the Japanese. They’ve been doing it for more than a century now, and they really do have a head start on the rest of us, if only in terms of what we used to call ‘future shock’ (but which is now simply the one constant in all our lives).
+
+
+Gibson also discusses the ‘Mobile Girl’ and text messaging; that culture began really showing up in America around 20051—Sidekicks, Twitter etc. You can do anything with a cellphone: order food, do your job, read & write novels, maintain a lively ‘social’ life, engage in social status envy (‘She has a smaller phone, and a larger collection of collectibles on her cellphone strap! OMG!’)… Which is just another way of saying ‘You can do anything without seeing people, just by writing digital messages’. (And this in a country with one of the most undigitizable writing systems in existence!2 Languages are not created equal3.)
+
+
+The hikikomori withdraws from all personal contact. The hikikomori does not hang out at the local pub, swilling down the brewskis as everyone cheers on the home team. The hikikomori is not gossiping at the rotary club nor with the Lions or mummers or Veterans or Knights. hikikomoris do none of that. They aren’t working, they aren’t hanging out with friends.
+
+
+The paradoxical solitude and omnipotence of the otaku, the new century’s ultimate enthusiast: the glory and terror inherent of the absolute narrowing of personal bandwidth.
+
+
+William Gibson, “Shiny balls of Mud” (TATE 200224ya)
+
+
+So what are they doing with their 16 waking hours a day?
+
+
+## Opting Out
+
+
+But it’s better for us not to know the kinds of sacrifices the professional-grade athlete has made to get so very good at one particular thing…the actual facts of the sacrifices repel us when we see them: basketball geniuses who cannot read, sprinters who dope themselves, defensive tackles who shoot up with bovine hormones until they collapse or explode. We prefer not to consider closely the shockingly vapid and primitive comments uttered by athletes in postcontest interviews or to consider what impoverishments in one’s mental life would allow people actually to think the way great athletes seem to think. Note the way ‘up close and personal’ profiles of professional athletes strain so hard to find evidence of a rounded human life–outside interests and activities, values beyond the sport. We ignore what’s obvious, that most of this straining is farce. It’s farce because the realities of top-level athletics today require an early and total commitment to one area of excellence. An ascetic focus. A subsumption of almost all other features of human life to one chosen talent and pursuit. A consent to live in a world that, like a child’s world, is very small…[Tennis player Michael] Joyce is, in other words, a complete man, though in a grotesquely limited way…Already, for Joyce, at twenty-two, it’s too late for anything else; he’s invested too much, is in too deep. I think he’s both lucky and unlucky. He will say he is happy and mean it. Wish him well.
+
+
+David Foster Wallace, “The String Theory” (July 199630ya Esquire)4
+
+
+They’re not preoccupied with our culture—they’re participating in their own subculture. It’s the natural progression of the otaku. They are fighting on Azeroth, or fiercely pursuing their doujinshi ‘career’, or… There are many subcultures linked and united by the Internet, for good and ill. For every charitable or benevolent subculture (eg. free software) there is one of mixed benefits (World of Warcraft), and one outright harmful (ex. fans of eating disorders, child pornography).
+
+
+The point the critic wants to make is that life is short and a zero-sum game. You lose a third of the day to sleep, another third to making a living, and now you’ve little left. To be really productive, you can’t divide your energies across multiple cultures—you can’t be truly successful in mainstream culture, and at the same time be able to devote enough effort in the field of, say, mechanical models, to be called an Otaking. A straddler takes onto his head the overhead of learning and participating in both, and receives no benefits (he will suffer socially in the esteem of the ‘normals’, and will be able to achieve little in his ‘hobby’ due to lack of time and a desire to not go overboard).5
+
+
+The otaku & hikikomori recognizes this dilemma and he chooses—to reject normal life! He rejects life in the larger culture for his subculture6. It’s a simple matter of comparative advantage; it’s easier to be a big fish in a small pond than in a large one.7
+
+
+## The Bigger Screen
+
+
+Have you ever woken up from a dream that was so much more pleasant than real life that you wish you could fall back to sleep and return to the dream?…For some, World of Warcraft is like a dream they don’t have to wake up from—a world better than the real world because their efforts are actually rewarded.
+
+
+Half Sigma, “Status, masturbation, wasted time, and WoW” (200620ya)
+
+
+EVE Online is unique in gaming in that we have always played on the same massive server in the same online universe since May 200323ya when it first went live. We not only understand the harsh penalties for failure, but also how longevity and persistence is rewarded with success. When you have over 60,000 people on weekends dealing, scheming, and shooting each other it attracts a certain type of gamer. It’s not a quick fix kind of game. We enjoy building things that last, be they virtual spaceships or real life friendships that together translate into massive Empires and enduring legacies. Those of us who play understand that one man really can truly make a difference in our world.
+
+
+Mark ‘Seleene’ Heard (Vile Rat eulogy, 201214ya)
+
+
+As ever more opt out, the larger culture is damaged.8 The culture begins to fragment back into pieces. The disconnect can be profound; an American anime geek has more in common with a Japanese anime geek (who is of a different ethnicity, a different culture, a different religion, a different language…) than he does with an American involved in the evangelical Christian subculture. There is essentially no common ground—our 2 countrymen probably can’t even agree on objective matters like governance or evolution!
+
+
+With enough of these gaps, where is ‘American’ or ‘French’ culture? Such cultural identities take centuries to coalesce—France did not speak French until the 1900s (as The Discovery of France recounts), and Han China is still digesting & assimilating its many minorities & outlying regions. America, of course, had it easy in starting with a small founder population which could just exterminate the natives.
+
+
+The national identity fragments under the assault of burgeoning subcultures. At last, the critic beholds the natural endpoint of this process: the long nightmare of nationalism falls like a weight from the minds of the living, as the nation becomes some lines on a map, some laws you follow. No one particularly cares. The geek thinks, ‘Meh: here, Canada, London, Japan, Singapore—as long as FedEx can reach me and there’s a good Internet connection, what’s the difference?’ (Nor are the technically-inclined alone in this.9)
+
+
+You can test this yourself. Tell yourself —‘The country I live in now is the best country in the world for people like me; I would be terribly unhappy if I was exiled.’ If your mental reply goes something like, ‘Why, what’s so special about the USA? It’s not particularly economically or politically free, it’s not the only civilized English-speaking country, it’s not the wealthiest10…’, then you are headed down the path of opting out.
+
+
+This is how the paradox works: the Internet breaks the larger culture by letting members flee to smaller subcultures. And the critics think this is bad. They like the broader culture11, they agree with Émile Durkheim about atomization and point to examples like South Korea, and deep down, furries and latex fetishists really bother them. They just plain don’t like those deviants.
+
+
+# But I Can Get a Higher Score!
+
+
+In the future, everyone will be world-famous for 15 minutes.
+
+
+Andy Warhol
+
+
+Let’s look at another angle.
+
+## Monoculture
+
+
+Irony has only emergency use. Carried over time, it is the voice of the trapped who have come to enjoy their cage.
+
+
+Lewis Hyde, Alcohol and Poetry: John Berryman and the Booze Talking12
+
+
+One can’t opt out of culture. “There is no view from nowhere.” To a great extent, we are our cultural artifacts—our possessions, our complexes of memes, our habits and objects of disgust are all cultural. You are always part of a culture.
+
+
+Suppose there were only 1 worldwide culture, with no subcultures. The overriding obsession of this culture will be… let’s make it ‘money’. People are absolutely obsessed with money—how it is made, acquired, degraded, etc. More importantly, status is defined just by how much you have earned in your life; in practice, tie-breakers include how fast you made it, what circumstances you made it in (everyone admires a person who became a billionaire in a depression more than a good-times billionaire, in the same way we admire the novelist in the freezing garret more than the comfortable academic), and so on.
+
+
+This isn’t too absurd a scenario: subjects feed on themselves and develop details and complexity as effort is invested in them. Money could well absorb the collective efforts of 7 billion people—already many people act just this way.
+
+
+But what effect does this have on people? I can tell you: the average person is going to be miserable. If everyone genuinely buys into this culture, then they have to be. Their talents at piano playing, or cooking, or programming, or any form of artistry or scholarly pursuit are denigrated and count for naught. The world has become too big—it did not use to be so big, people so powerless13 of what is going on:
+
+
+“Society is composed of persons who cannot design, build, repair, or even operate most of the devices upon which their lives depend…In the complexity of this world people are confronted with extraordinary events and functions that are literally unintelligible to them. They are unable to give an adequate explanation of man-made phenomena in their immediate experience. They are unable to form a coherent, rational picture of the whole.
+
+
+Under the circumstances, all persons do, and indeed must, accept a great number of things on faith…Their way of understanding is basically religious, rather than scientific; only a small portion of one’s everyday experience in the technological society can be made scientific…The plight of members of the technological society can be compared to that of a newborn child. Much of the data that enters its sense does not form coherent wholes. There are many things the child cannot understand or, after it has learned to speak, cannot successfully explain to anyone…Citizens of the modern age in this respect are less fortunate than children. They never escape a fundamental bewilderment in the face of the complex world that their senses report. They are not able to organize all or even very much of this into sensible wholes….”14
+
+
+You can’t make a mark on it unless there are almost as many ways to make marks as there are persons.15
+
+
+To put it another way: women suffer enough from comparing themselves to media images. If you want a vision of this future, imagine everyone being an anorexic teenager who hates her body—forever. In the contemporary First World, people die from starvation, not of food, but pride.
+
+
+We all value social esteem. We need to know somebody thinks well of us. We’re tribal monkeys; ostracism means death.
+
+
+Jaron Lanier: “I’d like to hypothesize one civilizing force, which is the perception of multiple overlapping hierarchies of status. I’ve observed this to be helpful in work dealing with rehabilitating gang members in Oakland. When there are multiple overlapping hierarchies of status there is more of a chance of people not fighting their superior within the status chain. And the more severe the imposition of the single hierarchy in people’s lives, the more likely they are to engage in conflict with one another. Part of America’s success is the confusion factor of understanding how to assess somebody’s status.”
+
+
+Steven Pinker: “That’s a profound observation. There are studies showing that violence is more common when people are confined to one pecking order, and all of their social worth depends on where they are in that hierarchy, whereas if they belong to multiple overlapping groups, they can always seek affirmations of worth elsewhere. For example, if I do something stupid when I’m driving, and someone gives me the finger and calls me an asshole, it’s not the end of the world: I think to myself, I’m a tenured professor at Harvard. On the other hand, if status among men in the street was my only source of worth in life, I might have road rage and pull out a gun. Modernity comprises a lot of things, and it’s hard to tease them apart. But I suspect that when you’re not confined to a village or a clan, and you can seek your fortunes in a wide world, that is a pacifying force for exactly that reason.”16
+
+
+Think of the people you know. How many of them can ‘compete’ on purely financial grounds? How many can compare to the chimps at the top of the financial heap without feeling like an utter failure, a miserable loser? Not many. I can’t think of anyone I know who wouldn’t be at least a little unhappy. Some of them are pretty well off, but it’s awfully hard to compare with billionaires in their department. There’s no way to prove that this version of subcultures is the right one (perhaps fragmenting the culture fragments the possible status), but when I look at simple models, this version seems plausible to me17 and to explain some deep trends like monogamy18.
+
+
+## Subcultures Set You Free
+
+
+If you compare yourself with others, you may become vain or bitter, for always there will be greater and lesser persons than yourself. Enjoy your achievements as well as your plans. Keep interested in your own career, however humble; it is a real possession in the changing fortunes of time.
+
+
+Max Ehrmann, “Desiderata”
+
+
+Having a society in which an artist can mingle as social equals with the billionaire and admit the Nobel scientists and the philanthropist is fundamental to our mental health! If I’m a programmer, I don’t need to be competing with 7 billion people, and the few hundred billionaires, for self-esteem. I can just consider the computing community. Better yet, I might only have to consider the functional programming community, or perhaps just the Haskell programming community. Or to take another example: if I decide to commit to the English Wikipedia subculture, as it were, instead of American culture, I am no longer mentally dealing with 300 million competitors and threats; I am dealing with just a few thousand.19
+
+
+It is a more manageable tribe. It’s closer to the Dunbar number, which still applies online20. Even if I’m on the bottom of the Wikipedia heap, that’s fine. As long as I know where I am! I don’t have to be a rich elite to be happy; a master craftsman is content21, and “a cat may look at a king”.
+
+
+Leaving a culture, and joining a subculture, is a way for the monkey mind to cope with the modern world.
+
+
+## Growing Up
+
+
+Often, I must speak otherwise than I think. That is called diplomacy.
+
+
+Stilgar, Frank Herbert’s Dune Messiah
+
+
+I have a theory about why so few older people are hikikomoris or otaku.
+
+
+I think that they have succumbed to learned helplessness: they’ve suffered throughout their entire life the fear22 & stress of walking down a crowded street and having no idea who all these people are, what threat they are23, or how they relate to you, and their minds have been warped to the point that it no longer bothers them, they’ve simply adapted to the mental burden24. (As one would expect, young people are more exhausted by groups25.) The remaining mental dislocation is handled by exactly those small-scale social organizations whose passing Putnam bemoans in Bowling Alone. (This solution is as viable as it ever was. But the young have other options, and are no longer forced into this ancient conformity.)
+
+
+Stress is an important issue. You can ask the primatologists, they’ll tell you. Social stress shortens lives. The monkeys on the bottom of the heap don’t live as long as they should; the hormones like cortisol damage the body26. The ape at the top of the heap may not live particularly long either, but at least he can see his death coming. Madness is not associated with the countryside; it is with the city27, perhaps due to stress or low-level infections28.
+
+
+## Special, like Everyone Else
+
+
+I thought that everyone in Japan had to be packed in there. So I turned to my dad and asked him, ‘Do you know how many people are here right now’? He said since the [baseball] stadium was full, probably fifty thousand…I was only one little person in that big crowded stadium filled with people, and there were so many people there, but it was just a handful out of the entire population. Up till then, I always thought that I was, I don’t know, kind of a special person. It was fun to be with my family. I had fun with my classmates. And the school that I was going to, it had just about the most interesting people anywhere. But that night, I realized it wasn’t true. All the stuff we did during class that I thought was so fun and cool, was probably happening just like that in classes in other schools all over Japan. There was nothing special about my school at all.
+
+
+Haruhi Suzumiya, a nothing-special girl (The Melancholy of Haruhi Suzumiya)
+
+
+Chronic stress is particularly toxic. If the stress is caused by an unclear and extremely low place in the social order, then modern man will constantly suffer it, and his health will be impaired by it.
+
+
+When one considers this, it’s clear that seceding from the culture at large can have benefits that the larger culture can never deliver. A larger culture can never reduce the number of people I need to know about to a few hundred or thousand; it can never give me an intuitive place in the scheme of things. 7 billion, or even 300 million, is just too large.
+
+
+But a subculture can deliver that. A subculture can know my name, and pat me on the back for an achievement that to a larger culture is incomprehensible at best and trivial or objectionable at worst. A subculture can remove that social stress.
+
+
+And if we were to take it even further? If we chose a subculture that was online, and we never went outside? Then all the stress would be gone; if one doesn’t walk down the street, one isn’t bothered by strangers in such close proximity.
+
+
+## “A Winner Is You”
+
+
+You are right, Jeanne, I don’t know how to care about the salvation of my soul.
+
+Some are called, others manage as well as they can.
+
+I accept it, what has befallen me is just.
+
+I don’t pretend to the dignity of a wise old age.
+
+Untranslatable into words, I chose my home in what is now.
+
+
+Czesław Miłosz, “A Conversation With Jeanne”
+
+
+The ability to play chess is the sign of a gentleman. The ability to play chess well is the sign of a wasted life.
+
+
+Paul Morphy?29
+
+
+To judge by many people’s revealed preferences, work is what is most important to them, yet the common saying goes that on one’s deathbed, no one wishes they’d spent more weekends in the office; is Jiro Dreams of Sushi admirable, or horrible? Particularly the treatment of Jiro’s two sons and his minimal relationship with his own wife gives one pause for thought. Speaking of Jiro, it’s worth noting that the protagonist of world-famous director Hayao Miyazaki’s The Wind Rises is also named Jiro, and speaking of Miyazaki, there are some interesting remarks by his son Goro Miyazaki30:
+
+
+Hayao Miyazaki, to me, is “Zero Marks as a Father, Full Marks as a Director”. My father was almost never at home. That’s why for me, when I was a child, my mother had to fill the place of my father. My father came home every day in the middle of the night, after I had already gone to sleep. He was always very conscientious in this regard—apparently, no matter how late it was, he always made sure that he came home. But almost every Saturday and Sunday he was still at work regardless. That’s why, from my earliest awareness to the present day, I hardly ever had the chance to talk to him. He always came back after I was asleep, and when I left for school at 8 o’clock he was still asleep. That’s why, when I was in elementary school, before going to school I often used to go and look in the bedroom to see if my father was there or not. My father threw himself completely into his work. Not only did he not look after the children, he never did a single bit of housework. So my mother did all of that. My mother was also an animator, but when my younger brother was born, just before I started going to elementary school, my father changed workplaces, and his work got even busier than before. So the result was, that in order to bring up the children, my mother had no choice but to give up being an animator.
+
+
+For a great artist, one could perhaps justify the costs. But for other people…?
+
+
+A phenomenon in various fields is Lotka’s law, which is an exponential power law for number of publications per authors: most publish few, but a few publish many. Simonton decades later would formulate the ‘equal-odds rule’ which says that in general, no scientist has a higher batting average than others do; the outsized differences in performance stem from simply the greats publishing a great deal. (One thinks of Gauss’s unpublished notebooks, revealed to contain many mathematical discoveries found by later mathematicians, when the mathematical historians finally went through them all, or of the gems buried in the notes of the American logician Charles Sanders Peirce.) Hence, Lotka’s law extends to the actual discoveries: most make a few, but a few make many more than they should. Charles Murray remarks in Human Accomplishment on the graphs of ‘great’ artists or scientists (as measured by how many different textbooks or encyclopedias thought they were important enough to mention) that they exhibit—no matter how you try to recalculate or adjust them—an extraordinary imbalance with many minor figures and just a few universal figures, as Lotka’s law predicts; this is odd, since the distribution looks nothing like a bell curve or “normal distribution” as one would predict if greatness were based only on IQ or only on hard-workingness or only on wealth. Some of this is network or Matthew effects, but the simplest explanation is that greatness requires multiple traits: one must be intelligent and hard-working and not desperately poor and… Many of which are normal distributions or similar, and when the requirements multiply out, what is left is a fast-shrinking distribution—like Lotka’s law.
+
+
+One of the requirements for great work in any field is that one must be motivated—one must think one’s work or the field vitally important. It’s hard to become a chess grandmaster if one has contempt for devoting one’s life to studying the minutia of an arbitrary set of rules whose mastery has no utility to anything else whatsoever. I believe this may lead to a paradox of expertise, a winner’s curse: those most likely to have achieved world-class mastery of a topic are systematically the most likely to be self-deluding or badly mistaken about its value. The “grandmasters” of many fields claim their field is uniquely important, which of course cannot be true in general, or uniquely satisfying to them, which seems improbable as any person can have sampled but few of life’s wares. Dinosaur Comics, on the topic of world-class violinists starting in very early youth, asks “What are the odds a 6-year-old would know what a 30-year-old wants to do?”
+
+
+One sees this in chess: various chess figures extol its applicability to finance, with no evidence; or claim it is applicable to politics, despite the analogy being tenuous at best and chess inferior to games like Go, regardless; or place their hopes in chess training of children transferring to faculties like IQ, despite all such attempts at “far transfer”—even far more plausible ones like early enrichment or (most) nutritional supplements or dual n-back—failing for the last 60 years and the cited chess studies being either methodologically suspect or contradictory. Is chess really something to spend one’s life on? World chess champion Magnus Carlsen said something interesting in early 2010:
+
+
+Carlsen: “I have no idea [what my IQ is]. I wouldn’t want to know it anyway. It might turn out to be a nasty surprise.”
+
+
+SPIEGEL: “Why? You are 19 years old and ranked the number one chess player in the world. You must be incredibly clever.”
+
+
+Carlsen: “And that’s precisely what would be terrible. Of course it is important for a chess player to be able to concentrate well, but being too intelligent can also be a burden. It can get in your way. I am convinced that the reason the Englishman John Nunn never became world champion is that he is too clever for that…At the age of 15, Nunn started studying mathematics in Oxford; he was the youngest student in the last 500 years, and at 23 he did a PhD in algebraic topology. He has so incredibly much in his head. Simply too much. His enormous powers of understanding and his constant thirst for knowledge distracted him from chess.”
+
+
+SPIEGEL: “Things are different in your case?”
+
+
+Carlsen: “Right. I am a totally normal guy. My father is considerably more intelligent than I am.”
+
+
+Can we exempt subcultures from this line of thought? Are those who become “Otakings” kings only of folly? This is the curse of knowledge: those who know, do not do—and those who do not know, do.
+
+
+# Sympathy for the Poor Devil
+
+
+The secret of Tokyu Hands is that everything on offer there inclines, ultimately, to the status, if not the perfection, of hikaru dorodango. The brogues, shined lovingly enough, for long enough, with those meticulously imported shoe-care products, must ultimately become a universe unto themselves, a conceptual sphere of lustrous and infinite depth.
+
+
+Just as a life, lived silently enough, in sufficient solitude, becomes a different sort of sphere, no less perfect.
+
+
+Gibson, “Shiny Balls of Mud”
+
+
+Society, looked at objectively, has a lot of downsides31. For anyone who hasn’t already bought into society, who isn’t perfectly suited for it, becoming a hikikomori is a halfway logical reaction. They have their reasons, and we can even tie the justifications to scientific results.
+
+
+If someone really prefers their subculture, which gives them mental ease and physical health, then what right do the rest have to interfere and drag them into the main culture? Large homogenous cultures are accomplished only with great effort, and much bloodshed of body and mind. Their benefits are unclear, and the justifications transparently self-serving. Perhaps we should accept gracefully the inevitable sundering of ‘national’ cultures, and learn to operate within a truly multicultural world. Each of us with a niche of our own, on respectful (if uncomprehending) terms with all the other subcultures.
+
+
+…I think he’s both lucky and unlucky. He will say he is happy and mean it. Wish him well.
+
+
+David Foster Wallace, “String Theory”
+
+
+# See Also
+
+
+- 
+
+Parasocial relationships online
+- 
+
+“Terrorism Is Not About Terror”
+- 
+
+“Earth in My Window”, Takashi Murakami (Little Boy 200521ya)
+- 
+
+My Little Pony: Friendship is Magic
+- 
+
+Reality is Broken: Why Games Make Us Better and How They Can Change the World, McGonigal 201115ya / The Utopia of Rules: On Technology, Stupidity, and the Secret Joys of Bureaucracy, Graeber 2015
+
+
+# External Links
+
+
+- 
+
+Discussion:
+
+- 
+
+Reddit: 1, 2
+- 
+
+Hacker News: 1, 2
+- 
+
+MetaFilter
+
+- 
+
+“Master of His Virtual Domain” (on the world champion of Clash of Clans)
+- 
+
+Ribbonfarm:
+
+- 
+
+“Warrens, Plazas and the Edge of Legibility”; “Construction of arbitrarily strong amplifiers of natural selection using evolutionary graph theory”, Pavlogiannis et al 2018 (creating subpopulations with topologies designed for much more efficient natural selection—implications for evolutionary RL or online “plazas and warrens”-style community design?)
+- 
+
+“The Missing Folkways of Globalization” -(Venkatesh Rao) (Third culture kid)
+- 
+
+“The Premium Mediocre Life of Maya Millennial”: marketing fake status
+- 
+
+“Welcome to the Future Nauseous”
+
+- 
+
+“Social Status: Down the Rabbit Hole”/“The Economics of Social Status”, Kevin Simler
+- 
+
+“The Lying Disease: Why Would Someone Want to Fake a Serious Illness on the Internet?” (Munchausen syndrome & Munchausen syndrome by proxy online)
+- 
+
+“Oaks versus Sandboxes”, Michael Anissimov
+- 
+
+“Redistribute wealth? No, redistribute respect.” / “Where Are People Respected The Most?” / “40 Years on the Status Treadmill”
+- 
+
+“The reputation 1%”
+- 
+
+“The Economics of Status”
+- 
+
+“Why Envy Dominates Greed”
+- 
+
+“Status Groups and Symbolic Capital”
+- 
+
+“Depression Is Not A Proxy For Social Dysfunction”
+- 
+
+“The Refragmentation”
+- 
+
+“Hearts, Clubs, Diamonds, Spades: players who suit MUDs”, Bartle 199630ya; “The Ideal Self at Play: The Appeal of Video Games That Let You Be All You Can Be”, Przybylski et al 2012
+- 
+
+“Thrasyllus’ Syndrome”
+- 
+
+“Why men are giving up jobs for gaming: Escape to another world”
+- 
+
+“Doing My Dailies: Why I Quit WoW And Started Working Out”
+- 
+
+“Violence and the Sacred: College as an incubator of Girardian terror”, Dan Wang
+- 
+
+“Status as a Service”, Eugene Wei
+- 
+
+Autonomous sensory meridian response
+- 
+
+self-immunizers
+- 
+
+Slime
+- 
+
+Reborn baby dolls (“A Natural Mother”; “The Doll Mommies Are Fighting”)
+- 
+
+Hobby horse (toy) (Finland)
+- 
+
+Breyer horses (Breyerfest)
+- 
+
+“United States of Paranoia: They See Gangs of Stalkers” (‘Targeted individuals’ network online)
+- 
+
+“Ghost Babies”
+- 
+
+“On the construction of beacons”, Benjamin Hoffman
+- 
+
+“The Lure of Luxury”, Paul Bloom
+- 
+
+“How Cameo Turned D-List Celebs Into a Monetization Machine”
+- 
+
+“The garden of forking memes: how digital media distorts our sense of time”
+- 
+
+“What ARGs Can Teach Us About QAnon”
+- 
+
+“Once Upon A Jihad: Life and death with the young and radicalized”
+- 
+
+“Experiencing Ecstasy: How Bad It Is to Be 20 Years Old”
+- 
+
+“My Year in San Francisco’s $2 Million Secret Society Startup”
+- 
+
+“This player spent $2 million in a mobile game. Then he led a boycott.”
+- 
+
+Matt Lakeman: “Peep Show—The Most Realistic Portrayal of Evil Ever Made”; “Hillbilly Elegy—The Culture of White American Poverty”; “The New Epidemic—My Experience of Losing a Friend to Heroin”; “A Deep Dive into K-pop”
+- 
+
+“The Deadweight Loss Of Social Recognition”, Butera et al 2019
+- 
+
+“The Twitching Generation: Around the world, doctors have noticed teenage patients reporting the sudden onset of Tourette’s tics. Is this the first illness spread by social media?”; “Hurts So Good: Why are so many young women suffering from invisible illnesses? Meet the girls in a world of pain”
+- 
+
+“Public perceptions of local influence”, Hochberg & Hersh 2023
+- 
+
+“Roller Derby as a Secular Alternative to Religion?”, Wollschleger 2022
+- 
+
+“Vertical communities: The internet has changed what ‘community’ means”, Noah Smith
+- 
+
+“Why Good Ideas Die Quietly and Bad Ideas Go Viral: A new book, Antimemetics: Why Some Ideas Resist Spreading, argues that notions get taken up not because of their virtue but because of their catchiness”
+- 
+
+“The Name of the Game is Self-Cultivation: Dreams of Daoist transcendence go through the online looking glass” (Chinese escapism and “cultivation fics”/games)
+
+
+# Appendix
+
+
+## Japan and the Internet
+
+
+The future of technology isn’t what it used to be—a discussion of the collapse of Japanese influence on technology & design.
+
+
+Why did Japanese companies cease to be the admired cutting-edge of computer, video game, Internet, or smartphone technology, underperforms in critical areas like software design (such as programming languages) and is instead one of the last havens of fax machines & feature phones, with prestigious but largely useless humanoid robotic programs?
+
+
+(Written primarily in 201214ya, but depressingly applicable to 2025.)
+
+
+I quoted approvingly Gibson’s old 2000s dictum that Japan was further into the future than the West. This used to be more true than it is, and the discrepancy started being noted as early as 199828ya, in Ohsuga’s “The Barriers to Software Development in Japan”. The problem is the dog which did not bark: there is a curious lack of Japanese contributions in software technology. Japan has a highly educated population a good fraction of the size of US population (127m vs 300m), considerable indigenous R&D capability (albeit declining), long involvement in computing hardware, early dominance of entire categories of consumer electronics etc. Hence, if all were equal, one would expect something like a third of all major software packages written by Japanese or Internet services developed by Japanese, and so on. Instead, one notices almost a complete absence of such Japanese contributions. (To the extent one doesn’t notice this, one is engaging in base rate fallacy—Japan ought to be producing much globally selling or popular software and its absence is surprising32.) In software, the only major contribution I know of is the Ruby programming language 33; one could argue that would-be FLOSS contributors are “bled off” or parasitized by the Anglosphere FLOSS communities (and are somehow invisible there), but I am continually struck by the almost complete absence of FLOSS in doujinshi media & the survival and massive popularity of closed-source software, where this argument should not apply and where FLOSS practices would entirely appropriate. Websites are simply ugly; Oliver Reichenstein:
+
+
+OR: Japanese web or app design is not comparable to Japanese art, graphic design or architecture. I could fill a page explaining why. It has to do with the way Japanese read, with the corporate fear of doing something different, and with the generally low level of design for the masses. One reason why Japanese web and app design feels weak is that technology requires good active and passive knowledge of English. English is the lingua franca of contemporary web and app development, both of our tools and our discourse. Even if you master English-based Objective-C or JavaScript, if you are not able to communicate with the international community of developers and designers, you miss out on what is desirable, even what is possible. Japanese developers and designers that don’t speak English are trapped within the relatively low level of tech and design that currently reigns in the Japanese corporate world…The average web site, app, advertisement… it’s usually really badly designed. That might be hard to believe from the outside, because only the best of the best of Japanese design reaches the rest of the world, but with the web it has become more obvious how bad basic design is in Japan. Yes, the standard for Japanese design in general is as low as for Japanese web design. Why? Nothing is more destructive to good design than group thinking and collective decision making. Why? As I said, to most people good design is invisible. Group decisions focus on the visible, bad aspects of design.
+
+
+There have been attempts to justify the existing set of web design practices, but I find them unconvincing: this fits a general trend, has a clear origin in slower computers & weaker Internet of decades ago and attempts to mimic completely different media like paper, existed in other countries but have been superseded, are gradually waning in Japan, anecdotes from website designers indicate objective inferiority in A/B tests & conversions, and the practices have not spread worldwide (while rival paradigms do seem to be spreading or be copied).
+
+
+The Japanese IT industry is fairly dysfunctional, even if its inefficiencies result in cute Easter eggs. For example, the SMS-inspired Internet service cited as integral to the 2011 Tohoku earthquake and tsunami disaster recovery was not a Japanese service, but the American Twitter.
+
+
+In the 1990s and earlier, near-total Japanese domination of consumer electronics and video games in particular was simply a fact of life; but in the 2000s, the trends began to reverse (with Nintendo particularly slipping) and by the 2010s, there is open discussion of what once was an insane proposition: that Japan was not making good or innovative computer or video games and had succumbed to Galápagos syndrome. This may be a consequence of Japanese preference for video game consoles over computer games (what best-selling Japanese computer games there are seem to fall into the visual novel family of genres), but even if this is not a post hoc explanation, it is still passing the explanatory buck: why, then, was there a Japanese preference for the consoles in the first place, and why didn’t the equivalent huge popularity of consoles in America or Europe lead to any similar disease? Why was the Japanese ratio of console:computer above a fatal limit, but not also the American or European percentages?
+
+
+Nor are the doujin and FLOSS scenes much better, as previously mentioned: Touhou Project games remain always closed-source and are not distributed outside Japan; Westerners would never tolerate a common animation tool like MikuMikuDance being only freeware, and would insist on it being opened—if only to deal with abandonment issues & make bug-fixing and extensions easier. For every major Western closed-source platform or technology, there is someone trying to make a FLOSS equivalent, even when the alternative is noncompetitive or the task would seem impossible (eg. Diaspora vs Facebook). It’s interesting to note that the only visual novel I have ever heard of being under a CC license (albeit a highly restrictive CC-BY-NC-ND one) is the Western Katawa Shoujo. Of the 5 major visual novel engines—basic game infrastructure that cries out for open-source licensing—only 2 are so licensed. I’ve wondered if there’s an ethnic or nationalist thing going on here: there has always seemed to be an ambivalence in the anime industry about selling overseas (one creator of Serial Experiments Lain expressed surprise & dismay that it was popular in America343536, as did for Evangelion37), one echoed in other areas like Touhou doujin music38. (In contrast, I have a hard time even imagining any American company like Disney having the slightest compunction or concern about selling overseas to non-Americans, much less stating their ambivalence.)
+
+
+Japan, while originally the leader in cellphones has forfeited its lead and has been outcompeted by Finnish and American cellphones, with surprisingly low smartphone adoption c. 201115ya, perhaps related to the continued use of floppies & fax machines (whose Japanese popularity peaked at around 60% of households 2007–5201214ya); other parts seem trapped in amber—how surreal to discover in 2020 while ordering a book that Amazon.co.jp supports COD as a payment method, which in America hardly existed in 1990. Gibson’s article seems laughably out of date in this age of the iPhone (part 2), but it was true! One could also wonder why Internet cafes are an institution in South Korea and an obscure niche in Japan? (Patrick McKenzie makes multiple interesting remarks on the parlous state of Japanese IT and cellphones which are too lengthy to quote here.)
+
+
+Another curious case is the Japanese robotics industry—their walking robots and competitions have been presented triumphantly as the culmination of Japanese technological development, but the odd thing is, the R&D programs that produced ASIMO or HRP-4C are already looking quixotic and ill-fated, re-runs of the Fifth Generation project. Industrial robots were a very successful field for Japan, but that was decades ago. What robots has Japan produced that were as useful as a Roomba? Why were the robots at the Fukushima plant American? (And then there is the exploding field of aerial drones and swarms, which Japan seems excluded from. One thinks of Edsger W. Dijkstra—“The question of whether Machines Can Think… is about as relevant as the question of whether Submarines Can Swim.” Or walk, as the case may be.)
+
+
+Japanese Internet services restrict themselves to Japan either by apathy or by actively blocking foreign IP address via geoip, which may ultimately be a recipe for failure. (The South Korean social network Cyworld failed in its attempts to expand internationally, and now its lunch is being eaten by Facebook. YouTube has done a similar number on Korean competitors. The Japanese equivalent to Cyworld, Mixi seemed to be fending off Facebook, at least until mid-2012 or so.) Another example comes from P2P filesharing, which is rarely done for movies or music (in favor of growing CD sales; “many top [K-pop] artists make more money from one week in Japan than they do in one year in Korea”); this is not due just to a sclerotic entertainment industry as we note a similar obsession with CDs in amateur doujin circles as well. Curiously, Japanese geeks who do fileshare choose to use Winny/Share/Perfect Dark—all of which are closed-source, employ security through obscurity, Windows-only, implementation-defined, are not used outside Japan, and are known to be insecure with multiple arrests & NetAgent claims to have broken Perfect Dark; from the perspective of Western users, these are all fatal objections and they haven’t used such insecure and untrustworthy P2P software since the days of Napster and Kazaa. Even Western hentai porn sites have better implementations and contents than the Japanese sites, though it’s the Japanese who produce all their content!
+
+
+W. David Marx in 200917ya listed other striking aspects of the Japanese intranet, as it were, in his essay “The Fear… of the Internet”; from just one section, ‘User Trepidation’:
+
+
+- 
+
+A total and comprehensive refusal of Japanese social network site users to post real pictures of themselves (and often, real names)
+- 
+
+An obsession with ultra-long and complicated mobile-email addresses as a spam prevention measure, despite the fact that its effect may be minimal, especially when weighed against the inconvenience.
+- 
+
+A lack of user generated media—YouTube clips, in particular—featuring Japanese faces and real names. Many performers, despite virtuoso-level skills, wear masks or otherwise obscure faces in their video content. [eg. the entirely masked Nico Nico Orchestra]
+- 
+
+The predominance of anonymous sites like 2ch as the main corridors of internet culture.
+- 
+
+Blog writers, who have not established fame through other media, almost never reveal real names, even when the information and service provided is of professional quality and not explicitly personal. (More on this here.)
+- 
+
+The local discomfort towards Google Street Maps—debated on somewhat cultural-essentialist grounds—vastly outweighed the benefits for the louder section of Japanese users, forcing Google to plan a re-shoot of all the streets with a ‘lower angle camera’.
+
+
+I was struck by the point that “Newspapers do not offer full content online and quickly erase content lest it become searchable archives.” inasmuch as during my Evangelion research, I had been using an interview published by Mainichi Shimbun online, but the entire site vanished months later in a merger with Microsoft Japan; I assumed it would still be available in the Internet Archive, except the IA had blocked access to every single page ever in the entire domain. More extraordinarily, this was not accomplished via the usual robots.txt mechanism, implying Mainichi Shimbun had privately contacted the IA to ask for a custom block on the domain!
+
+
+The comments mention that the Japanese Wikipedia is smaller than it should be compared to other successful Wikipedias like the German Wikipedia; and I agree since, despite working on many English Wikipedia articles related to Japan like Fujiwara no Teika or the Neon Genesis Evangelion articles, I have never found anything useful on the Japanese Wikipedia (reading them via Google Translate) and further, my articles have often been better and more comprehensive.
+
+
+The blogger Spike Japan discusses the state of Japanese bandwidth and offers a similar list (in reply to the oped “The Myth of Japan’s Failure”):
+
+
+You can access Akamai Technologies’ State of the Internet Report by registering here. The most recent one that seems to be freely available is for 201115ya Q2. Our first lesson is on the use and abuse of statistics. That the Japanese city with the fastest average Mbps, Shimotsuma, ranked 3rd in the world, is a small Tokyo dormitory community to which very few Japanese could point on a map, and that one of the Japanese “cities” in the top 50, Marunouchi, is not a city, nor even a ward of Tokyo, but a few blocks of office buildings clustered around Tokyo station, make it readily apparent that if you are a largish country for which Akamai has a lot of data collection points and you have a highish average connection speed, then of course you are going to dominate the city rankings. For a more truthful picture of Internet infrastructure, we need to turn to a country-level analysis. In 201115ya Q2, Japan ranked third for average connection speeds, at 8.9Mbps, behind South Korea at 13.8Mbps and Hong Kong at 10.3Mbps. Impressive, to be sure, but not quite the picture of global leadership that Fingleton insinuates it has. Indeed, the broader the metric becomes, the worse the picture looks for Japan: for high broadband connectivity (above 5Mbps), the Netherlands ranks first at 68% of all connections, Japan ranks 6th, at 55%, and the US 13th at 42%, while for good old-fashioned broadband connectivity (above 2Mbps), 10 mostly European countries have penetration rates over 90%, the US ranks 35th at 80%, and Japan is actually behind the US, coming in 39th place at 76%. What’s more, Japan’s high broadband connectivity actually fell 8.9% YoY and its broadband connectivity fell 12% YoY, while the rates of almost all other countries surged. Not all that stellar a performance at the broadest end of the spectrum, especially given how suited relatively small, very densely populated Japan is to the build-out of broadband.
+
+
+…There are hosts of other fascinating metrics that show how tentative the Japanese embrace of the Internet has really been: online sales as a percentage of retail sales are far lower in Japan than the developed country average, due to credit-card security concerns (which interestingly are not shared by the South Koreans), online media time consumption is lower than it is in South Korea, China, the US, or the UK, online advertising spending as a percentage of total advertising spending is likewise lower, the money that is spent on advertising is more focused on display than on (more sophisticated) search than elsewhere, usage rates of social networking services such as Facebook are far below those of peer countries, and the Internet is used overwhelmingly for its old-school features-news, search, and e-mail-rather than more up-to-the-minute features such as online music, online gaming, and online banking.
+
+
+On music: in 2012, “Japan has surpassed the U.S. as the biggest seller of CDs, vinyl and cassette tapes, with 25.4% of global sales, according to the Recording Industry Association of Japan”.
+
+
+A Wired writer, investigating a rare bright spot in Japanese Internet culture (“In Search of the Living, Purring, Singing Heart of the Online Cat-Industrial Complex”), writes:
+
+
+Lest I unfairly ratchet up your collective expectations: I will never get to pet Maru, and neither will you. Maru’s supervisory documentarian is named Mugumogu, but beyond that fact, hardly anything is known about her. When I write Maru’s US book publicist-you read that right-it turns out that she knows no more than you or I. The publicist loops in Maru’s US book editor, who offers to pass along some interview questions to Mugumogu’s Japanese agent, who could have them translated, answered, and sent back. But I have no questions for the human being called Mugumogu. My interest lies entirely with the cat. I write back to the US editor in my most professional tone, the one in which I don’t sound like somebody who watches cat videos all day, and say that for my purposes I need to meet Maru IRL. I am willing to sign an IRL NDA. I promise I won’t write a word about Mugumogu herself. I just want 20 or 30 minutes with that cat. A few days later the publicist writes back: Impossible. I’m welcome to write to the Japanese agent, she says, but I should know that not even the agent knows who Mugumogu is; her correspondence all goes through Maru’s Japanese publisher, a certain Okumura-san, of Tokimeki Publishing, a boutique outfit specializing in Internet cat nya-alls and coffee table celebrations of Korean soap operas. I commence months of fruitlessly obsequious email courtship with Mugumogu but ultimately to no avail.
+
+
+All of this reticence is infuriating. In America people post a video of themselves whistling “Free Bird” in a tutu and they’re heartbroken if they’re not immediately invited on The View. It’s different in Japan, though. There, they haven’t yet cottoned to the idea that the whole point of the Internet is not only that it might make you famous and universally loved but that it might make you famous and universally loved overnight, and for no real reason, and that then it would give you fairly precise metrics for just how famous and loved you were, and for how long. For the Japanese, the Internet is primarily not about self-promotion and exposure but about restraint and anonymity.
+
+
+To help me understand this introversion—and also in the hope of making contact with some famous Internet cats—I enlist the assistance of David Marx. An American living in Tokyo, Marx writes a very intelligent, popular blog called Néojaponisme, which I’d stumbled upon in my cat-related forays. In a particularly interesting post, Marx offers three reasons for the Japanese cult of online anonymity. The first, which he deems silly, is the fear that criminals or con men might use personal information to harm an unwary Internet user. The second one, the fear that colleagues or bosses might discover personal details that could be problematic at work, he connects to the Japanese cultural milieu, where “any sort of questionable hobby automatically qualifies as a ‘secret double life.’” The third reason—fear that anonymous mobs might bash anyone who tried to stand out too aggressively online—he considers totally legitimate, “in that the Internet in Japan so far has been almost exclusively about anonymous mobs making trouble for individuals and industry.” (He notes that he once had his own photo posted on a Japanese board called Suspicious Foreigners.) I write Marx a fan email and ask if his theories might apply to the question of why the Internet chose cats. He replies right away. Not only has he written about Japanese media trends, he works at YouTube. We Skype. “Japan was relatively late to getting on the Internet,” he says, “and still lags behind in some ways. But with cat stuff they were always leaders-with cats as their conduits. Think about it.” I think about it. I’ve been doing very little but think about it. “Most of the named cats on the Internet are Japanese,” he observes. It’s an excellent point: Those cats on treadmills and cats on yoga mats and cats being slapped to a Joy Division soundtrack, anonymous grimalkins all. But your Marus, your Maos, and your Shironekos—all of them are in Japan…Marx and I watch a few new cat videos, some of the up-and-comers, those challenging or exceeding Maru’s pageviews. “An interesting thing, here in Japan, is that it’s not just the cat partners who post cat stuff. It’s everybody.” Soezimax, for example, is an action-film maker, one of the most popular partners in Japan, with millions of views. But some of his most popular videos are the ones he posts of the fights he has with his girlfriend’s vicious cat, Sashimi-san, who regularly puts Soezimax to rout. He’s the anti-Maru, the standard-bearer of uncute Internet cat aggression. The videos are slightly alarming, especially when we’re all so used to anodyne felinity. Then Marx brings up Japan’s most popular Internet comedian, who used to post regular videos of himself in a cat café. (In Japan, they have cafés where you go to pet cats.) “It’s like”, Marx says, “no matter how successful you are here on the Internet on your own terms, it’s de rigueur that you still have to do something with a cat.” In a culture of Internet anonymity, bred of island claustrophobia and immobility, the Japanese Internet cat has become a crucial proxy: People who feel inhibited to do what they want online are expressing themselves, cagily, via the animal that only ever does what it wants.
+
+
+ If you quote William Gibson's analysis of Japanese society as authoritative or insightful, you already lose...In terms of tech adoption, Japan may have been ahead of the USA in some respects, but in terms of how their society is structured they're still a few decades behind. Their treatment of women, in particular, would strike an American as archaic and quaintly Mad Men at best, and at worst barbaric and abusive.
+
+I am reminded of a recent discussion on 4chan of, amusingly enough, this very essay, where a 4channer reading the appendix noticed that I wrote "mediums" instead of "media", and outraged, wondered how anyone could take seriously anything I had ever written since I could not even use the word correctly.
+
+At the risk of outraging you still further, can't it be true that "the future is already here, it's just unevenly distributed"? Can't it be possible that in some respects Japanese society is further ahead on a trend than the USA, and in other respect behind?
+
+> Younger Japanese (age 40 and below) tend to be more worldly and cognizant of other cultures, and understand that the social structures which served their parents and grandparents are keeping Japan held back and isolated, economically and socially.
+
+I wonder... Not very long ago, I finished reading my first 'visual novel', one called _Umineko_. The patriarch of the protagonist's family is what one might almost call a Western otaku - English-speaking, European-literature-loving, contemptuous of all things Japanese, and a few spoiler things as well - and the novels themselves are heavily influenced by Western murder mysteries & a bit of philosophy too. I was struck by how old-fashioned this preference seemed in the character. Similarly, I have spent a lot of time on Gainax & Hideaki Anno, and one thing that comes across is how much old Western SF and television Anno & other Gainaxers must have consumed, given the pervasiveness of the references in their work. But younger directors and anime industry figures seem to reference Western materials much less - I would be very surprised to see a _Babylon V_ or _Firefly_ reference in any anime I watched, whereas Anno would freely throw in allusions to Anderson's _Thunderbirds_ TV series and now-obscure Western works like that. I've also seen claims by occasional Japan-related writers that actual English proficiency has declined, which certainly might reduce Western exposure, given how much of it would be in English. All of which makes me wonder what objective metrics there could be for 'more worldly and cognizant of other cultures' and what they would show over the past 3 or 4 decades in Japan?
+-->
+
+
+- 
+
+Of course people were text messaging and using cell phones in America before 200521ya; I mean that 200521ya is, ±2 years, when they became part of the culture—they became de rigeur, text messaging services began popping up, they became incorporated with ‘Web 2.0’, teenage girls would spend all their time messaging each other, etc.↩︎
+- 
+
+On the complexity of natural languages: ASCII—what most English is written in—is specifiable in a page or two; other popular European languages take only a few more pages. Alphabetic scripts like the Korean hangul are similarly compactly specified (although hangul’s syllable composition means that Unicode has to specify a large alphabet—although clearly and definitely finite—of 11,172 syllables).
+
+
+In contrast, the desire of the Unicode developers to include Chinese/Japanese ideograms (limited to ‘only’ 20,940 in Unicode 1.0, some of which were not real) meant that by The Unicode Standard, Version 5.0, the standard ran to 1,472 pages—at which point complete printed editions stopped. Unicode 6.0 (so as to not require an extraordinary number of bits to write such ideograms) tried to hold the line at 75,960—resulting in a multi-decade festering controversy known as Han unification. Said controversy has also encouraged the creation of many other encodings (Wikipedia lists 8 or 9). An outsider might conclude that the complexity of the Unicode solution and the failure of any competitors to defeat it in CJKV usage or phenomenon like “character amnesia” are indications that the writing systems really truly are not simpatico with digital representation. (I will mention in passing that O’Reilly’s—a publisher known for concision and good technical writing—has published a book on working with CJKV text, CJKV Information Processing, Second Edition, which runs 912 pages.) One fascinating example of the problems caused is a method for registering bank accounts employed by ‘one-click fraud’ operators; from “Dissecting One Click Frauds”:
+
+
+Fraudulent bank accounts can be obtained for prices going between 30,000 and 50,000 JPY [ref: “Black market yamamoto web”] from the black market…it is relatively easy to set up fraudulent accounts by taking advantage of the Japanese writing system. Bank accounts internally use a phonetic alphabet (katakana), different from the characters used for most names and nouns (kanji). It is thus possible to create ambiguous account names. For instance, both the “Baking Club of Shirai City” and “Shiraishi Mitsuko” (a person’s name) are pronounced exactly the same, and thus would have the same account holder information. By registering as a non-profit organization, the fraudster may easily bypass most identity checks, and subsequently set up fraudulent transfers using the individual name instead. Creating an account in this fashion would cost much less than 50,000 JPY.
+
+↩︎
+- 
+
+Some people like to relativistically argue that all natural languages are equally complex and such comparisons are meaningless or ignorant (or racist). This is false. Children learn different natural languages at different rates (eg. Danish vs Croatian); this has real effects on their education (why are Estonia & Finland—with highly similar languages & regular spelling—ranked so high on PISA, when the wealthier & healthier Swedish-speaking Finnish minority has lower scores?). To demonstrate with grammatical gender; English has very little gender and when an Anglophone learns French, the male/female genders and associated differences in spelling & endings may strike him as superfluous complexity. He’s right. The gender rules, and specifically memorizing what gender each and every word is, are arbitrary and convey no meaning. They are random—a compression algorithm would choke on them.
+
+
+And we can run a thought experiment (no need to appeal explicitly to algorithmic information theory); imagine a French Prime which is like French but where there is a second gender system with, say, 20 different genders (and accompanying spelling & endings), and for each of the 50,000 words in Dictionnaire de l’Académie française, a random number generator decides what gender it is. By definition, the output of the RNG is unpredictable & uncompressible. All a Francophone can do is memorize 50,000 gender indications if they are to speak proper French Prime. Surely French Prime is more complex than French—all a French Prime speaker has to do is blissfully forget how many thousands of vigesimal genders he memorized. (If this is not intuitively convincing, then let the number of genders go to the 140 of Tuyuca, or 50,000, or however many words there are in a language; the gender rules would be monstrously complex, with no simplification anywhere in the language.)↩︎
+- 
+
+See also Wallace on Tracy Austin.↩︎
+- 
+
+Consider Paul Graham’s essay “Why Nerds Are Unpopular”:
+
+
+And that, I think, is the root of the problem. Nerds serve two masters. They want to be popular, certainly, but they want even more to be smart. And popularity is not something you can do in your spare time, not in the fiercely competitive environment of an American secondary school….
+
+
+…Nerds don’t realize this. They don’t realize that it takes work to be popular. In general, people outside some very demanding field don’t realize the extent to which success depends on constant (though often unconscious) effort. For example, most people seem to consider the ability to draw as some kind of innate quality, like being tall. In fact, most people who “can draw” like drawing, and have spent many hours doing it; that’s why they’re good at it. Likewise, popular isn’t just something you are or you aren’t, but something you make yourself.
+
+↩︎
+- 
+
+Henry Farrell (“For Every New Geek Culture, A Geek Hierarchy”), discussing Clay Shirky’s Here Comes Everybody, agrees with Shirky & me that the Internet is lowering the cost of small groups and hence encouraging their use, but disagrees that they can be replacements for the larger groups:
+
+
+Thus, for example, when impoverished academics sneer at the ‘vulgar’ taste of rich people, they are semi-consciously trying to improve the exchange rate between the kind of cultural capital that they have lots of (‘good taste’ as they themselves define it) and the kind of economic capital that rich people have lots of (money).
+
+
+This helps us think better about status relationships among groups. You can think of groups as providing their members with cultural, social and (sometimes) economic capital. But some groups provide more valuable capital than others. This is to say that the kinds of capital that they produce can be exchanged for other kinds of capital more readily than the kinds of capital produced by other groups. Members of the group of elite World of Warcraft players, for example, is going to have much greater difficulty in exchanging their status capital for economic capital than members of the group of elite golf players (no matter how good a Night Elf Rogue you are, you are unlikely to make millions from endorsements). Similarly, as Clay says, you are unlikely to get written up in the New York Times…I suspect that there are three major effects [of cheap groups]…Second—when the chaos settles down into some kind of relative stability, there will be [major] changes to the terms of exchange. Some groups will come out much better than they had been in the past, and some groups much worse off. The coming of the Internet has improved the relative status of many forms of geek culture—sites like BoingBoing play a very important cultural role. Similarly, the Internet has allowed the netroots to challenge and partially displace existing groups (such as the DLC) in the internal pecking order of Democratic politics. Note however that this isn’t an escape from cultural hierarchy; it’s a re-ordering of existing hierarchies of exchange. This re-ordering may often have attractive features (more possibilities may be more open to a wider variety of individuals than in the pre-existing order), but it’s not fundamentally different in kind to what went before…In the new world that technology has liberated, everyone can, in effect, create their own status hierarchies, where they (because of their mastery of caterpillar-fuzz counting, one-dimensional chess, Chinese Scrabble or whatever) are at or near the top. People can opt out of status races where they are likely to lose, and opt in to status races that they are likely to win. Given a near infinity of possible status hierarchies, they can choose the ones that they do well in. But this argument presupposes that these different possible status hierarchies are disconnected from each other. The empirics seem to me to tell a different story. People are aware not only of their status within particular groups, but of the relative status of different groups. Expansions in the number of groups doesn’t lead the members of those new groups to abandon efforts to figure out the terms of exchange between the groups, or to stop pushing for terms of exchange that privilege their group’s cultural or social capital vis-a-vis that of others. Precisely the opposite is true. For every new geek culture, there is a Geek Hierarchy.
+
+
+…Clay may reasonably be more interested in what’s happening in WoW than in professional golf, and get happiness from the fact that he’s a good WoW player. But he may also find that it is difficult to turn his WoW prowess into other kinds of capital. If he wants to organize a tournament of first rank WoW players to raise money for his favorite charity, he will almost certainly raise far less money than if he were able to recruit first rate professional golfers. The proliferation of new groups may complicate games over relative status, but it surely doesn’t displace them.
+
+↩︎
+- 
+
+“My life sucked when I was fifteen. I was a nobody in the real world. However, once I was able to create my own character in an online universe, I could be anything or anyone and progress in the game became immediate and instantly gratifying. Achieving success in the real world is a very arduous, long, and sometimes risky process. It is hard to explain to a teenage boy that he might have to wait a decade before he will stop feeling so insecure about his place in life.” —The Waygook Effect on an “Estimated 1.9 Million Koreans With an Internet Addiction”. Western-style schooling (universal mandatory age-segregated institutions) seems almost calculated to intensify this adolescent suffering; see also Lord of the Flies, John Taylor Gatto’s The Underground History of American Education, & Paul Graham’s “Why Nerds Are Unpopular”.↩︎
+- 
+
+Japan is again our example. Spike Japan examined the decline of karaoke, and linked it out to the ‘atomized society’ by way of time surveys of Japanese citizens showing extraordinary declines in activities like ‘talking with family’, ‘playing sports’, and even declines in activities like ‘caring for the elderly’.↩︎
+- 
+
+Consider “The Rise of the New Global Elite”, The Atlantic, whose author editorializes:
+
+
+What is more relevant to our times, though, is that the rich of today are also different from the rich of yesterday. Our light-speed, globally connected economy has led to the rise of a new super-elite that consists, to a notable degree, of first- and second-generation wealth. Its members are hardworking, highly educated, jet-setting meritocrats who feel they are the deserving winners of a tough, worldwide economic competition-and many of them, as a result, have an ambivalent attitude toward those of us who didn’t succeed so spectacularly. Perhaps most noteworthy, they are becoming a transglobal community of peers who have more in common with one another than with their countrymen back home. Whether they maintain primary residences in New York or Hong Kong, Moscow or Mumbai, today’s super-rich are increasingly a nation unto themselves.
+
+↩︎
+- 
+
+Not by national gross of course, which is meaningful only to governments, but per capita; that is, on the day-to-day basis we live in, the metric that actually matters.↩︎
+- 
+
+Although any nostalgia for the ‘good old days’ (where everyone watched the same handful of shows on the same 3 TV networks at the same time after dinner…) should be tempered by the fact that so many people try desperately to escape it for a subculture.↩︎
+- 
+
+pg90; as cited in “Michael Kroger, Overcoming Irony: The Creative and Destructive Forces of Chuck Palahniuk’s Choke”↩︎
+- 
+
+The participants in the Biosphere 2 experiment come out having lost weight and improved their health thanks to their nutritious (traditional) diet and daily agricultural labor; but it’s striking that they report their mental health to so improved; from section 7.7 (“Humans as Participants in Closed Ecological Systems”) of “Living In Space: Results From Biosphere 2’s Initial Closure, An Early Testbed For Closed Ecological Systems On Mars”, Nelson & Dempster 199630ya (the former was a participant):
+
+
+…A somewhat subtle but important result of the two year closure experiment relates to the human dimension of living in a small biospheric system. As mentioned, the design of Biosphere 2 was motivated in part by the recognition that creating a place of beauty was important as the system is not only functional life support but effectively “the world” for the crew for the time that it is inhabited. Each of the eight biospherians of Mission One reported a heightening of awareness of their connection to this world. It is so small that every action is seen to have an impact—for better or worse—on its functioning. There are no “anonymous” actions—the feedback loops are virtually instantaneous. Nor can one mistake that an action in one part of the system will not have consequences elsewhere.
+
+
+In a paper written while still experiencing the reality of life inside Biosphere 2 (Nelson and Alling, 199333ya), two of its crew expressed it thus:
+
+
+Our personal experience during the past nineteen months within this closed system has been extremely satisfying. Living as an integral component in our small world, both responsible for maintaining it and benefiting from its support, has been as rewarding as it has been challenging. It has changed our perspectives on the role of humans in all closed systems, whether they be artificial systems like Biosphere 2 or natural closed systems like Biosphere 1, our Earth’s biosphere. We participate in a partnership with our biosphere to enhance its well-being by using our own resources, as well as by calling on an extensive network of scientists and engineers on the outside and employing technologies designed to assist in creating desired environmental conditions. There is a new harmony in this effort because our daily experience confirms the fact that we rely on the life systems for survival, and at the same time, the ecological systems depend on our efforts to maximize production and sustain overall health. In a small closed ecological system the equation ‘our biosphere’s health equals our health’ becomes dramatically evident.
+
+
+↩︎
+- 
+
+Autonomous Technology: Technics-Out-Of-Control (198937ya), Langdon Winner↩︎
+- 
+
+Activist Julian Assange, “Sat 16 Jun 200719ya: Everyone and no one wants to save the world”
+
+
+You must satisfy your invariant instincts or you will be at odds with your own character. It is only when we are not at odds with our basic makeup that we can find life meaningful. To exercise your instinct for saving the world, requires saving what you perceive to be the world. Being modern, educated and worldly, the world you perceive is immense and this is disempowering compared to the valley world of your ancestors where your feelings were forged and where saving 10 people saved 10% of the “world”’s population.
+
+
+Here lays the difficulty in actualising your character. Your perception is of a world so vast that that you can not envisage your actions making a meaningful difference.
+
+↩︎
+- 
+
+“A History of Violence”: Edge Master Class 2011↩︎
+- 
+
+We can expand out this argument more formally. Social ‘status’, whatever that is (like time, it is hard to define but it is vital and everyone understands it), is often considered a positional good: “products and services whose value is mostly (if not exclusively) a function of their ranking in desirability by others, in comparison to substitutes.” If we think of it as a bookshelf, we can see that if we move one book to the leftmost spot, we force rightwards all the other books. The shelf may not be full, in which case it’s possible for us to move all the books leftwards, but not very much and we quickly use up the gaps. If we want to move the books even more leftwards, there’s nothing we can do but destroy the bookcase entirely. This is unlike many other goods like economic wealth—we can always ‘grow the pie higher’, as it were. This futility makes social status seem like a zero-sum game—all we can do is shuffle status around, and not increase it, unlike regular economic scenarios which can be and often are positive-sum games. But at least status is not a negative-sum game—right? This is an important question because status influences all sorts of important things that one would be hard-pressed to buy, like increased longevity (civil service rank, and Nobel prizes if not Oscars)
+
+
+One interesting aspect of money is that while we often use it as a synonym for utility in discussions of utilitarianism (“Omega offers you a choice between one box and two boxes; the first has a thousand dollars in it…”), this is not true. Money is a very good approximation for utility, in small amounts, but as the amounts increase, each additional increase represents less utility for the owner. Your first million dollars makes a huge difference to your happiness, your second million not so much, and so on. Probably Bill Gates didn’t think about fluctuations of even hundreds of millions in his net worth. So when this detail comes up we say things like ‘utility is logarithmic in wealth’ to express the idea that each dollar is worth fewer utilons than the previous dollar. (See also scope insensitivity and the Weber-Fechner law.) What the diminishing returns mean is that you can change the net happiness/utility of a population by simply moving dollars around. However, you could not change the net dollars just by moving dollars around!
+
+
+To work out a tedious example: imagine we have $1,000 and 100 people and the utility per dollar is your basic natural log. If we gave all $1,000 to one person, then that person has 1 × ln(1000) = 6.9 utilons and everyone else has no dollars & negative infinity utilons (they’re very unhappy at possessing nothing), for a net total of negative infinity utilons; if we are a little fairer and give everyone $1 and then the remaining $900 to one person, he has 1 × ln(991) = 6.8 and everyone else 99 × ln(1) = 0 for a net total of 6.8 utilons. If we now give everyone $5, and the remaining $500 to one person, he has 1 × ln(505) = 6.225 and everyone else 99 × ln(5) = 159.34 for a net total of 165.56—quite an improvement! Carrying this out to the logical conclusion of everyone getting equal amounts ($10), we find our net total has become 100 × ln(10) = 230.26, and this is as high as it’s possible to get our little population.
+
+
+As it happens, there’s a lot of evidence that peoples’ utility functions are logarithmic in wealth, and general global evidence that economic inequality makes people unhappy and this is a major factor in why the Japanese or Scandinavians are happier than Americans, even if they are poorer by many metrics (see for example the Easterlin paradox). Applying this simplistic model to policy recommendations in the real world is a little difficult because economic inequality may contribute to economic growth via pooling wealth in a few hands (one might point to Gates’s mega-philanthropy) and preserving incentives to work like a dog (inasmuch as the usual mechanisms for reducing economic inequality involve forms of progressive taxation and redistribution), and economic growth means in the future there may be even more wealth to distribute which could justify foregoing utility increases at the present moment.
+
+
+Now we go back to status. We already outlined how money can be superior to status; and we just saw how, to maximize utility at any particular time, we want to redistribute money. We can’t simply say ‘utility is logarithmic’ in status because there are no ‘status-ons’ we can redistribute like ‘utilons’ or ‘dollars’ (although analogues have been proposed, like SF author Cory Doctorow’s post-scarcity society running on “Whuffies”), because status is more ordinal than cardinal. (The common distinction in our language emphasizes that money is not status: ‘arriviste’, ‘kip’, ‘nouveau riche’/‘new money’, ‘parvenu’, ‘social climber’, ‘upstart’, etc. One can try to buy status by donations to institutions frequented by the rich, but it will cost a bundle.) What we can try to do is imagine comparing situations with more or less kinds of status, and ask how they differ in total utility.
+
+
+Imagine our 100 people again, and imagine they have 1 or 2 kinds of status to choose from. We could call them ‘scientific’ or ‘artistic’ status—the scientists don’t care if they are ranked 50 out of the artists or if they are ranked al the way at the top at 100, but they do care if they are the 10 rather than 1 scientist, and vice-versa. Further, let’s say it’s possible for a person to change their mind. Given this set up, it’s pretty clear that none of them is worse off for there being a second kind of status, since they can pick whichever status they have more of. If a person discovers he’s the artist ranked #5 but scientist ranked #6, he can switch his personal identity to “artist” and be better off; if the reverse or he is equal, well, he’s no worse off than before. Since he is as well off or more well off under the scenario with 2 kinds of status, he would prefer a system in which there are 2 kinds of status. If you ask him whether he would favor three kinds of status, the same logic applies: if he’s higher on that third one than either of the two, he will switch and be better off, else he will not switch and not be any worse off. And so on. This works nicely with logarithmic discounting: we split our original 1–100 ranking into 50–100 and a second 50–100, and the sums improve: `sum (map log ([50..100] ++ [50..100])) → 438.35`, which is larger than `sum (map log [1..100]) → 363.74`.
+
+
+One might object that this argument cooks the books by covertly introducing entirely new bookcases and then exclaiming “now there’s more room to shift books leftwards, because I can put half my books in the left half of the original bookcase and the other half in the left half of this new bookcase! Amazing!” One is saying the right calculation is `sum (map log ([1..50] ++ [1..50])) → 297`.
+
+
+In a way, we are arguing about something pretty profound: how do status hierarchies interact in the real world? If a subculture splits off, do they create their own hierarchy where the top dog is as important as the top dog in the other hierarchy? Does Hayao Miyazaki derive as much utility from being the greatest living anime director as, say, Steven Spielberg or Martin Scorsese derives from his own directing status? Wired notes that there are 604,174 Wikipedia articles on living people compared to ~7 billion living people, suggesting “notable” people are roughly 1 in 10,000. Modern life seems to creak along well, as far as fame goes, which suggests to me that notability could be further distributed.
+
+
+My own belief is that these subcultures start top-down, not bottom up, because no one knows everything. If this is so, the arguments carry through, and since we cannot redistribute status itself, we must do the next best thing: we must create or permit as many kinds of status as people desire. Knowing this, the wise man empties his heart of scorn for others and refrains from judgment.
+
+
+In the northern ocean there is a fish, called the k’un, I do not know how many thousand li in size. This k’un changes into a bird, called the p’eng. Its back is I do not know how many thousand li in breadth. When it is moved, it flies, its wings obscuring the sky like clouds.
+
+
+…A cicada and a young dove laughed, saying, “Now, when I fly with all my might, ’tis as much as I can do to get from tree to tree. And sometimes I do not reach, but fall to the ground midway. What then can be the use of going up ninety thousand li to start for the south?”…a lake sparrow laughed, and said: “Pray, what may that creature be going to do? I rise but a few yards in the air and settle down again, after flying around among the reeds. That is as much as any one would want to fly. Now, wherever can this creature be going to?” Such, indeed, is the difference between small and great.
+
+
+…Small knowledge has not the compass of great knowledge any more than a short year has the length of a long year. How can we tell that this is so? The fungus plant of a morning knows not the alternation of day and night. The cicada knows not the alternation of spring and autumn. Theirs are short years. But in the south of Ch’u there is a mingling (tree) whose spring and autumn are each of five hundred years’ duration. And in former days there was a large tree which had a spring and autumn each of eight thousand years. Yet, P’eng Tsu is known for reaching a great age and is still, alas! an object of envy to all! —chapter 1 of the Chuang-tzu.
+
+↩︎
+- 
+
+It’s something of a mystery why monogamy has thrived over the last millennium—why not allow polygyny, polyandry, both (polygamy) or even full blown polyamory? Why restrict freedom in this regard, restrict it so viciously that society is willing to kill over it? One explanation I find appealing suggests that marriage—sex—may be an example of societies encouraging the formation of more-optimal multiple hierarchies of status as opposed to a single one. To very broadly generalize, those alternatives seem to boil down to polygyny (polyandry being very rare) and polygyny seems to correlate with societies where there are few ways to status but violence & hunting, while monogamy encourages males to engage in economic competition for mates; relevant is Roy Baumeister’s 201016ya Is There Anything Good About Men? (summary), and especially Henrich 2012’s review, “The puzzle of monogamous marriage” (emphasis added):
+
+
+The anthropological record indicates that approximately 85 per cent of human societies have permitted men to have more than one wife (polygynous marriage), and both empirical and evolutionary considerations suggest that large absolute differences in wealth should favour more polygynous marriages. Yet, monogamous marriage has spread across Europe, and more recently across the globe, even as absolute wealth differences have expanded. Here, we develop and explore the hypothesis that the norms and institutions that compose the modern package of monogamous marriage have been favoured by cultural evolution because of their group-beneficial effects-promoting success in inter-group competition. In suppressing intrasexual competition and reducing the size of the pool of unmarried men, normative monogamy reduces crime rates, including rape, murder, assault, robbery and fraud, as well as decreasing personal abuses. By assuaging the competition for younger brides, normative monogamy decreases (i) the spousal age gap, (ii) fertility, and (iii) gender inequality. By shifting male efforts from seeking wives to paternal investment, normative monogamy increases savings, child investment and economic productivity. By increasing the relatedness within households, normative monogamy reduces intra-household conflict, leading to lower rates of child neglect, abuse, accidental death and homicide. These predictions are tested using converging lines of evidence from across the human sciences.
+
+↩︎
+- 
+
+This point does not seem to be original to me. Eric S. Raymond in “Sex Tips For Geeks: How To Be Sexy” advises the lovelorn geek to acquire:
+
+
+Social status. Now this is where it gets interesting—because women can detect this even when you aren’t in a context where it’s obvious. Being an alpha male in some status hierarchy changes your body language, your sex-hormone levels, and the smell of your sweat. Women home in on men with these traits something fierce—ask any rock star.
+
+
+Cathy: “Or ask Eric. His recent notoriety has definitely increased the amount of female attention he gets– even from me.”
+
+
+But it isn’t that important to a woman’s receptors exactly what the status hierarchy is. It could be anything from the neighborhood bowling league up to the government of a world superpower. Or it could be the developer community of a well-known program. What she smells is success, not the specific kind of success. In fact this effect is so important in human behavior that males actually form all kinds of odd status hierarchies just so they can have a shot at being top of the heap, even when they know in advance that top-of-the-heap won’t convey much in the way of power or wealth reward. Clubs and organized hobbies are like this. The hacker culture itself was purely like this until the late 1990s. At bottom, these are all instinctively founded on sexual-selection games.
+
+↩︎
+- 
+
+For example, the 201115ya study “Modeling Users’ Activity on Twitter Networks: Validation of Dunbar’s Number” looked at >380 million tweets forming >25 million conversations, yielding an overall social network of >1.7 million users. They look at a sort of averaged metric of who users reply to:
+
+
+…This quantity corresponds to the average weight per outgoing edge of each individual where T represents the time window for data aggregation. We measure this quantity in our data set as shown in Figure 2A. The data shows that this quantity reaches a maximum between 100 and 200 friends, in agreement with Dunbar’s prediction (see figure 2A). This finding suggests that even though modern social networks help us to log all the people with whom we meet and interact, they are unable to overcome the biological and physical constraints that limit stable social relations. In Figure 2B, we plot kiout the number of reciprocated connections, as a function of the number of the in-degree. kiout saturates between 200 and 300 even though the number of incoming connections continues to increase. This saturation indicates that after this point the system is in a new regime; new connections can be reciprocated, but at a much smaller rate than before. This can be accounted for by spurious exchanges we make with some contacts with whom we do not maintain an active relationship.
+
+
+A 201115ya brain-imaging study (“Online social network size is reflected in human brain structure”; BBC coverage) finds more direct correlations:
+
+
+…The degree to which individuals participate in these networks varies substantially for reasons that are unclear. Here, we show a biological basis for such variability by demonstrating that quantitative variation in the number of friends an individual declares on a web-based social networking service reliably predicted grey matter density in the right superior temporal sulcus, left middle temporal gyrus and entorhinal cortex. Such regions have been previously implicated in social perception and associative memory, respectively. We further show that variability in the size of such online friendship networks was [statistically-]significantly correlated with the size of more intimate real-world social groups. However, the brain regions we identified were specifically associated with online social network size, whereas the grey matter density of the amygdala was correlated both with online and real-world social network sizes. Taken together, our findings demonstrate that the size of an individual’s online social network is closely linked to focal brain structure implicated in social cognition.
+
+↩︎
+- 
+
+Skilled blue-collar workers often take great pride on their work and seem satisfied with their lives, to the extent of exciting envy from white-collar workers (eg. Office Space, Matthew Crawford’s Shop Class as Soulcraft: An Inquiry Into the Value of Work). A long section from Paul Fussell’s Class: A Guide Through the American Status System rings true to me:
+
+
+The special anxiety of the high proles is fear about loss or reduction of status: you’re proud to be a master carpenter, and you want the world to understand clearly the difference between you and a laborer. The special anxiety of the mid-proles is fear of losing the job. And of the low proles, the gnawing perception that you’re probably never going to make enough or earn enough freedom to have and do the things you want. The kind of jobs high-prole people do tempt them to insist that they are really “professionals,” like “sanitation men” in a large city. A mail carrier tells Studs Terkel why he likes his work: “They always say, ‘Here comes the mailman.’ . . . I feel it is one of the most respected professions there is throughout the nation.” Prole women who go into nursing never tire of asserting how professional they are, and the same is true of their daughters who become air stewardesses, a favorite high-prole occupation. Although Army officers, because they are all terrified of the boss, are probably more middle-class than high-prole, they seem the lower the more they insist that they are “professionals”, and since their disgrace in Vietnam, and their subsequent anxiety about their social standing, that insistence has grown more mechanical. An Army wife says, “Some like to speak of doctors, lawyers, etc., as professionals. All [Army] officers are professionals.” And then, a notable deviation from logic: “Who could be more professional than the man who has dedicated his whole life to the defense of his country?”
+
+
+But high proles are quite smart, or at least shrewd. Because often their work is not closely supervised, they have pride and a conviction of independence, and they feel some contempt for those who have not made it as far as they have. They are, as the sociologist E. E. LeMasters calls them and titles his book, Blue-Collar Aristocrats (197551ya), and their disdain for the middle class is like the aristocrat’s from the other direction. One high prole says: “If my boy wants to wear a goddamn necktie all his life and bow and scrape to some boss, that’s his right, but by God he should also have the right to earn an honest living with his hands if that is what he likes.” Like other aristocrats, says LeMasters, these “have gone to the top of their social world and need not expend time or energy on ‘social climbing.’” They are aristocratic in other ways, like their devotion to gambling and their fondness for deer hunting. Indeed, the antlers with which they decorate their interiors give their dwellings in that respect a resemblance to the lodges of the Scottish peerage. The high prole resembles the aristocrat too, as Ortega y Gasset notes, in “his propensity to make out of games and sports the central occupation of his life,” as well as in his unromantic attitude toward women. Since they’re not consumed with worry about choosing the correct status emblems, these people can be remarkably relaxed and unself-conscious. They can do, say, wear, and look like pretty much anything they want without undue feelings of shame, which belong to their betters, the middle class, shame being largely a bourgeois feeling. John Calvin, observes Jilly Cooper, is the prophet of the middle class, while Karl Marx is the prophet of the proles, even if most of them don’t know it.
+
+
+…High proles are nice. It’s down among the mid and low proles that features some might find offensive begin to show themselves. These are the people who feel bitter about their work, often because they are closely supervised and regulated and generally treated like wayward children. “It’s just like the Army,” says an autoassembly-plant worker. “No, it’s worse …. You just about need a pass to piss.” Andrew Levison, author of The Working-Class Majority (197452ya), invites us to imagine what it would be like to be under the constant eye of a foreman, “a figure who has absolutely no counterpart in middle-class society. Salaried professionals do often have people above them, but it is impossible to imagine professors or executives being required to bring a doctor’s note if they are absent a day or having to justify the number of trips they take to the bathroom.” Mid and low proles are perceived to be so because they perform the role of the victims in that “coercive utilization of man by man” that Veblen found so objectionable. (Imposing the coercion, instead of having it imposed on you, is the prerogative of the more fortunate: managers, teachers, writers, journalists, clergy, film directors.) The degree of supervision, indeed, is often a more eloquent class indicator than mere income, which suggests that the whole class system is more a recognition of the value of freedom than a proclamation of the value of sheer cash. The degree to which your work is overseen by a superior suggests your real class more accurately than the amount you take home from it. Thus the reason why a high-school teacher is “lower” than a tenured university professor. The teacher is obliged to file weekly “lesson plans” with a principal superintendent, or “curriculum coordinator,” thus acknowledging subservience. The professor, on the other hand, reports to no one, and his class is thus higher, even though the teacher may be smarter, better-mannered and richer. (It is in public schools, the postal service, and police departments that we meet terms like supervisor and inspector: the prole hunter will need to know no more.) One is a mid or low prole if one’s servitude is constantly emphasized. Occupational class depends very largely on doing work for which the consequences of error or failure are distant or remote, or better, invisible, rather than immediately apparent to a superior and thus instantly humiliating to the performer…Constantly demeaned at work, the lower sorts of proles suffer from poor morale. As one woman worker says, “Most of us . . . have jobs that are too small for our spirit.” A taxi driver in St. Louis defended the Vietnam War by saying, “We can’t be a pitiful, helpless giant. We gotta show ’em we’re number one.” “Are you number one?” Studs Terkel asked him. Pause. “I’m number nothin’,” he said.
+
+↩︎
+- 
+
+“The power of lonely: What we do better without other people around” by Leon Neyfakh, The Boston Globe (2011-03-06)
+
+
+And it [solitude] can have some counterintuitive effects: Adam Waytz in the Harvard psychology department, one of Cacioppo’s former students, recently completed a study indicating that people who are socially connected with others can have a hard time identifying with people who are more distant from them. Spending a certain amount of time alone, the study suggests, can make us less closed off from others and more capable of empathy—in other words, better social animals.
+
+
+This raises an interesting thought. What is more destructive of empathy than stress—or fear?↩︎
+- 
+
+Or, as has been attributed to Thomas Carlyle (Michael J Dee, Conclusions 1917109ya): “the ultimate question between man and man is ‘Can I kill thee, or canst thou kill me?’”↩︎
+- 
+
+Neyfakh 201115ya:
+
+
+Burum found that the participants who had been told the person behind them was doing a different task—namely, identifying sounds rather than looking at pictures—did a better job of remembering the pictures. In other words, they formed more solid memories when they believed they were the only ones doing the task.
+
+
+…Burum offers two possible theories to explain what she and Gilbert found in the study. The first invokes a well-known concept from social psychology called “social loafing”, which says that people tend not to try as hard if they think they can rely on others to pick up their slack. (If two people are pulling a rope, for example, neither will pull quite as hard as they would if they were pulling it alone.) But Burum leans toward a different explanation, which is that sharing an experience with someone is inherently distracting, because it compels us to expend energy on imagining what the other person is going through and how they’re reacting to it.
+
+
+“People tend to engage quite automatically with thinking about the minds of other people”, Burum said in an interview. “We’re multitasking when we’re with other people in a way that we’re not when we just have an experience by ourselves.”
+
+
+Perhaps this explains why seeing a movie alone feels so radically different than seeing it with friends: Sitting there in the theater with nobody next to you, you’re not wondering what anyone else thinks of it; you’re not anticipating the discussion that you’ll be having about it on the way home. All your mental energy can be directed at what’s happening on the screen.
+
+↩︎
+- 
+
+To quote again Neyfakh 201115ya:
+
+
+Teenagers, especially, whose personalities have not yet fully formed, have been shown to benefit from time spent apart from others, in part because it allows for a kind of introspection—and freedom from self-consciousness—that strengthens their sense of identity. Reed Larson, a professor of human development at the University of Illinois, conducted a study in the 1990s in which adolescents outfitted with beepers were prompted at irregular intervals to write down answers to questions about who they were with, what they were doing, and how they were feeling. Perhaps not surprisingly, he found that when the teens in his sample were alone, they reported feeling a lot less self-conscious. “They want to be in their bedrooms because they want to get away from the gaze of other people”, he said.
+
+
+The teenagers weren’t necessarily happier when they were alone; adolescence, after all, can be a particularly tough time to be separated from the group. But Larson found something interesting: On average, the kids in his sample felt better after they spent some time alone than they did before. Furthermore, he found that kids who spent between 25 and 45% of their nonclass time alone tended to have more positive emotions over the course of the week-long study than their more socially active peers, were more successful in school and were less likely to self-report depression.
+
+↩︎
+- 
+
+This is a nice example of “Algernon’s law”, which is the ‘no free lunch’ principle applied to biology and evolution. The stress responses gear the body up for freeze-fight-or-flight and provide other physiological boosts; so then why hasn’t evolution made this high-performance state the default setting? Because it comes at the nasty price of one’s long-term health.↩︎
+- 
+
+Ian & Joel Gold, “Tweet Me Nice”, The Edge Annual Question—201016ya: how is the Internet changing the way you think?:
+
+
+We come at last to madness. Psychiatry has known for decades that the megalopolis—indeed a city of any size—breeds psychosis. In particular, schizophrenia, the paradigm of a purely biological mental illness, becomes more prevalent as city size increases, even when the city is hardly more than a village. And this is the case not because mental illness in general becomes more common in cities; nor is it true that people who are psychotic tend to drift toward cities or stay in them. In creating much larger social groups for ourselves, ranging from true friends to near-strangers, could we be laying the ground for a pathogenic virtual city in which psychosis will be on the rise? Or will Facebook and Twitter draw us closer to friends in Aristotle’s sense who can act as psychic prophylaxis against the madness-making power of others? Whatever the effects of the Internet on our inner lives, it seems clear that in changing the structure of our outer lives—the lives intertwined with those of others—the Internet is likely to be a more potent shaper of our minds than we have begun to imagine.
+
+
+Poetic enough; here are some hard numbers about the risk factor of cities from a European analysis of schizophrenia (“Family history, place and season of birth as risk factors for schizophrenia in Denmark: a replication and reanalysis”): a capitol increases your schizophrenia risk by 230% (more than twice!); living in its suburbs ameliorates the risk down to 173%; a city with >100,000 inhabitants brings it down ‘merely’ to 158%, and so on down to a small city of 10–20,000 with an risk increase of 122%. (These numbers are adjusted for the usual risks like parental age, gender, and family history, but apparently not for IQ or socioeconomic status; in other words, the risk probably comes from a gene-environment interaction which gives rise to schizophrenia.) A 201016ya meta-analysis of 20 population surveys found a weaker general association & a stronger one for depression. Causality as always remains unclear: schizophrenia is highly heritable and methods more sophisticated than adjusting for family history suggest the causality may be reverse & cities attract families prone to schizophrenia (Sariaslan et al 2014). It is a vexed topic but still interesting.
+
+
+It’s interesting to note that of the persecutory, religious, grandiose, and somatic varieties of ‘delusions’, it is persecutory that has increased over the 20th century in America; of those varieties, which is the one you would expect to be encouraged by urban environments & crowds?
+
+
+If we look at it the other way, we would expect natural settings to foster healing or at least mental performance; and that is indeed what we find:
+
+
+The former [field study] included wilderness backpacking and nonwilderness vacation conditions, as well as a control condition in which participants continued with their daily routines. The latter had urban environment, natural environment, and passive relaxation conditions. Multimethod assessments of restoration consisted of self-reports of affective states, cognitive performance, and, in the latter study, physiological measures. Convergent self-report and performance results obtained in both studies offer evidence of greater restorative effects arising from experiences in nature.
+
+
+One fMRI study found increased amygdala activity in city-dwellers when stressed during puzzle-solving; those merely raised in a city showed effects too in another region related to the amygdala (mainstream coverage). Natural lighting has show many benefits in hospitals and schools, which is an interesting commentary on the insides of all the buildings in cities. Or consider Taylor 2009 (New York Times), experimentally verifying survey results:
+
+
+17 children 7 to 12 years old professionally diagnosed with ADHD experienced each of three environments-a city park and two other well-kept urban settings-via individually guided 20-minute walks. Environments were experienced 1 week apart, with randomized assignment to treatment order. After each walk, concentration was measured using Digit Span Backwards…Children with ADHD concentrated better after the walk in the park than after the downtown walk (p = 0.0229) or the neighborhood walk (p = 0.0072). Effect sizes were substantial (d = 0.52 and 0.77, respectively) and comparable to those reported for recent formulations of methylphenidate.
+
+
+Even small amounts of nature help; Taylor et al 200224ya “Views of nature and self-discipline: evidence from inner city children” found highly [statistically-]significant improvements in scores of concentration & self-discipline in girls randomly assigned to public housing with just a few trees rather than none, following up earlier studies that found benefits to concentration in similar randomized high-rise public housing. (An interesting corollary to the previously cited survey is that a later analysis of the same data by the same authors found that the children “tended to have milder symptoms if they regularly played in a green and open environment (such as a soccer field or expansive lawn) rather than in a green space with lots of trees or an indoor or built outdoor setting” (Science Daily description). Berman et al 200818ya (“The Cognitive Benefits of Interacting With Nature”) found working memory & attention scores improved more after a 50 minute walk in a park than in the surrounding city. Further reading:
+
+- 
+
+“The mental and physical health outcomes of green exercise”, Pretty et al 2005
+- 
+
+“Associations of neighbourhood greenness with physical and mental health: do walking, social coherence and local social interaction explain the relationships?”, Sugiyama et al 2008
+- 
+
+“What is the best dose of nature and green exercise for improving mental health? A multi-study [meta-]analysis”, Barton & Pretty 2010
+- 
+
+“Does participating in physical activity in outdoor natural environments have a greater effect on physical and mental wellbeing than physical activity indoors? A systematic review”, Coon et al 2011
+- 
+
+“Exercise-, nature- and socially interactive-based initiatives improve mood and self-esteem in the clinical population”, Barton et al 2012
+- 
+
+“Interacting with nature improves cognition and affect for individuals with depression”, Bergman et al 2012
+- 
+
+“Would You Be Happier Living in a Greener Urban Area? A Fixed-Effects Analysis of Panel Data”, White et al 2013
+- 
+
+“Longitudinal Effects on Mental Health of Moving to Greener and Less Green Urban Areas” Alcock et al 2013
+- 
+
+“Exposure to Neighborhood Green Space and Mental Health: Evidence from the Survey of the Health of Wisconsin”, Beyer et al 2014
+- 
+
+“The Relative Benefits of Green Versus Lean Office Space: Three Field Experiments”, Nieuwenhuis et al 2014
+- 
+
+“Linking Student Performance in Massachusetts Elementary Schools with the ‘Greenness’ of School Surroundings Using Remote Sensing”, Wu et al 2014
+- 
+
+“The physiological effects of Shinrin-yoku (taking in the forest atmosphere or forest bathing): evidence from field experiments in 24 forests across Japan”, Park et al 200917ya / “Physiological effects of forest bathing, or shinrin-yoku, in Takayama village mountain area”, Kondo et al 2013
+- 
+
+“Effect of Greening Vacant Land on Mental Health of Community-Dwelling Adults: A Cluster Randomized Trial”, South et al 2018
+- 
+
+“Effects of Public Green Space on Acute Psychophysiological Stress Response: A Systematic Review and Meta-Analysis of the Experimental and Quasi-Experimental Evidence”, Mygind et al 2019
+
+
+One thinks of the African veldt and “environment of evolutionary adaptedness”.)↩︎
+- 
+
+ Cochran et al 2000 suggests:
+
+
+Seasonal and geographic variations of mental illness similarly suggest infectious causation. Schizophrenia and severe depression disorders are about 10% more frequent among babies born during winter and spring, when respiratory infections tend to be more common [83, 84]. The geographic association of mental illness with degree of urban residency predates 20th-century society and coincides with high density living situations regardless of the specific details of the situation; the association between urban life and mental illness thus accords well with infectious causation [85, 86].
+
+↩︎
+- 
+
+I am unable to find any sources for this, or quotes pre-2010; it is almost certainly apocryphal. Nevertheless, it is too good to omit.↩︎
+- 
+
+I am also reminded of some things anime directory Kazuya Tsurumaki said in 2001 (echoing Hideaki Anno—who incidentally voice-acted Jiro in The Wind Rises (coincidence?)—commenting on his own father and the Eva character Gendo Ikari):
+
+
+Tsurumaki told the Otakon panel, “Honestly speaking, I’m very happy that Americans like my work, but the Eva TV series and movies, Kare Kano, and FLCL are basically made for the Japanese audiences. So when I hear that they are being well received by American audiences, I feel very happy; but at the same time I feel a little awkward.” When PULP asked him what he meant by that, Tsurumaki said, “For example, in Eva, I thought Shinji’s character would only be understood by Japanese fans of this generation. But I was very happy—or actually, shocked—to find out that his kind of character is also understood by Americans.” I appreciated the director’s implied vote of confidence in us, but wondered whether the oft-remarked-upon Japanese sense of cultural singularism was strong enough to cancel out the universal fact of youth disaffection, let alone the worldwide reporting on incidents such as the murders at Columbine…Most of the Gainax shows are also targeted, Tsurumaki said, for an audience “that tends to be rather weak and has problems with their family”—and the directors at Gainax are those kind of people. “A lot of families in Japan a generation ago—and perhaps even now—had fathers that were workaholics and never home. They were out of their children’s’ lives. My own father was like that, and I hardly ever got to associate with him until quite recently. I’m the same sort of person as Hideaki Anno. That probably influences the type of anime I create.”
+
+↩︎
+- 
+
+Civilization itself is questionable; Neolithic farmers were much worse off than their hunter-gatherer counterparts, ridden with disease and with lower nutritional standards, and sedentary villages are associated with reduced liberty.↩︎
+- 
+
+“Samurai go soft: Japan’s preference for hardware over software is fading”, The Economist:
+
+
+Japan has long made popular video-game software—just ask the Mario Brothers. Yet its computer makers have done little to foster independent software businesses. On the contrary, by bundling programs free with machines, they taught customers that software was of little value, says Kazuyuki Motohashi of the University of Tokyo. They also locked customers in, making it costly and cumbersome to switch to rivals…Since 200818ya Japanese software firms have lost 20% of their market value, even as software firms elsewhere grew by 15%. In software spending relative to GDP Japan ranks 35th, around the level of Saudi Arabia, according to INSEAD, a business school…Japan’s indigenous software industry faces several obstacles. The country lacks venture capital, a vibrant stock market and angel investors with technical knowledge to nurture start-ups. And its big, slow firms tend to suffocate the small fry, says Fujiyo Ishiguro, the founder of Netyear, an online-marketing software firm (and one of the few female bosses of a publicly-listed company in Japan). For now, hardware is king. Newspapers cheered when Riken and Fujitsu unveiled the world’s fastest supercomputer in June. But the shift towards the intangible is inevitable, says Ms Ishiguro.
+
+↩︎
+- 
+
+Ruby’s creator Yukihiro Matsumoto has some interesting comments:
+
+
+Zhou: As far as I know most of the mainstream programming languages are from America and Europe—though there are Lua from Brazil and Ruby from Japan. You too mentioned this in your book and you said this feels “lonely”. So what is the cause of this, and what can we do about it?
+
+
+Matz: Well, for Lua you can include it in Europe/America too because Brazil is part of South America (chuckles). In the south eastern Asia region though there is only Ruby, and it is lonely. Europe and America still remain the most powerful regions as far as programming languages go. Asia, although has massive population, does not compete in this regard, that indeed feels lonely.
+
+
+I am not sure about other countries, but at least in Japan there are many people working on programming languages, unfortunately other than Ruby none of them are well known. If more people are interested in programming and designing programming languages, there bound to be one or two that’ll break out, right? There is another hurdle in Japan—language. Most Japanese people only speak Japanese and they cannot speak English well. Funnily enough there are programming languages written entirely in Japanese. (Zhou: “In China there also are programming languages written entirely in Chinese.”) In China too? I knew it! No matter how interesting these programming languages are, they will never influence anyone beyond the ones in their own country.
+
+
+On a side note, I once received an email from an American. He said that you are Japanese, but Ruby looks like English because it’s written in English, why isn’t there any Japanese-written languages? I replied saying that there are, you just don’t know them, and even if you did, you wouldn’t be able to use them. In Japan, more and more people are interested in programming, maybe because both online and in my books I always talk about how fun programming can be. Many people are now taking on the challenge of designing new programming languages. Out of these new languages, even only 0.1% of them ever get any success, I think it’s a win. I don’t know how many people want to take on the same challenge in China, Korea and other countries in Asia, but if people could look beyond “programming languages are created for us, we just passively accept them”, and think “to create a new programming language can also be fun”, then I am sure some of them will succeed.
+
+
+Talking about open source projects, not many of them are from Japan, China and Korea, and I think this could be an entry point for many. There are many reasons why this is the case though, for example English is hard to learn… (Zhou: “And GitHub is also difficult to use?”) Ha ha, is GitHub usable in China? (Zhou: “It is, it is…”) Oh, that’s not too bad then. But, China’s Great Firewall still has a huge impact, many resources can’t be accessed here, right? (Zhou: “That’s right, for instance the Go programming language’s website is blocked.”) Ah really? Is it because it’s made by Google? [chuckles] In any case, I think there are still many difficulties to face. Also, in Japan many programmers still spend most of the time at work (to put food on the table), it’s very difficult for them to contribute to open source projects. Ten years ago nobody cares about open source in Japan, but nowadays people start to realise the importance of open source, and the number of open source projects is growing. I believe China will soon follow this pattern as well, I am looking forward to it.
+
+
+In the beginning no one knows what will succeed. When I started with Ruby I could not possibly have predicted its success. So I think for a programming language, timing is really important—and you’ll never know until you tried. I think in China there might also be languages that emerge from the right time that will eventually be a global success.
+
+↩︎
+- 
+
+“Lain Men: Yasuyuki Ueda”, Anime Jump!:
+
+
+AJ: “I’m not sure if I’m getting this correct, but in an interview with Animerica last year, you mentioned that you weren’t sure you wanted Americans to understand Lain. What exactly did you mean by that statement?”
+
+
+YU: “I talked about this earlier in the panel… it goes like this. Basically, you have American culture and Japanese culture after WWII. Everyone knows that war is ridiculous, it comes down to killing people. But what I hoped to see between American and Japanese reactions to Lain is a war– a war of ideas… because through conflict of ideas, you understand yourself better, and you gain insight on the culture of your opponent. I don’t so much want Americans to interpret Lain exactly as Japanese fans do, as I want them to hold on to their own point of view, and in doing so, establish conflict, and hopefully, new communication.”
+
+
+…AJ: “Lain is popular in America. How do you feel about that?”
+
+
+YU: “I’m glad that everyone likes Lain! But at the same time, I kind of wonder, do people over here really understand Lain? The way I perceive things, the way Japanese viewers perceived Lain would be different from how Americans viewed it. But when I was in L.A., the fans I met seemed so very Japanese in their perception… and that kind of isn’t what I wanted, because like I said earlier, I wanted there to be a clash between cultures. I wanted American fans to see Lain and think, ‘No! That’s screwed up! That’s so wrong!’”
+
+↩︎
+- 
+
+“Panel discussion with Yasuyuki Ueda and Yoshitoshi ABe”, Otakon 200026ya, Eng:
+
+
+Q: “There’s a quote in the program,”this work itself is sort of a cultural war against American culture and the American sense of values we adopted after WWII.” my question is what does he consider an American sense of values, since what he considers an American sense of values might not necessarily be what we do.”
+
+
+…M(U): “OK, so basically, when I was growing up, American culture had a huge impact on the way I am now, and while I find American culture to be very interesting, there are some things that are very complex and hard for me to understand, and the way Japan and America is now, we’re on good terms, but there are still some things, there’s a communication barrier, that we can’t talk about certain things or we’re not ready to, that we just kind of skirt around the subject of certain taboo issues, if you will, culturally, and it’s not because we’re avoiding them, it’s just that we’re not aware of them because of the communication barrier. I wish we would go further into that.”
+
+↩︎
+- 
+
+“Anime Chat with Lain Creators Ueda & ABe 9PM ET”
+
+
+Moderator: [Myu-Myu to Moderator]: “Ueda-san, in an interview, you say that Lain is a form of cultural warfare against American culture and values. What are some examples of cultural warfare employed within the Lain anime?”
+
+
+GERONIMO-U: “There is nothing in LAIN. no warfare in LAIN. Warfare cannot be in the artworks [please wait—there may be mistranslation] I wanted to make a cultural war. There is no warfare in the artwork. However I wanted to go against normal rules and standards.”
+
+↩︎
+- 
+
+Pulp Mag with Kazuya Tsurumaki:
+
+
+Some of the jokes, gags, and elements in FLCL are subcultural, and if it was very difficult for him to explain some of the elements to the staff, it may be even more so to Americans—or so is his assumption. Tsurumaki told the Otakon panel, “Honestly speaking, I’m very happy that Americans like my work, but the Eva TV series and movies, Kare Kano, and FLCL are basically made for the Japanese audiences. So when I hear that they are being well received by American audiences, I feel very happy; but at the same time I feel a little awkward.”
+
+
+When PULP asked him what he meant by that, Tsurumaki said, “For example, in Eva, I thought Shinji’s character would only be understood by Japanese fans of this generation. But I was very happy—or actually, shocked—to find out that his kind of character is also understood by Americans.” I appreciated the director’s implied vote of confidence in us, but wondered whether the oft-remarked-upon Japanese sense of cultural singularism was strong enough to cancel out the universal fact of youth disaffection, let alone the worldwide reporting on incidents such as the murders at Columbine.
+
+↩︎
+- 
+
+A YouTube uploader of doujin music received his “second strike” against his account, and announced that he was ceasing activity. In his announcement, he discussed his communication with some Japanese doujin artists, and I found striking the reasons being given by one doujin artist for his copyright crusade:
+
+
+…As we discussed before Narugami is a bit conservative who is unwilling to share any doujin-related work outside of the Japan so when I defended myself that I have no choice but to pirate his works since there is no any single means to buy their works outside of the Japan and he said that “We don’t want to be exposed abroad because we cannot take responsibility. We want to publish them only in Japan.” and also said that “ZUN also thinks the above problem and that Toho should not been published overseas.” and what he lastly mailed me was this “If you cannot understand it unfortunately, we would protect our culture and our work by other ways.” So this comes to deleting their works from YouTube unfortunately…
+
+↩︎
+
+
+
+Error: JavaScript disabled.
+
+Backlinks, similar links, and the bibliography require JS enabled to load.
+        # Backlinks
+
+
+        [Backlinks (what links here)]
+        # Similar Links
+
+
+        [Similar links by topic]
+        # Bibliography
+
+ ' is redundant with the ''; but added to parallel Pandoc-generated headers which set all attributes/classes on both. -->
+        [Bibliography of links/references used in page]
+
+
+
+
+        [&hairsp;Send Anonymous Feedback&hairsp;]
+
+[Quote Of The Day]
+
+[Site Of The Day]
+
+[Annotation Of The Day]
+
+[adblock public service announcement]
+
+      ​

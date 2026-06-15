@@ -1,0 +1,9954 @@
+# Hafu Gender Ratios in Anime
+
+[Source](https://gwern.net/hafu)
+
+- 
+
+
+  
+
+  
+    Skip to main content
+
+    
+    
+    
+      
+        
+        
+          
+            
+
+Warning: JavaScript Disabled!
+          
+          
+
+For support of key website features (link annotation popups/popovers & transclusions, collapsible sections, backlinks, tablesorting, image zooming, sidenotes etc.), you must enable JavaScript.
+        
+      
+    
+    
+
+    
+    
+        
+      
+      
+      
+        Site
+        Me
+        New
+        Blog
+        Links
+        Patreon
+        Substack
+      
+    
+
+    
+
+    
+
+      
+        # Hafu Gender Ratios in Anime
+
+
+      
+
+      
+      
+         
+
+
+anime, R (language), literary criticism, nootropic, politics, sociology, statistics
+ 
+        
+
+Race as reflected in gender ratios within fictional bi-racial marriages in anime/manga show equal sex ratios and Western European overrepresentation with striking absence of Korean characters.
+        
+            
+            2011-04-06–8y2019-06-14
+            in progress
+            certainty: likely
+            importance: 1
+            backlinks
+            similar
+            bibliography
+        
+      
+      
+
+      
+- Status Predictions
+- Database
+
+- Generating Entries
+- List
+
+- Omissions
+
+- Analysis
+
+- Descriptive
+- Korean Anomaly
+- Source Code
+
+- Capture-Recapture
+
+
+- External Links
+- Appendices
+
+- Capture-Recapture Code
+
+- Appendix
+
+- Genetics of Skin, Hair, and Eye Color
+
+- Real Hafus
+- Skin Color
+- Hair Color
+
+- Red Hair
+- Blond Hair
+
+- Eye Color
+- Gattaca
+- Overall
+
+- Savage Continent
+
+ 
+
+While watching Honey and Clover, it struck me that Hagu is clearly implied to be bi-racial (blue eyes & blond hair, and thought bubbles of other characters putting her in idyllic European settings), and that her foreign parent is the mother since the father is specified to be a Japanese police chief. Hagu is not the only example I could think of - there are plenty of other examples where the mother is foreign.
+
+
+And in general, the father always seems to be Japanese and the mother foreign. But isn’t this kind of odd? If we could find statistics about this, one would expect the reality to be heavily slanted the other way - Japanese women marrying GIs, marrying for passports, preferring foreigners’ more feminist attitudes about women working outside the home & sharing housework1, or much more dubious suggestions like preferring the skin color2 or greater height of Caucasians. Even in America, interracial dating is heavily in favor of Caucasian males and Asian females rather than the other way around3, which may reflect intrinsic preferences4 much to the agony of disfavored groups like black women5; white-Asian couples in America are the richest interracial couples on average, which perhaps reflects the general demand for white men and Asian women6. Nor is it just Japan; Korean advertising is strikingly tilted towards depicting Korean men with foreign women, rather than the notorious reality (stemming from the Korean War and continued US military presence) of Korean women with foreign men7, and of wars in general like WWII8. When fiction mirrors reality, that needs little explanation; but when fiction is exactly opposite reality, then one begins to wonder.
+
+
+And the reality is extremely skewed. In 200521ya, Japan had more female than male “foreign residents” and most foreigner-Japanese marriages involve a foreign woman, but the picture changes when we break the figures out by nationality. The 2006 statistics report that 1,474 American men married Japanese women, and 215 American women married Japanese men; similarly, 386 English grooms outweigh 79 English brides (despite there being many more Japanese men in Japan than English men for the English women to choose from). It’s striking that there are so many more expat men than women, but even proportionately, the American & English men seem to marry Japanese more often than the woman do9. Where do all the foreign women come from, then? China, Korea, and the Philippines - all countries somewhat or extremely poor per capita compared to Japan. (Similar patterns seem to occur with immigrants in South Korea10 and Denmark11, raising the question whether this is a general First World phenomenon.) Western expats in East Asia and the world over commonly exchange anecdotes on how male Western expats frequently find a “local” girlfriend or wife, while female Western expats don’t seem to12.
+
+
+Sexual and familial metaphors are common in conceiving of nationalities & races (‘the Rape of Nanking’, Japan as the ‘big brother’ in the Asian Co-prosperity sphere), and it hardly needs pointing out that it is considered lower-status to be the woman in a relationship (the penetrated; consider the ancient Greeks’ disdain of whichever male was being penetrated in a homosexual relationship, or the modern yaoi culture’s general depiction of the ‘bottom’, the ‘uke’).
+
+
+Fears of the foreigner stealing one’s women is almost universal, from the most advanced industrial women to the Yanomano who go to war primarily to steal women from the others. See how often this fear occurs in science fiction & fantasy; and in the real world, we see this xenophobia-as-fear-of-losing-competition-for-women almost everywhere - Asian-Americans males complain - perhaps justifiably given Asian-American female preferences for Caucasians13 - about white men stealing Asian-American females from them, Southern men’s fear of blacks touching their women is too well-known to need referencing, and foreign male visitors to Bangkok’s red light districts find noteworthy the lack of hostility on the part of the native males. Domestic women who seek out foreign men for sex are particularly condemned; in a Japanese context, see the “Yellow Cab” stereotype14. (This may not be the real causality; Internet dating studies suggest that women have stronger racial preferences than men15, which muddies matters - if the women are pickier, why are more Japanese women marrying out than men? But we’re interested in popular beliefs and their reflection in fiction.)
+
+
+And the disdain for Japanese women after WWII, prostitutes or otherwise, and their children has been well-documented as well as more recent minor interest in hāfu as performers or tarento (including an apparent niche in Japanese pornography16):
+
+
+Japanese women who formed relationships with gaijin were often shunned by friends and family, suffering social isolation or worse. In fact, most of the Japanese women who became involved with US servicemen never immigrated as the happily married wives of these servicemen. Caught between conflicting regulations-the Armed Forces only approved marriages that were registered at the American consulate (the only registration recognized by both American and Japanese governments) along with the stipulation that the GI bring his wife home to the US, which was near impossible given the 1924 Immigration Act that barred Japanese from US citizenship or permanent residence-US servicemen often simply returned home to start new lives.
+
+
+Many of these abandoned Japanese women were left with illegitimate children. These children did not fare any better than their mothers, as the 195967ya Tadashi Imai film, Kiku and Isamu (Kiku to Isamu), explored in a tale of two hāfu (half, or more accurately, half-breed) children who experience bullying from other children and ill treatment from adults. Indeed, while speculative, it is entirely feasible that this sort of stigmatization may have triggered the Tabbs’ move back to Pittsburgh. Indeed, Jero’s mother has admitted to being bullied and mistreated by other schoolchildren for being hāfu while growing up in Japan (Hamamoto). There is a long history of bullying in Japanese schools, particularly of hāfu children-perhaps unsurprising in a social world in which homogeneity and conformity are closely intertwined with a sense of nationalist cultural identity. As Koichi Iwabuchi notes, moreover, this pervasive sense of Japanese cultural and ethnic homogeneity is juxtaposed with an equally widespread idea that Western society is diverse and multicultural, undergirding a continued sense of Japanese uniqueness that masks social inequality even as it supports the notion of cultural superiority (104).
+
+
+In 195274ya, Collier’s ran a story titled “Madame Butterfly’s Children: The Plight of ‘GI Babies’ in Japan”, detailing the hardships of these hāfu children, who were often abandoned to grandparents or to orphanages when their fathers returned home to the US as their mothers were unable to face the social stigma of raising often illegitimate children. According to the article, their numbers were estimated to be as high as 200,000, with 90% of them fathered by US servicemen. The Collier’s article appeared a mere seven years after World War II had ended, in time to reflect on debates in Japan about the growing needs of a generation of orphan hāfu children about to enter school, taxing post-World War II educational facilities and other material resources.
+
+
+Seventeen years later, a 196957ya issue of Life magazine featured a cover story titled “Japan’s GI Babies: A Hard Coming-of-Age”, which detailed the current lives of a handful of hāfu young adults. The article paints a bleak picture, noting, “An undercurrent of prejudice, constant though seldom overt, has driven many of them to the fringes of society. There, some have become true outcasts-prostitutes and drug addicts” (Moser 40). Images of a 20-year-old known only as Danny, sniffing glue, sprawled out in a subway station, speak to the harsh penalties that the rhetoric linking belonging and biology in the discourse of Nihonjinron exacted on people deemed external to “pure Japanese-ness.”
+
+
+At the same time, there was a fascination with hāfu despite their social ostracization. One of the featured hāfu in the Life article, Michi Aoyama, would go on to be a successful jazz singer in Tokyo, having already enjoyed some success as a teen singing star by the time of the article. Still, she suffered from depression, and her situation as a legitimate entertainer, rather than as a “companion” at so-called hostess bars, was singular. There was a popular all-girl group in the 1970s called The Golden Half, whose members were all hāfu (Japanese mothers, white fathers) and whose appeal rested in large part on their “exotic Japanese-but-not-quite-Japanese” look. Joe Yamanaka, a Japanese-Jamaican hāfu musician, who, despite a childhood spent in an orphanage, died in 201115ya a well-known and respected rock musician and Japanese film actor. His stature outside Japan is evidenced by his time spent as a replacement for Bob Marley in The Wailers after Marley’s death. Yamanaka had been a member of Flower Travellin’ Band in the 1970s, a Japanese psychedelic rock band that proved that it could hold its own with contemporary Western rock bands, as evidenced by an opportunity to open for The Rolling Stones’ 197353ya tour of Japan. Unfortunately, Mick Jagger’s drug conviction derailed the Stones’ tour plans and Flower Travellin’ Band soon broke up. What is important to remember, however, is that the Japanese public’s fascination with hāfu artists did not translate into social policies that would mitigate the hardships faced by a majority of hāfu. Indeed, hāfu artists embodied the very emotional, intuitive, and even artistic essence of the primitive Other that allowed “pure” Japanese to maintain a continued sense of genetic and cultural superiority.17
+
+
+So, it seems pretty straightforward to suggest that a Japanese man marrying and impregnating a foreign woman would be seen as less status-lowering than a foreign man marrying and impregnating a Japanese woman. Westerners have, since Commodore Perry, been of high status in Japan for their technology & science & power. (Expats even today in Japan or Korea sometimes talk about “playing the gaijin/waygook card” - breaking rules or shirking responsibilities through a combination of assumed ignorance on their part and their peculiar and higher status as a foreigner.) So, a Japanese woman marrying a Western man would lower her status (and by extension, that of Japan). Similarly we might expect that a Japanese man marrying an attractive Western woman (as the women universally seem to be in anime & manga) could actually gain status for himself - and by extension, Japan - from ‘marrying above his position’. (At the very least, many men are attracted to the exotic other, and not so much the women.18) This turns out to be an explanation offered by at least one Japanese writer for the previously cited international marriage statistics:
+
+
+Men want “downward” partners while women want “upward” partners There are two prominent features about Japanese international marriages. One is that the majority of partners are from neighboring countries including Korea, China and Philippines. This is due to geographical and historical relations. The reason Brazil is outstanding in numbers is due to the fact that many Japanese-Brazilians are working in Japan. Another feature is that foreign wife and Japanese husband partnerships make up the majority of mixed marriages at 80%. In the case of foreign husbands, excluding neighboring countries, American husbands are most common. This may be due to the good Japan-US relations after the war and the fact that there are many American military bases in Japan. The tendency of international marriages is that, not only in Japan but also internationally, men want downward partners while women want upward partners. This means men want women whose educational background, income and height are less than theirs. Women are just the opposite. In Japan in the late 80’s the jargon “San-ko” (three heights) became popular. This jargon refers to the educational background, income and height of men. It was a marriage condition for many Japanese women. Statistics prove that men with low incomes and women with high incomes are highly likely to be unmarried. However, Japanese me with low incomes are still rich for those who live in developing countries and the situation will meet their conditions. Among foreigners Japanese women generally want to marry Western men.19
+
+
+# Status Predictions
+
+
+From this status explanation, we could make a few predictions.
+
+- 
+
+The Japanese man marrying out would be of a high SES, rather than low
+- 
+
+the woman marrying out would be of a low SES
+
+
+(If these 2 predictions sound too easy, that shows how intuitive this sort of thinking is. There are actually 4 possible pairs of prediction about the average status of M/F marrying out: low/low, low/high, high/low, high/high.)
+
+
+We might also expect some historical trend-lines in fictional pairings, with shifts in which as Japanese self-esteem increases, so do the number of Japanese males marrying out and a decrease in the number of women marrying out. From what I know of Japanese history, Japanese self-esteem fell to a nadir post-Perry, with serious proposals to switch Japan to speaking English (!), then slowly recovering, soaring with the growth of the empire before crashing yet again in the wake of the ruinous WWII, and then slowly rising to a peak in the 1980s with the bubble and then collapsing a fair bit with the bubble’s collapse. So if we charted the percentage of biracial characters with a Japanese male parent, we might expect to see a similar graph: low after WWII and increasing ever since, with possibly a fall post 199036ya or so.
+
+
+But perhaps all this is simply my own particular bias; believing that more Japanese women out-marry than Japanese men could be seen as a claim that foreign men (and Western men in particular) are better than Japanese men, more ‘manly’ and attractive. At least one academic has accused Western companies of reflecting this belief in its Japanese advertising, while native advertising presents a more straightforward competition between Japanese and Western men.20
+
+
+In advance, I suspect there may not be enough bi-racial characters to draw a neat graph, and selection bias & difficulty in finding such biracial characters with information in English would distort the true graph.
+
+
+ Mr. Craig seems to be supporting the Korean people, and criticizing the arrogance of foreigners who would dare complain about people who call their female companions whores to their faces, but he chose a rather inapt analogy. It wasn't that "only prostitutes" were accustomed to walking alongside men - something that suggests that all women seen walking with men in Korea were assumed to be prostitutes. The point was that it was assumed that only prostitutes would be seen walking with *foreign* men.
+
+
+> There are many movies and documentaries about female prostitutes. While some focus on women forced into prostitution against their will, most of the rest vaguely imply that the female prostitutes are exploited by their male customers. The message seems to be "They don't see that the money they gain is just not worth their loss of intimacy, self-respect, etc." https://www.overcomingbias.com/2011/03/recipe-men-exploit-fems.html
+
+cf. [comfort women](! Wikipedia)
+
+> The film was originally suggested by a British government department to improve relations between the Americans in the UK and the British public [13] following Powell and Pressburger's contributions to this sphere in A Canterbury Tale two years earlier, though neither film received any government funding nor input on plot or production. There was a degree of hostility against the American servicemen stationed in the UK for the invasion of Europe. They were viewed in some quarters as latecomers to the war and as "overpaid, oversexed and over here" by a public that had suffered three years of bombing and rationing, with many of their own men fighting abroad. The premise of the film is a simple inversion: The English pilot gets the pretty American woman rather than the other way round, and the only national bigotry is voiced by the first American casualty of the Revolutionary War against the British. Raymond Massey, portraying an American, was a Canadian national at the time the film was made, but became a naturalized American citizen afterward
+
+
+Interracial marriages/dating in the US: white men like Asian women, white women like black men, Asian men & black women are left in the cold:
+
+- [OKC](/doc/psychology/okcupid/howyourraceaffectsthemessagesyouget.html)
+- [OKC](/doc/psychology/okcupid/whatiftherewerentsomanywhitepeople.html)
+
+> But when it was all over and I was waiting in Manila for my flight home, I looked around and noticed something:
+>
+> You know, there sure are a lot of Japanese men with Filipina wives. But that makes sense.
+>
+> Millions of Filipinos currently work overseas, an enormous population of expat laborers. (In fact, I didn't know this initially, but overseas remittances account for billions- literally billions!- of dollars in the Philippine economy.) In Japan, especially, Filipinas find lots of work. The "Filipinas hostess club" is a notable feature of Japanese nightlife, frequented by many a salaryman looking to relax and have a drink with some island beauties. And logically, with time and proximity in that kind of job, why wouldn't some workers fall in love and settle down with the locals?
+>
+> That's what I figured, and to me there's nothing wrong with it... But from what I've gathered from some late-night bar conversations with Japanese men, marrying a Filipina hostess is the equivalent of a Russian mail-order bride: A sketchy, ethically suspect last resort for lonely oddballs. So the popular perception goes.
+
+
+> This is not to say that blacks have not been and are not treated badly in Japan. I learned about this side of Japan from my mother and from other friends who have experienced direct and oppressive forms of racism. While in Japan or in situations when around Japanese people, my Okinawan mother still tries to pull me in to being more _uchi_ ['inside']. I was never allowed to play outside until the sun went down or else she warned me, "I would become more like my father's color", and therefore less Japanese. perhaps many of her fears came from the uneasy times she spent with my older sister living in Korea, Thailand, and Japan in the 1960s and 1970s. She was constantly the object of harassment for having a "Sambo baby" and was called the nastiest names for betraying the nation with her sex. She was immediately associated with military domination, with prostitution, with misplaced allegiances. My mother had told me many stories about why she refused to enroll my sister in a Japanese school and they all seemed to stem from the belief that it would be detrimental to her daughter's self-esteem. She would rather leave Japan than have my sister suffer from the kind of name-calling she received outside of school hours. My cousins who are half Okinawan and half white American had similar stories of buses passing them by and stories of bullying in school and how even later, signs on certain dance clubs in Koza City would not only say, "no Americans" or "no GIs" but also "no _hāfu_" allowed. The undercover Japanese have the potential to be the most threatening because our allegiances are hard to place. My friend Tatsu Yamato (whose father is Japanese and mother black) lived in Japan for years and was repeatedly frustrated that his name, which can be written in full _kanji_, was always changed to _katakana_ so that he did not "trick" anyone into thinking he was "really" Japanese before meeting in person.
+>
+> I am aware that being "_hāfu_" in Japan is different from being just "_gaijin_". In his documentary _Doubles_ (1998), Regge Life interviewed "_hāfu_" living in and outside of Japan and from varying generations. Their experiences varied from painfully unpleasant to very positive. What struck me was the way in which those who were half black living in Japan had experiences that were not too wholly different from those who were half white living there. If we look critically at marginal, hybridity, or borderland theories, we may be able to flesh out how biracial Japanese move between the spaces of _uchi_ (inside) and _soto_ (outside), _omote_ (front stage) and _ura_ (back stage)...When working in Sado Island, a fellow colleague from the United States who had been in Japan for much longer than I was a bit shocked when I told her that I was being asked to cut the persimmons and help serve tea in the mornings. She exclaimed, "I don't think I know any other _gaijin_ teacher that's been asked to help out like that, regardless of how demeaning that may be as a woman and a newcomer. It means you're being pulled into a more _uchi_ role and that the other teachers trust you."
+
+- -["A Critical Review of Academic Perspectives on Blackness in Japan"](/doc/japan/2008-carter.pdf), Carter & Hunter 2008, [_Multiculturalism in the New Japan: Crossing the Boundaries Within_](https://www.amazon.com/Multiculturalism-New-Japan-Boundaries-Anthropologies/dp/1845457811/) 2008
+-->
+
+
+# Database
+
+
+## Generating Entries
+
+
+Extracting candidate articles from Wikipedia:
+
+- 
+
+Category:Fictional Japanese people
+- 
+
+`https://en.wikipedia.org/wiki/Category:Fictional_characters_by_nationality` (deleted December 201115ya)
+- 
+
+https://catscan2.toolforge.org/catscan2.php?depth=4&categories=Fictional+Japanese+people%0D%0AFictional+characters+by+nationality&comb%5Bsubset%5D=1&comb%5Batleast%5D=1&atleast_count=2&show_redirects=no&templates_any=Multiple+issues%0D%0AUnreferenced%0D%0AOrphan%0D%0AWikify&doit=1
+
+
+Additional sources:
+
+- 
+
+TvTropes, “But Not Too Foreign” section on half-breeds and using the anime/manga & video-game/visual-novel subsections in particular; although the examples in Mukokuseki remind us of the unreliability of appearances 
+- 
+
+Lu 2009’s character list
+- 
+
+Baka-Updates Manga database: https://www.mangaupdates.com/series.html?category=Half-Japanese & https://www.mangaupdates.com/series.html?page=1&perpage=100&category=Mixed+Blood&orderby=year
+- 
+
+AniDB database: https://anidb.net/tag/385/chartb
+- 
+
+Google & Google Scholar hits for the query `(anime OR manga) (half-Japanese OR hāfu OR half-American)`; followed by Google Alert & Google Scholar Alert for the same query 
+- 
+
+Personal knowledge (>307 anime, >17 manga)
+- 
+
+Targeted Google search of the AnimeNewsNetwork site: `"half-Japanese" site:animenewsnetwork.com` (233 results, 2014-12-04)
+
+
+## List
+
+
+The following list includes manga, light novel, anime, and video game characters (there being little point in keeping the mediums separate). It also includes characters who are not hāfu themselves but a quarter-foreign inasmuch as they imply a hāfu at some point. Characters are treated separately even if they are in the same work (eg. siblings). Classification is based on in-universe or out-of-universe information, since appearance can be highly misleading in anime (blue eyes may indicate heroic status, rather than being Caucasian21; hair color may be chosen for contrast against other characters or signal stereotypes like red hair indicating a fiery personality), and different groups will identify the same anime character as belonging to their own race (Lu 200917ya), perhaps due to minimalistic drawings intended to save money or enable viewers to project themselves onto a character.
+
+
+Compilation of hafu characters in Japanese anime, manga, video games, & light or visual novels, 1963–562019 (n ≈ 390)
+
+
+Year
+
+
+Series
+
+
+Character
+
+
+Gender
+
+
+Father
+
+
+Mother
+
+
+Eyes
+
+
+Hair
+
+
+Notes
+
+
+1963
+
+
+Yuki no Taiyou
+
+
+Sanae
+
+
+F
+
+
+Japanese
+
+
+American
+
+
+1964
+
+
+Cyborg 009
+
+
+Joe Shimamura
+
+
+M
+
+
+American
+
+
+Japanese
+
+
+brown
+
+
+brown
+
+
+TVTropes says “half-Japanese (mother), half-American (father), and in the manga he was bullied because of that”; I did not find any other online sources specifying the parents, and do not have the manga handy.
+
+
+1967
+
+
+Lupin III
+
+
+Lupin III
+
+
+M
+
+
+French?
+
+
+Japanese?
+
+
+black
+
+
+black
+
+
+Wikipedia discusses the ambiguity.
+
+
+1967
+
+
+Nekome Kozou
+
+
+Cat-Eyed Boy
+
+
+M
+
+
+Japanese
+
+
+Fantasy
+
+
+brown
+
+
+1972
+
+
+Gatchaman
+
+
+Jun ‘the Swan’
+
+
+F
+
+
+green
+
+
+green
+
+
+Information about Jun is very scarce; asked
+
+
+1974
+
+
+Great Mazinger
+
+
+Jun Hono
+
+
+F
+
+
+American
+
+
+Japanese
+
+
+black
+
+
+black
+
+
+Particularly famous for the episode “Snow, Take the Color of the Blood of Youth!!” about Japanese racism.
+
+
+1975
+
+
+Ichigo Monogatari
+
+
+Ichigo
+
+
+F
+
+
+Scandinavian?
+
+
+Japanese?
+
+
+brown
+
+
+brown
+
+
+Baka-Updates describes the plot: “Ichigo is a fourteen year old half Japanese girl that grew up in Lapland. After the death of her father, she moves to Japan where she is hosted by Ikuta Rintaro and his family.”, translating from an Italian website. Making matters worse, the Lapland region is claimed in parts by Norway, Sweden, Finland and Russia.
+
+
+1976
+
+
+Kochira Katsushika-ku…
+
+
+Reiko Katherine Akimoto
+
+
+F
+
+
+Japanese?
+
+
+French?
+
+
+blue
+
+
+blond
+
+
+Asked
+
+
+1977
+
+
+Haikara-san ga Tooru
+
+
+Shinobu Iijyuin
+
+
+M
+
+
+Japanese
+
+
+German
+
+
+blue
+
+
+blond
+
+
+1977
+
+
+“Sentimental City”
+
+
+M
+
+
+English
+
+
+Japanese
+
+
+black
+
+
+As described in Ogi 2019
+
+
+1979
+
+
+Mobile Suit Gundam
+
+
+Amuro Ray
+
+
+M
+
+
+Japanese
+
+
+Canadian
+
+
+blue
+
+
+brown
+
+
+TvTropes says Ray’s mother is Canadian, and was changed to Mexican in a much later Gundam anime; the Gundam Wikia says she is either American or Canadian but it is not specified.
+
+
+1981
+
+
+GoShogun
+
+
+Remy Shimada
+
+
+F
+
+
+Japanese
+
+
+French
+
+
+blue
+
+
+blond
+
+
+Alan Takahashi’s “Anime Pocket Guide” compiled for `rec.arts.anime` comments of a later GoShogun movie that “Remy’s mother was a French prostitute, so Remy has a tainted and confused past.”
+
+
+1981
+
+
+Blossom Shower on Nanjing Road
+
+
+M
+
+
+Japanese
+
+
+Chinese
+
+
+black
+
+
+As described in Ogi 2019
+
+
+1982
+
+
+Macross
+
+
+Lynn Minmay
+
+
+F
+
+
+Chinese?
+
+
+Japanese?
+
+
+blue
+
+
+blue
+
+
+The father-mother mix is unclear; it may be Japanese-Chinese.
+
+
+1982
+
+
+Yūkan Club
+
+
+Bido Granmarie
+
+
+M
+
+
+Swedish
+
+
+Japanese
+
+
+blond
+
+
+1983
+
+
+Adolf
+
+
+Adolf Kaufmann
+
+
+M
+
+
+German
+
+
+Japanese
+
+
+1983
+
+
+Rean no Tsubasa
+
+
+Asap Suzuki
+
+
+M
+
+
+American
+
+
+Japanese
+
+
+blond
+
+
+Google Translate of official profile: “Has a Japanese mother and an American father.”
+
+
+1984
+
+
+Kimagure Orange Road
+
+
+Madoka Ayukawa
+
+
+F
+
+
+Japanese
+
+
+green
+
+
+black
+
+
+Semi-confirmed by author at convention.
+
+
+1986
+
+
+Mad Bull 34
+
+
+Daizaburo “Eddie” Ban
+
+
+M
+
+
+Japanese?
+
+
+American?
+
+
+brown
+
+
+black
+
+
+1986
+
+
+Pineapple Army
+
+
+Jed Goshi
+
+
+M
+
+
+Japanese?
+
+
+American?
+
+
+black
+
+
+black
+
+
+1986
+
+
+Saint Seiya
+
+
+Cygnus Hyoga
+
+
+M
+
+
+Japanese
+
+
+Russian
+
+
+blue
+
+
+blond
+
+
+1987
+
+
+Hanasakeru Seishounen
+
+
+Kajika Burnsworth
+
+
+F
+
+
+American
+
+
+Japanese
+
+
+grey
+
+
+brown
+
+
+1987
+
+
+Lady!!
+
+
+Lynn Russell
+
+
+F
+
+
+English
+
+
+Japanese
+
+
+red
+
+
+blond
+
+
+1987
+
+
+Magic Kaito
+
+
+Saguru Hakuba
+
+
+M
+
+
+Japanese
+
+
+English
+
+
+brown
+
+
+brown
+
+
+1987
+
+
+Metal Gear
+
+
+Solid Snake
+
+
+M
+
+
+American
+
+
+Japanese
+
+
+blue
+
+
+brown
+
+
+1988
+
+
+Master Keaton
+
+
+Taichi Hiraga-Keaton
+
+
+M
+
+
+Japanese
+
+
+English
+
+
+black
+
+
+black
+
+
+1988
+
+
+Mobile Police Patlabor
+
+
+Kanuka Clancy
+
+
+F
+
+
+American
+
+
+Japanese?
+
+
+black
+
+
+black
+
+
+Asked.
+
+
+1988
+
+
+Vampire Princess Miyu (OVA)
+
+
+Miyu
+
+
+F
+
+
+Japanese
+
+
+Fantasy
+
+
+brown
+
+
+brown
+
+
+1989
+
+
+Ijigen kara no Tayori
+
+
+Mami Takamizawa
+
+
+F
+
+
+Japanese
+
+
+American
+
+
+blue
+
+
+blond
+
+
+Second story in the anthology.
+
+
+1989
+
+
+JoJo’s Bizarre Adventure
+
+
+Jotaro Kujo
+
+
+M
+
+
+Japanese
+
+
+English
+
+
+green
+
+
+blue
+
+
+1989
+
+
+Street Fighter
+
+
+Ken Masters
+
+
+M
+
+
+American
+
+
+Japanese
+
+
+brown
+
+
+blond
+
+
+1990
+
+
+Itazura na Kiss
+
+
+Japanese
+
+
+English
+
+
+blue
+
+
+blond
+
+
+1990
+
+
+Itazura na Kiss
+
+
+Japanese
+
+
+English
+
+
+blue
+
+
+blond
+
+
+1990
+
+
+Itazura na Kiss
+
+
+Japanese
+
+
+English
+
+
+blue
+
+
+blond
+
+
+TvTropes: “Englishwoman Christine ‘Chris’ Robbins has a thing for Japanese men and go to Japan specifically to find one to date and marry. At first she’s interested in male lead Naoki, but ends up marrying Kotoko’s former Dogged Nice Guy Kinnosuke. They have three kids, with their dad’s features and their mom’s eye/hair color scheme.”
+
+
+1990
+
+
+Metal Gear 2: Solid Snake
+
+
+Kazuhira Miller
+
+
+M
+
+
+American
+
+
+Japanese
+
+
+blue
+
+
+blond
+
+
+1990
+
+
+Slam Dunk
+
+
+Michael Okita
+
+
+M
+
+
+Japanese
+
+
+American
+
+
+blue
+
+
+blond
+
+
+1991
+
+
+2nd Super Robot Wars
+
+
+Shu Shirakawa
+
+
+M
+
+
+Fantasy
+
+
+Japanese
+
+
+red
+
+
+TvTropes asserts he is half-Japanese as the name indicates; descriptions of his backstory are hard to come by, and I am relying on a GameFAQs forum summary: “Shuu’s mom is ‘kidnapped’ by a member of the Royal Family of Lan Gran (one of the 3 kingdoms of La Gias) and is made his consort/concubine, and Shuu is born some time afterwards - thus, Shuu is half Earthian, half La Gian, and a legitimate heir of the throne of Lan Gran. He grows up to value his independence much more than anything (most likely stemming from his mother’s freedom being stripped from her since she was kidnapped), and thus has no interest of the throne. Shuu travels back-and-forth from the surface world, and becomes the genius he is as he absorbs knowledge from the surface AND La Gias, using this knowledge to build the Granzon.”
+
+
+1991
+
+
+801 T.T.S. Airbats
+
+
+Mitaka Arisa
+
+
+F
+
+
+Japanese
+
+
+black
+
+
+black
+
+
+Hitoshi Doi on the audiodrama adaptation: “Mitaka Arisa got transferred to the 801 TTS. Kengamine looked at Arisa’s papers and found out that she was half Japanese (her father was Japanese).”
+
+
+1991
+
+
+Shin Seiki GPX Cyber Formula
+
+
+Kaga Joutarou
+
+
+M
+
+
+Japanese?
+
+
+Spanish?
+
+
+green
+
+
+1991
+
+
+Silent Mobius
+
+
+Katsumi Liqueur
+
+
+F
+
+
+American
+
+
+Japanese
+
+
+blue
+
+
+blue
+
+
+1991
+
+
+Boys Be…
+
+
+Chiharu Reicha
+
+
+F
+
+
+Japanese?
+
+
+Finnish?
+
+
+black
+
+
+blond
+
+
+1992
+
+
+Hana Yori Dango
+
+
+Thomas
+
+
+M
+
+
+Japanese
+
+
+German
+
+
+blond
+
+
+Margaret O’Connell quotes Thomas as saying: “Because I’m half Japanese. My dad’s from here. My mom’s German.”
+
+
+1992
+
+
+JoJo’s Bizarre Adventure
+
+
+Josuke Higashikata
+
+
+M
+
+
+English
+
+
+Japanese
+
+
+blue
+
+
+blue
+
+
+1992
+
+
+Rainbow Trotsky
+
+
+Hunbord
+
+
+M
+
+
+Japanese
+
+
+Mongolian
+
+
+The father is named “Fukami Keisuke” and the mother identified as “a member of the Buryat subethnic group”; dates, names, and parentage are sourced from “Heroes and Villains: Manchuko in Yasuhiko Yoshikazu’s Rainbow Trotsky” (O’Dwyer 201214ya; anthologized in Manga and the Representation of Japanese History).
+
+
+1992
+
+
+Tenchi Muyo!
+
+
+Katsuhito Masaki
+
+
+M
+
+
+Fantasy
+
+
+Japanese
+
+
+purple
+
+
+black
+
+
+Original hair color as young man.
+
+
+1992
+
+
+X1999
+
+
+Karen Kasumi
+
+
+F
+
+
+Japanese
+
+
+brown
+
+
+red
+
+
+Not certain Karen is the half-Japanese character TvTropes’s main page alludes to; asked: https://tvtropes.org/pmwiki/remarks.php?trope=Main.ButNotTooForeign
+
+
+1992
+
+
+Angel Densetsu
+
+
+Leo Halford
+
+
+M
+
+
+American
+
+
+Japanese
+
+
+brown
+
+
+brown
+
+
+1992
+
+
+Angel Densetsu
+
+
+Sana Halford
+
+
+F
+
+
+American
+
+
+Japanese
+
+
+brown
+
+
+black
+
+
+1993
+
+
+Bokutachi Otoko no Ko
+
+
+Takashi Fujii
+
+
+M
+
+
+Japanese
+
+
+American?
+
+
+blue
+
+
+blond
+
+
+In chapter 02, Takashi’s blond Caucasian mother named ‘Sarah’ is introduced and Takashi says “she was actually born in Tokyo. Though she moved to South Africa right after she was born, and then Kyoto, and Pakistan, then Tokyo again, and now she’s here [rural Japan]”. Unfortunately, the rest of the manga only rarely mentions her and her side of the family never appears, so while she is surely an American, it cannot be proven from the manga.
+
+
+1993
+
+
+Hyper Police
+
+
+Sasahara Natsuki
+
+
+F
+
+
+Japanese
+
+
+Fantasy
+
+
+green
+
+
+green
+
+
+1993
+
+
+Samurai Gun
+
+
+Ichimatsu
+
+
+M
+
+
+Japanese
+
+
+Dutch
+
+
+blue
+
+
+white
+
+
+1994
+
+
+Detective Conan
+
+
+Ai Haibara
+
+
+F
+
+
+Japanese
+
+
+English
+
+
+blue
+
+
+brown
+
+
+1994
+
+
+Fake
+
+
+Randy Ryo Maclean
+
+
+M
+
+
+American
+
+
+Japanese
+
+
+black
+
+
+brown
+
+
+1995
+
+
+Angel Sanctuary
+
+
+Sara Mudo
+
+
+F
+
+
+Japanese?
+
+
+English?
+
+
+brown
+
+
+blond
+
+
+O’Connell quotes volume 1 of the manga: “Since our grandfather was from England, we both have blond hair and light-brown eyes… so everyone’s gonna know that we’re brother and sister.” Asked for more details: https://angelsanctuary.fandom.com/wiki/Talk:Setsuna_Mudo#Parentage; commenter ‘germaninjapan’ on this page says it was the mother planning to leave, so through the maternal line?
+
+
+1995
+
+
+Angel Sanctuary
+
+
+Setsuna Mudo
+
+
+M
+
+
+Japanese?
+
+
+English?
+
+
+brown
+
+
+blond
+
+
+1995
+
+
+Chūka Ichiban!
+
+
+Shirou
+
+
+M
+
+
+Chinese
+
+
+Japanese
+
+
+brown
+
+
+blue
+
+
+1995
+
+
+Kashou no Tsuki
+
+
+Tsuchikimado Arimasa
+
+
+M
+
+
+Japanese
+
+
+Fantasy
+
+
+black
+
+
+1995
+
+
+Kodomo no Omocha
+
+
+Naozumi Kamura
+
+
+M
+
+
+American
+
+
+Japanese
+
+
+green
+
+
+blue
+
+
+Sourced from subtitles of episode 73 & 74, and interpretation checked against a fansite
+
+
+1995
+
+
+Mobile Suit Gundam Wing
+
+
+Heero Yuy
+
+
+M
+
+
+Russian
+
+
+Japanese
+
+
+blue
+
+
+brown
+
+
+TvTropes: “Heero, on the other hand, is revealed to be half-Russian in the novel Frozen Teardrop.” His canon father does have a Russian name.
+
+
+1995
+
+
+Neon Genesis Evangelion
+
+
+Asuka Soryu Langley
+
+
+F
+
+
+Japanese
+
+
+German
+
+
+blue
+
+
+red
+
+
+1996
+
+
+Card Captors Sakura
+
+
+Eriol Hiiragizawa
+
+
+M
+
+
+blue
+
+
+blue
+
+
+English-Japanese, reportedly. I omitted related characters like Watanuki as they are too complicated to fairly include.
+
+
+1996
+
+
+Hana-kimi
+
+
+Mizuki’s brother
+
+
+M
+
+
+Japanese
+
+
+American?
+
+
+1996
+
+
+InuYasha
+
+
+InuYasha
+
+
+M
+
+
+Fantasy
+
+
+Japanese
+
+
+brown
+
+
+white
+
+
+1996
+
+
+JoJo’s Bizarre Adventure
+
+
+Giorno Giovanna
+
+
+M
+
+
+English
+
+
+Japanese
+
+
+blue
+
+
+blond
+
+
+1996
+
+
+Sakura Taisen
+
+
+Maria Tachibana
+
+
+F
+
+
+Japanese
+
+
+Russian
+
+
+blue
+
+
+blond
+
+
+“Maria Tachibana was born in Russia to a Japanese father and a Russian mother.” –“Sakura Taisen”, Ex.org
+
+
+1996
+
+
+Sakura Taisen
+
+
+Orihime Soletta
+
+
+F
+
+
+Japanese
+
+
+Italian
+
+
+green
+
+
+black
+
+
+1997
+
+
+Devil Lady
+
+
+Asuka Lan
+
+
+F
+
+
+American
+
+
+Japanese
+
+
+blue
+
+
+blond
+
+
+1997
+
+
+Great Teacher Onizuka
+
+
+Kanzaki Urumi
+
+
+F
+
+
+Japanese
+
+
+blond
+
+
+Heterochromatic: brown/blue. Canonically unknown father.
+
+
+1997
+
+
+Sensual Phrase
+
+
+Sakuya Ookochi
+
+
+M
+
+
+American
+
+
+Japanese
+
+
+blue
+
+
+black
+
+
+1997
+
+
+Street Fighter 3
+
+
+Sean Matsuda
+
+
+M
+
+
+Japanese
+
+
+Brazilian
+
+
+brown
+
+
+brown
+
+
+“Sean Matsuda was born in Brazil, though his paternal grandfather was Japanese.” –SF Wikia
+
+
+1997
+
+
+To Heart
+
+
+Lemmy Miyauchi
+
+
+F
+
+
+American
+
+
+Japanese
+
+
+blue
+
+
+blond
+
+
+Cloud668 says the parents’ nationalities are listed in ‘the guidebook’.
+
+
+1997
+
+
+Vampire Princess Miyu (TV)
+
+
+Miyu
+
+
+F
+
+
+Fantasy
+
+
+Japanese
+
+
+brown
+
+
+brown
+
+
+1998
+
+
+Full Metal Panic!
+
+
+Kurz Weber
+
+
+M
+
+
+German?
+
+
+Japanese?
+
+
+blue
+
+
+blond
+
+
+Unclear whether hafu; FMP! wikia lists nationality as “German/Japanese” and “Born in Tokyo to West German parents on April 1, 198244ya. He was raised in Edogawa, Tokyo, Japan, attending a normal public school”. Japan does not grant citizenship for being born in Japan but by blood, implying a Japanese citizenship parent, unless the mangaka is ignoring that. The original light novels may clear this up.
+
+
+1998
+
+
+Kinnikuman Nisei
+
+
+Terry the Kid
+
+
+M
+
+
+American
+
+
+Japanese
+
+
+blue
+
+
+blond
+
+
+1998
+
+
+Maria-sama Ga Miteru
+
+
+Sei Satō
+
+
+F
+
+
+Japanese?
+
+
+American?
+
+
+grey
+
+
+brown
+
+
+Seems to be zero information besides a comment she is attractive despite the foreign blood; the surname is Japanese and she graduates to study English & American Literature, so probably she has a mother who is one of those nationalities. Asked.
+
+
+1998
+
+
+Parasite Eve
+
+
+Aya Brea
+
+
+F
+
+
+American
+
+
+Japanese
+
+
+blue
+
+
+blond
+
+
+Aya Brea is not in the original Parasite Eve novel, but the first video game adaptation.
+
+
+1998
+
+
+Secret Area
+
+
+Jake
+
+
+M
+
+
+Japanese
+
+
+American
+
+
+blond
+
+
+Story 5 in the anthology.
+
+
+1998
+
+
+Shanimuni Go
+
+
+Takita Louis
+
+
+M
+
+
+Japanese
+
+
+French
+
+
+brown
+
+
+brown
+
+
+1998
+
+
+UFO Baby
+
+
+Christine Hanakomachi
+
+
+F
+
+
+Japanese
+
+
+French
+
+
+purple
+
+
+pink
+
+
+1999
+
+
+Digimon Adventure
+
+
+Yamato Ishida
+
+
+M
+
+
+Japanese
+
+
+French
+
+
+blue
+
+
+blond
+
+
+1999
+
+
+Fruits Baskets
+
+
+Momiji Sohma
+
+
+M
+
+
+Japanese?
+
+
+German?
+
+
+brown
+
+
+blond
+
+
+1999
+
+
+GetBackers
+
+
+Ban Mido
+
+
+M
+
+
+German
+
+
+Japanese
+
+
+blue
+
+
+brown
+
+
+His father, Der Kaiser, seems to be half-German/half-Japanese, making Ban a quarter-German.
+
+
+1999
+
+
+Peacemaker Kurogane
+
+
+Akesato
+
+
+F
+
+
+blue
+
+
+brown
+
+
+The mangaka Sakamoto has apparently only commented she is a hāfu (presumably Caucasian), nothing more. Asked.
+
+
+1999
+
+
+Prince of Tennis
+
+
+Jackal Kuwahara
+
+
+M
+
+
+Brazilian?
+
+
+Japanese?
+
+
+black
+
+
+Guesses based on surname, unreliable as that is. Asked.
+
+
+1999
+
+
+Sister Princess
+
+
+Aria
+
+
+F
+
+
+Japanese
+
+
+French
+
+
+grey
+
+
+blue
+
+
+1999
+
+
+Sister Princess
+
+
+Haruka
+
+
+F
+
+
+Japanese
+
+
+German
+
+
+blue
+
+
+purple
+
+
+1999
+
+
+Sister Princess
+
+
+Yotsuba
+
+
+F
+
+
+Japanese
+
+
+English
+
+
+brown
+
+
+brown
+
+
+1999
+
+
+Venus in Love
+
+
+Yuki Ikeuchi
+
+
+M
+
+
+Japanese?
+
+
+Greek?
+
+
+green
+
+
+brown
+
+
+Guessing based on surname; asked.
+
+
+1999
+
+
+The Last Wizard of the Century
+
+
+Natsumi Kousaka
+
+
+F
+
+
+Japanese
+
+
+Russian
+
+
+green
+
+
+brown
+
+
+According to the fan wiki, her grandfather married a Russian woman while working there.
+
+
+2000
+
+
+Beyblade
+
+
+Max Tate
+
+
+M
+
+
+Japanese
+
+
+American
+
+
+blue
+
+
+blond
+
+
+2000
+
+
+Boys Be…
+
+
+Shoko Uzuki
+
+
+F
+
+
+blond
+
+
+2000
+
+
+Digimon Adventure 02
+
+
+Takeru Takaishi
+
+
+M
+
+
+Japanese
+
+
+French
+
+
+blue
+
+
+blond
+
+
+2000
+
+
+JoJo’s Bizarre Adventure
+
+
+Jolyne Kujo
+
+
+F
+
+
+Japanese
+
+
+Italian
+
+
+blue
+
+
+This is a major simplification. Wikipedia notes that “It’s mentioned that she is an Italian-American, making Jolyne 1⁄4 Japanese, 1⁄4 American, 3⁄8 Italian, and 1⁄8 British.”
+
+
+2000
+
+
+Maya Madoromijima no Nemurihime
+
+
+Mikagura Hijiri
+
+
+F
+
+
+blue
+
+
+blond
+
+
+2000
+
+
+Nana
+
+
+Layla Serizawa
+
+
+F
+
+
+American
+
+
+Japanese
+
+
+brown
+
+
+pink
+
+
+2000
+
+
+Nana
+
+
+Ren Ichinose
+
+
+M
+
+
+Japanese
+
+
+brown
+
+
+grey
+
+
+ch74; Nana remains incomplete and so his exact parentage remains debatable.
+
+
+2000
+
+
+Nigai Kajitsu
+
+
+Jack Yuchi
+
+
+M
+
+
+Japanese
+
+
+American
+
+
+black
+
+
+Story 4, “Blue Period”
+
+
+2000
+
+
+Pani Poni Dash! (manga)
+
+
+Rebecca Miyamoto
+
+
+F
+
+
+Japanese
+
+
+American
+
+
+blue
+
+
+blond
+
+
+Miyamoto appears twice because the anime reverses her parentage.
+
+
+2000
+
+
+Read or Die
+
+
+Yomiko Readman
+
+
+F
+
+
+Japanese
+
+
+English
+
+
+blue
+
+
+black
+
+
+2000
+
+
+Ring Of Red
+
+
+Masami von Weisegger
+
+
+M
+
+
+German?
+
+
+Japanese?
+
+
+2000
+
+
+Shiyouzumi Condom
+
+
+Sara Kararieva
+
+
+F
+
+
+Japanese
+
+
+Russian
+
+
+blue
+
+
+blond
+
+
+2000
+
+
+Tsukihime
+
+
+Ciel
+
+
+F
+
+
+French
+
+
+Japanese?
+
+
+blue
+
+
+blue
+
+
+Ciel says only “I looked like my mother, who was Oriental”; asked: https://typemoon.fandom.com/wiki/Talk:Ciel#Parentage
+
+
+2000
+
+
+Yo-u
+
+
+Kaede
+
+
+F
+
+
+Fantasy
+
+
+Japanese
+
+
+brown
+
+
+brown
+
+
+2001
+
+
+Bleach
+
+
+Yasutora Sado
+
+
+M
+
+
+Japanese?
+
+
+Mexican?
+
+
+brown
+
+
+brown
+
+
+Asked.
+
+
+2001
+
+
+Dead or Alive 3
+
+
+Hitomi
+
+
+F
+
+
+German
+
+
+Japanese
+
+
+blue
+
+
+brown
+
+
+Surprisingly, there doesn’t seem to be a DOA anime or manga, except for a DOA Xtreme Beach Volleyball manga.
+
+
+2001
+
+
+Desert Storm
+
+
+Eimi
+
+
+F
+
+
+Japanese
+
+
+Russian
+
+
+black
+
+
+black
+
+
+Technically, Chechnyan; as usual, assimilated to the neighboring major nationality.
+
+
+2001
+
+
+Diamond Head
+
+
+Leica Hanugi
+
+
+M
+
+
+red
+
+
+red
+
+
+“His nationality is three-fourths mixed… the most mysterious one of all.” pg21 c01. He is depicted in color illustrations with reddish hair, red eyes, and is Christian; one associated character returns from several years abroad living in Seattle. In the complete manga, there are no other hints as to his nationalities or parentage: the mother is depicted once with neutral hair color.
+
+
+2001
+
+
+Digimon Tamers
+
+
+Lee Jaarin
+
+
+F
+
+
+Chinese
+
+
+Japanese
+
+
+2001
+
+
+Digimon Tamers
+
+
+Lee Jianliang
+
+
+M
+
+
+Chinese
+
+
+Japanese
+
+
+grey
+
+
+blue
+
+
+2001
+
+
+Digimon Tamers
+
+
+Lee Rinchei
+
+
+M
+
+
+Chinese
+
+
+Japanese
+
+
+2001
+
+
+Digimon Tamers
+
+
+Lee Shiuchon
+
+
+F
+
+
+Chinese
+
+
+Japanese
+
+
+purple
+
+
+brown
+
+
+2001
+
+
+Koiseyo Shounen
+
+
+Yamato Sakurai
+
+
+M
+
+
+Canadian
+
+
+Japanese
+
+
+blue
+
+
+brown
+
+
+Story 1 of the anthology, “Letter from Canada”.
+
+
+2001
+
+
+Sakura Taisen 3
+
+
+Hanabi Kitaoji
+
+
+F
+
+
+Japanese
+
+
+French
+
+
+black
+
+
+black
+
+
+Her maternal grandmother is French, or so MyAnimeList claims. This is consistent with her nobility and her father being named Masamichi Kitaoji.
+
+
+2001
+
+
+Shadow Hearts
+
+
+Yuri Volte Hyuga
+
+
+M
+
+
+Japanese
+
+
+German
+
+
+red
+
+
+brown
+
+
+2002
+
+
+.hack//Legend of the Twilight
+
+
+Hotaru
+
+
+M
+
+
+Irish
+
+
+Japanese
+
+
+blue
+
+
+blond
+
+
+2002
+
+
+Da Capo
+
+
+Alice Tsukishiro
+
+
+F
+
+
+Japanese?
+
+
+English?
+
+
+purple
+
+
+white
+
+
+2002
+
+
+Da Capo
+
+
+Grandma?
+
+
+F
+
+
+English?
+
+
+Japanese?
+
+
+I am not certain about this character. She is obscure and there are overlapping characters polluting the search results. I am going off a much copy-pasted description which claims “Junichi and Sakura’s grandmother. Half Japanese, half British. Said to have looked young until she was about a hundred years old. Already dead by the events of Da Capo, but that doesn’t stop her from showing up every once in a while.”
+
+
+2002
+
+
+Eyeshield 21
+
+
+Mamori Anezaki
+
+
+F
+
+
+Japanese
+
+
+American
+
+
+blue
+
+
+red
+
+
+Technically, her mother is half-American and hence Mamori is a quarter-Japanese, like Asuka Soryu Langley’s mother is half-Japanese/half-German in NGE.
+
+
+2002
+
+
+Hungry Heart
+
+
+Kouji Sakai
+
+
+M
+
+
+Japanese
+
+
+Swedish
+
+
+grey
+
+
+white
+
+
+2002
+
+
+Kujibiki Unbalance
+
+
+Ritsuko Kettenkrad
+
+
+F
+
+
+German
+
+
+Japanese
+
+
+blue
+
+
+blond
+
+
+Dating Kujibiki Unbalance is a little difficult due to its status as a meta-fictional work: it first appeared as a comic-within-a-comic in the Genshiken manga (200224ya) then starred further in the Genshiken anime (200422ya) whereupon it was spun-off as a 3-episode 200422ya OVA and 3-volume light novel
+
+
+2002
+
+
+Love Monster
+
+
+Hiyoko Osora
+
+
+F
+
+
+Fantasy
+
+
+Japanese
+
+
+red
+
+
+blond
+
+
+2002
+
+
+Nejire
+
+
+Wakakusa Elliis
+
+
+F
+
+
+brown
+
+
+blond
+
+
+2002
+
+
+Nejire
+
+
+Wakakusa Kei
+
+
+M
+
+
+brown
+
+
+blond
+
+
+2002
+
+
+Ougon Honey
+
+
+Hime Komada
+
+
+F
+
+
+American
+
+
+Japanese
+
+
+blue
+
+
+blond
+
+
+2002
+
+
+Rhythmic Rev
+
+
+Mibuna Kaede
+
+
+F
+
+
+green
+
+
+red
+
+
+2002
+
+
+Rikujou Bouei-tai Mao-chan
+
+
+Adalbert Von Maruyama
+
+
+M
+
+
+Japanese?
+
+
+German?
+
+
+white
+
+
+2002
+
+
+School Rumble
+
+
+Eri Sawachika
+
+
+F
+
+
+English
+
+
+Japanese
+
+
+brown
+
+
+blond
+
+
+Apparently, her father is apparently half-Japanese.
+
+
+2002
+
+
+Shigeshōshi
+
+
+Shinjyurou Mamiya
+
+
+M
+
+
+American
+
+
+Japanese
+
+
+black
+
+
+black
+
+
+2002
+
+
+Shippuu Karen Jinrai Komusume!
+
+
+Kogane Mikasa
+
+
+F
+
+
+Fantasy
+
+
+Japanese
+
+
+red
+
+
+blue
+
+
+2002
+
+
+Skip Beat
+
+
+Tsuruga Ren
+
+
+M
+
+
+Japanese
+
+
+American
+
+
+brown
+
+
+brown
+
+
+2002
+
+
+Tamayura
+
+
+Reimei Kasumi
+
+
+F
+
+
+purple
+
+
+blond
+
+
+2002
+
+
+Yakitate!! Japan
+
+
+Meister Silvan Kirisaki
+
+
+M
+
+
+Japanese
+
+
+French
+
+
+blue
+
+
+blond
+
+
+2002
+
+
+Yakitate!! Japan
+
+
+Sophie Balzac Kirisaki
+
+
+F
+
+
+Japanese
+
+
+French
+
+
+blue
+
+
+blond
+
+
+2003
+
+
+Baccano
+
+
+Yalgumo?
+
+
+M
+
+
+Information from TvTropes; I have been unable to find out anything about this character - he may not even be named ‘Yalgumo’ but ‘Yagumo’.
+
+
+2003
+
+
+Chanto Shiyou Yo!
+
+
+Hiiragi Serori Nee
+
+
+F
+
+
+Japanese
+
+
+blue
+
+
+blond
+
+
+The description goes “The third is Serori Ne-Ne. She is half Japanese and half North European…When I was a child, I was adopted by the Hiiragi family. But because the father was afraid that the sisters would spoil me, I was sent to a relative to train myself.” implying that the father is Japanese.
+
+
+2003
+
+
+Death Note
+
+
+L Lawliet
+
+
+M
+
+
+Japanese?
+
+
+English?
+
+
+black
+
+
+black
+
+
+Writer Tsugumi Ohba in Death Note 13: How to Read: “I think of him as a quarter Japanese, a quarter English, a quarter Russian, a quarter French or Italian, like that.”
+
+
+2003
+
+
+Death Note
+
+
+Ray Penber
+
+
+M
+
+
+American
+
+
+Japanese
+
+
+grey
+
+
+black
+
+
+2003
+
+
+Gakuen Alice
+
+
+Ruka Nogi
+
+
+M
+
+
+Japanese
+
+
+French
+
+
+blue
+
+
+blond
+
+
+2003
+
+
+Kita e. ~Diamond Dust~
+
+
+Kitano Suomi
+
+
+F
+
+
+Japanese?
+
+
+Finnish?
+
+
+blue
+
+
+blond
+
+
+An amusing note: ‘Suomi means “Finland” in Finnish, and can also be a surname’.
+
+
+2003
+
+
+Mahou Sensei Negima!
+
+
+Ayaka Yukihiro
+
+
+F
+
+
+Japanese?
+
+
+blue
+
+
+blond
+
+
+Asked
+
+
+2003
+
+
+Negima
+
+
+Negima Springfield
+
+
+M
+
+
+English
+
+
+Fantasy
+
+
+brown
+
+
+red
+
+
+2003
+
+
+Ochiba no Mau Koro
+
+
+Haruka Lichtenbein
+
+
+F
+
+
+German?
+
+
+Japanese?
+
+
+purple
+
+
+white
+
+
+2003
+
+
+Ohana to Chocolate
+
+
+Iwashita Makoto
+
+
+M
+
+
+English
+
+
+Japanese
+
+
+red
+
+
+brown
+
+
+heterochromatic: red/blue; first story, “Flower & chocolate”
+
+
+2003
+
+
+Onegai Twins
+
+
+Karen Onodera?
+
+
+F
+
+
+blue
+
+
+green
+
+
+2003
+
+
+Onegai Twins
+
+
+Maiku Kamishiro?
+
+
+M
+
+
+blue
+
+
+blue
+
+
+2003
+
+
+Ouran High School Host
+
+
+Tamaki Suoh
+
+
+M
+
+
+Japanese
+
+
+French
+
+
+blue
+
+
+blond
+
+
+2003
+
+
+Rainbow: Nisha Rokubō…
+
+
+Jou “Joe” Yokosuka
+
+
+M
+
+
+American?
+
+
+Japanese
+
+
+blue
+
+
+blond
+
+
+Jou is a blond-haired character described as “half-European” in many descriptions; a plot summary says “Jou’s mother abandoned him and his sister at an orphanage.”, which is most consistent with the mother being Japanese; the name Jou/Joe probably indicates either American or English descent (‘European’ being a common euphemism for Caucasian).
+
+
+2003
+
+
+Soul Eater
+
+
+Maka Albarn
+
+
+F
+
+
+Japanese
+
+
+green
+
+
+blond
+
+
+Apparently another character states Maka is half-Japanese, and her father is depicted as a Caucasian of unspecified nationality; asked.
+
+
+2003
+
+
+Star Ocean: Till the End of Time
+
+
+Fayt Leingod
+
+
+M
+
+
+Japanese
+
+
+green
+
+
+blue
+
+
+2003
+
+
+Star Ocean: Till the End of Time
+
+
+Sophia Esteed
+
+
+F
+
+
+Japanese
+
+
+green
+
+
+brown
+
+
+2003
+
+
+Tokyo Mew Mew a la Mode
+
+
+Berry Shirayuki
+
+
+F
+
+
+Japanese?
+
+
+French?
+
+
+red
+
+
+blond
+
+
+2004
+
+
+Ashinaga Ojisama
+
+
+Nishinomiya Ryuutarou
+
+
+M
+
+
+Arabian
+
+
+Japanese
+
+
+grey
+
+
+black
+
+
+Ch1 pg15
+
+
+2004
+
+
+Bath Towel
+
+
+Izutsuya Anju
+
+
+M
+
+
+French
+
+
+Japanese
+
+
+blue
+
+
+blond
+
+
+Vol.1 Ch.3.1; Anju states his mother had a one-night stand with a French man.
+
+
+2004
+
+
+Durarara!!
+
+
+Walker Yumasaki
+
+
+M
+
+
+brown
+
+
+Asked.
+
+
+2004
+
+
+Fate/Stay Night
+
+
+Illyasviel Einzbern
+
+
+F
+
+
+Japanese
+
+
+German
+
+
+red
+
+
+white
+
+
+2004
+
+
+Green Green 2 Koi no Special
+
+
+Lucy Mika Matsuura
+
+
+F
+
+
+blue
+
+
+blond
+
+
+2004
+
+
+Jubei-chan 2
+
+
+Freesia Yagyu
+
+
+F
+
+
+Japanese
+
+
+Russian
+
+
+blue
+
+
+blond
+
+
+2004
+
+
+Kamen no Maid Guy
+
+
+Elizabeth K. Strawberryfield
+
+
+F
+
+
+English?
+
+
+Japanese?
+
+
+blue
+
+
+blond
+
+
+Asked
+
+
+2004
+
+
+Kamen no Maid Guy
+
+
+Heindrick Strawberryfield
+
+
+M
+
+
+English?
+
+
+Japanese?
+
+
+red
+
+
+blond
+
+
+2004
+
+
+Katekyo Hitman Reborn!
+
+
+Gokudera Hayato
+
+
+M
+
+
+Italian
+
+
+Japanese
+
+
+green
+
+
+white
+
+
+2004
+
+
+Kimi to Boku
+
+
+Chizuru Tachibana
+
+
+M
+
+
+blue
+
+
+blond
+
+
+Asked
+
+
+2004
+
+
+Kurau Phantom Memory
+
+
+Kurau Amami
+
+
+F
+
+
+Japanese
+
+
+Swiss
+
+
+blue
+
+
+black
+
+
+2004
+
+
+Meimeimei!
+
+
+Meifis Turner
+
+
+F
+
+
+brown
+
+
+blond
+
+
+2004
+
+
+Midorigafuchi Yotogi no Mura
+
+
+Misono Henrietta Rosenberg
+
+
+F
+
+
+German?
+
+
+Japanese?
+
+
+green
+
+
+blond
+
+
+2004
+
+
+Nabari no Ou
+
+
+Thobari Kumohira Durandal
+
+
+M
+
+
+Japanese
+
+
+Irish
+
+
+grey
+
+
+black
+
+
+Standard online sites say only that his grandfather (unspecified side) is Irish; one fanfiction wiki says “Thobari Durandal Kumohira (雲平・デュランダル・帷) was born in Japan to an Irish medi-witch and a Japanese accountant. However, the two died in an accident when Thobari was still very young, and as his only living relative, his grandfather (his mother’s father) came to his aid. The old man was… eccentric, to say the least.” But then it goes on to describe how Kumohira was accepted into Hogwarts, so this may not be reliable information.
+
+
+2004
+
+
+Ousama no Lesson
+
+
+Sui
+
+
+M
+
+
+Japanese
+
+
+French
+
+
+green
+
+
+brown
+
+
+Ch1 pg10
+
+
+2004
+
+
+Rakuen ~Ai Kawarazu na Boku~
+
+
+Karen Van Duyn
+
+
+F
+
+
+Dutch
+
+
+Japanese
+
+
+brown
+
+
+red
+
+
+2004
+
+
+Raspberry Welcome to Cafe Moon…
+
+
+Katagiri Sheryl
+
+
+F
+
+
+Australian
+
+
+Japanese
+
+
+blue
+
+
+blond
+
+
+Verified by Google Translates of official page.
+
+
+2004
+
+
+Remember11 the age of infinity
+
+
+Utsumi Kali
+
+
+F
+
+
+Indian?
+
+
+Japanese?
+
+
+white
+
+
+2004
+
+
+Saitama Chainsaw Shoujo
+
+
+Fumio Kirisaki
+
+
+F
+
+
+American
+
+
+Japanese
+
+
+blue
+
+
+black
+
+
+Technically, Kirisaki’s Texan grandfather married her Japanese grandmother; so the father/mother information is for them, not her immediate parents; the actual hāfu is Kirisaki’s mother.
+
+
+2004
+
+
+Shuffle!
+
+
+Shigure Asa
+
+
+F
+
+
+Japanese
+
+
+Fantasy
+
+
+purple
+
+
+green
+
+
+2004
+
+
+Tona-Gura!
+
+
+Niina Isokawa
+
+
+F
+
+
+Japanese
+
+
+American
+
+
+blue
+
+
+blond
+
+
+2005
+
+
+Ai Kora
+
+
+Sakurako Tenmaku
+
+
+F
+
+
+Japanese
+
+
+English
+
+
+blue
+
+
+blond
+
+
+2005
+
+
+Atori Shou
+
+
+Shiba Atori
+
+
+F
+
+
+Japanese
+
+
+Fantasy
+
+
+brown
+
+
+black
+
+
+Half-demon; parentage established v01 ch01 pg05.
+
+
+2005
+
+
+Best Student Council
+
+
+Cyndi Manabe
+
+
+F
+
+
+Japanese
+
+
+American
+
+
+blue
+
+
+red
+
+
+2005
+
+
+Canvas 2
+
+
+Elis Hosen
+
+
+F
+
+
+Japanese
+
+
+French
+
+
+blue
+
+
+blond
+
+
+2005
+
+
+Dance in the Vampire Bund
+
+
+Akira Kaburagi Regendorf
+
+
+M
+
+
+German
+
+
+Japanese
+
+
+blue
+
+
+black
+
+
+2005
+
+
+Dead or Alive 4
+
+
+Kokoro
+
+
+F
+
+
+French
+
+
+Japanese
+
+
+grey
+
+
+black
+
+
+2005
+
+
+Golden Days
+
+
+Kasuga Aiko
+
+
+F
+
+
+Japanese
+
+
+Italian
+
+
+brown
+
+
+2005
+
+
+Kaichou wa Maid-sama!
+
+
+Usui Takumi
+
+
+M
+
+
+Japanese
+
+
+English
+
+
+green
+
+
+blond
+
+
+2005
+
+
+Lovetore
+
+
+Kotaro Ebina?
+
+
+M
+
+
+2005
+
+
+Pani Poni Dash! (anime)
+
+
+Rebecca Miyamoto
+
+
+F
+
+
+American
+
+
+Japanese
+
+
+blue
+
+
+blond
+
+
+2005
+
+
+Parfait ~Chocolat Second Brew~
+
+
+Katori Rea
+
+
+F
+
+
+Japanese?
+
+
+French?
+
+
+blue
+
+
+blond
+
+
+2005
+
+
+Puchi Houndo
+
+
+Teiru
+
+
+F
+
+
+brown
+
+
+brown
+
+
+2005
+
+
+Sakura Taisen 5
+
+
+Gemini Sunrise
+
+
+F
+
+
+Japanese?
+
+
+American?
+
+
+blue
+
+
+red
+
+
+https://whatis.suburbansenshi.com/index.php?title=Gemini_Sunrise identifies Sunrise’s mother as “Lynne McCarthy” and her father as “Yang”, with no listed sources. I couldn’t confirm the names or nationalities elsewhere. Asked.
+
+
+2005
+
+
+Sakura no Nekohime
+
+
+M
+
+
+Entry based on Baka Updates summary; no scanlation or other summaries available.
+
+
+2005
+
+
+Shuffle!
+
+
+Mayumi Thyme
+
+
+F
+
+
+Fantasy?
+
+
+Japanese?
+
+
+blue
+
+
+black
+
+
+Heterochromatic (blue & red); the red apparently is due to her demon heritage, so I assume the other color is her real human color.
+
+
+2005
+
+
+That Summer
+
+
+M
+
+
+American
+
+
+Japanese
+
+
+2005
+
+
+The Idolmaster
+
+
+Takane Shijōu
+
+
+F
+
+
+purple
+
+
+white
+
+
+The relevant wiki says “She comes from a very wealthy family, like Iori, and is in fact half European, most likely German.”; it also claims “Takane’s [silver] hair was blond in the prototype version of the arcade game.” A TvTroper claims “In 2, Ritsuko [Akizuki] implies that it’s Takane’s natural hair color at one point.”; see also White-Haired Pretty Girl. (Hair color seems to be half-literal in THE IDOLMASTER; the all-Japanese character Miki Hoshii has blond hair… but it is stated that it is dyed, and the player can find a short brown haired version of Miki.)
+
+
+2005
+
+
+Trace Memory
+
+
+Ashley Mizuki Robbins
+
+
+F
+
+
+American
+
+
+Japanese
+
+
+black
+
+
+white
+
+
+2005
+
+
+Tsuyokiss
+
+
+Erika Kiriya
+
+
+F
+
+
+Japanese
+
+
+American
+
+
+blue
+
+
+blond
+
+
+2005
+
+
+Blood+
+
+
+George Miyagusuku
+
+
+M
+
+
+American?
+
+
+Japanese?
+
+
+brown
+
+
+grey
+
+
+Okinawan-American US Army veteran
+
+
+2006
+
+
+Ano Machi no Koi no Uta
+
+
+Irina Enomoto
+
+
+F
+
+
+Japanese?
+
+
+Russian?
+
+
+blue
+
+
+white
+
+
+2006
+
+
+Digimon Savers
+
+
+Tohma H. Norstein
+
+
+M
+
+
+German
+
+
+Japanese
+
+
+blue
+
+
+blond
+
+
+Father is Austrian.
+
+
+2006
+
+
+Hanjuku Orange
+
+
+Kou
+
+
+M
+
+
+Japanese
+
+
+American
+
+
+blue
+
+
+blond
+
+
+2006
+
+
+Himawari!
+
+
+Himeji
+
+
+F
+
+
+English
+
+
+Japanese
+
+
+blue
+
+
+blond
+
+
+Official profile via Google Translate seems to imply this: “In the days of the British mixed race, the father of the employee intelligence MI6, mother garden OB 備学 志 function”.
+
+
+2006
+
+
+Iinchou wa Shounin Sezu!
+
+
+Kei Adamsmith
+
+
+F
+
+
+English?
+
+
+Japanese?
+
+
+brown
+
+
+red
+
+
+2006
+
+
+Maria Holic
+
+
+Tōichirō Kanae
+
+
+M
+
+
+Japanese
+
+
+French
+
+
+blue
+
+
+red
+
+
+2006
+
+
+Onegai Goshujinsama!
+
+
+Tear Rui Mosfort
+
+
+F
+
+
+purple
+
+
+brown
+
+
+2006
+
+
+Onimusha: Dawn of Dreams
+
+
+Roberto Frois
+
+
+M
+
+
+Spanish
+
+
+Japanese
+
+
+green
+
+
+blond
+
+
+2006
+
+
+Venus Capriccio
+
+
+Akira Sasaki
+
+
+M
+
+
+Japanese
+
+
+German
+
+
+blue
+
+
+blond
+
+
+Half-Austrian, which I am listing as German. TvTropes did not answer. A forum post says the father is Japanese.
+
+
+2007
+
+
+Akuma to Love Song
+
+
+Kurosu Shintarou
+
+
+M
+
+
+American
+
+
+Japanese
+
+
+blond
+
+
+Based on scanlation summary.
+
+
+2007
+
+
+Code Geass
+
+
+Kallen Stadtfeld
+
+
+F
+
+
+English
+
+
+Japanese
+
+
+blue
+
+
+red
+
+
+2007
+
+
+Dear My Mister
+
+
+Asakura Noah
+
+
+M
+
+
+Japanese
+
+
+English
+
+
+blond
+
+
+2007
+
+
+G-senjou no Maou
+
+
+Tokita Yuki
+
+
+F
+
+
+Japanese
+
+
+blue
+
+
+black
+
+
+2007
+
+
+Gundam 00
+
+
+Billy Katagiri
+
+
+M
+
+
+Japanese?
+
+
+American?
+
+
+black
+
+
+brown
+
+
+Same reasoning but even shakier - we have already seen examples where the Japanese-sounding surname was not the father but mother’s.
+
+
+2007
+
+
+Gundam 00
+
+
+Kinue Crossroad
+
+
+F
+
+
+American?
+
+
+Japanese?
+
+
+brown
+
+
+brown
+
+
+2007
+
+
+Gundam 00
+
+
+Saji Crossroad
+
+
+M
+
+
+American?
+
+
+Japanese?
+
+
+brown
+
+
+brown
+
+
+TVTropes claims these 3 characters are all Japanese-Americans; the Crossroads’ father, “Mr. Crossroad”, is briefly mentioned, whose surname suggests he is American and hence the mother would be Japanese.
+
+
+2007
+
+
+Gundam 00
+
+
+Sumeragi Lee Noriega
+
+
+F
+
+
+Japanese?
+
+
+Spanish?
+
+
+brown
+
+
+brown
+
+
+Online sources do not specify parentage beyond ‘Eurasian’ Spanish-Japanese, but do mention her ‘real name’ is “Leesa Kujō” (Japanese surname).
+
+
+2007
+
+
+Harem Lodge
+
+
+Tetsuya Katagiri
+
+
+M
+
+
+French
+
+
+Japanese
+
+
+brown
+
+
+brown
+
+
+2007
+
+
+Hirahira Hy~n
+
+
+Yamamoto Leonard Ken
+
+
+M
+
+
+French
+
+
+Japanese
+
+
+green
+
+
+brown
+
+
+2007
+
+
+Ice Forest
+
+
+Roman Guilbert
+
+
+M
+
+
+Canadian
+
+
+Japanese
+
+
+black
+
+
+black
+
+
+2007
+
+
+K-On!
+
+
+Tsumugi Kotobuki
+
+
+F
+
+
+Japanese?
+
+
+Finnish?
+
+
+blue
+
+
+blond
+
+
+“The speculation is that Mugi is half-Finnish, half-Japanese and raised as Japanese.”. Asked.
+
+
+2007
+
+
+Kamichama Karin
+
+
+Nishikiori Michiru
+
+
+M
+
+
+Japanese?
+
+
+English?
+
+
+red
+
+
+brown
+
+
+Heterochromatic, but the blue eye is a replacement.
+
+
+2007
+
+
+Kids on the Slope
+
+
+Sentarō Kawabuchi
+
+
+M
+
+
+American
+
+
+Japanese
+
+
+brown
+
+
+brown
+
+
+2007
+
+
+Kiss/Hug
+
+
+Ryuu Wakui
+
+
+M
+
+
+English
+
+
+Japanese
+
+
+blue
+
+
+black
+
+
+2007
+
+
+Little Busters!
+
+
+Kudryavka Noumi
+
+
+F
+
+
+Russian?
+
+
+Japanese
+
+
+blue
+
+
+white
+
+
+Asked.
+
+
+2007
+
+
+Milkman
+
+
+Coffee Milkman
+
+
+M
+
+
+Japanese
+
+
+Brazilian
+
+
+blond
+
+
+2007
+
+
+Motto Itte
+
+
+Mari Mizuta
+
+
+F
+
+
+red
+
+
+blond
+
+
+2007
+
+
+Muv-Luv Alternative Total Eclipse
+
+
+Vincent Lowell
+
+
+M
+
+
+American?
+
+
+Japanese?
+
+
+blue
+
+
+blond
+
+
+2007
+
+
+Natsumegu
+
+
+Celes Alford
+
+
+F
+
+
+blue
+
+
+blond
+
+
+2007
+
+
+No More Heroes
+
+
+Sylvia Christel
+
+
+F
+
+
+Russian?
+
+
+Japanese?
+
+
+blue
+
+
+blond
+
+
+Ukrainian.
+
+
+2007
+
+
+Otona Pink
+
+
+Chiho
+
+
+M
+
+
+Japanese
+
+
+French
+
+
+Mother is French-American.
+
+
+2007
+
+
+Oyasumi Punpun
+
+
+Sachi
+
+
+F
+
+
+Japanese
+
+
+black
+
+
+Ch84, v08/pg15: “…Then again, since my mom was a foreigner, she might’ve bought all that manga so she could study Japanese.”
+
+
+2007
+
+
+Royal Straight
+
+
+Karen
+
+
+F
+
+
+Japanese
+
+
+German
+
+
+blue
+
+
+blond
+
+
+2007
+
+
+Sakura Gari
+
+
+Souma Saiki
+
+
+M
+
+
+Japanese
+
+
+English
+
+
+black
+
+
+2007
+
+
+Tekken 6 Bloodline Rebellion
+
+
+Lars Alexandersson
+
+
+M
+
+
+Japanese
+
+
+Swedish
+
+
+green
+
+
+blond
+
+
+2007
+
+
+Umineko no Naku Koro ni
+
+
+Beatrice Ushiromiya
+
+
+F
+
+
+Japanese
+
+
+Italian
+
+
+blue
+
+
+blond
+
+
+2007
+
+
+Umineko no Naku Koro ni
+
+
+Lion Ushiromiya
+
+
+F
+
+
+Japanese
+
+
+Italian
+
+
+grey
+
+
+blond
+
+
+Quarter; mother is Italian-Japanese.
+
+
+2007
+
+
+Yes! PreCure 5
+
+
+Urara Kasugano
+
+
+F
+
+
+French
+
+
+Japanese
+
+
+brown
+
+
+blond
+
+
+2008
+
+
+Ame Nochi Hare
+
+
+Kisaragi Touma
+
+
+M
+
+
+French
+
+
+Japanese
+
+
+blue
+
+
+blond
+
+
+He states he is half-French; on pg29 of ch12 of v03, a flashback depicts his father as having the same curly blond foreign hair Touma has.
+
+
+2008
+
+
+Arisa
+
+
+Kudou Rei
+
+
+M
+
+
+Japanese
+
+
+Portuguese
+
+
+2008
+
+
+Ben-To
+
+
+Shaga Ayame
+
+
+F
+
+
+Japanese
+
+
+Italian
+
+
+blue
+
+
+blond
+
+
+Google Translate of Japanese Wikipedia: “With an Italian mother, cousin brother Hiroshi. Mess up the long blond hair, usually a girl with glasses.”
+
+
+2008
+
+
+Café Latte Rhapsody
+
+
+Keito Tsuda MacLeod
+
+
+M
+
+
+French
+
+
+Chinese
+
+
+brown
+
+
+brown
+
+
+MacLeod is a hard to classify character. On pg23 of chapter 1, he says roughly “My papa is a French-Canadian and Japanese half… And, my mama is Chinese, Japanese, and French mix”.
+
+
+2008
+
+
+Class Zenin Ore no Yome
+
+
+Sagishima Frederica
+
+
+F
+
+
+American?
+
+
+Japanese?
+
+
+blue
+
+
+blond
+
+
+2008
+
+
+Code Geass: Lost Colors
+
+
+Rai
+
+
+M
+
+
+English
+
+
+Japanese
+
+
+blue
+
+
+white
+
+
+2008
+
+
+Darenimo Ienai!
+
+
+Kein
+
+
+M
+
+
+Latin-American
+
+
+Japanese
+
+
+black
+
+
+black
+
+
+The father’s nationality cannot be more specific: Kein is of the fictional Latin-American “Albanian Republic” according to pg12 & pg31 of this one-shot manga (the latter specifies his mother is Japanese).
+
+
+2008
+
+
+High-School DxD
+
+
+Akeno Himejima
+
+
+F
+
+
+Fantasy
+
+
+Japanese
+
+
+purple
+
+
+black
+
+
+2008
+
+
+Kansen 3 ~Shuto Houkai~
+
+
+Margarita Basques Homura
+
+
+F
+
+
+blue
+
+
+blond
+
+
+2008
+
+
+Kara no Shoujo
+
+
+Maris Stella
+
+
+F
+
+
+blue
+
+
+white
+
+
+2008
+
+
+Konbini S
+
+
+Hana
+
+
+F
+
+
+English
+
+
+Japanese
+
+
+brown
+
+
+Third story, “Kingdom of Happiness”.
+
+
+2008
+
+
+Kuragehime
+
+
+Kuranosuke Koibuchi
+
+
+M
+
+
+Japanese
+
+
+blue
+
+
+brown
+
+
+Mother is a blond Caucasian woman.
+
+
+2008
+
+
+Lucky x Crosse
+
+
+Otobe Anne
+
+
+F
+
+
+English?
+
+
+Japanese?
+
+
+blue
+
+
+blond
+
+
+2008
+
+
+Mecha Love
+
+
+Elina
+
+
+F
+
+
+Japanese
+
+
+American
+
+
+blond
+
+
+2008
+
+
+Mitsu no Yoru
+
+
+Aiuchi
+
+
+F
+
+
+blond
+
+
+The plot of the fourth story is driven by the protagonist having blond hair and darker skin; nothing else is mentioned.
+
+
+2008
+
+
+Mr.Invisible Legend of
+
+
+Sawashiro Sarah
+
+
+F
+
+
+green
+
+
+blond
+
+
+2008
+
+
+Naze Nani Honey?
+
+
+Mioko
+
+
+F
+
+
+American?
+
+
+Japanese?
+
+
+blue
+
+
+blond
+
+
+This manga may be scanlated at some point.
+
+
+2008
+
+
+Nurarihyon no Mago
+
+
+Abe no Seimei
+
+
+M
+
+
+Japanese
+
+
+Fantasy
+
+
+black
+
+
+black
+
+
+Half-demon through his mother.
+
+
+2008
+
+
+Nurarihyon no Mago
+
+
+Nura Rikuo
+
+
+M
+
+
+Fantasy
+
+
+Japanese
+
+
+brown
+
+
+brown
+
+
+Quarter-demon through his father.
+
+
+2008
+
+
+Oreimo
+
+
+Iori Fate Setsuna
+
+
+F
+
+
+brown
+
+
+brown
+
+
+Episode 8 of the anime adaptation mentions off-hand that she is a ‘quarter’ (quarter foreign, presumably, analogous to ‘hāfu’/‘half’). Her name is a pastiche of Mahou Shoujo Nanoha allusions, so she likely is a background character for whom no particular nationality was intended.
+
+
+2008
+
+
+Seitoshidoushitsu no Oujisama
+
+
+Kanbara Rinko
+
+
+F
+
+
+Japanese
+
+
+English
+
+
+blue
+
+
+blond
+
+
+2008
+
+
+The Man of Tango
+
+
+Hiro
+
+
+M
+
+
+Japanese
+
+
+Latin-American?
+
+
+blond
+
+
+2008
+
+
+Witchcraft
+
+
+Sara Saionji
+
+
+F
+
+
+Japanese?
+
+
+English/Arab?
+
+
+blue
+
+
+white
+
+
+“Quarter English and quarter Arab”
+
+
+2008
+
+
+ef - a tale of memories
+
+
+Renji Asou
+
+
+M
+
+
+German
+
+
+Japanese
+
+
+blue
+
+
+brown
+
+
+2008
+
+
+CVN-73 USS George Washington
+
+
+Jack O’Hara
+
+
+M
+
+
+Japanese
+
+
+American
+
+
+black
+
+
+black
+
+
+pg61–62
+
+
+2009
+
+
+Butterfly 69
+
+
+Maria Steinhardt
+
+
+F
+
+
+blond
+
+
+2009
+
+
+Cheerism
+
+
+Asada
+
+
+F
+
+
+Japanese
+
+
+German
+
+
+green
+
+
+blond
+
+
+2009
+
+
+Darker than Black 2
+
+
+Shion Pavlichenko
+
+
+M
+
+
+Russian
+
+
+Japanese
+
+
+green
+
+
+red
+
+
+2009
+
+
+Darker than Black 2
+
+
+Suoh Pavlichenko
+
+
+F
+
+
+Russian
+
+
+Japanese
+
+
+green
+
+
+red
+
+
+2009
+
+
+Eden* They Were Only Two…
+
+
+Asai F. Lavinia
+
+
+F
+
+
+purple
+
+
+black
+
+
+2009
+
+
+Haganai
+
+
+Kobato Hasegawa
+
+
+F
+
+
+Japanese
+
+
+English
+
+
+blue
+
+
+blond
+
+
+2009
+
+
+Haganai
+
+
+Kodaka Hasegawa
+
+
+M
+
+
+Japanese
+
+
+English
+
+
+grey
+
+
+blond
+
+
+2009
+
+
+Hisho x Hisho
+
+
+Beatoriise Tsubame Kazamino
+
+
+F
+
+
+brown
+
+
+red
+
+
+2009
+
+
+Kachou Fuugetsu ~Koi ni
+
+
+Takatsukasa Sumire Alexandra
+
+
+F
+
+
+German?
+
+
+Japanese?
+
+
+blue
+
+
+blue
+
+
+2009
+
+
+Kiss to Maou to Darjeeling
+
+
+Sister Mutsumi Tyler
+
+
+F
+
+
+Japanese?
+
+
+green
+
+
+brown
+
+
+Google Translate of Japanese Wikipedia: “Japan and Europe in half”.
+
+
+2009
+
+
+Kurenai no Tsuki
+
+
+Saginomiya Hiori
+
+
+F
+
+
+blue
+
+
+blond
+
+
+2009
+
+
+Matryoshka
+
+
+Nina
+
+
+F
+
+
+Russian
+
+
+Japanese
+
+
+blue
+
+
+black
+
+
+2009
+
+
+Meruhen-chan
+
+
+Date Maria
+
+
+F
+
+
+Japanese
+
+
+English
+
+
+green
+
+
+red
+
+
+Scottish.
+
+
+2009
+
+
+Natsuiro Sagittarius
+
+
+Kayaba Rena
+
+
+F
+
+
+blue
+
+
+white
+
+
+2009
+
+
+NightS
+
+
+Lou Tian Yi
+
+
+M
+
+
+Chinese
+
+
+Japanese
+
+
+blond
+
+
+2009
+
+
+Private Love Lesson
+
+
+Mikana Yamagaki
+
+
+F
+
+
+Japanese
+
+
+blond
+
+
+2009
+
+
+Rebuild Evangelion 2.0
+
+
+Mari Makinami
+
+
+F
+
+
+Japanese?
+
+
+English?
+
+
+blue
+
+
+brown
+
+
+2009
+
+
+Shachou Reijou wo Homeless
+
+
+Kimishima Reika
+
+
+F
+
+
+Japanese
+
+
+blue
+
+
+blond
+
+
+2009
+
+
+Starry Sky
+
+
+Yoh Tomoe
+
+
+M
+
+
+French
+
+
+Japanese
+
+
+red
+
+
+red
+
+
+2009
+
+
+Tentacle and Witches
+
+
+Futaba Lily Ramses
+
+
+F
+
+
+Egyptian?
+
+
+Japanese?
+
+
+blue
+
+
+blond
+
+
+2009
+
+
+Tokimeki Memorial 4
+
+
+Elisa Dolittle Naruse
+
+
+F
+
+
+Japanese?
+
+
+English?
+
+
+blue
+
+
+blond
+
+
+2009
+
+
+Tsukiyo-Zoushi
+
+
+Amanogawa Tsukiko
+
+
+F
+
+
+Fantasy
+
+
+Japanese
+
+
+green
+
+
+brown
+
+
+2009
+
+
+Aoi Hitomi no Onna no Ko no…
+
+
+Eiko
+
+
+F
+
+
+American
+
+
+Japanese
+
+
+blue
+
+
+black
+
+
+2010
+
+
+Akatsuki no Goei ~Tsumibuka
+
+
+Shion
+
+
+F
+
+
+purple
+
+
+brown
+
+
+2010
+
+
+Amagami SS
+
+
+Haruka Lovely Morishima
+
+
+F
+
+
+Japanese
+
+
+English
+
+
+blue
+
+
+brown
+
+
+Episode 4; Haruka Morishima is a quarter-English; her mother is half-English from an English father. It’s amusing to note that in episode 11 of the sequel Amagami SS+, an English relative named “Jessica Sexy Morishima” (yes, that’s her middle name); she is drawn identically to Haruka but with blue eyes and blond hair, and hits on Haruka’s boyfriend (the protagonist).
+
+
+2010
+
+
+Coda
+
+
+Yuri Arbatov
+
+
+M
+
+
+Russian?
+
+
+Japanese?
+
+
+white
+
+
+As of chapter 5 of Coda, there is no mention of his parents or relatives beyond being a half-Russian cousin of an all-Japanese character.
+
+
+2010
+
+
+Futa Ane ~Bitter & Sweet~
+
+
+Takachiho Wakaba
+
+
+F
+
+
+Japanese?
+
+
+English?
+
+
+brown
+
+
+blond
+
+
+2010
+
+
+Honoo no Haramase Oppai
+
+
+Liselotta von Kirschbaum
+
+
+F
+
+
+German?
+
+
+Japanese?
+
+
+blue
+
+
+white
+
+
+2010
+
+
+Itsuka Sora kara
+
+
+Yuki
+
+
+M
+
+
+Fantasy
+
+
+Japanese
+
+
+black
+
+
+brown
+
+
+2010
+
+
+Kiniro Mosaic
+
+
+Karen Kujo
+
+
+F
+
+
+Japanese
+
+
+English
+
+
+purple
+
+
+blond
+
+
+Karen’s father is half-Japanese according to the main character (pg6, ch3.2, v01).
+
+
+2010
+
+
+Manbiki, Dame. Zettai!!
+
+
+Asabane Chihaya
+
+
+F
+
+
+2010
+
+
+Riddle Garden
+
+
+Yuri Kazuki Roshinof
+
+
+M
+
+
+Japanese?
+
+
+Russian?
+
+
+brown
+
+
+black
+
+
+2010
+
+
+Senobi no Housoku
+
+
+Raku
+
+
+M
+
+
+The scanlation appears to have been pulled from all sites, rendering it difficult to obtain.
+
+
+2010
+
+
+Sono Hanabira Ni Kuchizuke Wo
+
+
+Eris Shitogi
+
+
+F
+
+
+Japanese
+
+
+blue
+
+
+blond
+
+
+The Giant Bomb entry says “Eris’ mother is from Northern Europe and her father is a Japanese businessman. They met on one of his business trips. Eris is very friendly and expressive. She also occasionally uses English words.”
+
+
+2010
+
+
+Ushinawareta Mirai wo Motomete
+
+
+Osafune Kenny Taidaro
+
+
+M
+
+
+Japanese?
+
+
+American?
+
+
+blue
+
+
+brown
+
+
+2010
+
+
+Uta no Prince-sama
+
+
+Aijima Cecil
+
+
+M
+
+
+Japanese
+
+
+green
+
+
+brown
+
+
+Cecil is from the “desert country” of Agna Palace; given the description and his appearance, it seems to be a sort of Middle Eastern kingdom like Saudi Arabia.
+
+
+2010
+
+
+Love Stage!!
+
+
+Seiya Sena
+
+
+M
+
+
+American
+
+
+Japanese
+
+
+brown
+
+
+brown
+
+
+https://lovestage.fandom.com/wiki/Seiya_Sena
+
+
+2011
+
+
+AnoHana
+
+
+Meiko “Menma” Honma
+
+
+F
+
+
+Japanese
+
+
+Russian?
+
+
+blue
+
+
+white
+
+
+Meiko’s blond/grey blue-eyed mother is listed on the gate as being named “Irene”, which is written in Cyrillic.
+
+
+2011
+
+
+AnoHana
+
+
+Satoshi Honma
+
+
+M
+
+
+Japanese
+
+
+Russian?
+
+
+blue
+
+
+white
+
+
+2011
+
+
+Bird Cage
+
+
+Washimiya Rin
+
+
+F
+
+
+Japanese
+
+
+Swedish
+
+
+blue
+
+
+blond
+
+
+2011
+
+
+Boku no Shokora
+
+
+Takaomi
+
+
+M
+
+
+Japanese
+
+
+German
+
+
+green
+
+
+black
+
+
+A screenshot of the fan-translation: “Having a German mother, Takaomi was in Germany since he was a child until he graduated from college where he was studying management and administration.”
+
+
+2011
+
+
+Chou no Doku Hana no Kusari
+
+
+Fujita Hitoshi
+
+
+M
+
+
+Japanese
+
+
+purple
+
+
+blond
+
+
+Country seems unavailable although the father is clearly Caucasian according to the most thorough review I could find: “Anyway Fujita’s dad was white who knocked up his mom and then decided to go back to his white country, leaving his pregnant mom behind. Everyone looked down on her and her half breed son Fujita so Fujita hates his heritage and spent his life with big suck. His mom taught him piano and das why he was initially hired into the Nomiya family, to teach Yuriko piano. He explains that part of the reason why he’s so devoted to the Nomiya family was because Yuriko’s pops was the only one who didn’t discriminate him because of his GAIJIN BLOOD”.
+
+
+2011
+
+
+Dog Days
+
+
+Cinque Izumi
+
+
+M
+
+
+Japanese
+
+
+English
+
+
+blue
+
+
+blond
+
+
+2011
+
+
+Grisaia no Kajitsu
+
+
+Chiara Farrell
+
+
+F
+
+
+blue
+
+
+white
+
+
+VNDB: “She is a mixed-blood with 2⁄3 of Japanese and 1⁄3 of African.”
+
+
+2011
+
+
+Hinekure Shisho no Mikaiketsu…
+
+
+Eiji Yonehara
+
+
+M
+
+
+English?
+
+
+Japanese?
+
+
+blue
+
+
+red
+
+
+Chapter 2 pg7, says he has an English grandfather; only details as of ch6. Hair & eye color as depicted on cover of volume 1 (6.5 pg2 of scanlations).
+
+
+2011
+
+
+Hoshi no Ouji-kun
+
+
+Yuri Golovnin
+
+
+M
+
+
+green
+
+
+blue
+
+
+2011
+
+
+K-On!
+
+
+Sumire Saitō
+
+
+F
+
+
+blue
+
+
+blond
+
+
+The manga apparently calls her explicitly “a foreigner”; her fluency and lack of stereotypical mannerisms suggests she may be half-Japanese and/or raised in Japan, so she is included until further evidence. A K-On! wiki says “Sumire’s family is originally from Austria, and their family migrated to Japan to serve the Kotobuki family. At some point in time, they changed their surnames to Saito”, which renders her uncertain and like Tsumugi.
+
+
+2011
+
+
+Nisekoi
+
+
+Chitoge Kirisaki
+
+
+F
+
+
+American
+
+
+Japanese
+
+
+blue
+
+
+blond
+
+
+2011
+
+
+Sei Yariman Gakuen Enkou Nikki
+
+
+Eri
+
+
+F
+
+
+Japanese
+
+
+Brazilian
+
+
+blue
+
+
+blond
+
+
+2011
+
+
+Supipara
+
+
+Amano Angeline Hotaru
+
+
+F
+
+
+Japanese
+
+
+French
+
+
+blue
+
+
+blond
+
+
+Based on translation of line from the visual novel.
+
+
+2011
+
+
+Dictatorial Grimoire
+
+
+Otogi Grimm
+
+
+M
+
+
+German
+
+
+Japanese
+
+
+green
+
+
+blond
+
+
+2011
+
+
+A Silent Voice
+
+
+Maria Ishida
+
+
+F
+
+
+Brazilian
+
+
+Japanese
+
+
+?
+
+
+black
+
+
+Maria is always drawn with eyes closed, so no eye color is available.
+
+
+2012
+
+
+D.C. III ~Da Capo III~
+
+
+Yoshino Charles
+
+
+F
+
+
+English
+
+
+Japanese
+
+
+red
+
+
+white
+
+
+Preview official information stated “Her name is like a boy named Charles, due to her stuck the name her Father gave her.” I assume that a Japanese father would not nickname her “Charles”.
+
+
+2012
+
+
+Gokukoku no Brynhildr
+
+
+Kazumi Schlierenzauer
+
+
+F
+
+
+German?
+
+
+Japanese?
+
+
+blue
+
+
+purple
+
+
+Surname is from “famous Austrian ski jumper Gregor Schlierenzauer”; TvTropes: “Kazumi claims she’s half German and can speak some of it, at least enough to fool Ryouta’s classmates into thinking she’s transferring in from a school in Austria.”
+
+
+2012
+
+
+Holy Knight
+
+
+Kishimoto Lilith
+
+
+F
+
+
+Japanese?
+
+
+Romanian?
+
+
+red
+
+
+red
+
+
+2012
+
+
+Muv-Luv Alternative
+
+
+Yuuya Bridges
+
+
+M
+
+
+Japanese
+
+
+American
+
+
+brown
+
+
+brown
+
+
+2012
+
+
+Otome ga Tsumugu Koi no Canvas
+
+
+Shishidou Chiharu Flamsteed
+
+
+F
+
+
+Japanese
+
+
+English
+
+
+brown
+
+
+blond
+
+
+2012
+
+
+Papa no Iukoto o Kikinasai!
+
+
+Takanashi Miu
+
+
+F
+
+
+Japanese
+
+
+Russian
+
+
+brown
+
+
+blond
+
+
+2012
+
+
+Sono Hanabira ni Kuchizuke
+
+
+Azumi Risa
+
+
+F
+
+
+Japanese
+
+
+English
+
+
+blue
+
+
+red
+
+
+2012
+
+
+The Fox Lover
+
+
+M
+
+
+blue
+
+
+blond
+
+
+Description from pg9; surprisingly, the eponymous fox girl is not the relevant character (the cover calls her an orphan but nothing implies human ancestry).
+
+
+2012
+
+
+Tsuritama
+
+
+Yuki Sanada
+
+
+M
+
+
+Japanese?
+
+
+French?
+
+
+green
+
+
+red
+
+
+Yuki is a quarter-French, through a French grandmother named “Kate”; asked
+
+
+2012
+
+
+Wolf Children
+
+
+Ame
+
+
+M
+
+
+Fantasy
+
+
+Japanese
+
+
+brown
+
+
+black
+
+
+2012
+
+
+Wolf Children
+
+
+Yuki
+
+
+F
+
+
+Fantasy
+
+
+Japanese
+
+
+brown
+
+
+black
+
+
+2012
+
+
+Silver Nina
+
+
+Nina Shimazaki
+
+
+F
+
+
+Finnish
+
+
+Japanese
+
+
+blue
+
+
+blond
+
+
+ch1, pg16
+
+
+2012
+
+
+Saekano
+
+
+Eriri Spencer Sawamura
+
+
+F
+
+
+English
+
+
+Japanese
+
+
+blue
+
+
+blond
+
+
+2012
+
+
+Food Wars/Shokugeki no Soma
+
+
+Takumi Aldini
+
+
+M
+
+
+Italian
+
+
+Japanese
+
+
+blue
+
+
+blond
+
+
+2012
+
+
+Food Wars/Shokugeki no Soma
+
+
+Isami Aldini
+
+
+M
+
+
+Italian
+
+
+Japanese
+
+
+black
+
+
+black
+
+
+2012
+
+
+Food Wars/Shokugeki no Soma
+
+
+Alice Nakiri
+
+
+F
+
+
+Japanese
+
+
+Danish
+
+
+red
+
+
+silver
+
+
+2012
+
+
+Saenai Hiroin no Sodatekata
+
+
+Eriri Spencer Sawamura
+
+
+F
+
+
+English
+
+
+Japanese
+
+
+blue
+
+
+blond
+
+
+2012
+
+
+Vatican Miracle Examiner
+
+
+Kou Joseph Hiraga
+
+
+M
+
+
+black
+
+
+2012
+
+
+10 Dance
+
+
+Shinya Suzuki
+
+
+M
+
+
+Japanese
+
+
+Cuban
+
+
+yellow?
+
+
+blond
+
+
+2013
+
+
+Rose Gun Days
+
+
+Philip Butler
+
+
+M
+
+
+American
+
+
+Japanese
+
+
+black
+
+
+red
+
+
+2013
+
+
+Meganebu!
+
+
+William Satou
+
+
+M
+
+
+Japanese?
+
+
+English?
+
+
+blue
+
+
+blond
+
+
+2013
+
+
+Galilei Donna
+
+
+Hozuki Ferrari
+
+
+F
+
+
+Japanese
+
+
+Italian
+
+
+red
+
+
+red
+
+
+2013
+
+
+Galilei Donna
+
+
+Kazuki Ferrari
+
+
+F
+
+
+Japanese
+
+
+Italian
+
+
+red
+
+
+black
+
+
+2013
+
+
+Galilei Donna
+
+
+Hazuki Ferrari
+
+
+F
+
+
+Japanese
+
+
+Italian
+
+
+red
+
+
+brown
+
+
+2013
+
+
+Himōto! Umaru-chan
+
+
+Alex Tachibana
+
+
+M
+
+
+Japanese?
+
+
+German?
+
+
+blonde
+
+
+Germany mentioned in Himōto! Umaru-chan chapter 15.
+
+
+2013
+
+
+Kill la Kill
+
+
+Ira Gamagōri
+
+
+M
+
+
+American
+
+
+Japanese
+
+
+grey
+
+
+blond
+
+
+2013
+
+
+Mario
+
+
+Mario
+
+
+M
+
+
+Italian
+
+
+Japanese
+
+
+orange
+
+
+brown
+
+
+Sicilian father, Japanese mother Yoshiko Rossi
+
+
+2014
+
+
+Wizard Barristers: Benmashi Cecil
+
+
+Cecil Sudou
+
+
+F
+
+
+Canadian
+
+
+Japanese
+
+
+blue
+
+
+purple
+
+
+Father is “David” from Canada, mother is “Megumi Sudo”
+
+
+2014
+
+
+Dream C Club Gogo
+
+
+Seira
+
+
+F
+
+
+blue
+
+
+blond
+
+
+2015
+
+
+Criminale
+
+
+Christie Sarah Tsukiko
+
+
+F
+
+
+Italian
+
+
+Japanese
+
+
+blue
+
+
+blonde
+
+
+See end of ch24; Criminale implies in its use of Italian in some places & her classification as a hitman that the father “Leonardo” is Italian (mother “Ayame”)
+
+
+2015
+
+
+Water Dragon’s Bride
+
+
+Asahi
+
+
+F
+
+
+Japanese?
+
+
+blue
+
+
+red
+
+
+ANN: “When her son brings home the little red-haired girl (we’re told Asahi takes after her grandmother, so presumably she’s of partial European descent, making her look alarming in the Kofun era)”. Asahi is illustrated with blue-purple eyes, but chapter 1 describes her as grey-eyed while in ch6, she’s described as having blue “sapphire eyes”, so I go with blue rather than grey eyes; her father is drawn as of Asian appearance with spiky black hair, and the mother with light-colored short hair Note: not to be confused with the Korean manwha Bride of the Water God.
+
+
+2015
+
+
+Idolish7
+
+
+Nagi Rokuya
+
+
+M
+
+
+Fantasy
+
+
+Japanese
+
+
+blue
+
+
+blond
+
+
+VN/rhythm game adapted into an anime; Wikia; Northmare apparently modeled after Denmark.
+
+
+2016
+
+
+Uchi no Maid ga Uzasugiru!
+
+
+Misha Takanashi
+
+
+F
+
+
+Japanese
+
+
+Russian
+
+
+blue
+
+
+blond
+
+
+2017
+
+
+Darling, Give me a break!
+
+
+Kokoro Sakurazaka
+
+
+M
+
+
+Japanese?
+
+
+Italian?
+
+
+green?
+
+
+red
+
+
+2017
+
+
+MF Ghost
+
+
+Kanata Rivington
+
+
+M
+
+
+Japanese
+
+
+English
+
+
+blue
+
+
+brown
+
+
+2018
+
+
+Revue Starlight
+
+
+Claudine Saijo
+
+
+F
+
+
+Japanese
+
+
+French
+
+
+purple
+
+
+blond
+
+
+ANN
+
+
+2018
+
+
+Golden Japanesque
+
+
+Maria
+
+
+F
+
+
+American
+
+
+Japanese
+
+
+blue
+
+
+blond
+
+
+2018
+
+
+Devilman Crybaby
+
+
+Miki Makimura
+
+
+F
+
+
+American?
+
+
+Japanese
+
+
+blue
+
+
+brown
+
+
+Her father is a blue-eyed brown-haired Caucasian, who is primarily characterized as extremely Christian (contrasted with the American military & nukes); so he is almost certainly American, but the series doesn’t confirm it.
+
+
+2019
+
+
+Psycho-Pass: Sinners of the System
+
+
+Tenjin Wangchuck
+
+
+F
+
+
+Japanese
+
+
+Tibetan
+
+
+gray?
+
+
+brown
+
+
+ANN
+
+
+2020
+
+
+Konna Watashi ni Kitai Shinaide
+
+
+Elicia Tachibana
+
+
+F
+
+
+Japanese?
+
+
+Russian?
+
+
+blue white
+
+
+2021
+
+
+SK8 the Infinity
+
+
+Langa Hasegawa
+
+
+M
+
+
+Canadian
+
+
+Japanese
+
+
+blue
+
+
+blue
+
+
+2021
+
+
+RE-MAIN
+
+
+Yutaka Babayaro Inomata
+
+
+M
+
+
+Nigerian
+
+
+Japanese
+
+
+yellow
+
+
+brown
+
+
+Wikia
+
+
+2024
+
+
+Code Geass: Roze of the Recapture
+
+
+Sakuya Sumeragi
+
+
+F
+
+
+Japanese
+
+
+English
+
+
+purple
+
+
+black
+
+
+Wikia
+
+
+Omissions
+
+
+Notes on possibly-controversial excluded characters:
+
+- 
+
+1991: Gunsmith Cats: Rally Vincent is English & East Indian but not Japanese
+- 
+
+1991: Silent Mobius: Rosa Cheyenne & Rally Cheyenne are the daughters of Luffa Cheyenne & a man from another dimension; however, no sources state that the mother is Japanese and all the names suggest otherwise; AniDB merely claims that they are “mixed heritage” 
+- 
+
+1992: Tenchi Muyo!: Katsuhito Masaki is included, but his “son”, Nobuyuki Masaki, is excluded as he is younger than Katsuhito by around 600 years and is described as a “distant descendant” and so probably isn’t even a quarter Juraian; this goes doubly for Katsuhito’s “grandson”, protagonist Tenchi Masaki.
+- 
+
+1996: Hanazakari no Kimitachi e; Ashiya Mizuki is born in America but both her parents are Japanese nationals, and so she is neither a hafu nor quarter but closer to a “returnee”
+- 
+
+1996: Shin Super Robot Wars; the German brothers Raidiese Fujiwara Branstein & Elzam von Branstein; claimed to be quarter-Japanese by TvTropes, but no source mentions this and this may be a confusion stemming from Elzam von Branstein’s wife, “Cattleya Fujiwara” 
+- 
+
+1997: Touhou (Story of Eastern Wonderland): Marisa Kirisame’s name and powers mix Western & Eastern motifs, and her father has some sort of connection with the Kourindou Shop which sells outside-world artifacts, leading to speculation about her origins 
+- 
+
+1998: Ai Yori Aoshi: Tina Foster, while raised in Japan, is American
+- 
+
+1998: Metal Gear Solid: TvTropes speculates that the minor recurring character “Johnny Sasaki” is half-Japanese; omitted for lack of evidence
+- 
+
+2000: Super Robot Wars Alpha: Yuuki Jaggar may or may not be a German-Japanese; no resources online discuss his background (not even the deleted Wikipedia article). Excluded for lack of evidence
+- 
+
+2002: Black Lagoon: Revy is Chinese-American, not Japanese-American
+- 
+
+2003: Touhou: Maribel Hearn is a purple-eyed blond-haired girl with no relatives in Japan who has been stated by ZUN to be related in some way to the Greek writer on Japan, Lafcadio Hearn, who moved there, married a native, and changed his name; her background and parentage have not been officially established yet. (Some Touhou doujin manga cast her as a foreigner.)
+- 
+
+2004: Kurau Phantom Memory: Ayaka Steiger is listed as a “mixed heritage” character, but no information seems to be available on her parents’ ethnicity or nationality, so I exclude her in the absence of any specific claims. 
+- 
+
+2005: Trauma Center: Angela “Angie” Thompson is part German, but otherwise is apparently American
+- 
+
+2006: Do You Want to Try?; Hye Won Han’s mother is Korean & her father French, but this is excluded for being a Korean manwha rather than Japanese manga
+- 
+
+2006?: Honey Blonde: both parents of protagonist are English
+- 
+
+2007: The Three Times: Hina is Japanese-Korean; this webcomic is excluded because the author of The Three Times, while raised in Japan, is a Korean citizen born of Korean parents who published The Three Times (written in Korean) on the Korean website Naver, and the series is classified as manwha by many manga sites
+- 
+
+2007: Shigurui: the Spanish-rapier-using warrior Sekiun is not a hafu, as the manga makes clear he was a normal Japanese samurai boy unfortunately assigned by his daimyo to learn barbarian martial arts
+- 
+
+2008: Lost Number: minor character Ryu Ji-hye (F; Korean/Japanese) is excluded as the visual novel is produced by an amateur “Korean team” and was abandoned after a free 200818ya preview release. 
+- 
+
+2008: Michiko to Hatchin; TvTropes speculates that Atsuko Jackson & Michiko Malandro are half-Japanese, but I couldn’t find any other references
+- 
+
+2008: Seol Hui: excluded for being a Korean manwha
+- 
+
+2009: Gokudou Café: classified by Baka Updates as mixed-blood, but scanlations don’t seem easily available.
+- 
+
+2009: Steins;gate: Kurisu Makise is sometimes identified as a hafu because she is a returnee from America & has red hair, but both her parents seem to be Japanese nationals
+- 
+
+2010: Seikimatsu Occult Gakuin: Maya Kumashiro, daughter of the headmaster of “Waldstein Academy”, Junichirou Kumashiro seems to have foreign connections and the eponymous occultism is purely Western; but while her father seems to be Japanese, nothing about her mother is shown and so her blue eyes may just be another case of mukokuseki 
+- 
+
+2011: Himitsu no Bara Juujidan: classified by Baka Updates as “mixed-blood” but the main character seems to be an all-Japanese reincarnation.
+- 
+
+2011: Gangsta.: character Nicolas Brown is half-Asian, but the quasi-fantasy setting bars specific identification as a hafu 
+- 
+
+2012: Katawa Shoujo: Lilly & Akira Satou are half-Scottish, but it is a Western open-source project
+- 
+
+2012: Robotics;Notes: “Frau Kōjiro”/Kona Furugōri is blond and may be part-German given her username, but there is no material online specifying ethnicities.
+- 
+
+2012: tsuritama: TvTropes speculates that the quasi-Indian character “Akira Agarkar Yamada” must be part-Japanese; omitted for lack of evidence
+- 
+
+2013: Mikasa Ackerman in Shingeki no Kyojin is of the “Oriental race” on her mother’s side; according to a slaver character in episode 6, her father was not. 
+
+
+## Analysis
+
+
+Descriptive
+
+
+A look at the database indicates that so far:
+
+- 
+
+many characters have at least one parent uncertain; data quality is a persistent issue
+- 
+
+Europe & America are heavily overrepresented; Asia underrepresented (see next section)
+- 
+
+Gender of Japanese parent appears evenly balanced and hence foreign mothers are heavily overrepresented
+- 
+
+There is a major temporal imbalance: works from the 2000s make up much of the database. This is partially due to my data sources - scanlation sites and fan-compiled databases will have a heavy “recentism bias” towards detailed cataloguing of new works, and so pre-Internet works will be drastically underrepresented, if they are mentioned at all. The 197551ya Ichigo Monogatari manga is a case in point: brief plot summaries exist only because the author is historically important to shojo manga, but more data is infeasible to obtain, and any hafu characters by her less famous contemporaries will be entirely forgotten!
+
+
+Korean Anomaly
+
+
+As of 2014-05-02, there is no half-Korean character in the database out of >268 characters. There are scores of Americans and British and French characters, >6 Chinese characters, but 0 Koreans. Hafu characters appear to satisfy the “No Koreans In Japan” anime/manga trope.
+
+
+There are several Korean-Japanese characters in the exclusion list, but in each case the fiction turns out to have been produced by a Korean apparently for a Korean audience, and not eligible for the database; it is also interesting that despite not looking for Korean works at all, I have found that many Korean-produced examples, yet in looking very hard for Japanese works, I have found no Japanese-produced examples.
+
+
+Both these points are peculiar, because Korea is one of the geographically closest countries to Japan, was under direct Japanese rule for 30+ years which entailed scores of thousands of Koreans being educated or raised or working in Japan (more than a few as slave labor), there is still a large population of Korean descendants in Japan (>0.9m or >0.7% of the Japanese population c. 200521ya), the “Korean wave” has made large inroads in Japanese pop culture, and the Japanese have historical connections to Korea since at least Korean emigration to Japan circa 500s AD.
+
+
+An interesting comparison would be to the Japanese community in Brazil, a continent away: with ~1.4m members, it’s roughly comparable to Koreans in Japan, but there are 4 characters of Brazilian descent compared to 0 of Korean descent.
+
+
+So, the absence of Korean characters is curious, and may represent a dog that did not bark.
+
+
+(An explanation might be the many Japan-Korea disputes, but the legacy of colonization & exploitation would presumably burn more painfully for the Koreans - the sufferers - than the Japanese, and so one might expect any silence and ignoring of the other country to be on the Korean side rather than the Japanese.)
+
+
+Source Code
+
+
+Run as: `R --slave --file=hafu.r`:
+
+
+`set.seed(7777) # for reproducible numbers
+# load & clean data
+# install.packages("XML") # if not already installed
+library(XML)
+hafu <- readHTMLTable("https://gwern.net/hafu#list")[[1]]
+hafu[hafu==""] <- NA
+
+decades <- c(seq(from=1960,to=2010,by=10), 2019)
+
+# graph male-female ratio of hafu characters over time
+png(file="~/wiki/doc/anime/hafu/gwern-hafu-genderratiobydecade.png", width = 3*480, height = 2*480)
+hafu$Year <- as.integer(as.character(hafu$Year))
+spineplot(hafu$Gender ~ hafu$Year, breaks=decades,
+          ylab="Characters’ Gender Ratio", xlab="By decade")
+invisible(dev.off())
+
+# graph parent nationalities by descending frequency
+png(file="~/wiki/doc/anime/hafu/gwern-parent-nationalities.png", width = 3*480, height = 2*480)
+barplot(sort(table(sub("\\?","",c(as.character(hafu$Mother), as.character(hafu$Father)))),
+             decreasing=TRUE)[2:18], xlab="Foreign parents by nationality")
+invisible(dev.off())
+
+# graph Japanese vs foreigner parentage for fathers & mothers over time
+parents <- hafu[!is.na(hafu$Mother) & !is.na(hafu$Father),] # only clean entries
+parents$Mother <- as.character(parents$Mother); parents$Father <- as.character(parents$Father)
+parents$Mother[parents$Mother != "Japanese"] <- "Foreign"
+parents$Father[parents$Father != "Japanese"] <- "Foreign"
+
+png(file="~/wiki/doc/anime/hafu/gwern-parent-nationalitiesbydecade.png", width = 3*480, height = 2*480)
+par(mfrow=c(2,1))
+spineplot(as.factor(parents$Father) ~ parents$Year, breaks=decades,
+          ylab="Father", main="Characters (split by decade)", xlab="")
+spineplot(as.factor(parents$Mother) ~ parents$Year, breaks=decades,
+          ylab="Mother", xlab="Fractions do not sum to 1, due to characters of uncertain parentage")
+invisible(dev.off())
+
+cat("Test overall gender ratio of hafu characters:\n")
+binom.test(c(sum(hafu$Gender=="M", na.rm=TRUE), sum(hafu$Gender=="F", na.rm=TRUE)))
+
+cat("\nGive 95% CIs on gender ratio of hafu characters by decade (&#39;60s, &#39;70s, &#39;80s, &#39;90s, &#39;00s, &#39;10s):\n")
+d1 <- hafu[hafu$Year>=1960 & hafu$Year<=1969,] # FIXME
+d2 <- hafu[hafu$Year>=1970 & hafu$Year<=1979,]
+d3 <- hafu[hafu$Year>=1980 & hafu$Year<=1989,]
+d4 <- hafu[hafu$Year>=1990 & hafu$Year<=1999,]
+d5 <- hafu[hafu$Year>=2000 & hafu$Year<=2009,]
+d6 <- hafu[hafu$Year>=2010 & hafu$Year<=2013,]
+bt <- function(x) { sex <- table(x$Gender);
+                    round(binom.test(c(sex[["M"]], sex[["F"]]))$conf.int[1:2], 2) }
+bt(d1); bt(d2); bt(d3); bt(d4); bt(d5); bt(d6) # FIXME
+
+# begin testing parent data
+cat("\nParent data: &#39;mother is Japanese&#39; vs &#39;father is Japanese&#39; (FALSE/FALSE means which is uncertain):\n")
+print(table(hafu$Mother=="Japanese", hafu$Father=="Japanese"))
+
+cat("\nTest whether the overall parent imbalance is large enough to exclude the 50:50 hypothesis:\n")
+binom.test(c(sum(hafu$Mother=="Japanese",na.rm=TRUE), sum(hafu$Father=="Japanese",na.rm=TRUE)))
+
+cat("\nSame test, but now with the 2006 Japanese census listing of Japanese-American marriages:\n")
+binom.test(c(1474,215))
+
+cat("\nSame test, but now examining characters with any American parentage:\n")
+american <- hafu[hafu$Father=="American" || hafu$Mother=="American",]
+binom.test(c(sum(american$Mother=="Japanese",na.rm=TRUE), sum(american$Father=="Japanese",na.rm=TRUE)))
+
+cat("\nGive 95% CIs on mother vs father being Japanese by decade (&#39;60s, &#39;70s, &#39;80s, &#39;90s, &#39;00s, &#39;10s):\n")
+pt <- function(d) round(binom.test(c(sum(d$Mother=="Japanese",na.rm=TRUE),
+                                     sum(d$Father=="Japanese",na.rm=TRUE)))$conf.int[1:2],
+                        2)
+pt(d1); pt(d2); pt(d3); pt(d4); pt(d5); pt(d6) # reusing per-decade data frames defined previously; FIXME
+
+# begin looking at phenotype data
+cat("\nTabulate hair color against eye color:\n")
+print(table(hafu$Hair, hafu$Eye), zero.print=".")
+
+# with(hafu[hafu$Mother=="Japanese",], print(table(Hair, Eyes, Father), zero.print="."))
+
+# optimize the generated graphs by cropping whitespace & losslessly compressing them
+system(paste(&#39;cd ~/wiki/image/hafu/ &&&#39;,
+             &#39;for f in *.png; do convert "$f" -crop&#39;,
+             &#39;`nice convert "$f" -virtual-pixel edge -blur 0x5 -fuzz 10% -trim -format&#39;,
+             &#39;\&#39;%wx%h%O\&#39; info:` +repage "$f"; done&#39;))
+system("optipng -o9 -fix ~/wiki/image/hafu/*.png", ignore.stdout = TRUE)`
+
+
+Capture-Recapture
+
+
+The universe of anime/manga since 196363ya is of unknown total size but very large. I’ve wondered: how I could estimate how complete my sample is at any point?
+
+
+My search procedure can be summarized as: I check many different places, looking for keywords and phrases that may indicate a hafu character, and if I find one I add it to the database but if it’s already in it, I do nothing. Places change, and new places appear, so the checking is never done, but once a character has been added, I will always recognize it even if I find it multiple times. This turns out to strongly resemble a problem from ecology: an ecologist or biologist wishes to know how many animals are in a region, but while animals can be tagged or marked or otherwise recorded (if they have unique spots or fur), animals are hard to find, there’s a lot of them, and you never know when you’re done even if your traps are stuffed full of animals you’ve already seen before. But if all your traps are turning up no new animals, surely that’s consistent with having trapped most or all the animals, right? If every time you trapped an animal you got a new animal, the total population of animals must be truly enormous for you to not trap the same animal twice!
+
+
+This intuition is right. Formalized as statistics, it is called “capture-recapture” or “mark and recapture”, and it applies to any area which satisfies the basic description of very large population and repeated captures of the same member. Past applications of it and similar techniques include testing software for bugs, estimating the size of the World Wide Web or Shakespeare’s vocabulary (overview of related topics). Libraries are already available; I choose to use the R library `Rcapture` (manual; paper).
+
+
+I can treat my existing data collection as the captures in capture-recapture: so eg. each time I get a Google Alert for a new character but it’s already on my list, this counts as a “recapture”, but if I run a search in Google Books and I find 15 characters and 14 are already on the list, that’s 14 “recaptures” and 1 “capture”.
+
+
+There seem to be two main issues with capture-recapture in this context:
+
+- 
+
+The models generally require properties like that each member of the population have an equal chance of being captured or independence of capture occasions.
+
+
+The former (heterogeneous capture probability) is addressed by the more advanced models in Rcapture, and eyeballing the capture log, it’s very rare for a character to appear more than 2 or 3 times, suggesting general equality of captures. The latter requirement is difficult to verify; the best I can say is that very few characters show up in more than one source, and each of the major sources seems to have been compiled in ignorance of the others (there were no discussions, comments, links, or citations)
+- 
+
+The results are valid only for the precise population one is making inferences about.
+
+
+Not all half-Japanese characters from the past will have been noted as such in media, characters where half-Japanese is implied but not definitively stated as being such may have that omitted from any discussion, fewer characters will appear in English discussions anywhere, and only a subset of those will appear in accessible digitized materials. Using capture-recapture means we are only making inferences about the size of “the population of characters with information available on the English Web”.
+
+
+Corpus Estimation Result
+
+
+The most appropriate population model treats hafu characters as a closed population, since characters once created do not cease to exist. I performed sampling in 18 phrases (corresponding to discrete data sources), and I classified as 1 large collection period all characters collected before the capture-recapture log was started.
+
+
+The model that `Rcapture` fit to logs of 296 characters (minimizing the AIC) was the M0 Chao model, corresponding to each sampling phase and each character having the same probability of capture each time (somewhat to my surprise). The M0 model yields an estimate of 657 total accessible hafu characters, and a 95% confidence interval of 559-781 characters, implying that a database of n = 296 achieves coverage of 28-52%.
+
+
+# External Links
+
+
+- 
+
+Margaret O’Connell has a series of articles examining visual characteristics & foreign attributes in anime & manga:
+
+- 
+
+“Why Is Manga and Anime Characters’ Hair All the Colors of the Rainbow?”
+- 
+
+“Part 2: Otherworldly Shades”
+- 
+
+“Part 3: Blonds Are Trouble”
+- 
+
+“Part 4: When Is a Blond Not a Blond?”
+
+- 
+
+“The Hafu Project: Exploring the question of what it means to be Japanese” -(the 317 comments demonstrate how polarizing the topic can be)
+
+- 
+
+Hafu (201313ya documentary)
+
+- 
+
+“How to Look Like a ‘Hafu’: Consumption of the Image of ‘Part-White’ Women in Contemporary Japan” (Hyoue Okamura)
+- 
+
+“The Space Between Anime and Manga: #5: Katsuhiro Otomo, the Anti-”Story” Author by Kentaro Takekuma”
+- 
+
+Japan Sociology group blog: “hafu” tag
+
+
+# Appendices
+
+
+## Capture-Recapture Code
+
+
+Run as `R --slave --file=rcapture.r`:
+
+
+`library(Rcapture)
+
+# O=Original compilation before capture-recapture log started
+# GSA=Google Search Alerts
+# ST=http://www.sequentialtart.com/archive/mar04/cv_0304_2.shtml
+# GIJ=http://germaninjapan.tumblr.com/post/26503313045/thematizing-halfs-in-manga-and-anime-yamaken
+# ANN=https://www.animenewsnetwork.com/review/haganai/i-dont-have-many-friends/gn-1
+# MV=http://www.mangavolume.com/manga-archive/mangas/search-half-japanese
+# TV2=TvTropes (December 2012 check)
+# TV3=https://tvtropes.org/pmwiki/remarks.php?trope=Main.ButNotTooForeign
+# VN=https://vndb.org/i674?m=2 / https://vndb.org/i674?m=2;fil=tagspoil-2.trait_inc-674;p=2
+# MAL=https://myanimelist.net/forum/?topicid=141256&show=60#msg10542373
+# DC=https://en.wikipedia.org/wiki/List_of_Da_Capo_series_characters
+# PP=http://www.peterpayne.net/2011/12/anime-characters-with-blonde-hair.html
+# AND=https://anidb.net/tag/385/chartb
+# TVM=https://tvtropes.org/pmwiki/pmwiki.php/Main/Mukokuseki
+# CF=http://www.comicforum.de/archive/index.php/t-122076-p-38.html
+# BU1=https://www.mangaupdates.com/topic/a86ve5l/romance-with-asian-male-protag-and-non-asian-female
+# BU2=https://www.mangaupdates.com/series.html?page=1&perpage=100&category=Mixed+Blood&orderby=year
+# ANN2=https://www.animenewsnetwork.com/review/wolf-children
+# ANN3=Google ANN site search
+hafu <- read.table(stdin(),header=TRUE)
+Work                O GSA IRC ST GIJ ANN MV TV2 TV3 VN MAL DC PP AND TVM CF BU1 BU2 ANN2 ANN3
+".hack Legend of"   1 0   0   0  0   0   0  0   0   0  0   0  0  0   0   0  0   0   0    0
+"2nd Super Robot W" 1 0   0   0  0   0   0  0   0   0  0   0  0  0   0   0  0   0   0    0
+"801 T.T.S. Airbat" 1 0   0   0  0   0   0  0   0   0  0   0  0  0   0   0  0   0   0    0
+"Adolf"             1 1   0   0  0   0   1  0   0   0  0   0  0  0   1   0  0   0   0    1
+"Ai Kora"           1 0   0   0  0   0   0  0   0   0  0   0  0  0   0   0  0   0   0    0
+"Akatsuki no Goei"  0 0   0   0  0   0   0  0   0   1  0   0  0  0   0   0  0   0   0    0
+"Akuma to Love Son" 1 0   0   0  0   0   0  0   0   0  0   0  0  0   0   0  0   0   0    0
+"Amagami SS"        1 0   0   0  0   0   0  0   0   0  0   0  0  1   0   0  0   0   0    0
+"Ame Nochi Hare"    1 0   0   0  0   0   0  0   0   0  0   0  0  1   0   0  0   0   0    0
+"Angel Sanctuary1"  1 0   0   0  0   0   0  0   0   0  0   0  0  1   0   0  0   0   0    0
+"Angel Sanctuary2"  1 0   0   0  0   0   0  0   0   0  0   0  0  1   0   0  0   0   0    0
+"Ano Machi no Koi"  0 0   0   0  0   0   0  0   0   1  0   0  0  0   0   0  0   0   0    0
+"AnoHana1"          1 0   0   0  0   0   0  0   0   0  0   0  0  1   0   0  0   0   0    0
+"AnoHana2"          0 0   0   0  0   0   0  0   0   0  0   0  0  1   0   0  0   0   0    0
+"Arisa"             1 0   0   0  0   0   0  0   0   0  0   0  0  0   0   0  0   0   0    0
+"Ashinaga Ojisama"  0 0   0   0  0   0   0  0   0   0  0   0  0  0   0   0  0   1   0    0
+"Atori Shou"        0 0   0   0  0   0   0  0   0   0  0   0  0  0   0   0  0   1   0    0
+"Baccano"           1 0   0   0  0   0   0  0   0   0  0   0  0  0   0   0  0   0   0    0
+"Bath Towel"        1 0   0   0  0   0   0  0   0   0  0   0  0  0   0   0  0   0   0    0
+"Ben-To"            0 0   0   0  0   0   0  0   0   0  0   0  0  1   0   0  0   0   0    0
+"Best Student Coun" 1 0   0   0  0   0   0  0   0   0  0   0  0  1   0   0  0   0   0    0
+"Beyblade"          1 0   0   0  0   0   0  0   0   0  0   0  0  0   0   0  0   0   0    0
+"Bird Cage"         1 0   0   0  0   0   0  0   0   0  0   0  0  0   0   0  0   0   0    0
+"Bleach"            1 0   0   0  0   0   0  0   0   0  0   0  0  0   0   0  0   0   0    1
+"Boku no Shokora"   0 0   0   0  0   0   0  0   0   1  0   0  0  0   0   0  0   0   0    0
+"Bokutachi Otoko n" 1 0   0   0  0   0   0  0   0   0  0   0  0  0   0   0  0   0   0    0
+"Boys Be"           0 0   0   0  0   0   0  0   0   0  0   0  0  1   0   0  0   0   0    0
+"Butterfly 69"      1 0   0   0  0   0   0  0   0   0  0   0  0  0   0   0  0   0   0    0
+"Caf Latte Rhapso"  1 0   0   0  0   0   0  0   0   0  0   0  0  0   0   0  0   1   0    0
+"Canvas 2"          1 0   0   0  0   0   0  0   0   0  0   0  0  1   0   0  0   0   0    0
+"Card Captors Saku" 1 0   0   0  0   0   0  0   0   0  0   0  0  0   0   0  0   0   0    0
+"Chanto Shiyou Yo"  1 0   0   0  0   0   0  0   0   0  0   0  0  0   0   0  0   0   0    0
+"Cheerism"          1 0   0   0  0   0   0  0   0   0  0   0  0  0   0   0  0   0   0    0
+"Chka Ichiban"      1 0   0   0  0   0   0  0   0   0  0   0  0  0   0   0  0   0   0    0
+"Chou no Doku Han"  0 0   0   0  0   0   0  0   0   1  0   0  0  0   0   0  0   0   0    0
+"Class Zenin Ore"   0 0   0   0  0   0   0  0   0   1  0   0  0  0   0   0  0   0   0    0
+"Coda"              1 0   0   0  0   0   0  0   0   0  0   0  0  0   0   0  0   0   0    0
+"Code Geass"        1 0   0   0  0   0   0  0   0   0  0   0  0  1   1   0  0   0   0    1
+"Code Geass: Lost"  1 0   0   0  0   0   0  0   0   0  0   0  0  0   0   0  0   0   0    0
+"Cyborg 009"        1 0   0   0  0   0   0  0   0   0  0   0  0  0   0   0  0   0   0    1
+"D.C. III Da Capo"  0 0   0   0  0   0   0  0   0   1  0   0  0  0   0   0  0   0   0    0
+"DOA Hitomi"        1 0   0   0  0   0   0  1   0   0  0   0  0  0   0   0  0   0   0    0
+"DOA Kokoro"        0 0   0   0  0   0   0  1   0   0  0   0  0  0   0   0  0   0   0    0
+"Da Capo I"         0 0   0   0  0   0   0  0   0   0  0   1  1  0   0   0  0   0   0    0
+"Da Capo I"         1 0   0   0  0   0   0  0   0   0  0   0  0  1   0   0  0   0   0    0
+"Dance in the Vamp" 1 0   0   0  0   0   0  0   0   0  0   0  0  0   0   0  0   0   0    0
+"Darenimo Ienai"    1 0   0   0  0   0   0  0   0   0  0   0  0  0   0   0  0   0   0    0
+"Darker than Blac"  1 0   0   0  0   0   0  0   0   0  0   0  0  1   0   0  0   0   0    0
+"Darker than Blac2" 1 0   0   0  0   0   0  0   0   0  0   0  0  0   0   0  0   0   0    1
+"Dear My Mister"    1 0   0   0  0   0   0  0   0   0  0   0  0  0   0   0  0   0   0    0
+"Death Note"        1 0   0   0  0   0   0  0   0   0  0   0  0  1   0   0  0   0   0    0
+"Death Note2"       1 0   0   0  0   0   0  0   0   0  1   0  0  0   0   0  0   0   0    0
+"Desert Storm"      1 0   0   0  0   0   0  0   0   0  0   0  0  0   0   0  0   0   0    0
+"Detective Conan"   1 0   0   0  0   0   0  0   0   0  0   0  0  1   0   0  0   0   0    0
+"Devil Lady"        0 0   0   0  0   0   0  0   0   0  0   0  0  1   0   0  0   0   0    0
+"Diamond Head"      1 0   0   0  0   0   0  0   0   0  0   0  0  0   0   0  0   0   0    0
+"Digimon A 02"      1 0   0   0  0   0   0  0   0   0  0   0  0  0   1   0  0   0   0    0
+"Digimon Adventure" 1 0   0   0  0   0   0  0   0   0  0   0  0  0   0   0  0   0   0    0
+"Digimon Savers"    1 0   0   0  0   0   0  0   0   0  0   0  0  0   0   0  0   0   0    0
+"Digimon Tamers1"   1 0   0   0  0   0   0  0   0   0  0   0  0  0   1   0  0   0   0    0
+"Digimon Tamers2"   1 0   0   0  0   0   0  0   0   0  0   0  0  0   1   0  0   0   0    0
+"Digimon Tamers3"   1 0   0   0  0   0   0  0   0   0  0   0  0  0   1   0  0   0   0    0
+"Digimon Tamers4"   1 0   0   0  0   0   0  0   0   0  0   0  0  0   1   0  0   0   0    0
+"Dog Days"          0 0   0   0  0   0   0  0   0   0  0   0  0  1   0   0  0   0   0    0
+"Durarara!!1"       1 0   0   0  1   0   0  0   0   0  0   0  0  1   0   0  0   0   0    0
+"Eden They Were O"  0 0   0   0  0   0   0  0   0   1  0   0  0  0   0   0  0   0   0    0
+"Ef - a Tale of Me" 1 0   0   0  0   0   0  0   0   0  0   0  0  1   0   0  0   0   0    0
+"Evangelion 2.0"    1 0   0   0  0   0   0  0   0   0  0   0  0  1   1   0  0   0   0    0
+"Eyeshield 21"      1 0   0   0  0   0   0  0   0   0  0   0  0  1   0   0  0   0   0    0
+"Fake"              1 0   0   0  0   0   0  0   0   0  0   0  0  0   0   0  0   0   0    1
+"Fate/stay night"   1 0   0   0  0   0   0  1   0   0  0   0  0  0   0   0  0   0   0    0
+"Fruits Basket"     1 0   0   0  0   0   0  0   0   0  0   0  0  1   0   0  0   0   0    0
+"Full Metal Panic"  1 0   0   0  0   0   0  0   0   0  0   0  0  0   1   0  0   0   0    0
+"Futa Ane Bitter"   0 0   0   0  0   0   0  0   0   1  0   0  0  0   0   0  0   0   0    0
+"G-senjou no Maou"  1 0   0   0  0   0   0  0   0   0  0   0  0  0   0   0  0   0   0    0
+"Gakuen Alice"      1 0   0   0  0   0   0  0   0   0  0   0  0  0   0   0  0   0   0    0
+"Gatchaman"         1 0   0   0  0   0   0  0   0   0  0   0  0  0   0   0  0   0   0    0
+"GetBackers"        1 0   0   0  0   0   0  0   0   0  0   0  0  1   0   0  0   0   0    0
+"GoShogun"          1 0   0   0  0   0   0  0   0   0  0   0  0  0   0   0  0   0   0    0
+"Golden Days"       1 0   0   0  0   0   0  0   0   0  0   0  0  0   0   0  0   0   0    0
+"Great Mazinger"    1 0   0   0  0   0   0  0   0   0  0   0  0  0   0   0  0   0   0    0
+"Great Teacher Oni" 0 0   0   0  0   0   0  0   0   0  0   0  0  0   0   0  1   0   0    0
+"Green Green 2 Ko"  0 0   0   0  0   0   0  0   0   1  0   0  0  0   0   0  0   0   0    0
+"Grisaia no Kajit"  0 0   0   0  0   0   0  0   0   1  0   0  0  0   0   0  0   0   0    0
+"Gsenjou no Maou"   0 0   0   0  0   0   0  0   0   1  0   0  0  0   0   0  0   0   0    0
+"Gundam 00.1"       1 0   0   0  0   0   0  0   0   0  0   0  0  0   0   0  0   0   0    0
+"Gundam 00.2"       1 0   0   0  0   0   0  0   0   0  0   0  0  0   0   0  0   0   0    0
+"Gundam 00.3"       1 0   0   0  0   0   0  0   0   0  0   0  0  0   0   0  0   0   0    0
+"Gundam 00.4"       1 0   0   0  0   0   0  0   0   0  0   0  0  0   0   0  0   0   0    0
+"Gundam Wing"       0 0   0   0  0   0   0  0   0   0  0   0  0  1   1   0  0   0   0    0
+"Haganai"           1 0   0   0  0   0   0  0   0   0  0   0  0  1   0   0  0   1   0    1
+"Haganai"           1 0   0   0  0   1   0  0   0   0  0   0  0  1   0   0  0   0   0    1
+"Haganai2"          0 0   0   0  0   0   0  0   0   0  0   0  0  1   0   0  0   0   0    1
+"Haikara-san ga To" 0 0   0   0  0   0   0  0   0   0  0   0  0  0   0   0  1   0   0    0
+"Hana Yori Dango"   1 0   0   0  0   0   0  0   0   0  0   0  0  0   0   0  0   0   0    0
+"Hana-kimi"         1 0   0   0  0   0   0  0   0   0  0   0  0  0   0   0  0   0   0    0
+"Hanasakeru Seisho" 1 0   0   0  0   0   0  0   0   0  0   0  0  0   0   0  1   0   0    1
+"Hanjuku Orange"    1 0   0   0  0   0   0  0   0   0  0   0  0  0   0   0  0   0   0    0
+"Harem Lodge"       1 0   0   0  0   0   0  0   0   0  0   0  0  0   0   0  0   0   0    0
+"High-School DxD"   0 0   0   0  0   0   0  0   0   0  0   0  0  0   0   0  0   1   0    0
+"Himawari"          0 0   0   0  0   0   0  0   0   0  0   0  0  1   0   0  0   0   0    0
+"Hinekure Shisho n" 0 0   0   0  0   0   0  0   0   0  0   0  0  0   0   0  0   1   0    0
+"Hirahira Hy~n"     0 0   0   0  1   0   0  0   0   0  0   0  0  0   0   0  0   0   0    0
+"Hisho x Hisho"     0 0   0   0  0   0   0  0   0   1  0   0  0  0   0   0  0   0   0    0
+"Holy Knight"       1 0   0   0  0   0   0  0   0   0  0   0  0  0   0   0  0   0   0    0
+"Homura Kansen 3"   0 0   0   0  0   0   0  0   0   1  0   0  0  0   0   0  0   0   0    0
+"Honoo no Haramas"  0 0   0   0  0   0   0  0   0   1  0   0  0  0   0   0  0   0   0    0
+"Hoshi no Oujikun"  0 0   0   0  0   0   0  0   0   1  0   0  0  0   0   0  0   0   0    0
+"Hungry Heart"      1 0   0   0  0   0   0  0   0   0  0   0  0  0   0   0  0   0   0    1
+"Hyper Police"      0 0   0   0  0   0   0  0   0   0  0   0  0  1   0   0  0   1   0    0
+"Ice Forest"        1 0   0   0  0   0   0  0   0   0  0   0  0  0   0   0  0   0   0    0
+"Ichigo Monogatari" 1 0   0   0  0   0   0  0   0   0  0   0  0  0   0   0  0   0   0    0
+"Iinchou wa Shoun"  0 0   0   0  0   0   0  0   0   1  0   0  0  0   0   0  0   0   0    0
+"Ijigen kara no Ta" 1 0   0   0  0   0   0  0   0   0  0   0  0  0   0   0  0   0   0    0
+"Inuyasha"          1 0   0   0  0   0   0  0   0   0  0   0  0  0   0   0  0   1   0    0
+"Itazura na Kiss.1" 0 0   0   0  0   0   0  0   0   0  0   0  0  0   0   0  1   0   0    0
+"Itazura na Kiss.2" 0 0   0   0  0   0   0  0   0   0  0   0  0  0   0   0  1   0   0    0
+"Itazura na Kiss.3" 0 0   0   0  0   0   0  0   0   0  0   0  0  0   0   0  1   0   0    0
+"Itsuka Sora kara"  0 0   0   0  0   0   0  0   0   0  0   0  0  0   0   0  0   1   0    0
+"JoJo&#39;s Bizarre.1"  1 0   0   0  0   0   0  0   0   0  0   0  0  0   0   0  0   0   0    1
+"JoJo&#39;s Bizarre.2"  1 0   0   0  0   0   0  0   0   0  0   0  0  0   0   0  0   0   0    0
+"JoJo&#39;s Bizarre.3"  1 0   0   0  0   0   0  0   0   0  0   0  0  0   0   0  0   0   0    0
+"JoJo&#39;s Bizarre.4"  1 0   0   0  0   0   0  0   0   0  0   0  0  0   0   0  0   0   0    0
+"Jubei-chan 2"      1 0   0   0  0   0   0  0   0   0  0   0  0  0   0   0  0   0   0    0
+"K-On"              1 0   0   0  0   0   0  0   0   0  0   0  0  0   0   0  0   0   0    0
+"K-On"              1 0   0   0  0   0   0  0   0   0  0   0  0  0   0   0  0   0   0    0
+"Kachou Fuugetsu"   0 0   0   0  0   0   0  0   0   1  0   0  0  0   0   0  0   0   0    0
+"Kaichou wa Maid-s" 1 0   0   0  0   0   0  0   0   0  0   0  0  0   0   0  0   0   0    0
+"Kamen no Maid Guy" 1 0   0   0  0   0   0  0   0   0  0   0  0  0   0   0  0   0   0    0
+"Kamichama Karin"   0 0   0   0  0   0   0  0   0   0  0   0  0  1   0   0  0   0   0    0
+"Kansen 3 ~Shuto H" 1 0   0   0  0   0   0  0   0   0  0   0  0  0   0   0  0   0   0    0
+"Kara no Shoujo"    0 0   0   0  0   0   0  1   0   1  0   0  0  0   0   0  0   0   0    0
+"Kashou no Tsuki"   1 0   0   0  0   0   0  0   0   0  0   0  0  0   0   0  0   1   0    0
+"Katekyo Hitman Re" 1 0   0   0  0   0   0  0   0   0  1   0  0  1   0   0  0   0   0    0
+"Kids on the Slope" 0 0   1   0  1   0   0  0   0   0  0   0  0  0   0   0  0   0   0    1
+"Kimi to Boku"      1 0   0   0  0   0   0  0   0   0  0   0  0  0   0   0  0   0   0    1
+"Kinnikuman Nisei"  0 0   0   0  0   0   0  1   0   0  0   0  0  0   0   0  0   0   0    0
+"Kiss to Maou to"   0 0   0   0  0   0   0  0   0   1  0   0  0  0   0   0  0   0   0    0
+"Kiss/Hug"          1 0   0   0  0   0   0  0   0   0  0   0  0  0   0   0  0   0   0    0
+"Kita e. ~Diamond"  0 0   0   0  0   0   0  0   0   1  0   0  0  1   0   0  0   0   0    1
+"Kochira Katsushik" 1 0   0   0  0   0   0  0   0   0  0   0  0  0   0   0  0   0   0    0
+"Kodomo no Omocha"  1 0   0   0  0   0   0  0   0   0  0   0  0  0   0   0  0   0   0    0
+"Koiseyo Shounen"   1 0   0   0  0   0   0  0   0   0  0   0  0  0   0   0  0   0   0    0
+"Konbini S"         1 0   0   0  0   0   0  0   0   0  0   0  0  0   0   0  0   0   0    0
+"Kujibiki Unbalanc" 1 0   0   0  0   0   0  0   0   0  0   0  0  1   0   0  0   0   0    0
+"Kuragehime"        1 0   0   0  0   0   0  0   0   0  0   0  0  0   1   0  0   0   0    0
+"Kurau Phantom Mem" 1 0   0   0  0   0   0  0   0   0  0   0  0  1   0   0  0   0   0    0
+"Kurenai no Tsuki"  0 0   0   0  0   0   0  0   0   1  0   0  0  0   0   0  0   0   0    0
+"Lady"              1 0   0   0  0   0   0  0   0   0  0   0  0  0   0   0  0   0   0    0
+"Little Busters"    0 0   0   0  0   0   0  1   0   1  0   0  0  1   0   0  0   0   0    0
+"Love Monster"      1 0   0   0  0   0   0  0   0   0  0   0  0  0   0   0  0   0   0    0
+"Lovetore"          1 0   0   0  0   0   0  0   0   0  0   0  0  0   0   0  0   0   0    0
+"Lucky x Crosse"    0 0   0   0  0   0   0  0   0   1  0   0  0  0   0   0  0   0   0    0
+"Lupin III"         1 0   0   0  0   0   0  0   0   0  0   0  0  0   0   0  0   0   0    0
+"MGS Miller"        0 0   0   0  0   0   0  1   0   0  0   0  0  0   0   0  0   0   0    0
+"MGS SS"            1 0   0   0  0   0   0  1   0   0  0   0  0  0   0   0  0   0   0    0
+"Macross"           1 0   0   0  0   0   0  0   0   0  0   0  0  0   0   0  0   0   0    1
+"Mad Bull 34"       0 0   0   0  0   0   0  1   0   0  0   0  0  0   0   0  0   0   0    0
+"Magic Kaito"       0 0   0   0  0   0   0  1   0   0  0   0  0  0   0   0  0   0   0    0
+"Mahou Sensei Neg"  1 0   0   0  0   0   0  0   0   0  0   0  0  0   0   0  0   0   0    0
+"Manbiki"           0 0   0   0  0   0   0  0   0   1  0   0  0  0   0   0  0   0   0    0
+"Maria Holic"       1 0   0   0  0   0   0  0   0   0  0   0  0  0   0   0  0   0   0    0
+"Maria-sama Ga Mit" 1 0   0   0  0   0   0  0   0   0  0   0  0  0   0   0  0   0   0    0
+"Marmalade Boy"     1 0   0   1  0   0   0  0   0   0  0   0  0  0   0   0  0   0   0    0
+"Master Keaton"     1 0   0   0  0   0   0  0   0   0  0   0  0  1   0   0  0   0   0    1
+"Matryoshka"        1 0   0   0  0   0   0  0   0   0  0   0  0  0   0   0  0   0   0    0
+"Maya Madoromijim"  0 0   0   0  0   0   0  0   0   1  0   0  0  0   0   0  0   0   0    0
+"Mecha Love"        1 0   0   0  0   0   0  0   0   0  0   0  0  0   0   0  0   0   0    0
+"Meimeimei"         0 0   0   0  0   0   0  0   0   1  0   0  0  0   0   0  0   0   0    0
+"Meruhen-chan"      1 0   0   0  0   0   0  0   0   0  0   0  0  0   0   0  0   0   0    0
+"Midorigafuchi Yo"  0 0   0   0  0   0   0  0   0   1  0   0  0  0   0   0  0   0   0    0
+"Milkman"           1 0   0   0  0   0   0  0   0   0  0   0  0  0   0   0  0   0   0    0
+"Mitsu no Yoru"     1 0   0   0  0   0   0  0   0   0  0   0  0  0   0   0  0   0   0    0
+"Mobile Police Pat" 1 0   0   0  0   0   0  0   0   0  0   0  0  1   0   0  0   0   0    1
+"Mobile Suit Gunda" 1 0   0   0  0   0   0  0   0   0  0   0  0  1   0   0  0   0   0    0
+"Motto Itte"        1 0   0   0  0   0   0  0   0   0  0   0  0  0   0   0  0   0   0    0
+"Mr.Invisible Leg"  0 0   0   0  0   0   0  0   0   1  0   0  0  0   0   0  0   0   0    0
+"Muv-Luv Alternati" 1 0   0   0  0   0   0  0   0   1  0   0  0  1   0   0  0   0   0    1
+"Nabari no Ou"      1 0   0   0  0   0   0  0   0   0  0   0  0  1   0   0  0   0   0    0
+"Nana"              1 0   0   0  0   0   0  0   0   0  0   0  0  1   0   0  0   0   0    0
+"Natsuiro Sagitta"  0 0   0   0  0   0   0  0   0   1  0   0  0  0   0   0  0   0   0    0
+"Natsumegu"         0 0   0   0  0   0   0  0   0   1  0   0  0  0   0   0  0   0   0    0
+"Naze Nani Honey"   1 0   0   0  0   0   0  0   0   0  0   0  0  0   0   0  0   0   0    0
+"Nee"               0 0   0   0  0   0   0  0   0   1  0   0  0  0   0   0  0   0   0    0
+"Negima"            1 0   0   0  0   0   0  0   0   0  0   0  0  0   0   0  0   0   0    0
+"Nejire"            0 0   0   0  0   0   0  0   0   1  0   0  0  0   0   0  0   0   0    0
+"Nekome Kozou"      0 0   0   0  0   0   0  0   0   0  0   0  0  0   0   0  0   1   0    0
+"Neon Genesis Evan" 1 0   0   0  0   0   0  0   0   0  1   0  0  1   1   0  0   0   0    0
+"Nigai Kajitsu"     0 0   0   0  0   0   0  0   0   0  0   0  0  0   0   0  0   1   0    0
+"NightS"            0 0   0   0  0   0   0  0   0   0  0   0  0  0   0   0  0   1   0    0
+"Nisekoi"           1 0   0   0  0   0   0  0   0   0  0   0  0  0   0   0  0   0   0    0
+"No More Heroes"    1 0   0   0  0   0   0  0   0   0  0   0  0  0   0   0  0   0   0    0
+"Nurarihyon no Ma"  1 0   0   0  0   0   0  0   0   0  0   0  0  0   0   0  0   0   0    0
+"Nurarihyon no Ma"  1 0   0   0  0   0   0  0   0   0  0   0  0  0   0   0  0   0   0    0
+"Ochiba no Mau Ko"  0 0   0   0  0   0   0  0   0   1  0   0  0  0   0   0  0   0   0    0
+"Ohana to Chocolat" 1 0   0   0  0   0   0  0   0   0  0   0  0  0   0   0  0   0   0    0
+"Onegai Goshujins"  0 0   0   0  0   0   0  0   0   1  0   0  0  0   0   0  0   0   0    0
+"Onegai Twins"      1 0   0   0  0   0   0  0   0   0  0   0  1  0   0   0  0   0   0    0
+"Onimusha"          0 0   0   0  0   0   0  1   0   0  0   0  0  0   0   0  0   0   0    0
+"Oreimo"            1 0   0   0  0   0   0  0   0   0  0   0  0  0   0   0  0   0   0    0
+"Otome ga Tsumugu"  0 0   0   0  0   0   0  0   0   1  0   0  0  0   0   0  0   0   0    0
+"Otona Pink"        1 0   0   0  0   0   0  0   0   0  0   0  0  0   0   0  0   0   0    0
+"Ougon Honey"       1 0   0   0  0   0   0  0   0   0  0   0  0  0   0   0  0   0   0    0
+"Ouran Host"        1 0   0   0  0   0   0  0   0   0  1   0  0  1   0   0  0   0   0    1
+"Ousama no Lesson"  0 0   0   0  0   0   0  0   0   0  0   0  0  0   0   0  0   1   0    0
+"Oyasumi Punpun"    1 0   0   0  0   0   0  0   0   0  0   0  0  0   0   0  0   0   0    0
+"Pani Poni Dash"    1 0   0   0  0   0   0  0   0   0  0   0  0  1   0   0  0   0   0    0
+"Papa no Iukoto o"  0 0   0   0  0   0   0  0   0   0  0   0  0  1   0   0  0   0   0    0
+"Parasite Eve"      0 0   0   0  0   0   0  1   0   0  0   0  0  0   0   0  0   0   0    0
+"Parfait ~Chocolat" 1 0   0   0  0   0   0  0   0   0  0   0  0  0   0   0  0   0   0    0
+"Peacemaker Kuroga" 1 0   0   0  0   0   0  0   0   0  0   0  0  1   0   0  0   0   0    0
+"Pineapple Army"    1 0   0   0  0   0   0  0   0   0  0   0  0  0   0   0  0   0   0    0
+"Prince of Tennis"  1 0   0   0  0   0   0  0   0   0  0   0  0  1   0   0  0   0   0    0
+"Private Love Less" 1 0   0   0  0   0   0  0   0   0  0   0  0  0   0   0  0   0   0    0
+"Puchi Houndo"      0 0   0   0  0   0   0  0   0   0  0   0  0  0   0   0  0   1   0    0
+"Rainbow Trotsky"   0 1   0   0  0   0   0  0   0   0  0   0  0  0   0   0  0   0   0    0
+"Rainbow: Nisha"    0 1   0   0  0   0   0  0   0   0  0   0  0  0   0   0  0   0   0    0
+"Rakuen Ai Kawara"  0 0   0   0  0   0   0  0   0   1  0   0  0  0   0   0  0   0   0    0
+"Raspberry Welcom"  0 0   0   0  0   0   0  0   0   1  0   0  0  0   0   0  0   0   0    0
+"Read or Die"       1 0   0   0  0   0   0  0   0   0  0   0  0  1   0   0  0   0   0    0
+"Rean no Tsubasa"   0 0   0   0  0   0   0  0   0   0  0   0  0  1   0   0  0   0   0    0
+"Remember11 the a"  0 0   0   0  0   0   0  0   0   1  0   0  0  0   0   0  0   0   0    0
+"Rhythmic Rev"      0 0   0   0  0   0   0  0   0   1  0   0  0  0   0   0  0   0   0    0
+"Riddle Garden"     0 0   0   0  0   0   0  0   0   1  0   0  0  0   0   0  0   0   0    0
+"Rikujou Bouei-tai" 1 0   0   0  0   0   0  0   0   0  0   0  0  0   0   0  0   0   0    0
+"Ring of Red"       0 0   0   0  0   0   0  1   0   0  0   0  0  0   0   0  0   0   0    0
+"Royal Straight"    0 0   0   0  0   0   0  0   0   0  0   0  0  0   0   1  0   0   0    0
+"SF Ken"            1 0   0   0  0   0   0  1   0   0  0   0  0  0   0   0  0   0   0    0
+"SF Sean"           1 0   0   0  0   0   0  1   0   0  0   0  0  0   0   0  0   0   0    0
+"Saint Seiya"       1 0   0   0  0   0   0  0   0   0  0   0  0  0   0   0  0   0   0    0
+"Saitama Chainsaw"  1 0   0   0  0   0   0  0   0   0  0   0  0  0   0   0  0   0   0    0
+"Sakura Gari"       1 0   0   0  0   0   0  0   0   0  0   0  0  0   0   0  0   0   0    0
+"Sakura Taisen 3"   1 0   0   0  0   0   0  0   0   0  0   0  0  0   0   0  0   0   0    0
+"Sakura Taisen 5"   1 0   0   0  0   0   0  0   0   0  0   0  0  0   0   0  0   0   0    0
+"Sakura Taisen"     1 0   0   0  0   0   0  0   0   0  0   0  0  1   0   0  0   0   0    0
+"Sakura Taisen"     1 0   0   0  0   0   0  0   0   0  0   0  0  1   0   0  0   0   0    0
+"Sakura no Nekohim" 0 0   0   0  0   0   0  0   0   0  0   0  0  0   0   0  0   1   0    0
+"Samurai Gun"       1 0   0   0  0   0   0  0   0   0  0   0  0  0   0   0  0   0   0    0
+"School Rumble"     1 0   0   0  0   0   0  0   0   0  0   0  0  1   0   0  0   0   0    0
+"Secret Area"       1 0   0   0  0   0   0  0   0   0  0   0  0  0   0   0  0   0   0    0
+"Sei Yariman Gaku"  0 0   0   0  0   0   0  0   0   1  0   0  0  0   0   0  0   0   0    0
+"Seitoshidoushitsu" 1 0   0   0  0   0   0  0   0   0  0   0  0  0   0   0  0   0   0    0
+"Senobi no Housoku" 1 0   0   0  0   0   0  0   0   0  0   0  0  0   0   0  0   0   0    0
+"Sensual Phrase"    1 0   0   0  0   0   0  0   0   0  0   0  0  0   0   0  0   0   0    1
+"Shachou Reijou w"  0 0   0   0  0   0   0  0   0   1  0   0  0  0   0   0  0   0   0    0
+"Shadow Hearts"     0 0   0   0  0   0   0  1   0   0  0   0  0  0   0   0  0   0   0    0
+"Shanimuni Go"      1 0   0   0  0   0   0  0   0   0  0   0  0  0   0   0  0   0   0    0
+"Shigeshshi"        1 0   0   0  0   0   0  0   0   0  0   0  0  0   0   0  0   0   0    0
+"Shin Seiki GPX Cy" 0 0   0   0  0   0   0  0   0   0  0   0  0  1   0   0  0   0   0    0
+"Shippuu Karen Jin" 1 0   0   0  0   0   0  0   0   0  0   0  0  0   0   0  0   0   0    0
+"Shiyouzumi Condo"  0 0   0   0  0   0   0  0   0   1  0   0  0  0   0   0  0   0   0    0
+"Shuffle.1"         0 0   0   0  0   0   0  0   0   1  0   0  0  0   0   0  0   0   0    0
+"Shuffle.2"         0 0   0   0  0   0   0  0   0   1  0   0  0  0   0   0  0   0   0    0
+"Sister Princess.1" 1 0   0   0  0   0   0  0   0   0  0   0  0  0   0   0  0   0   0    0
+"Sister Princess.2" 1 0   0   0  0   0   0  0   0   0  0   0  0  0   0   0  0   0   0    0
+"Sister Princess.3" 1 0   0   0  0   0   0  0   0   0  0   0  0  1   0   0  0   0   0    0
+"Skip Beat"         1 0   0   0  0   0   0  0   0   0  0   0  0  0   0   0  0   0   0    0
+"Slam Dunk"         1 0   0   0  0   0   0  0   0   0  0   0  0  0   0   0  0   0   0    0
+"Sono Hanabira Ni"  0 0   0   0  0   0   0  1   0   1  0   0  0  0   0   0  0   0   0    0
+"Sono Hanabira Ni"  1 0   0   0  0   0   0  0   0   1  0   0  0  0   0   0  0   0   0    0
+"Soul Eater"        1 0   0   0  0   0   0  0   0   0  0   0  0  0   0   0  0   0   0    1
+"Star Ocean"        0 0   0   0  0   0   0  1   0   0  0   0  0  0   0   0  0   0   0    0
+"Starry Sky"        0 0   0   0  0   0   0  0   0   1  0   0  0  0   0   0  0   0   0    0
+"Super Robot Wars"  0 0   0   0  0   0   0  1   0   0  0   0  0  0   0   0  0   0   0    0
+"Supipara"          0 0   0   0  0   0   0  0   0   1  0   0  0  0   0   0  0   0   0    1
+"TMM a la Mode"     0 0   0   0  0   0   0  0   1   0  0   0  0  0   0   0  0   0   0    0
+"Tamayura"          0 0   0   0  0   0   0  0   0   1  0   0  0  0   0   0  0   0   0    0
+"Tekken 6 Bloodlin" 1 0   0   0  0   0   0  1   0   0  0   0  0  0   0   0  0   0   0    0
+"Tenchi Muyo"       1 0   0   0  0   0   0  0   0   0  0   0  0  0   0   0  0   0   0    0
+"Tenshi no Hashig"  0 0   0   0  0   0   0  0   0   1  0   0  0  0   0   0  0   0   0    0
+"Tentacle and Witc" 0 0   0   0  0   0   0  0   0   0  0   0  0  1   0   0  0   0   0    0
+"That Summer"       1 0   0   0  0   0   0  0   0   0  0   0  0  0   0   0  0   0   0    0
+"The Fox Lover"     0 0   0   0  0   0   0  0   0   0  0   0  0  0   0   0  0   1   0    0
+"The Idolmaster"    1 0   0   0  0   0   0  0   0   0  0   0  0  0   0   0  0   0   0    0
+"The Man of Tango"  1 0   0   0  0   0   0  0   0   0  0   0  0  0   0   0  0   0   0    1
+"To Heart"          1 0   0   0  0   0   0  0   0   0  0   0  0  1   0   0  0   0   0    0
+"Tokimeki Memoria"  0 0   0   0  0   0   0  0   0   1  0   0  0  0   0   0  0   0   0    0
+"Tona-Gura"         1 0   0   0  0   0   0  0   0   0  0   0  0  1   0   0  0   0   0    0
+"Trace Memory"      0 0   0   0  0   0   0  1   0   0  0   0  0  0   0   0  0   0   0    0
+"Tsukihime"         1 0   0   0  0   0   0  1   0   0  0   0  0  0   0   0  0   0   0    0
+"Tsukiyo-Zoushi"    0 0   0   0  0   0   0  0   0   0  0   0  0  0   0   0  0   1   0    0
+"Tsuritama"         0 0   0   0  1   0   0  0   0   0  0   0  0  0   0   0  0   0   0    0
+"Tsuyokiss Cool x"  0 0   0   0  0   0   0  0   0   0  0   0  0  1   0   0  0   0   0    0
+"UFO Baby"          1 0   0   0  0   0   0  0   0   0  0   0  0  1   0   0  0   0   0    0
+"Ushinawareta Mir"  0 0   0   0  0   0   0  0   0   1  0   0  0  0   0   0  0   0   0    0
+"UtanoPrincesama"   1 0   0   0  0   0   0  0   0   1  0   0  0  0   0   0  0   0   0    0
+"Vampire Princess"  0 0   0   0  0   0   0  0   0   0  0   0  0  1   0   0  0   0   0    0
+"Venus Capriccio"   1 0   0   0  0   0   0  0   0   0  0   0  0  0   0   0  1   0   0    0
+"Venus in Love"     1 0   0   0  0   0   0  0   0   0  0   0  0  0   0   0  0   0   0    0
+"Wolf Children"     1 0   0   0  0   0   0  0   0   0  0   0  0  0   0   0  0   0   1    0
+"X1999"             0 0   0   0  0   0   0  1   0   0  0   0  0  0   0   0  0   0   0    0
+"Yakitate!! Japan"  1 0   0   0  0   0   0  0   0   0  0   0  0  0   0   0  0   0   0    0
+"Yakitate!! Japan"  1 0   0   0  0   0   0  0   0   0  0   0  0  1   0   0  0   0   0    0
+"Yes! PreCure 5"    1 0   0   0  0   0   0  0   0   0  0   0  0  1   0   0  0   0   0    0
+"Ykan Club"         1 0   0   0  0   0   0  0   0   0  0   0  0  0   0   0  0   0   0    0
+"Yo-u"              0 0   0   0  0   0   0  0   0   0  0   0  0  0   0   0  0   1   0    0
+"Yuki no Taiyou"    1 0   0   0  0   0   0  0   0   0  0   0  0  0   0   0  0   0   0    0
+"ef a tale of"      1 0   0   0  0   0   0  0   0   1  0   0  0  0   0   0  0   0   0    0
+"Dictatorial Grim"  0 0   0   0  0   0   0  0   0   0  0   0  0  0   0   0  0   0   0    1
+"Boys Be"           0 0   0   0  0   0   0  0   0   0  0   0  0  0   0   0  0   0   0    1
+"The Last Wizard"   0 0   0   0  0   0   0  0   0   0  0   0  0  0   0   0  0   0   0    1
+"Nana"              0 0   0   0  0   0   0  0   0   0  0   0  0  0   0   0  0   0   0    1
+"Blood+"            0 0   0   0  0   0   0  0   0   0  0   0  0  0   0   0  0   0   0    1
+"CVN-73 USS Georg " 0 0   0   0  0   0   0  0   0   0  0   0  0  0   0   0  0   0   0    1
+"Aoi Hitomi no On"  0 0   0   0  0   0   0  0   0   0  0   0  0  0   0   0  0   0   0    1
+"Love Stage!!"      0 0   0   0  0   0   0  0   0   0  0   0  0  0   0   0  0   0   0    1
+"Dictatorial Grim"  0 0   0   0  0   0   0  0   0   0  0   0  0  0   0   0  0   0   0    1
+"Silver Nina"       0 0   0   0  0   0   0  0   0   0  0   0  0  0   0   0  0   0   0    1
+"Meganebu!"         0 0   0   0  0   0   0  0   0   0  0   0  0  0   0   0  0   0   0    1
+"Galilei Donna"     0 0   0   0  0   0   0  0   0   0  0   0  0  0   0   0  0   0   0    1
+"Dream C Club Gog"  0 0   0   0  0   0   0  0   0   0  0   0  0  0   0   0  0   0   0    1
+
+
+# closedp.t fits more models, but computationally intractable due to extreme memory use (>7GB)
+closedp.0(hafu[,-1])
+closedpCI.0(hafu[,-1])`
+
+
+Output:
+
+
+`# Number of captured units: 298
+#
+# Abundance estimations and model fits:
+#               abundance  stderr  deviance  df    AIC
+# M0                660.9    55.8     1.387  17  25.34
+# Mh Chao (LB)      663.4    58.8     1.368   8  43.32
+# Mh Poisson2       635.9    81.0     1.223  16  27.18
+# Mh Darroch        602.3   120.0     1.141  16  27.10
+# Mh Gamma3.5       572.0   152.0     1.099  16  27.05
+
+closedpCI.0(hafu[,-1])
+#
+# Number of captured units: 298
+#
+# Poisson estimation and model fit:
+#     abundance  stderr  deviance  df    AIC
+# M0      660.9    55.8     1.387  17  25.34
+#
+# Multinomial estimation, 95% profile likelihood confidence interval:
+#     abundance  InfCL  SupCL
+# M0        659  563.7  785.2`
+
+
+# Appendix
+
+
+## Genetics of Skin, Hair, and Eye Color
+
+
+As the phenotype data indicates, it is almost stereotypical for hafu characters to have blond or red hair and blue eyes and the choices follow national stereotypes (Scandinavian characters are blue-eyed and blond, Irish or Scottish are red-haired, etc.). Aside from the character design choices’ role in providing visual variety or (literally) color-coding nationality, is that empirically or genetically plausible?
+
+Real Hafus
+
+
+First, we could simply look at prominent hafus, like Wikipedia’s list of 50 hafus with WP entries as of 2015-11-14 (current list). Some quick guesses about the first 20 or so:
+
+
+- 
+
+Kusumoto Ine: eye color unclear, hair black
+- 
+
+Ariana Miyamoto: brown, black
+- 
+
+Roxana Saberi: black, black
+- 
+
+Ryō Kurusu: black, black
+- 
+
+Renhō: black, black
+- 
+
+May J.: black, brown?
+- 
+
+Sayaka Akimoto: black, black
+- 
+
+Murashige_Anna: brown, brown?
+- 
+
+Patty: ?
+- 
+
+Aya Sugimoto: black, black?
+- 
+
+Saori Hara: brown, black?
+- 
+
+Luna Takamura: ?
+- 
+
+Rola: brown, brown?
+- 
+
+Maggy: ?
+- 
+
+Erika Sawajiri: black, black
+- 
+
+Eiji Wentz: green, brown
+- 
+
+Marius Yo: black, black
+- 
+
+Ryan Potter: black, black
+- 
+
+Ureo Egawa: ?, black
+- 
+
+Gōtoku Sakai: ?, black
+- 
+
+Noriyoshi Sakai: ?, brown
+- 
+
+Yu Darvish: black, black
+
+
+While it’s hard to tell eye color from small or old photos, and hair color is easily changed, looking closely at these 20 and skimming the remaining 30 shows considerable consistency: hair color is universally brown to black, and eyes are usually light or dark brown (with an occasional exception for one of the less rare eye colors are like hazel). Some hafu look remarkably Caucasian (Ryō Kurusu looks incredibly Russian), but from my American perspective, I would say that skin color-wise, they look the same but most look much more Japanese in hair & appearance than their other half. What I do not see anywhere in those 50 is someone who is blond (as an adult) or red-haired, nor are there any blue eyes.
+
+
+Skin Color
+
+
+Most hafu characters are drawn light colored or with white skin just like the regular Japanese characters, but the ones with Brazilian or African parentage are depicted as much darker-toned. Is this racist or realistic?
+
+
+Skin color seems to be no more than a few dozen genes combining mostly additively (for more details, see Pavan & Sturm 2019) in order to yield the human spectrum of skin color from chalk-white to deep-black, implying that any cross will be roughly the average of the two parents’ skin colors but due to the central limit theorem any individual child might be as or more extreme as either parent. (South Asian genetics blogger Razib Khan often notes that siblings can have very different skin colors/darkness for this very reason.) Japanese and Caucasians are far out on the extreme of paleness, which predicts that Caucasian/Japanese hafus will have similar skin colors (since the two populations are so similar in the first place that averaging them doesn’t produce a noticeable difference) and also that Caucasian/Japanese crosses with Africans or other dark-skinned populations will ‘look’ more like the darker parent than the lighter - because splitting the absolute color difference still results in pushing the hafu way outside the Japanese skin color norm. It’s not that the blackness is ‘stronger’ or the ‘one drop rule’ is true (the child is equally in-between), it’s that the reference population is so extreme & homogenous that small absolute differences stand out, especially when dichotomized. Both these trends are reflected in the character database:
+
+
+So when it comes to skin color, it appears the hafu characters are realistic.
+
+
+Hair Color
+
+Red Hair
+
+
+Red hair is primarily caused by a single simple recessive mutation in the gene for MC1R which arose in northern Europe, and so is Mendelian - you must have two copies of the recessive to have red hair, otherwise your hair will be whatever other color. So in the case of red hair, we can be certain that real hafus are extremely unlikely to have red hair: even if the other parent is red-haired and hence guaranteed to have two copies, the Japanese parent will be carrying no copies of the MC1R mutation and so all children will be recessive by Mendel/Punnet-squares.
+
+
+If the children again out-married, then the grandchildren could hypothetically have red hair but it still would not be particularly likely (all the children will be carrying 1 copy of MC1R; if one then married a redhead ie someone with two copies, then only half of the grandchildren will have double-recessives and be red-haired, while the other half will still have the dominant brown/black; if one then married a red carrier, then only a quarter of the grandchildren would be red and the remainder dominant again).
+
+
+And we can rule out the hypothesis that perhaps MC1R somehow got introduced into the Japanese population through, say, the famous Ainu people, and so the Japanese parent might be a carrier anyway - if there were a background rate of, say, 1% MC1R carriers, then there’d be 0.012 × 127000000 = 12700 native Japanese who have red hair for no apparent reason, somewhat like the Afro-Caribbean redheads, where the recessive lurks in the population (possibly from an earlier Scottish admixture?) and occasionally throws up a hit.
+
+
+For red hair, the hafu characters are extremely unrealistic.
+
+
+Blond Hair
+
+
+The situation is similar with blond hair: variants in MC1R are implicated, but a few other genes may be involved. So the end result is less extreme, but the recessives and lack of any reason for them to be in the Japanese population means that blond hair should still be quite rare in hafus.
+
+
+For blond hair, the hafu characters are unrealistic.
+
+
+Eye Color
+
+
+The color of eyes is determined by 6-16 genes which are not solely additive, and so the full spectrum of eye colors can be possible; for example, in an African-European admixed group, eye colors ran the full range from blue to black:
+
+
+Figure 2: Quantitative assessment of eye color. Plotted are the normalized median values of green (x-axis) and blue (y-axis) levels of each individual’s irises. We fitted a principal curve that explains most of the variation in the data (red dashed curve). The T-index is defined by the arc-length from the projection of each point on the curve to the end of the curve that corresponds to the lightest eye color. In the figure are examples of eye photos at their respective position in the T-index curve. `doi:10.1371/journal.pgen.1003372.g002`
+
+
+But here we need to note the issue of recessives: for example, blue eyes are recessive and so have the same problem as red & blond hair for ever appearing on a first-generation hafu. In that European-African mixed population, there is a chance for two blue-eye recessives on OCA2 to find each other and so throw up blue eyes even in someone who otherwise looks very African, and likewise for red hair (thus the existence of Afro Caribbean redheads) but would any Japanese parents be carrying those OCA2 variants? Probably not.
+
+
+So it seems that it would be much more likely for a hafu to instead have green, brown, or black eyes, but a variety of those colors is indeed possible.
+
+
+Gattaca
+
+
+One person asks, could pure-Japanese parents or hafus have the stereotypical blue-eyed blond/red children “Gattaca-style”? Almost certainly no, for the same reasons above - the relevant alleles do not exist or are too rare.
+
+
+Gattaca proposes only embryo selection and not genuine editing (eg. CRISPR/TALENS): embryo selection is strictly equivalent to having n children (where as of 2016, n ~ 5) and trying to pick just 1; so if parents couldn’t achieve something by having lots of kids, embryo selection cannot achieve it either. If the differences are not there in the first place, there is nothing to choose between.
+
+
+So since Japanese parents wouldn’t have any red-heads by having 5 kids, embryo selection cannot accomplish that either. The problem is that the recessive allele just is not present in both parents, with no population variance, so there are never any embryos which are homozygous on the allele to select. Similarly for blondeness and blue eyes: even if the relevant alleles are present at some frequency and are additive rather than recessive, it would require extreme levels of selection to make a noticeable difference for two pure-Japanese parents
+
+
+However, with a hafu parent, there may be enough to work with that embryo selection can do something, depending on the specifics. (Continuing the family heuristic, one can imagine a hafu family where one son “takes after his mom”, suggesting it’s possible.)
+
+
+So for the extreme cases, some sort of genetic editing (or hair dye) would be required.
+
+
+Overall
+
+
+From the genetics, we would predict that blue eyes, blond hair, and red hair will rarely or ever appear in a real hafu, and they are much more likely to have skin intermediate their parents’ coloring, brown or black hair, and green to black eyes. (This is consistent with the few real hafus whose photos I looked over.)
+
+
+So we can say that overall, the hafu characters are unrealistic.
+
+
+## Savage Continent
+
+
+Savage Continent: Europe in the Aftermath of World War II, Lowe 201313ya; chapter 14, “Revenge on Women and Children”:
+
+
+In the autumn of 194482ya a young girl from Saint-Clément in the Yonne département of France was arrested for having ‘intimate relations’ with a German officer. When questioned by the police she openly admitted to her affair. ‘I became his mistress,’ she said. ‘He sometimes came to the house to help my father when he was ill. When he left, he left me his Feldpost number. I wrote to him and had my letters taken to him by other Germans because I could not use the postal services in France. I wrote to him for two or three months but I do not have his address anymore.’2
+
+
+Many women across Europe embarked on such relationships with Germans during the war. They justified their actions by saying that ‘relationships based on love’ were ‘not a crime’, that ‘matters of the heart have nothing to do with politics’, or that ‘love is blind’.3 But in the eyes of their communities, this was no excuse. Sex, if it was with a German, was political. It came to represent the subjugation of the continent as a whole: a female France, Denmark or Holland being ravished by a male Germany…it also came to represent the emasculation of European men. These men, who had already shown themselves impotent against the military might of Germany, now found themselves communally cuckolded by their own womenfolk.
+
+
+The number of sexual relationships that took place between European women and Germans during the war is quite staggering. In Norway as many as 10% of women aged between fifteen and thirty had German boyfriends during the war.4 If the statistics on the number of children born to German soldiers are anything to go by, this was by no means unusual: the numbers of women who slept with German men across western Europe can easily be numbered in the hundreds of thousands.5
+
+
+…recent surveys show that women who slept with German soldiers came from all classes and all walks of life. On the whole European women slept with Germans not because they were forced to, or because their own men were absent, or because they needed money or food - but simply because they found the strong, ‘knightly’ image of the German soldiers intensely attractive, especially compared to the weakened impression they had of their own menfolk. In Denmark, for example, wartime pollsters were shocked to discover that 51% of Danish women openly admitted to finding German men more attractive than their own compatriots.6
+
+
+…Unfortunately, this new-found display of virility also had its darker side. The sudden influx of young men into the ranks of the Resistance pushed out many much more experienced female résistantes. Jeanne Bohec, for example, who was a well-respected female explosives expert in Saint-Marcel, suddenly found herself sidelined. ‘I was told politely to forget about it. A woman isn’t supposed to fight when so many men are available. Yet I surely knew how to use a submachine gun better than lots of the FFI volunteers who had just got hold of these arms.’16 During the last winter of the occupation women were phased out of active participation in the Resistance, and the Communist Francs-Tireurs et Partisans (FTP) issued orders to phase out women altogether. This is in direct contrast to countries like Italy and Greece, where substantial numbers of women continued to fight for the partisans on the front line right to the end of the war.17
+
+
+…A British artillery officer described a typical ceremony when he wrote about his experiences in northern France after the war:
+
+
+“At St André d’Echauffeur, where people showered us with flowers as we passed, others proffering bottles, a grim scene was being enacted in its market place - the punishment of a collaborator said to be une mauvaise femme. Seated in a chair while a barber shaved her head to the crown, she attracted a crowd of onlookers, among them, as I learned later, some Maquis and a Free French officer. The woman’s mother was also present and as the barber cropped her daughter, she stamped, raved and gesticulated frantically outside the circle of watchers. The woman was of some spirit. For, with her head fully cropped, she jumped to her feet and cried ‘Vive les Allemands,’ whereupon someone picked up a brick and felled her.”18
+
+
+Lieutenant Richard Holborow of the Royal Engineers witnessed a similar scene at the hands of a mob in a small town near Dieppe, ‘many of whom had obviously been celebrating their liberation all day, mostly from the neck of a bottle’. About eighteen women and girls were paraded to a makeshift stage, where each of them was made to sit before the local barber:
+
+
+“Drawing a cut-throat razor from his pocket, he opened it, pulled up the woman’s hair and, with a few deft strokes, cut it off and threw the severed ends into the crowd. She gave out a scream as the barber proceeded to dry-scrape her scalp until it was completely bald, and then she was lifted up and displayed to the now howling and jeering mob.”
+
+
+This was not the end of the women’s ordeal. A couple of days later, as his unit moved out of the same town, Holborow witnessed the second part of their punishment when he was delayed in the main street by yet another chanting crowd.
+
+
+“They were watching with considerable glee a group of shaven women, all with placards tied round their necks, who were busily engaged in filling buckets of horse shit with their bare hands. As a bucket was filled so it was kicked over and the process ordered to be started again. It was evident that the women of the town were still getting their own back on the girls who had misbehaved with the German soldiers.”19
+
+
+In dozens of towns women were forced to undergo their ordeal either partially or completely naked. According to an article in La Marseillaise in September 194482ya, a group of young men in Endoume forced a woman to ‘run through the streets completely naked in front of innocent children playing outside their houses’. 20 Likewise in Troyes, the FFI rounded up women, stripped them and displayed them before the crowd while they were having their heads shorn. According to a leaflet of the local Comité Départemental de la Libération:
+
+
+“With hardly any clothes on, branded with the sign of the swastika and smeared with a particularly sticky tar, after having received cutting jibes, they would go and have their heads shaved in the regular way and would then look like so many strange convicts. Begun on the evening before, this merciless hunt would go on throughout the day, much to the great pleasure of the local people who would form ranks in the streets to watch these women walk past wearing Wehrmacht caps.”21
+
+
+According to Fabrice Virgili, probably the foremost expert in this field, women were stripped in at least fifty major towns and cities across France.22 Such scenes were by no means unique to France. Similar events took place all over Europe. In Denmark and Holland a combination of wounded national pride and sexual jealousy at the behavior of local women resulted in thousands of women having their heads shaved.23 In the Channel Islands, the only small corner of the British Isles that Germany had managed to invade, there were several cases of women having their heads shaved because they had slept with German soldiers.24 In northern Italy they even sang songs about shaving the heads of women who slept with fascists, such as this one sung by partisans in the Veneto:
+
+
+E voi fanciulle belle “And all you beautiful misses”
+
+
+Che coi fascisti andate “Who with fascists misbehaved”
+
+
+Le vostre chiome belle “All your beautiful tresses”
+
+
+Presto saran tagliate “Will presently be shaved”25
+
+
+The immense popularity of such punishments, as well as the ritual that surrounded them, seems to point to a deep need amongst the liberated people to express their disgust for collaboration…The practice may now be seen as a shameful episode in European history, but at the time it was celebrated with pride. Resistance newspapers in 194482ya describe a carnival air at shearing ceremonies, where spontaneous renditions of patriotic songs were sung by the crowds. In at least one area of France, the local people presented those who carried out the ceremony with knives and razors as a ‘souvenir’ of their day’s work.29…The sexual nature of the rituals themselves is also important. In Denmark the women were frequently stripped naked during their head-shaving ceremonies, and their breasts and backsides painted with Nazi symbols.30 In many areas of France women also had their bare bottoms spanked, and their breasts daubed with swastikas.31 The fact that these rituals took place in market squares or on the steps of town halls sent a very clear message to the whole community: the FFI were reclaiming these women’s bodies as public property. They were also reclaiming them as male property - the hundreds of photographs taken during these punishments show that they were conducted almost exclusively by men.
+
+
+Some French women were all too aware that they were being used in this symbolic way. They were also indignant that they should be condemned for a private act that they believed had nothing to do with the war. When the French actress Arletty was imprisoned in 194581ya for her wartime liaison with a German officer, she reputedly justified herself at her trial by saying, ‘My heart belongs to France, but my vagina is mine.’32 Unsurprisingly such protestations fell on deaf ears. According to recent research, about 20,000 French women had their heads shaved as a punishment for collaboration, the largest proportion of them for sleeping with German soldiers.33
+
+
+…If proof were ever needed of the widespread ‘horizontal collaboration’ that took place across Europe, then it exists in the form of the children who were born as a result of it. In Denmark 5,579 babies were born with a registered German father - and undoubtedly many more whose German paternity was concealed.36 In Holland the number of children born to German fathers is thought to have been anything between 16,000 and 50,000.37 In Norway, which had only a third of the population of Holland, between 8,000 and 12,000 such children were born.38 And in France the number is thought to be around 85,000 or even higher.39 The total number of children fathered by German soldiers in occupied Europe is unknown, but estimates vary between one and two million.40…In some cases the local children of Wehrmacht soldiers were considered such an embarrassment that it was thought best to try to dispose of them straight away. In Holland, for instance, some eyewitnesses claim to know of many instances where children were killed shortly after birth, usually by the parents of the particular girls who strayed. Such actions were taken, presumably, to restore the ‘honour’ of the family - but occasionally they were more overtly political acts, made by people outside the family, in order to restore the honour of the wider community. According to an account by Petra Ruigrok, for example, a baby in northern Holland was snatched from its cradle by a member of the Resistance and dashed to the floor.41
+
+
+…Such strong feelings are summed up in an editorial in Lufotposten, a Norwegian daily newspaper, on 1945-05-19:
+
+
+“All these German children are bound to grow up and develop into an extensive bastard minority in the Norwegian people. By their descent they are doomed in advance to take a combative stance. They have no nation, they have no father, they just have hate, and this is their only heritage. They are unable to become Norwegians. Their fathers were Germans, their mothers were Germans in thought and action. To allow them to stay in this country is tantamount to legalizing the raising of a fifth column. They will forever constitute an element of irritation and unrest among the pure Norwegian population. It is best, for Norway as well as for the children themselves, that they continue their lives under the heavens where they naturally belong.”42
+
+
+…The study of Norwegian attitudes towards what they termed the ‘war children’ of German soldiers is a particularly rich area because, unlike in other countries, these attitudes are so well documented. In the aftermath of the war the Norwegian authorities set up a War Child Committee to consider what to do with such children.43 For a short time, therefore, the problem was openly discussed here in a way that it was not anywhere else in Europe. The subject has also come under intense scrutiny more recently. In 200125ya, under political pressure from war child groups, the Norwegian government funded a research programme to discover exactly how these people had been treated in the aftermath of the war, what the effect had been on their lives, and what might be done to redress any potential injustice. The findings of this research programme constitute the most complete study of war children in any country to date.44
+
+
+In the immediate aftermath of the war, Norwegians were extremely bitter about the behavior of some of their women and girls. In the early summer of 194581ya, thousands of women accused of sleeping with Germans were rounded up and put into jails and prison camps - some 1,000 of them in Oslo alone.45 As we have already seen, many had their heads shaved during the liberation, and some were publicly humiliated by mobs. Perhaps more worrying, however, were the calls from people in authority to have them stripped of their Norwegian citizenship and deported to Germany. Such an action would have been extremely difficult to justify, since sleeping with German soldiers was not against the law. In any case, the national body for trying war criminals and traitors had already begun to establish that stripping people of their citizenship should not be used as a punishment.46 As a consequence, calls to deport women who had slept with Germans were gradually dropped. Women who had gone so far as to marry Germans, however, would not escape so easily. In August 194581ya the Norwegian government resurrected a law from twenty years earlier stating that women who married foreigners automatically took on the nationality of their husbands. In order to limit this law, an amendment was made stating that it should apply only to those who married a citizen of an enemy state - in effect, Germans. Against all the principles of Norwegian justice, the law was to be applied retrospectively. Almost overnight, therefore, hundreds - perhaps even thousands - of women who had believed themselves to be acting within the law lost their citizenship. They were now designated ‘German’, and as such they faced the possibility of deportation to Germany, and along with them their children.47
+
+
+…The Committee also recommended that neither the children nor their mothers should be forcibly deported; and yet its chairperson, Inge Debes, reportedly offered all 9,000 war children to an Australian immigration delegation, apparently without regard to what the children’s mothers would think of such a move. (The offer was eventually turned down on logistical grounds, but also because the Australians decided in the end that they did not want ‘German’ children either.)48..Consequently, many war children were labeled retarded on no evidence whatsoever, and some of them, particularly those in the old German-run orphanages, were damned to spending the rest of their lives in institutions. According to a doctor who looked after one such group during the 1980s, had they been treated the same as other, ‘non-German’, orphans they would probably have gone on to lead perfectly normal lives.49 The War Child Committee did, in fact, recommend that all war children should be psychologically assessed in order to determine the state of their mental health, but this never happened because it was deemed far too expensive…The devastating effects that such universal rejection had on these children have only recently come to light. According to the study sponsored by the Norwegian government in 200125ya, war children suffer higher death rates, higher divorce rates and worse health than the rest of Norway’s population. They are typically less well educated, and earn lower incomes than other Norwegians. They are also [statistically-]significantly more likely to commit suicide than their peers. The worst mortality rates occurred in those born in 194185ya and 194284ya - a tendency that the authors of the study partly ascribe to the fact that these children were old enough at the end of the war to understand what was happening to them. The immediate postwar years were the time when bitterness towards these children was at its strongest.54
+
+
+Chapter 5, “Moral Destruction”:
+
+
+…Lewis and his fellow soldiers followed them inside and made their way to the front of the crowd. He recorded in his diary what he found:
+
+
+“Here a row of ladies sat at intervals of about a yard with their backs to the wall. These women were dressed in their street clothes, and had the ordinary well-washed respectable shopping and gossiping faces of working-class housewives. By the side of each woman stood a small pile of tins, and it soon became clear that it was possible to make love to any one of them in this very public place by adding another tin to the pile. The women kept absolutely still, they said nothing, and their faces were as empty of expression as graven images. They might have been selling fish, except that this place lacked the excitement of a fish market. There was no soliciting, no suggestion, no enticement, not even the discreetest and most accidental display of flesh. The boldest of the soldiers had pushed themselves, tins in hand, to the front, but now, faced with these matter-of-fact family-providers driven here by empty larders, they seemed to flag. Once again reality had betrayed the dream, and the air fell limp. There was some sheepish laughter, jokes that fell flat, and a visible tendency to slip quietly away. One soldier, a little tipsy, and egged on constantly by his friends, finally put down his tin of rations at a woman’s side, unbuttoned and lowered himself on her. A perfunctory jogging of the haunches began and came quickly to an end. A moment later he was on his feet and buttoning up again. It had been something to get over as soon as possible. He might have been submitting to field punishment rather than the act of love.”
+
+
+Unsurprisingly, Lewis was not tempted to indulge himself, and five minutes later he was on his way again. ‘The tins collected by my fellow travellers were thrown to passers-by who scrambled wildly after them. None of the soldiers travelling on my truck had felt inclined to join actively in the fun.’1
+
+
+…According to Norman Lewis, such behavior became increasingly common in the aftermath of southern Italy’s liberation. He records being visited by an Italian prince who wanted to know if his sister might be allowed to work in an army brothel. When Lewis explained that the British army did not have any official brothels the prince and his sister left disappointed. On another occasion, when investigating the serious sexual assault of a young Italian girl, her father tried to press the traumatized girl’s favours upon him. All he expected in return was a good square meal for his daughter.2
+
+
+Desperation like this was by no means confined to Naples, nor to Italy. A whole generation of young women in Germany learned to think it quite normal to sleep with an Allied soldier in return for a bar of chocolate. In the Dutch town of Heerlen, US rifleman Roscoe Blunt was approached by a young girl who ‘matter-of-factly asked me if I wanted to “ficken” or just “kuszen”. It took me a few moments for my brain to click into gear and realize what she was asking.’ When he asked her age she told him she was twelve.3 In Hungary there were scores of girls as young as 13 admitted to hospital for venereal disease. In Greece VD was recorded in girls as young as ten.4
+
+
+Such degradation affected the Daily Express’s war correspondent Alan Moorehead far more than the physical devastation he had seen. When he arrived in Naples in the immediate wake of its liberation he wrote despairingly about how he had seen men, women and children beating each other as they scrambled for handfuls of sweets thrown to them by the arriving soldiers; he had seen pimps and black marketeers offering fake brandy and child prostitutes as young as ten; and boys of six selling obscene postcards, their sisters’ favours, even themselves…What in Britain was regarded as an everyday right had become in the rest of Europe an expression of power, so that a British soldier was able to say of the German woman who slept with him, shopped for him and mended his clothes, ‘She was just like my slave.’6
+
+
+…Some witnesses at the time even suggested that rape was inevitable, given the ferocity of the battles these soldiers found themselves in: ‘What can you do?’ claimed one Russian officer. ‘It’s war; people become brutalized.’44 The worst instances occurred in eastern Europe, in those areas of Silesia and East Prussia where Soviet soldiers first set foot on German soil. But rape was not confined to the areas around where the fighting took place. Far from it - in fact rape increased everywhere during the war, even in areas where there was no fighting. In Britain and Northern Ireland, for example, sexual crimes, including rape, increased by almost 50% between 193987ya and 194581ya - a fact which caused huge concern at the time.45
+
+
+There are no easy explanations for the huge increases in rape that occurred in Europe during the final stages of the war and its aftermath, but there are some definite trends that are common to the whole continent. As always, the problem was far, far worse on the eastern front than it was in the west. While civilian men were occasionally responsible for committing the crime, it was overwhelmingly a military problem: as the Allied armies converged on Germany from every direction, a wave of sexual violence, along with other crimes, accompanied them. Rape tended to be worst where chaotic conditions existed, for example in the aftermath of heavy fighting, or amongst troops with poor discipline. And, importantly, it was incomparably worse in countries that were conquered rather than liberated. This suggests that revenge and a desire to dominate were important factors - indeed, probably the main factors - behind the mass rapes that occurred in 194581ya. Studies suggest that wartime rape is particularly brutal, and particularly widespread, where there is a greater cultural divide between the occupying troops and the civilian population, and this theory is certainly borne out by the events of the Second World War.46 French colonial troops in Bavaria were particularly notorious. According to Christabel Bielenberg, an English woman who lived in a village near the Black Forest, Moroccan troops ‘raped up and down our valley’ as soon as they arrived. Later they were replaced with other troops from the Sahara who ‘came at night and surrounded every house in the village and raped every female between 12 and 80’.47 In Tübingen girls as young as 12 and women as old as 70 were raped by Moroccan troops.48 The terror of the women concerned was increased by the foreign appearance of these men, especially after years of racial propaganda by the Nazis.49
+
+
+This cultural divide was also a factor on the eastern front. The contempt that many German soldiers felt for eastern Untermenschen when they invaded the Soviet Union certainly contributed to the vicious treatment Ukrainian and Russian women received at their hands. Vasily Grossman interviewed one teacher who had been raped by a German officer who threatened to shoot her 6-month-old baby.50 Another Russian schoolteacher called Genia Demianova described her gang rape by more than a dozen German soldiers after one of them had lashed her with a horse whip: ‘[T]hey have torn me to pieces,’ she wrote,’ … I am just a corpse.’51
+
+
+…Many women in the area around Csákvár, just west of Budapest, were raped so violently that their backs broke under the force of the men’s attacks. Alaine Polcz, a twenty-year-old Hungarian from Transylvania, received painful but thankfully impermanent spinal injuries in this way. She was raped repeatedly over a period of several weeks, and frequently lost count of the number of men who attacked her during the course of a night. ‘This had nothing to do with embraces or sex,’ she wrote later. ‘It had nothing to do with anything. It was simply - I just now realize, as I am writing, that the word is accurate: aggression. That is what it was.’ She was also consumed with the knowledge ‘that this was going on throughout the entire country’.53
+
+
+But it was in Germany that the most widespread cases of rape occurred. In East Prussia, Silesia and Pomerania tens of thousands of women were raped and then killed in an orgy of truly medieval violence. Marie Naumann, a young mother from Baerwalde in Pomerania, was raped and then hanged by a mob of soldiers in a hayloft along with her husband, while her children were strangled to death with ropes on the floor beneath her. She was cut down, still alive, by some Polish civilians, who asked her who had done this to her but when she told them it was the Russians they called her a liar and beat her. Unable to bear what had happened she tried to drown herself in a nearby creek, but was unable to complete the job. Soaking wet, she went to an acquaintance’s apartment where she came across another Russian officer who raped her again. Shortly after he left her, four more Soviet soldiers appeared and raped her ‘in an unnatural way’. When they had finished with her they kicked her into unconsciousness. She came to when another pair of soldiers entered the room, ‘but they left me alone as I was more dead than alive’.54 Thousands of similar stories have been gathered by German oral history projects, church archives and also the German government. Soviet sources also back up these claims. Memoirs by Russian officers such as Lev Kopelev and Alexander Solzhenitsyn describe scenes of widespread rape, as do several reports of Soviet excesses made by their secret police force, the NKVD, in 194581ya.55
+
+
+The raping continued as the Red Army advanced through Silesia and Pomerania towards Berlin. In a huge number of cases the women were gang raped, often again and again on successive nights. Vasily Grossman interviewed a woman in Schwerin who told him she had ‘already been raped by 10 men today’.56 In Berlin, Hannelore Thiele was raped by ‘Seven in a row. Like animals.’57 Another woman in Berlin was caught hiding behind a pile of coal in the cellar of her building: ‘23 soldiers one after the other,’ she said afterwards. ‘I had to be stitched up in hospital. I never want to have anything to do with any man again.’58 Karl August Knorr, a German officer in East Prussia, claims to have saved a few dozen women from a villa where ‘on average they had been raped 60 to 70 times a day’.59 And the list goes on.
+
+
+Accounts of rape in 194581ya become truly sickening, as with accounts of other atrocities during the war, because they are so numerous. The stories documented in the Eastern Archives in Koblenz read with the same monotony as the descriptions of Jewish massacres during the Nuremberg trials - it is the endless repetition of horror that becomes most difficult to bear. In parts of central Europe rape was not a collection of isolated incidents, but a mass experience endured by the entire female population. In Vienna 87,000 women were reported by clinics and doctors to have been raped.60 In Berlin it was even worse, and about 110,000 women are thought to have been victims.61 In the east of the country, particularly in those areas near to Soviet barracks, the constant threat of attack continued until the end of 194878ya.62 In Germany as a whole almost 2 million German women are thought to have been raped in the aftermath of the war.63
+
+
+Figures for Hungary are harder to find. While the rape of German and Austrian women was meticulously documented after the war, in Hungary the phenomenon was never admitted by the postwar Communist administration. It was not until after 198937ya that proper studies could be made, by which time much of the information was difficult to come by. Rough estimates based on hospital records suggest that between 50,000 and 200,000 Hungarian women were raped by Soviet soldiers.64 The figures in western Europe, though much lower, are still substantial. The United States Army, for example, stands accused of raping as many as 17,000 civilian women in North Africa and western Europe between 194284ya and 194581ya.65
+
+
+…The consequences of sexual violence and exploitation after the war were huge. Despite the 2 million illegal abortions that were carried out each year in Germany, between 150,000 and 200,000 ‘foreign babies’ were born to German women, some of whom were the result of rape. Many of these children were obliged to suffer the resentment of their mothers for the rest of their lives.66 A high percentage of women became infected with venereal disease - in some areas as many as 60%. This was generally incurable, since the price of a single injection of antibiotics in Germany in August 194581ya was two pounds of real coffee.67 Along with such physical problems came the emotional and psychological consequences - not only for those who had suffered directly, but for women as a whole…As a consequence of the various stresses on marital relationships, divorce rates doubled in postwar Germany compared with before the war - as indeed they did across Europe.70
+
+
+…Statements by soldiers at the time betray a belief that they had a right to sex, and would get it by force if necessary: ‘We liberated you, and you refuse us a mere trifle?’ ‘I need a woman! I spilled my blood for this!’ ‘[T]he G. I. and the Tommy have cigarettes and chocolate to give the Frauleins, so they need not rape. The Russian has neither.’72 In an environment where soldiers had unlimited power over women, where there was little threat of punishment, and where all one’s fellow soldiers were indulging in sexual violence, rape became the norm. Thus, for example, when one of Vasily Grossman’s fellow war correspondents raped a Russian girl who had come to their rooms to escape the mobs of drunken soldiers outside it was not because he was a monster, but merely because he was unable to ‘resist the temptation’.73
+
+
+In Britain the amount of juvenile delinquency went up by almost 40% during the war, especially crimes of breaking and entering, malicious damage and theft (which more than doubled).77 In Germany too, according to figures circulated by Martin Bormann, youth crime had more than doubled between 193789ya and 194284ya, and was still rising in 194383ya. In some cities, such as Hamburg, juvenile delinquency tripled during the war.78 By the middle of 194581ya groups of ‘child gangsters’ were reported in the Soviet zone mugging and sometimes killing people for food and money: the lack of parental supervision, and in some cases the lack of parents altogether, had made them into ‘little savages’.79 It was the German children who caused the most concern. Some people believed that they were innately threatening, simply by virtue of their German blood. In Norway there were massive demands to deport any children who had been fathered by German soldiers, on the grounds that they might grow up to become a Nazi fifth column in years to come. The same eugenic principle that made the Nazis believe they were the master race was now applied to German children to identify them as a future threat.80
+
+
+- 
+
+An attitude perhaps existent to a lesser degree in the US as well: “Gender identity and relative income within households”.↩︎
+- 
+
+Opinions towards white skin apparently can be both positive (comparisons to nobility and their women’s pale white skin from never working in fields or spending time outside sans parasol) and negative (comparisons to maggots & the dead-white skin of corpses, as white is the traditional color of death or transitions in Japan); but in general, darker skin is bad and lighter skin is good and more Japanese (Arudou 2013). Fashions which buck this trend are quite exceptional (eg. kogal & ganguro) and tend to be limited phenomenon. Annalee Newitz, “Magical Girls and Atomic Bomb Sperm: Japanese Animation in America”:
+
+
+In Hiroshi Wagatsuma, “The Social Perception of Skin Color in Japan”, in Modern Japan, ed. Irwin Scheiner (New York: Collier Macmillan, 197452ya), the author writes that the Japanese still tend to view whites - and especially blacks - as inferior races based on their skin quality or color. While the Japanese greatly admire white skin, Caucasian skin is sometimes derided as “transparent” rather than “white,” or somehow more blemished and wrinkled than Japanese skin. Dark skin is largely undesirable, and indicates animality - hence the Japanese distaste for black or dark-skinned people. The children of mixed marriages are viewed critically, and certain combinations of features in mixed-race children are considered quite abhorrent.
+
+↩︎
+- 
+
+Asian women tend to marry out much more than Asian men, according to US census records; UPI: “Asian women had white husbands 3.08 times more often than Asian men had white wives. That means just over 75% of white-Asian couples featured a white husband and Asian wife. That 3.08 ratio is up from 2.54 times in 199036ya.” See also Sailer’s more in-depth article “Is Love Colorblind?” (update: “Love: Still Not Colorblind”) and for the angry Asian-American perspective, Arthur Hu’s AsianWeek essay “Part I: A Race of Rodney Dangerfields?” will serve nicely. There are major disparities in other races; the statistics for black women are remarkable.↩︎
+- 
+
+“A Facial Attractiveness Account of Gender Asymmetries in Interracial Marriage” (Lewis 201214ya) found that females ranked male black faces over white over Asian, while males did the reverse (female Asian over white over black), giving as background:
+
+
+A striking aspect of the data on interracial marriages is the size of the gender asymmetries [1]-[3]. These asymmetries appear robust across time and culture. Details of these asymmetries are shown in Table 1 based on census data from the UK and USA for White, Black and Asian racial groups. If we focus upon marriages between White and Black people then we observe that there are over twice as many marriages between Black men and White women than between White men and Black women in the US. An observed consequence of this pattern is a decline in marriage rates for Black women, which has been described in the US as the ‘marriage squeeze’ [4]. The asymmetry is smaller in the UK but still present. The gender asymmetries are even larger for marriages that include Asian and White people. In this situation, however, it is the number of White men marrying Asian women that is over twice the number of White women marrying Asian men. The largest asymmetry shows that marriages between Black men and Asian women in the US outnumber those between Asian men and Black women by about five to one.
+
+↩︎
+- 
+
+Is Marriage for White People? How the African American Marriage decline affects everyone 201115ya (excerpt), by Ralph Richard Banks; chapter 3, “The Man Shortage”, pg34–37:
+
+
+For decades, the gap in the interracial marriage rates of black men and black women has been a source of tension. Some black women take it personally. “Black men dating White women”, according to a 199333ya article in Ebony, can “cause most single Black women to see red.”91 A 199828ya Essence readers poll revealed that almost two-thirds of black women felt upset when black men married or dated white women.92 They felt unappreciated, inadequate, unwanted. As one twenty-nine-year-old black woman in Los Angeles says in another Ebony article, “[E]very time I turn around and I see a fine Brother dating outside his race, I just feel disgusted. I feel like, what’s wrong with us? Why do you choose her over me?”93 Another Ebony reader responded: “Black men I encounter are either dating or married to white women; they aren’t interested in the sisters.”94
+
+
+The imbalance hits professional black women especially hard, because the black men they might regard as the most desirable - college graduates with good jobs - are also the most likely to marry interracially.95 Consequently, the African American gender gap in interracial marriage is widest among the black middle class. Moreover, some black women think that successful black men often wed white women who don’t have much going for them. Sociologists explain such relationships as a ‘status exchange’ in which the man benefits from the woman’s whiteness, and the woman gains from the man’s educational and professional accomplishments.96 The suspicion is that well-educated, high-earning black men are so enamored of the idea of having a white spouse that they often marry white women who are less educated and of lower status in every way except for race. Empirical support for the ‘status exchange’ remains mixed,97 but the idea that successful black men will accept low-status white women remains an article of faith for many black women.
+
+
+…This same sentiment has been reflected in the movie version of Terry McMillan’s best-selling Waiting to Exhale, in which a black woman seizes on the race of her husband’s girlfriend. “I give you 11 fuckin’ years of my life, and you’re leaving me for a white woman?” He responds defiantly, “Would it be better if she were black?” Without missing a beat, she says, “No, it’d be better if you were.”
+
+
+Similarly, in Spike Lee’s Jungle Fever, when Wesley Snipes’s character, Flipper, falls for the white office assistant, his wife seems as upset about his paramour’s race as about her husband’s infidelity. “White‽” she exclaims. “Are you on crack or something?” The movie suggests he might as well be…Jungle Fever may have captured the tenor of the times in the late 1980s and early 1990s, but opposition to interracial marriage among black women seems to have become more muted over the years. The anger of the early 1990s has softened into the disappointment of the second decade of the twenty-first century.
+
+
+In 201016ya, the black singer and actress Jill Scott - known both for her tender love songs and her wild natural hair - expressed her dismay in Essence magazine upon discovering that her “handsome, African-American, intelligent and seemingly wealthy” new friend was “happily married to a White woman.” The realization made her “spirit wince” as her body felt an “inner pinch, like a mosquito under a summer dress.”
+
+
+Similarly, some of the women interviewed for his book were troubled by black men who partnered with nonblack women. As one woman explains: “If I see a black man with a white woman, there’s a part of me that feels sadness and a part of me that feels anger. I may not want that black man, but I probably know some black woman who does.” Another woman had for years adamantly opposed interracial marriage but more recently has tried to become more accepting, especially as friends enter interracial relationships. “I don’t roll my eyes when I see an interracial couple now,” she says, sounding proud of herself. “‘Maybe they do love each other’, I think. I try not to judge.”
+
+- 
+
+91: Black men are a scarce resource, many black women would say, and should stay with black women. As Ebony noted in 199333ya. “Finding an eligible Black man, as almost any single ‘sister’ will tell you, has become an increasingly difficult task…Black men dating White women, for example, cause most single Black women to see red in almost any community.” Douglas C. Lyons. 199333ya. “Where the Men Are: The 10 Best Cities”. Ebony, July
+- 
+
+92: Patricia Johnson. 199828ya. “Sister Poll”. Essence, April.
+- 
+
+93: Zondra Hughes. 200323ya. “Why Some Brothers Only Date Whites and ‘Others’”. Ebony, January.
+- 
+
+94: “Where Are All the Men?” 200521ya. Letter to the Editor. Essence, October, p. 24.
+- 
+
+95: Christie D. Batson, et al 200620ya. “Interracial and Intraracial Patterns of Mate Selection among America’s Diverse Black Populations”. Journal of Marriage and Family 68: 658-672
+- 
+
+96: Kingsley Davis. 194185ya. “Intermarriage in Caste Societies”. American Anthropologist 43(3): 376-395; Robert K. Merton. “Intermarriage and the Social Structure: Fact and Theory”. Psychiatry 4:361-374.
+- 
+
+97: Michael J. Rosenfeld. “A Critique of Exchange Theory in Mate Selection”. American Journal of Sociology 110(5): 1284–1325.
+
+
+↩︎
+- 
+
+See Pew Research Center’s “The Rise of Intermarriage: Rates, Characteristics Vary by Race and Gender”: “white/Asian couples have the highest combined annual earnings (nearly $108,176.58$71,0002012), much higher than the earnings of white/Hispanic couples (about $88,369.6$58,0002012) as well as white/black couples (about $80,751.53$53,0002012).” That that particular pairing is likely more white men/Asian women than Asian men/white women is simply because “more than one-in-three (36%) Asian female newlyweds in 201016ya married someone who is non-Asian, compared with only about one-in-six Asian male newlyweds (17%).” As far as our status argument goes, the patterns of divorce are interesting - marriages with the higher-status male seem more stable: “It found that after 10 years of marriage, interracial marriages that are most vulnerable to divorce involve white females and non-White males (with the exception of white females/ Hispanic white males) relative to white/white couples. Conversely, there is little or no difference in divorce rates among white men/non-white women couples, and white men/black women couples are actually substantially less likely than white/white couples to divorce by the 10th year of marriage.8”↩︎
+- 
+
+Expat James Turnbull has twice examined this skew in domestic Korean advertisements.↩︎
+- 
+
+See for example France’s les tondues (French Wikipedia); one blogger notes that “Age and social class varied among the accused, but almost all were women. Many were accused of romantic entanglement or”horizontal collaboration.” These affairs sometimes resulted in half-German children and often allowed these women to eat during Occupation while many starved.”↩︎
+- 
+
+The government dataset listing marriages doesn’t seem to be too helpful in answering the questions of what percentage of American or English expats, by gender, married a Japanese national; a 2005 publication offers total and sex ratio numbers:
+
+
+Regarding the population of foreign residents by sex, the male population is 730 thousand while the female population is 830 thousand, showing that female foreigners outnumber male foreigners by 100 thousand with a sex ratio of 87.7. This ratio is 7.6 points lower that of the Japanese population of 95.2, and varies greatly by nationality. (Tables 11.1 and 11.3)
+
+
+That is, 730⁄830 = 0.879, so the sex ratio is being calculated as male/female × 100. Extracting data from pg4, Table 11.3, “Total”, we learn that the UK has a total of 9,605 with a sex ratio of 247.1, and the USA 37,417 with 178.2. Thus:
+
+- 
+
+UK: male + female = 9605; (male / female) × 100 = 247.1; then male = 6837, female = 2767
+- 
+
+USA: male + female = 37417; (male / female) × 100 = 178.2; then male = 23967, female = 13449
+
+
+Borrowing the number of marriages by gender from the 200620ya dataset (which hopefully is not too wrong), we conclude:
+
+- 
+
+UK: (386/6,837 × 100, 79/2,767 × 100); (5.64%, 2.85%)
+- 
+
+USA: (1,474/23,967 × 100, 215/13,449 × 100); (6.15%, 1.59%)
+
+
+The relative rates differ by factors of 2–3, suggesting that even with these shortcuts and approximations, there’s probably both a difference in how many American & English women or men are in Japan and also how likely each woman or man is to marry while there.↩︎
+- 
+
+Expat Matt, “Statistics on foreigners in Korea, and the ROK before the CERD”, summarizing “Combined fifteenth and sixteenth periodic reports of States parties due in 2010”:
+
+
+The number of married immigrants (foreigners who married a Korean citizen) is consistently increasing every year. As of December 201016ya, 141,654 married immigrants are residing in the country: 18,561 (13.1%) are males and 123,093 (86.9%) are females. By nationality, there are 66,687 Chinese (including 31,664 ethnic Koreans, 47.1%), 35,355 Vietnamese (25%), 10,451 Japanese (7.4%), 7,476 Filipinos (5.3%), 4,195 Cambodians (3.0%), 2,533 Thais (1.8%), and 2,421 Mongolians (1.7%).
+
+↩︎
+- 
+
+From an informal translation of Statistics Denmark’s “Immigrants in Denmark, 2011”:
+
+
+When it comes to male immigrants from Western countries who are classified as being in a relationship, in 59% of the cases the partner is of Danish origin and in 37% of the cases the partner is an immigrant from a Western country. When it comes to the female immigrants from a Western country, 63% of the partners are of Danish origin and in one-third of the cases it’s a Western immigrant. The pattern is different when it comes to immigrants from non-Western countries. For male immigrants from non-Western countries, 13% have partners of Danish origin and 80% have partners from a non-Western country. For female immigrants from non-Western countries, 28% have partners of Danish origin and 68% have partners of non-Western origin. Interestingly, when it comes to descendants Western immigrants are more likely to have a partner of Danish origin than are first generation immigrants (83% and 85% for males and females respectively), whereas this pattern is actually reversed for females from non-Western countries, where descendants are less likely to have a Danish partner than are first generation immigrants (19% of females who are descendants of immigrants from non-Western countries with a partner have a partner of Danish origin, whereas the corresponding number for the first generation non-Western female immigrants is 28%.) 3 out of 5 non-Western descendants who are in a relationship are in a relationship with a non-Western immigrant and 18% of them have a partner who’s also a descendant of immigrants from a non-Western country. (all numbers above from Tabel 1.9, p.32)
+
+
+The patterns seems to be that immigrants from wealthier/prestigious - and Western - countries can compete successfully for native Danes, while immigrants from poorer countries like Turkey must often seek mates from back home; the women from poorer countries also partner ‘up’, gaining more Danes than their male counterparts, just as we see with Japan.↩︎
+- 
+
+This fits with my reading in the South Korean expat blogosphere, where I know of one female blogger with a Korean boyfriend but many male bloggers with Korean loved ones. We can find quotes for Japan, Hong Kong, and China as well:
+
+
+I turned to the Internet for advice and was surprised to learn that the Dateless Western Woman was a familiar character in the expat world, at least judging from the score of postings on expat forums by lonely, single females…Not true for their Y-chromosome-carrying expat buddies though. While the female expats spent Saturday nights alone, crying into their Ramen bowls, their male counterparts drank freely from the dating pool like they owned it. Which in a way, they did. If you’ve ever visited Asia, you’ve likely seen the pale, rail-thin, greasy-haired white boy walking hand-in hand with a perfectly made-up, mini-skirt wearing Asian chick. This would never happen anywhere else in the world. Because everywhere else, Barbie ends up with Ken, not his underemployed, socially-awkward, samurai-sword-collecting neighbor, Kevin. But in Asia, dating rules defy all logic or evolutionary law. In Asia, the nerd is king…But as I often reminded myself, I hadn’t come to Asia for a boyfriend. I’d come because I wanted to master Japanese and explore a culture drastically different from my own. But I just hadn’t expected that moving my life to Japan would mean leaving my love life at home. As much as I’d enjoyed my life in Tokyo, it just didn’t seem like a fair trade. Not that the female dating situation in Japan wasn’t without the occasional success story. I knew of a few women who’d come to Japan and left with husbands or fiancées in tow. But they were the minority. Most western women came to Japan single and stayed that way.
+
+
+–“No Sex in the City: What It’s Like to Be Female and Foreign in Japan”, Reannon Muth
+
+
+When I’m in China, I tend to turn a lot of heads, especially in the countryside - and that’s not just because I’m a foreigner. It’s because I’m often seen holding hands with my Chinese husband. It’s true - the sight of a foreign woman and Chinese boyfriend or Chinese husband is much rarer than its counterpart, the foreign man and Chinese woman.
+
+
+–“On the Rarity of Foreign Women and Chinese Boyfriends/Chinese Husbands”, Jocelyn Eikenburg
+
+
+Between the tables of men sits a gweilo (Caucasian) woman, She is alone, reading the local expat English-medium magazine. She is wearing glasses and a shapely grey dress. She’s the kind of girl I would have set up with my brother when he was single. None of the men around her have glanced her way or made eye contact…I was single for my first five years in Hong Kong. The first few years I was curious about the invisibility factor. The third year I was despondent.
+
+
+–“Single Women in Hong Kong: Stream of Consciousness”, janet
+
+
+Expat women face an unfortunate predicament in China and, from what I hear, throughout Asia. Their problem is that the expatriate men who come to China come for the local Chinese girls - and the local Chinese guys are too intimidated to go for expat women, or are too focused on finding a local wife, and in any event really aren’t all that attractive in their own right. What that means, of course, is that there are a lot of lonely expat girls in China.[…] It’s something you can tell right away. When I first moved to Beijing, I saw three Russian women on the subway, one of them strikingly beautiful, and the other two not half bad. The instant I started talking to them, you could see their faces melt, and they just about started staring at me like a fat kid looks at a hamburger. I’m starting to think of this as the “expat girl stare” and I get it everywhere I go that there are expat girls. Even the most drop dead beautiful women here blow open to the lamest openers you can imagine, because they’re so thrilled to meet a man who’s actually interested and is the kind of guy they could get together with. Women of a caliber of looks I used to have to sometimes take a little while to crack open in California, or who might at times be downright cold to me on my approach, open easily here.
+
+
+–“Dating in China”, Chase
+
+
+The dating problem of China’s forlorn foreign females has become a hot topic on online forums for expatriate such as www.thatsbj.com and http://asiaxpat.com. Threads with titles such as “Why foreign women will NEVER have a dating scene” and “How can a woman find a man?” are becoming increasingly popular…“The majority of men come here because they have issues back home … or they just can’t get a woman back home for a number of reasons,” she said. “They come here because they become a big fish in a little pond; they become very important and sought after.”[..] For these reasons, these women see the pool of single, dateable foreign men more as a small puddle. And they don’t consider dating locals a viable option.
+
+
+–“Foreign women label Beijing a dating wasteland”, Erik Nilsson (China Daily 200620ya)↩︎
+- 
+
+OkCupid’s online dating service found large disparities in interest by race; from “How Your Race Affects The Messages You Get”:
+
+
+White women prefer white men to the exclusion of everyone else-and Asian and Hispanic women prefer them even more exclusively. These three types of women only respond well to white men. More importantly, these groups’ reply rates to non-whites is terrible. Asian women write back non-white males at 21.9%, Hispanic women at 22.9%, and white women at 23.0%. It’s here where things get interesting, for white women in particular. If you look at the match-by-race table before this one, the “should-look-like” one, you see that white women have an above-average compatibility with almost every group. Yet they only reply well to guys who look like them. There’s more data on this towards the end of the post.
+
+
+Their update “Race and Attraction, 200917ya - 2014” has similar results. The Facebook dating app, Are You Interested, has apparently found similar results for 2.4 million interactions on its service. Satoshi Kanazawa claims:
+
+
+In April 201115ya, I attended a seminar on the topic of the sexual and “hookup” behavior of American college students. The seminar speaker had data, collected from online surveys conducted over a decade, from nearly 20,000 respondents from 20 different universities, on all aspects of their dating and sexual behavior. One of the findings that she presented - but could not explain - was the consistent pattern that, on all university campuses in the United States, black female and Asian male students had the fewest dates and sexual partners. I was very intrigued by the finding and wanted to explain it. (It’s in my nature as the Scientific Fundamentalist that I cannot leave any interesting empirical finding unexplained. I have to explain everything.) My initial suspicion was that this might be because black females and Asian males were less physically attractive than their competitors. Thus began my scientific interest in race differences in physical attractiveness. As Paul Harvey used to say, “And now you know the rest of the story.” Very curiously and quite coincidentally, in the past 12 months, there have been at least three articles, published in highly prestigious, peer-reviewed scientific journals, which confirm all of my conclusions and speculations in my original blog post last year. Many commentators have pointed out in vain that, using exactly the same data and exactly the same statistical methods, I have also shown that women are [statistically-]significantly more physically attractive than men and black men are [statistically-]significantly more physically attractive than nonblack men. Few complained about these findings, because they are not politically incorrect.
+
+↩︎
+- 
+
+See also Karen Kelsky’s 199630ya paper, “Flirting With the Foreign: Interracial Sex in Japan’s ‘International’ Age”.↩︎
+- 
+
+Banks 201115ya; chapter 8 “Beyond Race?”, pg128:
+
+
+While researchers’ findings differ, most Internet dating studies have found that men are much more open than women to interracial dating.252 Women are more likely to exclude men on the basis of race than men are to exclude women on the basis of race.253 In one recent study of Internet dating, for example, 64% of white women stated a preference for a white man, while only 29% of white men stated a preference for a white woman.254 In another study, only 22% of white men registered a preference for dating while women.255 While the particulars of these studies vary, they all converge on the same conclusion: Dating pools are limited more by the racial preferences of women than by those of men. One implication of this fact is that black women, according to Internet dating studies, have greater opportunities to date across racial lines than do black men.256
+
+- 
+
+252: One study using a major online dating site found that women were more than twice as likely as men to express a preference for a partner of their own race. 38% of women had such a preference, but only 18% of men did. Guenter J. Hitsch, Ali Hortascu, and Dan Ariely. 200620ya. “What Makes You Click? Mate Preferences and Matching Outcomes in Online Dating”. MIT Sloan Research Paper N. 4603-06, February. Available on SSRN.
+- 
+
+253: This gender difference is likely due to the fact that men are less concerned than women with the acceptance of family and friends, as men invest less in such relationships than do women.
+- 
+
+254: Cynthia Feliciano, Belinda Robnett, and Golnaz Komaie. 200917ya. “Gendered Racial Exclusion among White Internet Daters”. Social Science Research 38:23.
+- 
+
+255: Hitsch et al 2006
+- 
+
+256: Raymond Fisman, Sheena Iyengar, Emir Kamenica, and Itamar Simonson. 200719ya. “Racial Preferences in Dating”. Review of economic Studies 75(1): 117-132, at 124. Cynthia Feliciano…More than 90% of the 72% of white women who name a racial preference stated that they would not date a black man. Among men, 58% stated a racial preference, and 93% would exclude black women; Guenter J. Hitsch…This study found that 38% of all women say that they prefer to meet someone of the same ethnic background as themselves, while only 18% of men do so; Robert Kurzban and Jason Weeden 200719ya. “Do Advertised Preferences Predict the Behavior of Speed Daters?” Personal Relationships 14: 623-632. This study examined data from speed-dating participants and found that women were more likely to state racial preferences than men.
+
+
+↩︎
+- 
+
+An anonymous reader lists a Japanese pornographic website JAVModels’s “Mixed-Race” category (NSFW), with some nationality notes:
+
+
+- 
+
+Ameri Ichinose
+- 
+
+Anna Anjo
+- 
+
+Anna Hizaki
+- 
+
+Anna Mitsui
+- 
+
+Anna Natsuki
+- 
+
+Anna Ooura
+- 
+
+Anri Okita
+- 
+
+Cecil Fujisaki, French
+- 
+
+Daiya Nagare
+- 
+
+Dina Katou
+- 
+
+Fujii Shelly
+- 
+
+Jessica Kizaki
+- 
+
+JULIA
+- 
+
+Karela Ariki
+- 
+
+Kirari
+- 
+
+Koko Aiba
+- 
+
+Lala Hoshino
+- 
+
+Lemon Tachibana
+- 
+
+Liley
+- 
+
+Maria Dizon
+- 
+
+Maria Eriyori
+- 
+
+Maria Ozawa, French-Canadian
+- 
+
+Meisa Hanai, Bulgarian
+- 
+
+Nina, Brazilian
+- 
+
+Rei Mizuna
+- 
+
+Rio/Tina Yuzuki, Portuguese
+- 
+
+Rola Takizawa, Russian
+- 
+
+Saori Hara, German (1/4)
+- 
+
+Sarah, Brazilian
+- 
+
+Sara Serizawa, Filipino-Singaporean
+- 
+
+Sophia Kurasuno
+- 
+
+Sophia Nikaidou
+- 
+
+Yuka Osawa, Turkish
+- 
+
+Yuria Ashina
+
+
+Ironically, although the sample size is small, it seems that in his list, Japanese pornography is more diverse than anime/manga! Further, looking through the thumbnails, it seems that claims of blondness being recessive & it (almost) impossible for hafus to be blond are vindicated: black hair is universal among these porn actresses.↩︎
+- 
+
+Excerpted section ‘Hāfu (Half-Breeds) and Biraciality in Japan’ from Fellezs 2012.↩︎
+- 
+
+In the Complete Records Collection documenting Evangelion 2.0, Yōji Enokido discusses why the character Asuka Langley Soryu (half-German, foreign mother) is so attractive and his difficulty integrating another hāfu character (Mari Makinami, half-English, probable foreign mother):
+
+
+Concerning the matter of strengthening Mari’s character, Anno-san had already been asking me if I had any ideas, so I started to investigate the problem. However, as I worked through it, the twosome ‘Rei and Asuka’ was such a powerful combination that they seemed to stand in the way. When I tried to investigate what made this pair so strong, I realized that this combination followed the archetype of the so called ‘harem anime’, and that all the desires, lusts, and dreams of young men were bound up in them.
+
+
+One ‘type’ is the girl who was a childhood friend, who has always been with you since you were born, and with whom there are no new or strange feelings. Rei is established to resemble a ‘mother’ in some respects, and so she produces in young men a feeling of distance [from things?] as though they were still half in the womb. Now, Asuka’s particular type is that of the girl who comes from a foreign country. This also produces a very good feeling. Probably it is the male instinct to think, in some respects, that girls from another world are better than girls who are familiar and close to hand [laughs].
+
+↩︎
+- 
+
+“Now, One Out of 20 Marriages are Mixed!”, Hiragana Times↩︎
+- 
+
+Eri Izawa, “Notes from the Japanese Popular Culture Conference at the Center for Asia-Pacific Initiatives, University of Victoria in Victoria, Canada”:
+
+
+Karen Kelsky (University of Oregon) noted, among other things, how women in commercials are depicted as vehicles or conduits of male power. She also noted (and I found this particularly amusing) that commercials by Western companies tended to show white men as objects of Japanese women’s desire, while Japanese companies tended to show Japanese men usurping white men. [Checking Kelsky’s CV, she does not seem to have published on this topic yet.]
+
+↩︎
+- 
+
+Meagher & Neal 2005 ran their eye color analysis on 14 Disney animated movies, but I suspect it would replicate in anime, even allowing for sinister foreigners.↩︎
+
+
+      
+      
+        
+          
+            
+
+Error: JavaScript disabled.
+          
+          
+
+Backlinks, similar links, and the bibliography require JS enabled to load.
+        
+      
+      
+      
+        # Backlinks
+
+
+        [Backlinks (what links here)]
+      
+      
+        # Similar Links
+
+
+        [Similar links by topic]
+        
+      
+        # Bibliography
+
+ ' is redundant with the ''; but added to parallel Pandoc-generated headers which set all attributes/classes on both. -->
+        [Bibliography of links/references used in page]
+          
+      
+       
+
+    
+
+    
+    
+    
+        
+      
+      
+      
+    
+    
+      
+
+
+        [&hairsp;Send Anonymous Feedback&hairsp;]
+      
+      
+        
+
+[Quote Of The Day]
+        
+
+[Site Of The Day]
+        
+
+[Annotation Of The Day]
+      
+      
+
+[adblock public service announcement]
+    
+
+    
+    
+     
+      ​

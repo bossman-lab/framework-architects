@@ -1,0 +1,410 @@
+# Simulation Inferences
+
+[Source](https://gwern.net/simulation-inference)
+
+- 
+
+
+  
+
+  
+    Skip to main content
+
+    
+    
+    
+      
+        
+        
+          
+            
+
+Warning: JavaScript Disabled!
+          
+          
+
+For support of key website features (link annotation popups/popovers & transclusions, collapsible sections, backlinks, tablesorting, image zooming, sidenotes etc.), you must enable JavaScript.
+        
+      
+    
+    
+
+    
+    
+        
+      
+      
+      
+        Site
+        Me
+        New
+        Blog
+        Links
+        Patreon
+        Substack
+      
+    
+
+    
+
+    
+
+      
+        # Simulation Inferences
+
+
+      
+
+      
+      
+         
+
+
+CS, math, philosophy, transhumanism
+ 
+        
+
+How small must be the computer simulating the universe?
+        
+            
+            2009-05-29–2012-04-1514ya
+            finished
+            certainty: unlikely
+            importance: 4
+            backlinks
+            similar
+            bibliography
+        
+      
+      
+
+      
+- The Problem
+
+- Living in a Simulation
+- Disinterested Gods
+- Infeasible Simulations
+
+- Physical Limits to Simulation
+- The Cost of Simulation
+
+- Prospects for Development
+
+- Destruction
+- SA Is Invalid
+- Investigating Implications of SA
+
+- Limits of Investigation
+- Investigating
+
+- Risks
+
+
+- External Links
+ 
+
+Nick Bostrom’s Simulation Argument (SA) argues that either: 1. civilizations/entities with tremendous computing power do not exist; 2. they exist, but choose not to simulate primitive civilizations like us (whatever else they might do); 3. or we are likely in such a simulation That is: they don’t exist, they exist but don’t use it, or they exist and use it.1 The SA provides a framework for revisiting the old SF skeptical chestnut “what if, like, we’re just in a computer simulation, man?” with potentially better-grounded reasons for considering it reasonably possible—humanity certainly does run as many small crude simulations as it can about every subject under the sun and is particularly interested in modeling the past, and there are no good long-term reasons for thinking that (should humanity not go extinct or civilization collapse) total computing power will for all time be sharply bounded below the necessary amount for realistic simulations of whole worlds or people.
+
+# The Problem
+
+
+What’s nice about the SA is that it presents with a trilemma whose branches are all particularly noxious.
+
+## Living in a Simulation
+
+
+We don’t want to accept #3—believing we are in a simulation is repugnant and means we must revise almost every aspect of our worldview2. It also initially seems flabbergasting: when one considers the computing power and intellectual resources necessary to create such a detailed simulation, one boggles.
+
+
+## Disinterested Gods
+
+
+But if we accept #2, aren’t we saying that despite living in a civilization that devotes a large fraction of its efforts to entertainment, and a large fraction of its entertainment to video games—and what are complex video games but simulations?—we expect most future civilizations descended from ours, and most future civilizations in general, to simply not bother to simulate the past even once or twice? This seems a mite implausible. (And even if entertainment ceases to focus on simulations of various kinds3, are we to think that even historians wouldn’t dearly love to re-run the past?)
+
+
+## Infeasible Simulations
+
+
+And if we accept #1, we’re saying that no one will ever attain the heights of power necessary to simulate worlds—that the necessary computing power will not come into existence.
+
+Physical Limits to Simulation
+
+
+What does this presuppose? Well, maybe there are physical limits that bar such simulations. It may be possible, but just not feasible4. Unfortunately, physical limits allow world simulating. Seth Lloyd in “Ultimate physical limits to computation” concludes that:
+
+
+The “ultimate laptop” is a computer with a mass of one kilogram and a volume of one liter, operating at the fundamental limits of speed and memory capacity fixed by physics. The ultimate laptop performs 2mc2πℏ=5.4258⋅1050 logical operations per second on ≈1031 bits.
+
+
+The Cost of Simulation
+
+
+Nick Bostrom calculates as a rough approximation that simulating a world could be done for ‘≈1033–1036 operations’5. Even if we assume this is off6 by, say, 5 orders of magnitude (1038-1041), the ultimate laptop could run millions or billions of civilizations. A second.
+
+
+It seems unrealistic to expect humanity in any incarnation to reach the exact limits of computation. So supposing that humanity had spread out over the Solar system processors amounting to the volume of the Earth? How fast would they be to equal our ultimate laptop simulating millions or billions of civilizations? Well, the volume of the Earth is 1.08321×1024 liters; so 5.4258⋅10501.08321⋅1024=5.009001024732046⋅1026 operations per liter. 
+
+Prospects for Development
+
+
+1026 ops isn’t too bad, actually. That’s 100 yottaflops (1024). IBM Roadrunner, in 200917ya, clocks in at 1.4 petaflops (1.4⋅1015). So our hypothetical low-powered laptop is equal to 350 billion Roadrunners (5.009001024732046⋅10261.4⋅1015=3.577857874808605⋅1011).
+
+
+OK, but how many turns of Moore’s law would that represent? Quite a few7: 38 doublings are necessary. Or, at the canonical 18 months, exactly 57 years. Remarkable! If Moore’s Law keeps holding (a dubious assumption, see Moore’s Second Law), such simulations could begin within my lifetime.
+
+
+We can probably expect Moore’s Law to hang on for a while. There are powerful economic inducements to keep developing computing technology—processor cycles are never cheap enough. And there are several plausible paths forward:
+
+
+But in any case, even if our estimate is off by several orders of magnitude, this does not matter much for our argument. We noted that a rough approximation of the computational power of a planetary-mass computer is 1042 operations per second, and that assumes only already known nanotechnological designs, which are probably far from optimal.8
+
+
+Even if we imagine Moore’s Law ending forever within a few turns, we can’t exclude humanity forever remaining below the computing power ceiling. Perhaps we will specialize in extremely low-power & durable processors, once we can no longer create faster ones, and manufacture enough power the slow way over millennia. If we want to honestly affirm #1, we must find some way to exclude humanity and other civilizations from being powerful enough forever.
+
+
+Destruction
+
+
+The easiest way to ensure humanity will never have enough computing power is for it to die. (A cheerful thought! Wouldn’t one rather exist in a simulation than not exist at all?)
+
+
+Perhaps advanced civilizations reliably destroy themselves. (This is convenient as it also explains the Fermi paradox.) It could be rogue AIs, nuclear war, nanoplagues, or your favorite existential risk.
+
+
+A failure to develop could well be as fatal as any direct attack. A failure to develop interstellar travel leaves humanity vulnerable to a solar system-wide catastrophe. One cannot assume humanity will survive indefinitely at its present level of development, nor even at higher levels.
+
+
+But undesirability doesn’t mean this is false. After all, we can appeal to various empirical arguments for #2 and #3, and so the burden of proof is on those who believe humanity will forever be inadequate to the task of simulating worlds, or will abandon its eternal love of games/simulated-worlds.
+
+
+SA Is Invalid
+
+
+One might object to the SA that the triple disjunction is valid, but of no concern: it is unwarranted to suggest that we may be simulated. An emulation or simulation would presumably be of such great accuracy that it’d be meaningless for inhabitants to think about it: there are no observations they could make one way or the other. It is meaningless to them—more theology than philosophy.
+
+
+We may not go to the extreme of discarding all non-falsifiable theories, but we should at least be chary of theories that disclaim falsifiability in most circumstances9.
+
+
+Investigating Implications of SA
+
+
+The simulation hypothesis is susceptible to some form of investigation, however, in some sense. We can investigate the nature of our own universe and make deductions about any enclosing/simulating universe10.
+
+
+More clearly, we can put lower bounds on the computing power available in the lower11 universe, and incidentally its size.
+
+
+If a simulated universe requires n units of space-time, then it must be made of at least n + 1 units; it’s paradoxical if a simulated universe could be more information-rich than the simulator, inasmuch as the simulator includes the simulated (how could something be larger than itself?). So if we observe our universe to require n units, then by the Anthropic principle, the simulator must be n + 1 units.
+
+Limits of Investigation
+
+
+This is a weak method of investigation, but how weak?
+
+
+Very.
+
+
+Suppose we assume that the entire universe is being simulated, particle by particle? This is surely the worst-case scenario, from the simulator’s point of view.
+
+
+There are a number of estimates, but we’ll say that there are 1086 particles in the observable universe. It’s not known how much information it takes to describe a particle in a reasonably accurate simulation—a byte? A kilobyte? But let’s say the average particle can be described by a megabyte—then the simulating universe needs just 1,000⋅1086 spare bytes. (About 1055 ultimate laptops of data storage.)
+
+
+But we run into problems. All that’s really needed for a simulation is things within humanity’s light cone. And the simulators could probably ‘cheat’ even more with techniques like lazy evaluation and memoization.
+
+
+It is not necessary for the simulating thing to be larger, particle-wise, than the simulated. The ‘greater size’ principle is information-theoretic.
+
+
+If one wanted to simulate an Earth, the brute-force approach would be to take an Earth’s worth of atoms, and put the particles on a one-to-one basis. But programmers use ‘brute-force’ as a pejorative term connoting an algorithm that is dumb, slow, and far from optimal.
+
+
+Better algorithms are almost certain to exist. For example, Conway’s Game of Life might initially seem to require n2 space-time as the plane fills up. But if one caches the many repeated patterns, as in Bill Gosper’s Hashlife algorithm, logarithmic and greater speedups are possible.12 It need not be as inefficient as a real universe, which mindlessly recalculates again and again. It is not clear that a simulation need be isomorphic in every step to a ‘real’ universe, if it gets the right results. And if one does not demand a true isomorphism between simulation and simulated, but allows corners to be cut, large constant factors optimizations are available.13
+
+
+And the situation gets worse depending on how many liberties we take. What if instead of calculating just everything in the universe, the simulation is cut down by orders of magnitude to just everything in our lightcone? Or in our solar system? Or just the Earth itself? Or the area immediately around oneself? Or just one’s brain? Or just one’s mind as a suitable abstraction? (The brain is not very big, information-wise.14) Remember the estimate for a single mind: something like 1017 operations a second. Reusing the ops/second figure from the ultimate laptop, we see that our mind could be handled in perhaps 15.4258⋅1033 of a liter.
+
+
+This is a very poor lower bound! All this effort, and the most we can conclude about a simulating universe is that it must be at least moderately bigger than the Planck length (1.616252⋅10−35 m) cubed.
+
+
+Investigating
+
+
+We could imagine further techniques: perhaps we could send off Von Neumann probes to the far corners of the universe, in a bid to deliberately increase resource consumption. (This is only useful if the simulators are ‘cheating’ in some of the ways listed above. If they are simulating every single particle, making some particles move around isn’t going to do very much.)
+
+
+Or we could run simulations of our own. It would be difficult for simulators to program their systems to see through all the layers of abstraction and optimize the simulation. To do so in general would seem to be a violation of Rice’s Theorem (a generalization of the Halting Theorem). It is well known that while any Turing machine can be run on a Universal Turing machine, the performance penalty can range from the minor to the horrific.
+
+
+The more virtual machines and interpreters there are between a program and its fundamental substrate, the more difficult it is to understand the running code—it becomes ever more opaque, indirect, and bulky.
+
+
+And there could be dozens of layers. A simulated processor is being run; this receives machine code which it must translate into microcode; the machine code is being sent via the offices of an operating system, which happens to be hosting another (virtualized) operating system (perhaps the user runs Linux but needs to test a program on Mac OS X). This hosted operating system is largely idle save for another interpreter for, say, Haskell. The program loaded into the interpreter, Pugs, happens to be itself an interpreter… If any possible simulation is excluded, we have arguably reached at least 5 or 6 levels of indirection already (viewing the OSs as just single layers), and without resorting to any obtuse uses of indirection15.
+
+
+Even without resort to layers, it is possible for us to waste indefinite amounts of computing power, power that must be supplied by any simulator. We could brute-force open questions such as the Goldbach conjecture, or we could simply execute every possible program. It would be difficult for the simulator to ‘cheat’ on that—how would they know what every possible program does? (Or if they can know something like that, they are so different from us as to render speculation quisquillian.) It may sound impossible to run every program, because we know many programs are infinite loops; but it is, in fact, easy to implement the dovetail technique.
+
+
+Risks
+
+
+But one wonders, aren’t we running a risk here by sending off Von Neumann probes and using vast computing resources? We risk angering the simulators, as we callously use up their resources. Or might there not be a grand OOM Killer? Every allocation we come a little closer to the unknown limits!
+
+
+There’s no guarantee that we’re in a simulation in the first place. We never ruled out the possibility that most civilizations are destroyed. It would be as terrible to step softly for fear of the Divine Programmer as it would be of the Divine. Secondly, the higher we push the limits without disaster (and we will push the limits to enable economic growth alone), the more confident we should be that we aren’t in a simulation. (The higher the limit, the larger the universe; and small universes are more parsimonious than large ones.) And who knows? Perhaps we live in a poor simulation, which will let us probe it more directly.
+
+
+# External Links
+
+
+- 
+
+“A Bayesian Approach to the Simulation Argument”, Kipping 2020
+- 
+
+“The Kernel Hacker’s Bookshelf: Ultimate Physical Limits of Computation”
+- 
+
+“My plan to destroy the universe won’t work” -(argues that observers have a fixed amount of information or entropy about the universe, and any observation merely shuffles it around, so the simulation cost is fixed as well)
+
+
+- 
+
+This is a complete disjunction; we can see this by considering what’s left if we combine these 2 binary predicates: They don’t exist, but they use it? They don’t exist, and don’t use it?↩︎
+- 
+
+Although the revision might not be too awful; Robin Hanson tries such a revision in “How To Live In A Simulation”, and comes up with pretty benign suggestions, some of which are a good idea on their own merits:
+
+
+…you should care less about others, live more for today, make your world look more likely to become rich, expect to and try more to participate in pivotal events, be more entertaining and praiseworthy, and keep the famous people around you happier and more interested in you.
+
+↩︎
+- 
+
+Pretty much every video-game is a simulation of something—war, racing, travel, etc. They vary in realism and fictionalized settings, but fundamentally, they are still simulations. In the case of the The Sims, simulation of everyday life even.↩︎
+- 
+
+An example of something possible but not feasible might be factoring classically a composite number with a quadrillion digits; we know there is a factorization of it, and exactly how to go about getting it, but that doesn’t mean we could do it in less than the lifetime of the universe.↩︎
+- 
+
+footnote 10; “Are you living in a computer simulation?”↩︎
+- 
+
+A great deal depends on how expensive simulating a brain is. Ralph Merkle puts it at 1013-1016. Robert J. Bradbury’s “Matrioshka Brains” essay lists 4 estimates for an individual brain ranging anywhere from 1013 ops/second to 1017.↩︎
+- 
+
+Try evaluating this in your friendly REPL: `(1.4*10^15)*2*2*2*2*2*2*2*2*2*2*2*2*2*2*2*2*2*2*2*2*2*2*2*2*2*2*2*2*2*2*2*2*2*2*2*2*2*2*2 >= (5.009001*10^26)`. Manually multiplying conveys the magnitude of how many Moore-doublings are necessary.↩︎
+- 
+
+Nick Bostrom, ibid.↩︎
+- 
+
+Simulations are presumably observable in a few special cases—besides Matrix examples, the simulators could violate various physical laws to demonstrate their existence. It’s hard to see why this would be very common, though—The Matrix seems to suggest that the quasi-godlike beings who could build & run a simulation are somehow fallible, and such tampering would seem to destroy the value of simulations run for entertainment or research.↩︎
+- 
+
+An important assumption we must make is that the simulating universe is much like ours: with similar laws of physics, and most importantly, is computable. If the other universe runs on radically different physics, that could make nonsense of any conclusions. Fortunately, assuming that the other is like ours is the simpler assumption, and is even reasonable (if universes are too alien to each other, then why one would create the other? And from where could the detailed description come from?).↩︎
+- 
+
+I use ‘lower’ in the sense of ‘more fundamental’.↩︎
+- 
+
+Examples of caching can be drawn from existing emulators like Fabrice Bellard’s QEMU which often optimize the ‘foreign’ instructions and cache repeating patterns to execute fewer ‘native’ instructions. From “Fabrice Bellard”, by Andy Gocke and Nick Pizzolato (ACM 200917ya):
+
+
+While a substantial accomplishment on its own, QEMU is not simply a processor emulator, it uses dynamic translation to improve performance. As explained in the Usenix paper [Bellard 200521ya], QEMU uses a novel approach to ISA translation. Instead of translating one instruction at a time, QEMU gathers many instructions together in a process called “chunking,” and then translates this chunk as a whole. QEMU then remembers these chunks. Many times there are certain chunks which will occur many times in the code of a program. Instead of taking the time to translate them all separately, QEMU stores the chunks and their native translation, next time simply executing the native translation instead of doing translation a second time. Thus, Bellard invented the first processor emulator that could achieve near native performance in certain instances.
+
+↩︎
+- 
+
+Real-world emulations offer interesting examples of the trade-offs. Ars Technica covers in “Accuracy takes power: one man’s 3GHz quest to build a perfect SNES emulator” the variation in demands for simulating the NES: an early emulator managed to emulate the NES with 25MHz x86 processors but was somewhat inaccurate and required modifications to the games; a much more accurate emulator uses up 1600426yaMHz. For the SNES, the spectrum is from 300MHz to 3,000MHz. Finally, an emulation down to the transistor level for the 197254ya Pong_, runs at <=10fps per second on a 3,000MHz x86 processor; to run in real-time on a 50hz TV would require (to naively extrapolate) a 15,000MHz x86 processor.↩︎
+- 
+
+Cryptographer Ralph C. Merkle in “The Molecular Repair of the Brain” finds an upper bound of 100 bits per atom; “Dancoff and Quastler[128], using a somewhat better encoding scheme, say that 24.5 bits per atoms should suffice”; a willingness to work on the molecule level reduces this to 150 bits per molecules made of a few to thousands of atoms; a delta encoding cuts the 150 bits down to 80 bits; Merkle comments “50 bits or less is quite achievable”.
+
+
+Expanding out to the whole brain, Merkle quotes Cherniak (“The Bounded Brain: Toward Quantitative Neuroanatomy”):
+
+
+On the usual assumption that the synapse is the necessary substrate of memory, supposing very roughly that (given anatomical and physiological “noise”) each synapse encodes about one binary bit of information, and a thousand synapses per neuron are available for this task: 1010 cortical neurons x 103 synapses = 1013 bits of arbitrary information (1.25 terabytes) that could be stored in the cerebral cortex.
+
+
+(Anders Sandberg, in comparison, suggests much higher upper bounds as he examines information output.) An even more extreme lower bound than a terabyte is the one derived by Thomas Landauer (“How Much Do People Remember? Some Estimates of the Quantity of Learned Information in Long-term Memory”, Cognitive Science 10, 477-493, 198640ya) based on forced choice memory tests, of 2 bits per second or mere hundreds of megabytes over a lifetime! (See Merkle’s “How Many Bytes in Human Memory?”)↩︎
+- 
+
+For example, perhaps one could instead be running Firefox, which interprets JavaScript (in which one can run Linux), and one has visited a web page with a Java applet (an interpreter of Java); and this applet is running Pearcolator—which is an x86 emulator. Of course, just a raw processor isn’t very useful; perhaps one could run one of the operating systems written in Java on it, and then doesn’t one want to browse the Internet a little with good old Firefox…?↩︎
+
+
+      
+      
+        
+          
+            
+
+Error: JavaScript disabled.
+          
+          
+
+Backlinks, similar links, and the bibliography require JS enabled to load.
+        
+      
+      
+      
+        # Backlinks
+
+
+        [Backlinks (what links here)]
+      
+      
+        # Similar Links
+
+
+        [Similar links by topic]
+        
+      
+        # Bibliography
+
+ ' is redundant with the ''; but added to parallel Pandoc-generated headers which set all attributes/classes on both. -->
+        [Bibliography of links/references used in page]
+          
+      
+       
+
+    
+
+    
+    
+    
+        
+      
+      
+      
+    
+    
+      
+
+
+        [&hairsp;Send Anonymous Feedback&hairsp;]
+      
+      
+        
+
+[Quote Of The Day]
+        
+
+[Site Of The Day]
+        
+
+[Annotation Of The Day]
+      
+      
+
+[adblock public service announcement]
+    
+
+    
+    
+     
+      ​

@@ -1,0 +1,862 @@
+# Slowing Moore’s Law: How It Could Happen
+
+[Source](https://gwern.net/slowing-moores-law)
+
+- 
+
+
+
+    Skip to main content
+
+
+Warning: JavaScript Disabled!
+
+For support of key website features (link annotation popups/popovers & transclusions, collapsible sections, backlinks, tablesorting, image zooming, sidenotes etc.), you must enable JavaScript.
+
+
+
+
+        # Slowing Moore’s Law: How It Could Happen
+
+
+
+
+
+AI economics, AI hardware, terrorism, computer hardware, economics
+
+Weak points in the networks powering technological progress: chip factories
+            2012-03-16–5y2017-10-09
+            finished
+            certainty: likely
+            importance: 7
+            backlinks
+            similar
+            bibliography
+
+- AI
+- Regulating Moore’s Law
+
+- Downsides
+- General Feasibility
+
+- Targets for Regulation
+- Fab Costs and Requirements
+
+- The Scale Thesis
+
+- Financial Fragility
+- Effects of Fab Disruptions
+
+- Case Studies
+
+- Sumitomo Chemical Fire
+- Toshiba NAND Memory
+- Kryder’s Law
+
+
+- Reactions
+
+- State-Actors: Why Not Terrorism
+- Covert Fabs?
+
+- Case-Study: Suppressing Nuclear Weapons
+
+- Hardened Non-Covert Fabs
+- The China Question
+
+- External Links
+
+
+Brain emulation requires enormous computing power; enormous computing power requires further progression of Moore’s law; further Moore’s law relies on large-scale production of cheap processors in ever more-advanced chip fabs; cutting-edge chip fabs are both expensive and vulnerable to state actors (but not non-state actors such as terrorists). Therefore: the advent of brain emulation can be delayed by global regulation of chip fabs.
+
+
+Here I will defend the following chain of claims:
+
+- 
+
+that changes in Moore’s Law can affect the creation of varieties of software, and AI software in particular
+- 
+
+the semiconductor industry is extremely centralized, physically
+- 
+
+these centralized facilities are highly vulnerable
+
+- 
+
+But counterintuitively, not to small groups such as terrorists.
+
+- 
+
+and thus, Moore’s Law can be steered by affecting these facilities
+
+
+Why might one be interested in this topic? Chip fab risks and costs may turn out to be a major limiting factor on Moore’s law, and a factor that has gone almost entirely unrecognized (eg. who has ever heard of “Moore’s Second Law” governing chip fabs?). The progress of Moore’s law is of major importance to any future forecasts of economic growth, progress of both research & application of artificial intelligence & machine learning (“big data” vs clever algorithms), sociological developments, and all forecasts of a technological Singularity. Anyone interested in a better understanding of the topics, more accurate forecasts, or perhaps even affecting events directly. The fragility of chip fabs is of independent interest as it is not generally appreciated, and has potentially global consequences—for example, a conflict between China & Taiwan (which is home to many cutting-edge chip fabs) would, at the least, interrupt semiconductor chip deliveries to the rest of the world, a contingency which may not have been adequately prepared for.
+
+# AI
+
+
+In particular: here are 2 main proposed routes to a technological Singularity:
+
+- 
+
+whole brain emulation (WBE)/upload
+- 
+
+de novo artificial general intelligence (AGI)1.
+
+
+WBE is generally believed to be relatively straightforward engineering, but is expected to take 1018 FLOPS2 (supercomputer estimate: by 2019) to 1043 FLOPS3 (supercomputer: by 2111) to do in comparison with the latter which either takes a similar amount (if it is as inefficient as emulated brains and winds up effectively being a synthetic upload) or potentially much less if there are efficient algorithms and optimizations unavailable to evolution through brains or unavailable period with brains. Hence, we expect that uploads will be made more likely by powerful hardware and de novo AGI be made more likely by powerful software/algorithms/mathematical insight. This observation immediately suggests that any slowing in hardware developed will reduce the probability of uploads coming before de novo AGI (whatever that probability is), and vice versa, any slowing in software/math will reduce the probability of de novo AGI coming before uploads (whatever that probability was). A slowing in both may not change the probabilities or relative dates of them, but rather postpone the appearance of either or both.
+
+
+Why might we want to affect the natural development of either approach? WBEs are frequently regarded as being potentially highly untrustworthy and dangerous, constituting an existential risk.
+
+
+# Regulating Moore’s Law
+
+
+If an organization (such as a singleton world government like the UN Security Council) wanted to shift probability towards de novo AGI (the desirability of uploads is contentious, with pro and con), then they might withhold subsidies from hardware research & development, regulate it, or even actively oppose it with penalties ranging from the financial to the civil to the military. (Or perhaps neo-Luddites wish to delay computer progress in the interests of economic justice.) This has been informally proposed before; for example, Berglas 2009–201214ya4.
+
+## Downsides
+
+
+Of course, from the utilitarian perspective, such a move would have enormous consequences inasmuch as it would probably constitute a price floor on processing power, disadvantaging low-power applications like embedded processors or supplies to the developing world; and many business arrangements are founded directly or indirectly on Moore’s law holding for another decade or three. Poverty kills, and any delay in economic growth also kills. Since we cannot observe the consequences of either de novo AGI or brain emulations before they are created5, and once one is created we will cease to care about their timings (from an existential risk point of view), we must resort to arguments about what might affect their relative appearances; even in math, arguments or proofs come with non-trivial error rates—so how much more so in a legal or economic argument? To not be banal, we would need to make a very solid case indeed—a case I cannot make nor will make here. Let’s assume that the case has been made and examine an easier question, how feasible such strategies are at accomplishing the goal at all.
+
+
+## General Feasibility
+
+
+How feasible is this? The relevant measure of progress, Moore’s law, has operated reliably since the 1950s, over more than 60 years, and has even sped up at times. This would suggest it is difficult to slow down or reverse this particular kind of technological progress.
+
+
+On the other hand, at no point in those 60 years has anyone seriously attempted to slow down Moore’s law, and any attempt to do so will have been through ordinary commercial methods, which are highly limited in what coercion can be applied. In particular, that 60 year period has been historically unusually favorable for technological development, with no major wars in the relevant nations like Japan, Taiwan, or America (historically unusual—and a war involving China was, and still is, perfectly plausible). Had Moore’s law survived a multilateral thermonuclear exchange, that would be evidence for robustness. Had Moore’s law survived legal assault like peer-to-peer filesharing has, that would be evidence for robustness. But in fact, Moore’s law has been heavily favored by government subsidies to research as American computer & semiconductor capabilities were seen as a major advantage over the Soviet Union during the Cold War; and they have continued, as with the end of the Cold War, computers also became a key part of the American economy and self-image. (‘We may not have manufacturing’, the elites say, ‘but we’re still the best Internet and computer economy in the world! Just learn you some computer stuff and there is a good job waiting in Economy 2.0 for you!’ There is enough truth to this.) Where there is sufficient political will, even the most dramatic and accessible technology can decline—witness the end of Ming China’s extraordinary sea expeditions led by Zheng He or Tokugawa-era Japan’s suppression of firearms. Throughout history, there have been long periods of technological stagnation or even regression: to draw a straight or exponential line from a few points using overlapping chronologies is just cherry-picking.
+
+
+To shut down Moore’s law, one can attack either the potential for future improvements or the existence of current capability:
+
+- 
+
+If all research ended today, then Moore’s law would quickly die: some efficiency can be ironed out of existing production capability, but these price drops would quickly hit an asymptote where new discoveries would be required to make any noticeable improvements.
+- 
+
+If research continued, but all chip fabs were destroyed, the knowledge would be sterile as every chip would be produced in small hand-made quantities; and the complexity of every additional advance would make each batch more expensive. (Price cuts must be realized at scale; see later.)
+
+
+# Targets for Regulation
+
+
+When examing a system to speed it up or slow it down, one wants as much leverage as possible, to manipulate central nodes. In a highly distributed network, manipulation may be difficult to impossible as no node is especially important: the system can only be manipulated by manipulating a large fraction of the nodes. But many networks are not very distributed, and may looks more like a butterfly or follow the bow tie organizational architecture seen in cellular metabolism, where a vast number of metabolic processes all tend to be mediated by a central metabolite such as ATP; similarly, most electronic devices go through the standardized form of electricity provided by the power grid, or Internet connections through TCP/IP.
+
+
+Whereas the physical Internet is famously distributed, the semiconductor industry is amazingly centralized: <14 companies make up the majority of global manufacturing. Much of the industry (like AMD or ARM) does not actually possess manufacturing facilities; they focus on research, design, and licensing. The facilities require myriads of skills, resources, and tools, and also as in a bow tie, the outputs of these few facilities are shipped world-wide to be used in countless applications in every field of endeavour. The chip fabs look very much like the knot of a bow tie and where we might want to start.
+
+
+# Fab Costs and Requirements
+
+
+The costs they bear to build each chip fabrication plant is astounding, and increasing even as revenue growth slows (squeezing out many old companies)6; the basic equipment alone begin in the hundreds of thousands of dollars, lithography machines were $62.34$402009 million a piece in 200917ya, and the most expensive single pieces of equipment (like steppers) can reach prices as high as $76.18$502012 million dollars. The software licensing and engineering costs that go into a cutting-edge processor are equally staggering; Brown & Linden 2005 (see also Andreas Olofsson):
+
+
+Cost reduction via offshore investments in low-wage countries was not a feasible strategy because fabrication is so capital-intensive that labor typically accounts for 16% of costs (including depreciation) in U.S. fabs producing 200mm wafers, and less than 10% in the newer 300mm fabs, which undercuts the major labor cost advantage of most industrializing countries.30…The economic characteristics of each step of the process differ substantially. Design is skill intensive, and requires expensive EDA (electronic design automation) software, which is typically licensed per design engineer. Fabrication requires a huge fixed investment (currently on the order of $3.52$22004 billion [c. 200422ya]) to build a plant (called a fab) that holds a wide variety of expensive equipment and that meets extreme requirements of cleanliness. Assembly also requires expensive equipment, but the overall costs of plant and equipment are much lower than for the fab, as are the average skill requirements. Overall, worker skill requirements go down along the value chain (ie. design is more skill-intensive than manufacturing, which is more skill-intensive than assembly)…The availability of outsourcing (foreign or domestic) is particularly important for small companies and start-ups because of the relatively large fixed cost of EDA tools, which are typically licensed per engineer. One consultant estimated that the minimum annual software expense for a small company is $16.98$102005 million.85 For the industry as a whole, EDA expense runs close to 1% of revenue. In that case, a company earning less than $1.7$12005 billion in revenue would be below the efficient scale for in-house design. Only the nine largest fabless companies met that criterion in 200422ya. One consultant estimated that outsourcing even within the United States would save a small start-up that does fewer than five designs a year up to two-thirds the cost of doing the work in-house.86
+
+
+…Chip design is highly skill-intensive, since it employs only college-trained engineers. A couple of medium-size chip designs will employ as many electrical engineers as a fab for a year or more (although the skills are not directly transferable). A complex chip design like Intel’s Pentium 4, with 42 million transistors on a 180nm linewidth process, engaged hundreds of engineers for the full length of the five-year project.[“Comms held Pentium 4 team together”, EE Times, November 1, 200026ya. “Linewidth” refers to the size of the features etched on a wafer during the fabrication process. Each semiconductor process generation is named for the smallest feature that can be produced.]
+
+
+…The software effort itself has increased by 375%. According to one software executive, a typical chip in 199531ya went into a stand-alone product and required 100,000 lines of code. In 200224ya, a typical chip for a networked programmable product requires a million lines of code.60 [Jerry Fiddler, chairman of Wind River Systems, cited in “Keynoter says chip value is in its intellectual property,” EE Times, June 14, 200224ya.] The software, plus the greater complexity of chips themselves, has caused design validation hours to grow by 90% for each million transistors. By comparison, the growth levels for the actual design engineering jobs of logic and physical design for each million transistors are a relatively modest 17% and 52%, respectively. This is largely because, as chips have gotten more complex, the process of chip design has become more automated.61
+
+
+The facilities are even more impressive: Intel’s Fab 11X has 400,000 square feet of cleanrooms a quarter-mile on a side. Chip fabs use upwards of 40 miles of pipes for their ultrapure water (Klaiber’s law: the pipes expand in diameter each generation) with the internal monorail transportation can be 3 miles long, and the clean rooms must be constructed with custom pre-cleaned construction materials. (Cement consumption is so high that Intel just builds cement plants on their sites.) Chip fab energy consumption is measured in megawatts, 55–65 megawatts in one case. Intel cheerfully notes about its Fab 42 construction:
+
+
+First of all, Intel is using the largest land-based crane in the world—one that can pick up and place massive roof trusses that weigh ~300 tons each. The crane is so large it had to be delivered on trucks to the site in pieces—~250 truck loads in total. Additionally, Fab 42 will require 24,000 tons of steel rebar and 21,000 tons of structural steel. And to make room for the fab, 875,000 cubic yards of dirt had to be excavated. When all is said and done, ~10.5 million man hours will be required to complete the project.
+
+
+A fab cost ~$3.34$1.51998b in 199828ya, $3.52$22004b in 200422ya, $4.77$32007b in 200719ya, and $7.89$52010b by 201016ya. Jurvetson wrote in 200422ya that
+
+
+Another problem is the escalating cost of a semiconductor fab plant, which is doubling every three years, a phenomenon dubbed Moore’s Second Law. Human ingenuity keeps shrinking the CMOS transistor, but with increasingly expensive manufacturing facilities—currently $5.29$32004 billion per fab.
+
+
+Ross 2003 didn’t foresee the coming explosion in prices in describing Moore’s Second Law, or Rock’s law as he prefers:
+
+
+Sometimes called Moore’s Second Law, because Moore first spoke of it publicly in the mid-1990s, we are calling it Rock’s Law because Moore himself attributes it to Arthur Rock, an early investor in Intel, who noted that the cost of semiconductor tools doubles every four years. By this logic, chip fabrication plants, or fabs, were supposed to cost $11.14$51998 billion each by the late 1990s and $18.19$102003 billion by now.
+
+
+Not so. VLSI Research estimates that fabs cost $3.64$22003 billion apiece, the same as in the late 1990s, even as their productivity has gone up. “In the 1980s, the fabs increased their yield; in the 1990s, they started [increasing] their throughput,” Hutcheson says. (Throughput refers to the number of wafers a fab produces in a given time.) Wafer throughput rose from 20 per hour in the early 1990s to about 40 to 50 an hour today.
+
+
+Anyhow, the focus was wrongheaded; what matters is not the cost of the fab but the value of its product. If a $181.87$1002003 billion fab made so many transistors per penny that it could undercut the prices of a $18.19$102003 billion competitor, it would be economical (if, of course, you could get the seed capital together from a coalition of companies-or continents).7
+
+
+Intel’s Fab 32 cost an estimated $4.77$32007b in 200719ya (clean rooms: 184,000 square feet; total: 1 million square feet), revised to $5.43$3.52011b by 201115ya. A 2009–201016ya upgrade to an Intel fab, Fab 11X, cost $3.95$2.52010b (on top of the $3.18$22007b upgrade in 200719ya). Intel’s Fab 42 (begun 2011–201214ya) is projected at >$15.53$102011b, and in January 201412ya, Intel halted development—“touted as the most advanced high-volume semiconductor-manufacturing facility in the world” and “among the world’s largest construction projects in recent years”—after ~$1.48$12014b of construction was completed. The ‘first stage’ of GlobalFoundries’s New York 1.3 million square foot fab will cost >$7.01$4.62012 billion dollars ($1.52$12012b reportedly supplied by New York State); GlobalFoundries CEO Sanjay Jha estimated in 2017 that a 7nm-capable chip fab would cost $13.48$102017–$16.18$122017b and the 5nm $18.87$142017–$24.27$182017b. TSMC’s Fab 15 in Taiwan is estimated at >$14.17$9.32012b, and they are preparing to start a fab in 201511ya projected at >$37.33$262015b; a $26.96$202017b estimate for their next fab was repeated in 2017; in line with the scaling, their “1nm” node for 2028 will cost >$32b. Construction of a German chip fab has been blamed for contributing to the financial hobbling of formerly competitive AMD8, and involved companies are resorting to collaborations to cover the capital costs, even for the largest players (eg. Intel & Micron building a $4.57$32012b+ Flash fab together, or Samsung still able to build memory chip fabs with internal financing its memory factories—as a government-backed chaebol representing 1⁄5th of the world’s 15th largest economy). The trend shows little sign of abating for a variety of reasons (Kim 2008), and vastly outpaces inflation. At current rates, it is not impossible that the total cost of a bleeding-edge CPU/GPU chip fab may pass the $100b (inflation-adjusted) mark somewhere in the 2020s or 2030s—well before a number of the Bostrom-Sandberg estimates for hardware power reaching brain emulation levels. These billions of dollars of expenditures are developed & managed by hundreds of thousands of employees: TSMC has >38k and Intel >104k.
+
+
+To put these financial & infrastructure investments in perspective (particularly the projected TSMC investment of >$37.33$262015b for one new fab), the Manhattan Project—one of the largest, most expensive (after Apollo), and intricate scientific programs ever undertaken, trying multiple pathways to the atomic bomb in parallel—cost $29.11$21945 billion in 194581ya or $25–30b in 2012 dollars, with 130k employees.
+
+
+One can’t help but think that even if possible, no one will engage in such capital expenditures because it will be bad business. A semiconductor consultant shows a 201214ya estimate about the cost per gate of the smaller processes (which may require new chip fabs):
+
+
+Figure 1: Cost per gate
+
+
+3. Next-generation 20-nm planar CMOS will have a range of additional tolerance control challenges compared to 28-nm. One likely impact is that cost per gate at 20-nm will be higher than at 28-nm. With the potential for increased cost per gate, additional compaction will need to be done, which will lengthen design completion times. Cost per gate at 14-nm can also be higher than that at 28-nm.
+
+
+…New libraries will need to be developed, IP transitioned to the FinFET structures, test chips run, and production volumes ramped up. At 14-nm, complex chips will cost $304.72$2002012 million to $761.81$5002012 million to design, and re-spins will cost $30.47$202012 million to $76.18$502012 million. The cost of failure will increase dramatically. What’s more, 14-nm FinFETs are not likely to be in high-volume production outside of Intel until 2016 to 2017. High-volume production will require lower power consumption and lower cost per gate than earlier generations of technologies. After 14-nm, there will be a range of new challenges (EUV, 450-mm, carbon nanotubes, etc.). The semiconductor industry must be realistic that the supply challenges are becoming more difficult, and there will be a lengthening of the time to migrate to smaller feature dimensions.
+
+
+Consistent with squeeze on revenue and escalating capital costs is the observed distribution of manufacturing. “Resource Allocation & Scheduling in Moore’s Law Twilight Zone”, Benini July 201214ya, pg2; we see 20 manufacturers at the ancient 130nm, but just 5 manufacturers at 22/20nm:
+
+
+“Market volume wall: only the largest volume products will be manufactured with the most advanced technology”
+
+
+## The Scale Thesis
+
+
+Given all this, a natural objection is that chip fabs are only centralized like this because it’s slightly better than the decentralized alternatives. There’s no point in regulating chip fabs because any serious slowdown will simply encourage decentralization and smaller-scale chip fabs. I contend that the above figures are so extreme that this cannot be the case, and we have excellent reasons to believe that this centralization trend is robust and fundamental, and driven by basic economic facts and particularly brutal economies of scale; hence, chip fabs will continue centralization as long as possible, and any attempt to decentralize may well itself drive prices up and slow down processor development—exactly as intended.
+
+
+Experience curve effects are one of the more robust observations in manufacturing: the more you make & for longer, the more experience or intelligence builds up in your facilities & humans, and the cheaper or better they can make them. Nagy et al 2013 observes the curve in the 61–62 areas compiled in the Performance Curve Database. The curve may be related to Moore’s law (eg. it is seen in Korean semiconductor production).
+
+
+One early example of the experience curve effect in computing is given on pg171 of Turing’s Cathedral (201214ya) by George Dyson while discussing the choice of commodity components in the construction of the IAS machine (one of the influential early implementations of a Von Neumann architecture):
+
+
+“If the 6J6, which was the twin triode, had not existed during the [WWII] war and had not been widely used, I don’t know what we would have used for a tube,” says Willis Ware. Not only did the widespread use of the 6J6 mean that it was available inexpensively, but it was found to be more reliable as well. One of Bigelow’s last assignments at the Statistical Research Group at Columbia had involved the reliability of munitions. “There had been a lot of accidental explosions of rocket propellant units on airplanes in which the explosion would take the wing off a plane,” he explains. “And this would happen in a very rare and erratic fashion. So we had some excellent people in statistics there, including no less than Abraham Wald, who founded sequential analysis while working with our group. Statistical thinking had become a part of my way of thinking about life.” It turned out that the most reliable tubes were those produced in the largest quantities-such as the 6J6. As Bigelow described it, “We learned that tube types sold at premium prices, and claimed to be especially made for long life, were often less reliable in regard to structural failures than ordinary tube types manufactured in larger production lots.”60
+
+
+That higher quality did not require higher cost was not readily accepted, especially since IBM, who had used the 6J6 as the computing element in its popular model 604 electronic calculator, had recently established its own experimental tube production plant in Poughkeepsie, New York, to develop special computer-quality tubes at a much higher cost. There was intense debate over whether the choice of the mass-market 6J6 was a mistake. Of the final total of 3,474 tubes in the IAS computer, 1,979 were 6J6s. “The entire computer can be viewed as a big tube test rack,” Bigelow observed.61
+
+
+“It was considered essential to know whether such miniature tubes as the 6J6 have radically inferior lives compared to other types, to an extent rendering their use in design a major blunder; and accordingly a crude life-test set up was devised and operated to get some sort of a statistical bound on their reliability,” Bigelow reported at the end of 194680ya. Four banks of 6J6 tubes, twenty in each bank, for a total of eighty tubes, were installed in a test rack so they were oriented up, down, and in the two horizontal positions (cathode edge-wise and cathode flat). The entire rack was mounted on a vibrating aluminum plate, and the tubes left to run for three thousand hours. “A total of six failed, four within the first few hours, one about 3 days and one after 10 days,” was the final report. “There were four heater failures, one grid short and one seal failure.”62
+
+
+# Financial Fragility
+
+
+This leads to an interesting question: if a chip fab were destroyed, how well would the company weather it? It is difficult to answer this, but I will note that Intel’s 201016ya revenue was $85.26$542010b, TSMC’s was $22.11$142010b and GlobalFoundries’s was $5.53$3.52010b. It is not clear that chip foundry companies could survive the destruction of one or two of their fabs now, much less how financially robust they will be after another cost doubling or two.
+
+
+Or will the doublings continue? If it ceases to become profitable to build chip fabs capable of building faster chips, or to upgrade the fabs, this suggests that Moore’s law may come to an end on its own without any kind of intervention. One analyst is already forecasting the death of new fabs and hence, a slowing or end to Moore’s law9. Some simple economic models put the shutdown between 201511ya and 202510.
+
+
+(The R&D efforts needed to support fabs may be similarly increasing: “…R&D costs are rapidly increasing. In 2009, around $30 billion, or 17% of revenue, went to R&D across the industry–a 40% increase over 1999.”.)
+
+
+# Effects of Fab Disruptions
+
+
+Can we make any estimates about the fragility of the networks surrounding the chip fabs as well as the fabs themselves?
+
+
+Semiconductor chips are perhaps the epitome of an “o-ring product”: sophisticated products where a single mistake anywhere in a process with dozens or hundreds of steps renders the product valueless. A single defect in a 4-core processor may—at best—disable one of its cores, forcing the manufacturer to sell it for half or less, perhaps diverting it from high-end consumers like gamers to mass-market game consoles or other customers. (For example, the PS3’s Cell processor has 8 cores but ships with just 7 functioning because the manufacturing yield of functioning Cells is so low.)
+
+## Case Studies
+
+
+### Sumitomo Chemical Fire
+
+
+An obscure incident suggests what we might see in a disruption; from “Real Chip Shortage Or Just A Panic, Crunch Is Likely To Boost PC Prices”:
+
+
+The disruptions now raging in world computer chip markets started when an explosion at a Sumitomo Chemical Co. factory in the town of Niihama, Japan, on July 4 wiped out the source of 60% of the world supply of an epoxy resin called cresol…When news of the Japan blast surfaced in such industry publications as Electronic Buyers’ News and InfoWorld, speculators started rushing to buy up the world’s supply of DRAM chips…Dataquest’s Giudici said big companies such as International Business Machines Corp. and Apple Computer Inc., which typically buy the chips under long-term contracts, are likely to get through the current price swings with only small price increases of around $79.57$301993 per machine…Even these big companies are paying sharply higher prices when they buy on the spot-market, though, he explained. DRAM prices for these large companies have jumped from $98.14$371993 on the average in May to an average of $145.88$551993 today. “Some of these companies have paid as high as $185.66$701993 in the past week,” Giudici said. The hundreds of smaller companies that have flourished in the current computer boom are likely to be forced to add $265.23$1001993 to $397.85$1501993 to the cost of each machine because they must buy on the spot-markets, Giudici said. Those hit hardest, however, are people like Ahmad who want to upgrade. Barry Lebu, president of 50/50 Microelectronics Inc. in Sunnyvale, Calif., said DRAM spot market prices are averaging $236.06$891993 per megabyte, up from $103.44$391993 just four weeks ago: “Some are as low as $183.01$691993 and some are hitting $315.63$1191993, but the average price is $236.06$891993.”
+
+
+and “Industry analyst still unsure of the significance of Hynix fire: Extent of fire damage still unknown at Hynix facility in China, Jim Handy of Objective Analysis fills us in on his take of the events”:
+
+
+There are strong similarities between this incident an another fire in 199333ya. In July of that year a fire and explosion in a Sumitomo Chemical plant removed over 90% of the world’s supply of a certain epoxy that was almost universally used to attach DRAM dice to their packages. The impact of this event was to galvanize a DRAM shortage that was already developing at that time. The shortage lasted until the end of 199531ya, longer than any shortage in the history of the DRAM market. The duration of that shortage was not the result of the fire—other factors were at play. Still, the industry very quickly transitioned from the mild onset of a shortage to a very solid shortage as a result of the incident, even though abundant alternatives to Sumitomo’s epoxy were identified within a week.
+
+
+John C. McCallum’s “Graph of Memory Prices Decreasing with Time (1957–592016)” shows an interesting abrupt plateau ~1993 for RAM, lasting to ~1997, suggesting that the RAM shortage sparked by the Sumitomo Chemical fire had long-lasting effects. The Sumitomo Chemical fire has passed into obscurity without much recent notice, so it’s hard to see how much impact it really had.
+
+
+### Toshiba NAND Memory
+
+
+As it happens, history recently gifted us with a beautiful pair of more recent, better documented examples which enables us to answer: yes, progress is fragile.
+
+
+In one example, a 13-minute power outage in a single Toshiba/WD fab in June 2019 cost an estimated ~16% of global NAND flash memory output that quarter. On 2010-12-08, the power grid serving a Toshiba-Sandisk chip fab (specializing in Flash memory) suffered a brief fall in voltage beyond what the fab’s local uninterruptible power supplies were designed for. This resulted in a fab-wide power interruption of less than a tenth of a second (~0.07). Toshiba reported it took the plant 2 days to return to 100% operation. This cut production for the quarter by 20%, and worldwide production by 7.5% (according to iSuppli’s Yang, quoted by the WSJ1112). Coverage of this incident mentioned previous incidents in 200719ya and 200013, and was reminiscent of another incident on 1993-07-04 where a fire at the only plant manufacturing a cresol epoxy resin used in manufacturing chip cases provoked an immediate doubling of DRAM prices until the plant was repaired over 4 months later, and a TSMC malware incident in 2018.
+
+
+(Given the costs involved, one might expect reliable UPSes to be default, but also remember that this fabs can be using anywhere up to the dozens of megawatts range of electricity, which might be difficult to completely UPS. Without a serious and plausible risk, it would be unrealistic to expect the industry to invest millions in substantial local electrical power capacity. And backup power systems themselves have been the source of errors—a general truth in engineering highly reliable complex systems is that the complexity added to prevent errors is itself a major source of error.)
+
+
+### Kryder’s Law
+
+
+The October 2011 Thailand floods struck at the hub of a quarter of global hard drive manufacturing capability. Western Digital restarted one flooded plant in December but others would not be online until March 201214ya. Shipped quantities were not projected to recover until Q3 2012 and it took until September 2012 for the volume to actually recover; the same source predicted that the 201115ya prices would only be matched in 201414.
+
+
+The floods enable us to give a quantitative measure of how much progress was set back. Hard drives follow Kryder’s law: unit prices halve every 12 months. As it happens, on 2011-03-28 I purchased one of the cheapest hard drives at that point, a 1.5tb Samsung hard drive for $79.18$512011. By Kryder’s law, in March 201214ya, I would be able to purchase 3tb for ~$75.05$502013 (and ~$37.53$252013 in March 201313ya). But as a matter of fact, the cheapest Newegg drive was $180.13$1202013 for 2tb. An equivalent 1.5tb drive is now not $37.53$252013 as one would have predicted before the floods, but a cool $150.11$1002013. And the cheapest 3tb drive is $300.22$2002013. So not only did one crank of Kryder’s law (a halving) not happen, a previous turn of the law was reversed, doubling prices; so we can estimate that Kryder’s law has been set back by 2 years by some “slow-moving”15 flooding conducted by brainless natural forces.
+
+
+What is striking is the long-term effect of the Thailand floods. If one were a skeptic of the “experience curve effects” previously mentioned, one might reason that R&D was constantly ongoing and so one would hope for a “catch-up effect” where the high prices were merely temporary and a sort of “super Kryder’s law” operates briefly to restore the original trend-line as the pent-up R&D improvements are implemented. Yet, industry forecasts didn’t estimate a decline until 2014, and we can watch the deviation from Kryder’s law in realtime: 6 months after March 201214ya (August 201214ya), close to a year after the floods, a 3tb hard drive’s price had fallen from $304.72$2002012 to… $228.54$1502012. Exactly as predicted from half a crank of Kryder’s law. A year later (August 201313ya), the results are even more dismal: now 3tb costs… $195.14$1302013. No catch-up effect had yet occurred and it seems unlikely that chip fabs are remarkably more robust. Extrapolating Kryder’s law and the absence of any catch-up effect, we can make some predictions out to August 201412ya:
+
+- 
+
+March 2013, a 3tb drive will cost: ~$169.62$1132013 (25% off $150) or 26.55gb/$; wrong (actual: 22.34gb/$)
+- 
+
+August 2013: $112.58$752013 (50% off $150) or 40gb/$; wrong (actual: 23.25gb/$)
+- 
+
+March 2014: $82.82$562014 (63% off $150) or 53.57gb/$; wrong (actual: 30gb/$)
+- 
+
+August 2014: $56.2$382014 (75% off $150) or 78.95gb/$; wrong (actual: 33gb/$)
+
+
+The first prediction for March 2013 was blown: it required 24–30GB/$, while the cheapest hard drive at Newegg was 22.4GB/$. So the first prediction was off substantially, and on the low end, suggesting that if anything, I underestimated the slowdown in hard drive growth. This pattern repeated itself through the last predictions—where I had hoped for as much as 84gb/$, I must settle for a measly 33gb/$. Looking for explanations, I learned that the hard drive industry has seen a wave of mergers & consolidations (just like the chip fab industry), going from scores of manufacturers to just 3. This consolidation was partly responsible for the flood disasters by concentrating facilities, but has other implications: fewer competitors means less competition, less pressure to undercut the others, fosters cartel-like behavior, and suggests declining profitability or diminishing returns since the mergers may be driven by economies of scale. Regardless, the abrupt halt of Kryder’s law seems to have caught others by surprise too, such as backup provider Backblaze which wrote on 2013-11-26:
+
+
+We are two years removed from the horrific flooding that caused the Thailand Drive Crisis that created a worldwide shortage of hard disk drives. Prices for hard drives spiked and have remained stubbornly high, only returning to pre-crisis levels in the last couple of months. The market and competitive forces that over the past 30 years have predictably driven the cost per gigabyte of storage down took a vacation…In addition, the cost per gigabyte also declined in an amazingly predictable fashion over that time. Beginning in October 201115ya those 30-years of history went out the window…Cost per GB for Hard Drives: In September 201115ya, our cost per gigabyte was $0.07$0.042011. That low water mark would not be achieved again until September 201313ya. In that two-year period, our cost ran as high as $0.1$0.062013 per gigabyte…When the Drive Crisis started, industry pundits estimated that the hard drive market would take anywhere from 3 months to 1 year to recover. No one guessed two years. Was the delay simply an issue in rebuilding and/or relocating the manufacturing and assembly facilities? Did the fact that the two industry leaders, Seagate and Western Digital, had to integrate large acquisitions slow down the recovery and subsequent innovation? What about the dramatic shift towards tablets and away from Desktops and Laptops, has that changed the hard drive market and the declining cost per gigabyte trend line forever? Whatever lies ahead, we’ll adapt.
+
+
+Almost 4 years later, in July 2017, it has become clear to Backblaze that not only has the recovery never happened, but post-2011, the improvement curves for hard drives have drastically worsened:
+
+
+Up through the 4 TB drive models, the cost per gigabyte of a larger sized drive always became less than the smaller sized drives. In other words, the cost per gigabyte of a 2 TB drive was less than that of a 1 TB drive resulting in higher density at a lower cost per gigabyte. This changed with the introduction of 6- and 8 TB drives, especially as it relates to the 4 TB drives. As you can see in the chart above, the cost per gigabyte of the 6 TB drives did not fall below that of the 4 TB drives. You can also observe that the 8 TB drives are just approaching the cost per gigabyte of the 4 TB drives… the 6 TB drives have been in the market at least 3 years, but are not even close to the cost per gigabyte of the 4 TB drives. Meanwhile, back in 201115ya, the 3 TB drives models fell below the cost per gigabyte of the 2 TB drives they “replaced” within a few months. Have we as consumers decided that 4 TB drives are “big enough” for our needs and we are not demanding (by purchasing) larger sized drives in the quantities needed to push down the unit cost? Approaching Zero: There’s a Limit: The important aspect is the trend of the cost over time. While it has continued to move downward, the rate of change has slowed dramatically as observed in the chart below which represents our average quarterly cost per gigabyte over time.
+
+
+“Backblaze Average Cost per GB for Hard Drives; By Quarter: Q1 2009–Q2 2017”; shows 2011–201214ya price spike due to Thailand floods followed by slower cost declines 2013–42017 than historically.
+
+
+The change in the rate of the cost per gigabyte of a hard drive is declining. For example, from January 200917ya to January 201115ya, our average cost for a hard drive decreased 45% from $0.17$0.112009 to $0.09$0.062011—$0.08$0.052011 per gigabyte. From January 201511ya to January 2017, the average cost decreased 26% from $0.05$0.042015 to $0.04$0.032017—just $0.01$0.012017 per gigabyte. This means that the declining price of storage will become less relevant in driving the cost of providing storage.
+
+
+# Reactions
+
+
+## State-Actors: Why Not Terrorism
+
+
+We have seen how difficult fabs are to make, how few they are, how even small disruptions spiral into global shifts. Does this imply that regulation could be accomplished by any modestly capable group, such as a Unabomber imitator or a souped-up ITS?
+
+
+No:
+
+- 
+
+the size, scale, and remoteness from neighboring buildings of chip fabs implies both that securing them against conventional paramilitary assault is easy, and as a percentage of construction & operating costs, trivial. Securing them against conventional military assault (cruise missiles, artillery strikes, etc.) is highly nontrivial but also unnecessary as no terrorist groups operating in the relevant countries has access to such equipment and personnel. Terrorists are barely OK at attacking soft civilian targets which are easy to access and impossible to defend.
+
+
+This may change in the future due to technological advancements like weaponized aerial drones, which have been forecast by strategists like John Robb to radically level the military playing field, but I suspect they and other changes may be a wash or even tilt the playing field against small actors (as they have famously done in Afghanistan & elsewhere).16
+
+
+If terrorists cannot go after the chip fab, they can go after supporting infrastructure: attacking instead the power plants or power grid. But such an attack is still sophisticated beyond almost all terrorist attacks ever done and is also easily defended against: plants use up to 60 megawatts of power, and 1 megawatt of power-producing capacity can be installed at $1.52$12012–$10.67$72012m17 depending on sources, so in the worst case the power vulnerability can be eliminated by chip fabs setting up their own on-site power supply with an investment of <$639.92$4202012m (60 × 7). Of course, the investment is not waste—one doesn’t need to buy huge quantities from the local grid if one has one’s own plant standing idle. Power plants are not an investment the semiconductor industry would make for no reason (especially if a local grid is available), but the first successful attack on an electricity grid and shutdown of a chip fab would immediately motivate a shift away from the grid by the remaining chip fabs (similar to how 9/11 eliminated the ability of terrorists to hijack any American planes, because the passengers will attack them suicidally rather than cooperate). Even bean counters won’t risk ruining a >$30.47$202012b investment because they refused to pay for a <$609.45$4002012m local power plant!
+- 
+
+Terrorist groups are intrinsically dysfunctional from the point of view of getting things done: they change their ideological positions, they refuse negotiations or compromises, they fail to claim responsibility for attacks, they cause ‘backfire effects’, and have a statistical record of victory in the single percentage point range. In general, their motivation seems to be not any sort of rational choice of methods (spectacular bombings being ineffective in the first place) but rather a marginal & unpopular form of social bonding. Any person seriously concerned about artificial intelligence would be pretty stupid (and heedless of the many good reasons to err on the side of caution in consequentialist reasoning) to conclude that terrorism is the best strategy. Since violence is a last resort, it will be resorted to only by those who think the threat is most pressing, which for reasons similar to the winner’s curse in auctions, will generally be those who have made the largest errors in reasoning. (This has been formalized as “the unilateralist’s curse”.)
+
+
+Terrorists motivated by such abstruse goals & reasoning will likely be even more dysfunctional; if highly educated and intelligent Westerners in STEM fields can vociferously disagree on whether the creation of AI is even possible during the 21st century (much less dangerous), and materialism still be a live issue in philosophy of mind, it is highly unlikely that any noticeable numbers of people will change their minds until an AI has actually both been created and also demonstrated its harmfulness. And even then it is unclear how well people would be able to coordinate: the “nuclear taboo” took decades to develop. The only people who understand or care about these issues are geeks, and they are famously bad at coordination18 or agreement19 (“like herding cats”). Contrast the utter failure of eco-terrorists—who are motivated by grievances backed by past centuries of extraordinarily well-documented environmental damage and operating in a dominant Western ideological paradigm of environmentalism—to do anything more than petty arson & vandalism, with what our hypothetical terrorist group would have to accomplish.
+- 
+
+Trans-national terrorist groups like Al-Qaeda have demonstrated in the 2000s that they are not resilient to allied government suppression; this point is most vividly illustrated by considering video of Osama bin Laden in his Pakistani safe house before his assassination, watching himself on TV, and vainly writing endless emails to his remaining subordinates and wishful plotting.
+
+
+Where such groups currently succeed, it is by a kind of ‘franchise’ strategy where the local members and nationalist grievances take dominance. At best, facilities could be attacked in one country and its neighbors, which would certainly delay progress but on a time-scale measured in years rather than decades, as the industry routes around the damage by rebuilding elsewhere and increasing capacity in existing chip fabs.
+- 
+
+There is no possible benefit to the terrorist group succeeding
+
+
+This is a highly speculative utilitarian strategy, which could win no fervent adherents (no soldier jumps on a grenade for the sake of a cost-benefit equation), as success is measured in just the status quo—no faster chips—and one of the few scenarios in which one could have evidence of success would be the creation of de novo AGI, at which point any potential chip fab terrorist has more pressing concerns. Similarly, abstract ideals like Communism have always been able to promise their adherents more concrete benefits like groupies or high positions after the war, but what can be promised in this case?
+
+
+All of these, however, imply that a nation or coalition of nations could: nations have large conventional military forces, (somewhat) functioning decision processes, international pull and combat capability (especially in the case of the USA’s Air Force or any nation possessing cruise or ballistic missiles), and value the status quo in which they are top of the food chain. Some governments are even so farsighted as to work on existential risks.
+
+
+## Covert Fabs?
+
+
+The special construction, power & water consumption, and sheer scale of chip fabs suggest that it would be difficult to covertly build a competitive underground chip fab; the Toshiba incident suggests that weak non-nuclear EMPs may be viable; the fragility of clean rooms suggest chip fabs could withstand little overpressure damage; the sensitivity of the chips & equipment to mechanical damage (which will likely increase as smaller nanometer processes are used) suggest that attenuated shock-waves20 may cause outsized consequences. Worse, for commercial reasons, all existing facilities appear to be located within US allies and within short fighter range of American military bases (for example, all of Intel’s facilities).
+
+
+We can contrast chip fabs with parallel examples of successful black-market production:
+
+- 
+
+counterfeit electronics are not produced at covert factories, but by legitimate factories which are either devoted to the task and condoned by local authorities, or by above-board factories which are diverting part of their production to knockoffs of their real production during what is ostensibly downtime (“shadow shift production runs”)
+- 
+
+illicit drugs:
+
+
+drug laboratories are numerous and produce many tons of products but they are generally small and relatively low-tech: the process of one of the most challenging narcotics to produce, heroin, was discovered more than a century ago, and the challenge stems more from the painstaking handling and manipulation by an experienced heroin chemist during the explosive21 acidifying step. Methamphetamine can be cooked up in a bathroom following the “shake and bake” recipe, and is popular in part for this reason. Marijuana growing is trivial (albeit growing the finest marijuana is very challenging). Cocaine processing was similarly devised around a century ago and has multiple processes, nevertheless, the processes can be pretty simple: in one, gasoline dissolves the cocaine from the leaves, sulfuric acid & water are stomped into the gasoline, and then a base like lye is added to form a cocaine paste. (Sulfuric acid, lye, water, and oils have been available for centuries or millennia.) It’s worth noting that for both heroin and cocaine, requiring the purification of substantial amounts of bulk raw materials (poppy sap and coca leaves respectively), even these relatively primitive processes take place in labs in lawless cartel-protected areas like the Golden Triangle.
+- 
+
+bioweapons:
+
+
+weaponized bacteria produced in a covert lab might be an example, but so far they have not been produced. The best known example of recent biowarfare, the American anthrax attacks in 2001, remain mysterious but there seems to be general agreement they were produced at or were related to the large well-funded sophisticated legitimate American military biowarfare laboratory at Fort Detrick. The Aum Shinrikyo sarin (toxin discovered 193888ya) chemical attacks stand as something of a counterpoint; they had facilities for producing sarin which were described as ‘sophisticated’, but while they were very interested in more complex weapons like nuclear bombs and bacteria, they only made sarin and VX gas, a package-bomb, and an attempt to manufacture 1000 AK-47-style assault rifles ended in failure with one working prototype (although the AK-47 design is famous for being simple and producible in even primitive countries). It may be that bioweapons are much more demanding of “tacit knowledge” than generally assumed.
+- 
+
+Nuclear weapons are an interesting enough example they deserve their own section.
+
+
+### Case-Study: Suppressing Nuclear Weapons
+
+
+The task of slowing Moore’s law can be analogized to the task of slowing or stopping nuclear proliferation:
+
+- 
+
+objects: nukes :: processors
+- 
+
+economic value: cheap energy, medical applications, excavation etc :: any information-processing task
+- 
+
+trend: we can analogize in a few ways:
+
+- 
+
+number of possessors :: countries with cutting-edge chip fabs
+- 
+
+megatonnage of weapons :: speed of processors
+- 
+
+number of weapons :: number of processors
+
+
+The trend brings out how modest our aims are with Moore’s law. What would a rogue state have to do to start or continue a Moore’s law of nuclear weapons? Let’s take North Korea as an example. North Korea has a few nuclear bombs of a low kilotonnage. To continue any of the 3 analogous trends it would have to:
+
+- 
+
+spread nuclear weapons to one country in the next 18 months (South Korea?), 2 countries the next 18 months (Vietnam? Cambodia?), 4 countries the next interval (Thailand? Laos? Japan? Mongolia?), …
+- 
+
+double the kilotonnage to say 50kt in the first period, 0.1mt the next, 0.2 the next, 0.4, 0.8, 1.6, 3.2, and within 4 doublings it would be testing a Tsar Bomba and then have to begin designing gigaton bombs of the sort that neither the United States nor Russia—the pre-eminent nuclear weapons designers—ever dreamed of.
+- 
+
+begin doubling its weapon count, which would involve vast scaling up of its local uranium mining activities and of course many new nuclear reactors for processing said uranium ore. The original nuclear weapons program was estimated to cost several percentage points of North Korea’s annual GDP for decades, and while it would no doubt be cheaper to manufacture bombs once the research is done, such doublings would quickly drive North Korea (more) bankrupt.
+
+
+All of this is remarkably demanding; to give an idea, Liberman 200323ya briefly discusses and dismisses as absurd the idea that the American government (!) could build a cutting-edge chip fab for military use (emphasis added):
+
+
+…the Department of Defense can attempt to achieve temporary solutions, such as building its own next generation government-owned chip fabrication facility, but this is likely to be both expensive and ineffective. If the best research and design capability shifts to China along with manufacturing, this approach will not work past the next generation or two of semiconductor chip production22. In addition, such temporary solutions are not only unworkable over time if the U.S. wishes to retain the best capability that is required for defense and intelligence needs, but will be far more expensive than the solutions proposed above. This is because the opportunity to leverage off the commercial sector (an approach which the DoD and intelligence community rely upon at present) for new advances and cost savings will be lost.
+
+
+This analogy is amusing, but more interesting is how well nuclear proliferation has succeeded. At the dawn of the Nuclear Age, it was generally believed that proliferation was inevitable: as the technology diffused (eg. diffusion purification techniques) and ever more trained engineers came into being and more nations acquired nuclear weapons, still more nations would acquire nuclear weapons, and so on and so forth. In particular, it was “obvious” that nuclear strikes would become standard in warfare: the US would use a nuke on Russia to forestall Russia’s acquisition, or they would be used in Korea23, or in Vietnam, or in the Middle East, or terrorists would steal one from Russia (or Pakistan or…) or… But curiously enough, 67 years after Hiroshima, not only have there never been any nuclear attacks post-WWII, proliferation has actually been an incredible success, with the nuclear club numbering a mere 8 members—with multiple countries abandoning their nuclear weapons or nuclear programs24.
+
+
+Literature on the development of nuclear bombs afford another useful perspective: the importance of “tacit knowledge” in the development of advanced nuclear weapons. Norbert Wiener remarked that just knowing that it was possible for the USA to build & detonate a nuclear bomb by 194581ya made it easy for any powerful country to develop one25, and MacKenzie & Spinardi 199531ya cite (pg10–11) several civilian examples of what might be called reinventions of the atomic bomb (to which we could add the German team’s belated realization of their critical mass mistake once they learned of Hiroshima), observing that the mere fact of success of various programs encourages additional programs26. But in no case do they come up with sophisticated designs along the lines of suitcase nukes, effective tritium-boosted multi-stage hydrogen bombs, or compact ICBM-capable designs, and this holds true of nations attempting to join the nuclear club: their bombs are all apparently relatively crude and low tonnage, and incomparable to the cutting-edge of American or Russian designs.
+
+
+So the lesson from nuclear proliferation supports our thesis: highly-advanced technologies on the cutting-edge are much easier to suppress and control than primitive slow designs which represent the state-of-the-art from possibly many decades ago.
+
+
+However, the nuclear example also emphasizes the things countries will not do. In the early Cold War, when the USA was still the sole nuclear power and the USSR was expected to take another 5–10 years for its active nuclear weapons program to succeed, there were a number of proposals that the USA eliminate the threat: launch a unilateral strike on the USSR, deliver an ultimatum to cease nuclear development, or form a world government with exclusive control over nuclear weapons, etc. At this point, there was near-certainty that nuclear weapons were real & an existential threat to countries and humanity, that the USSR under Stalin would seek nuclear weapons, that any nuclear standoff would be precarious & dangerous, and that there would likely be proliferation to other countries (not just allies of the USSR & USA like China or England). The USA chose inaction and an arms race, declining any more extreme measures (although it came close during a war for a minor country called Korea, which strategically makes no sense). Given that the case for preempting the Cold War & MAD was in every way clearer & better than for chip fabs or AGI in general, a fortiori we can predict with ~100% confidence that there will never be any conventional military attacks on chip fabs with the purpose of delaying AGI development.
+
+
+## Hardened Non-Covert Fabs
+
+
+Hardening does not seem to be an answer. Leaving aside the previous observation that it’s unclear whether companies (or even nation-states) can survive the construction costs of unhardened fabs, even basic hardening is expensive. Linger et al 2002 argues that contrary to the usual estimates (that ordinary underground construction costs 3–5× normal construction costs), Norwegian construction reports (with their long experience in underground construction) for power stations and waste treatment plants indicate that underground construction premiums are more like 1.25× and may eventually save money. An Army overview agrees27. These hardening cost-estimates, however, are not for structures robust against nuclear or bunker-busting bombs, which require overburdens up to 200026ya feet. The Cheyenne Mountain complex is smaller than what might be needed to contain & defend a post-2012 chip fab against US assault; a 1997 page mentions “duplicating this facility today with all of its missions would cost about 18 billion US dollars” (based on its 196561ya construction cost of $992.55$1421965m, which inflation-adjusted is ~10 times larger). So optimistically, hardening would cost another 25% (>$7.62$52012b based on the TSMC Fab 15 estimate) or more than 500% (>$190.45$1252012b likewise).
+
+
+## The China Question
+
+
+Like any good mercantilist developing East Asian country, China has set its heart on moving up the value chain of chip manufacturing and heavily subsidized local companies28. While it may dominate product assembly and the simplest chip fabrication, its full-strength processors like the Loongson is far from state-of-the-art (although this may give it an edge in power consumption at supercomputer scale). Asia is a major semiconductor consumer, and a great deal of general manufacturing has already shifted there; both Taiwan and China are potential competitors29.
+
+
+If we accept the Loongson architect’s projection of parity with Intel etc. in 20 years (2031), this means that the current situation of all cutting-edge chip fabs in reach of US power may face a serious barrier: chip fabs located in mainland China. China is one of the few military powers that can give the USAF a run for its money, and the other contender, Russia, is entirely out of the chip fab business. What happens in, say, 2041 with the Chinese chip fabs churning out mature optimized designs? At this point, the WBE Roadmap projections suggest that brain emulation could be feasible by the 2040s and so the target chip fabs may well have all been built in China.
+
+
+Would China buy into any plan which the West somehow managed to agree on?
+
+
+I consider the possibility remote for many reasons when I project forward from the China of 201214ya:
+
+- 
+
+Economic growth is the chief mandate of the Chinese government, and anything that might sabotage that is opposed.
+- 
+
+Rent-seeking and corruption are common, particularly with ‘prestige’ projects or extremely large business interests; if chip fab costs are brought under control, they will still be enormous pool of capital backed by even more enormous corporations. Such entities will be able to defend themselves and defeat any such agreements.
+- 
+
+International agreements are seen as a tool of an international system stacked against China. Any requests or “meddling” in Chinese affairs is greeted with reflexive nationalism.
+
+
+Conversely, international agreements are best seen as a form of legal warfare; an exponent of this view was the widely-read 199 text Unrestricted Warfare.
+- 
+
+China feels entitled to anything the West did during its own development; if the West could pollute with carbon emissions, China may pollute (one of its main rationale for ignoring things like the Kyoto agreement or sabotaging climate-change talks). A similar argument may be used with chip fabs.
+- 
+
+Speculatively, there may be more cultural comfort in China with the possibility of ‘robots’; at least, some Japanese have ascribed Japanese investment into robots as being due to such cultural traits (eg. Murakami 2005), and this may carry over to China. With little anxiety about the issue, why would they bother especially when the costs are so concrete and near?
+
+
+All of these traits can change, and I fully expect many to change before 2040 (for example, I expect nationalism & xenophobia to decrease as the population ages, and respect for international law will increase as China increasingly becomes the country that benefits from a tidy status quo), but all of them, on top of the original unlikeliness?
+
+
+# External Links
+
+
+- 
+
+“AI Chips: What They Are and Why They Matter (An AI Chips Reference)”, Khan & Mann 2020; “The Semiconductor Supply Chain: Assessing National Competitiveness”, Khan et al 2021
+- 
+
+“Arms Control and Intelligence Explosions”, Shulman 2009
+- 
+
+“How Intel Makes a Chip: The development of a microprocessor is one of the riskiest, costliest, and most technically complex feats in business”
+- 
+
+“Manufacturing memory means scribing silicon in a sea of sensors: ‘Industry 4.0’ is already here for some companies—especially silicon foundries”
+- 
+
+“A Deeper Dive into Semiconductor Foundries”
+- 
+
+“The Prize: Why Taiwan and its Place in the Global Semiconductor Supply Chain Matter to the United States”, Matthew Brazil 2021
+- 
+
+“Let’s Build a Chip—With Math”
+- 
+
+“The resilience myth: fatal flaws in the push to secure chip supply chains: From China to the US to Europe, semiconductor makers are being showered with subsidies, but to what effect?”
+- 
+
+Discussion:
+
+- 
+
+LessWrong
+- 
+
+Reddit
+- 
+
+Hacker News: 1, 2
+
+
+- 
+
+Any actual AI is likely to be a blend of approaches—whole brain emulation and AGI form a continuum from a brute-force molecule-by-molecule emulation of a dissected human brain to a first-principles learning algorithm capable of generic cross-domain learning & action which bears as much relation to human thinking as a helicopter flies like an albatross or a submarine (pace Dijkstra) swims like a shark. A blend might be something like a vast neural network based on human imaging studies but with entire chunks of the brain replaced with simplified programs and hardwired assumptions imposed on each neuron in the interest of optimization & computational tractability, where the simplified chunks are those parts of brain functionality we have understood to the point where we can reimplement them by hand.↩︎
+- 
+
+Analog network population mode↩︎
+- 
+
+Stochastic behavior of single molecules↩︎
+- 
+
+After writing this essay, I discovered Berglas had briefly pointed out that processors are a weak point:
+
+
+Trying to prevent people from building intelligent computers is like trying to stop the spread of knowledge. Once Eve picks the apple it is very hard to put it back on the tree. As we get close to artificial intelligence capabilities, it would only take a small team of clever programmers anywhere in the world to push it over the line. But it is not so easy to build powerful new computer chips. It takes large investments and large teams with many specialties from producing ultra pure silicon to developing extremely complex logical designs. Extremely complex and precise machinery is required to build them. Unlike programming, this is certainly not something that can be done in someone’s garage.
+
+
+So this paper proposes a moratorium on producing faster computers. Just make it illegal to build the chips, and so starve any Artificial Intelligence of computing power.
+
+
+We have a precedent in the control of nuclear fuel. While far from perfect, we do have strong controls on the availability of bomb making materials, and they could be made stronger if the political will existed. It is relatively easy to make an atomic bomb once one has enough plutonium or highly enriched uranium. But making the fuel is much, much harder. That is why we are alive today. If someone produced a safe and affordable car powered by plutonium, would we welcome that as a solution to soaring fuel prices? Of course not. We would consider it far too dangerous to have plutonium scattered throughout society…(It might turn out that it is actually the patent trolls and attorneys that are our savior. Intelligence development would provide a rich source of trivial patents and aggressive litigation…)
+
+
+Sotala & Yampolskiy mentions “Berglas (personal communication) has since changed his mind, and no longer believes that it is possible to effectively restrict hardware or otherwise prevent AGI from being created.”↩︎
+- 
+
+In discussions of technological forecasting like AI projections or cryonics or plastination, the demands of pessimists/skeptics that the events in question already have happened before they can be discussed are quite irritating. I am reminded of the sarcastic comment by 2 researchers on climate change:
+
+
+“Should we trust models or observations?” In reply we note that if we had observations of the future, we obviously would trust them more than models, but unfortunately observations of the future are not available at this time.
+
+↩︎
+- 
+
+“National Security Aspects of the Global Migration of the U.S. Semiconductor Industry”, Lieberman 200323ya:
+
+
+A fundamental change in the semiconductor industry has been, in very simplified form, that the price to performance curve has reduced revenue in the industry dramatically over the last decade. During the early 1960s, and continuing until about 199432ya, the compound annual growth rate in revenue of the industry was 16%. From 199432ya to the present, the growth rate has been approximately 8%.13 This situation is combined with the very large costs associated with the development of new 300mm fabrication facilities (“fabs”), as well as the increasing complexity and cost of research and design as the industry must develop methods other than the traditional scaling methods (making all aspects of the chips smaller and smaller) in order to increase performance. These factors, and the current recession, are driving the industry to consolidations.
+
+
+…The number of state-of-the-art U.S. chip manufacturing facilities is expected to sharply decrease in the next 3–5 years to as few as 1–2 firms that now have the revenue base to own a 300mm wafer production fab, and likely less than a handful of firms.15 Although the U.S. currently leads the world semiconductor industry with a 50% world market share, the Semiconductor Industry Association estimates that the U.S. share of 300mm wafer production capacity will be only approximately 20% in 200521ya, while Asian share will reach 65% (only 10% of this from Japan).16 The remaining state-of-the-art U.S. chip-making firms face great difficulty in attaining the huge amounts of capital required to construct next-generation fabs. This situation stands in contrast to that in China. To ensure that they develop the ability to build the next-generation fabrication facilities, the Chinese central government, in cooperation with regional and local authorities, has undertaken a large array of direct and indirect subsidies to support their domestic semiconductor industry. They have also developed a number of partnerships with U.S. and European companies that are cost-advantageous to the companies in the short-term.
+
+↩︎
+- 
+
+A caveat that will becoming increasingly important in coming decades.↩︎
+- 
+
+“The rise and fall of AMD: How an underdog stuck it to Intel; Remember when AMD could compete with Intel in both speed and price?”, ars technica:
+
+
+AMD’s successful Athlon chips—Ars named the Athlon its “CPU of the Year” in 199927ya—had finally put the screws to archrival Intel, and in 200026ya the company earned nearly $2.01$12000 billion in profits…AMD has been on a notable drop for nearly a decade now. To put it mildly, 201214ya was a rough year: AMD lost over $1.52$12012 billion, effectively wiping out its $743.69$4712010 million profit in 201016ya and its $762.31$4912011 million profit in 201115ya—its two most profitable years in the last decade. Over the last 15 years, AMD has sustained a net loss of nearly $10.51$72013 billion, and the company has been downgraded by credit rating agencies, burned by lower demand for PCs (and hence, for its products), and even called “un-investable” by one Wall Street analyst…However, just weeks after the K7 debuted on June 23, 199927ya, Raza left AMD…As Raza tells the story today, his boss insisted on building a fab in Dresden, Germany, over Raza’s objections. (That fab, which still operates today as part of AMD spin-off GlobalFoundries, was completed in the spring of 200026ya.) “The trouble in the entire economic model was that AMD did not have enough capital to be able to fund fabs the way they were funding fabs,” Raza said. “The point at which I had my final conflict was that [Sanders] started the process of building a new fab with borrowed money prematurely. We didn’t need a fab for at least another year. If we had done it a year later, we would have accumulated enough profits to afford the fab in Germany. He laid the foundation for a fundamentally inefficient capital structure that AMD never recovered from. I told him: don’t do it….” Both Raza and Barton recalled, independently of one another, one of Sanders’ mantras: “Real men have fabs.” Raza called this comment “simultaneously a sexist remark and the most stupid thing you can say,” and he saw the fab decision as one of Sanders’ “significant acts of irresponsibility.”
+
+↩︎
+- 
+
+“Moore’s Law reaches its economic limits”, Financial Times 201214ya:
+
+
+“The high cost of semiconductor manufacturing equipment is making continued chipmaking advancements too expensive to use for volume production, relegating Moore’s Law to the laboratory and altering the fundamental economics of the industry,” wrote Len Jelinek, chief analyst for semiconductor manufacturing at the iSuppli research firm, last month.
+
+
+Mr Jelinek predicted that Moore’s Law would no longer drive volume chip production from 201412ya, sparking intense debate in Silicon Valley. His reasoning is that circuitry widths will dip to 20nm (nanometres or billionths of a metre) or below by that date. But the tools to make them would be too expensive for companies to recover their costs over the lifetime of production.
+
+
+The costs and risks involved in building new fabs have already driven many makers of logic chips (processor or controller chips) towards a “fabless” chip model, where they outsource much of their production to chip “foundries” in the Far East.
+
+
+The 14 chipmakers who were in the game at the 90 nm level have been reduced to nine at the current 45nm level. Only two of them—Intel and Samsung—have firm plans for 22nm factories. Intel argues that only companies with about $13.71$92012bn in annual revenues can afford to be in the business of building new fabs, given the costs of building and operating the factories and earning a decent 50 per cent margin. That leaves just Intel, Samsung, Toshiba, Texas Instruments and STMicroelectronics.
+
+↩︎
+- 
+
+“The Economic Limit to Moore’s Law”, Rupp & Selberherr 2011
+
+
+…The reduced growth model (10) can be interpreted in the following way; as long as fab costs increase with the same rate as they did in the past, the number of transistors per chip also increases at the same rate as in the past. However, as soon as fab costs hit an economic barrier given by εg(t), fab costs can only increase at the same rate as the GWP [Global World Product] does. Consequently, transistor counts will also grow at a reduced rate…The prediction of the time at which we run into economic limitations is very sensitive with respect to the fab costs parameter ε; choosing ε = 0.03%, a growth reduction is predicted around 2025, whereas the choice ε = 0.01% shows first signs of reduced growth already in 201511ya. Thus, with joint funding of large fabs, an economic growth capping can be shifted many years into the future so that we might face limitations imposed by physics first.
+
+↩︎
+- 
+
+“Power Blip Jolts Supply of Gadget Chips”, December 10, 201016ya, WSJ:
+
+
+Toshiba said the power outage could cause a 20% drop in its shipments over the next two months or so of chips known as NAND flash memory, which are used to store music, photos and data in products such as Apple Inc’s iPhone and iPad. Toshiba, which makes the chips in partnership with Silicon Valley company SanDisk Corp., represents about a third of the market as the second-largest supplier of the chips after Samsung Electronics Co. After the next couple months, the outage isn’t expected to have a [substantial] impact on world-wide shipments of flash memory. Some big buyers of the chips, such as Apple, have long-term supply arrangements with multiple chip makers. But the temporary disruption comes as demand for NAND flash is surging, notably from companies hoping to offer new tablet computers to challenge the iPad. Market watchers say some companies could face tight supplies and higher prices just as they are trying to ramp up production. “I don’t think it could come at a worse time,” said Krishna Shankar, an analyst at ThinkEquity.
+
+
+Toshiba’s troubles started early Wednesday when, according to power supplier Chubu Electric Power Co., there was a sudden drop in voltage that caused a 0.07-second power interruption at Toshiba’s Yokkaichi memory-chip plant in Mie prefecture. Even the briefest power interruption to the complex machines that make chips can have an effect comparable to disconnecting the power cord on a desktop computer, since the computerized controls on the systems must effectively be rebooted, said Dan Hutcheson, a chip-manufacturing analyst at VLSI Research in San Jose, Calif. For that reason, chip companies typically take precautions that include installing what the industry calls uninterruptible power supplies. Part of Toshiba’s safeguards didn’t work this time because the voltage drop was more severe than what the backup system is designed to handle, a company spokesman said. Power outages frequently cause damage to chips, which are fabricated on silicon wafers about the size of dinner plates that may take eight to 12 weeks to process, Mr. Hutcheson said. Wafers that are inside processing machines at the time of an outage are often ruined, he added, though many that are in storage or in transit among those machines are not. In some cases, a shutdown of the air-purifying and conditioning system that keeps air in a chip factory free of dust also could contaminate chips. Mr. Hutcheson compared the situation to cutting off the power to an artificial heart machine in the middle of an operation. “You lose the patient,” he said. On the other hand, he said that Toshiba’s estimate of the impact is a worst-case scenario that may wind up to be substantially less. Toshiba estimated that its shipments of NAND flash memory could decline by as much as 20% through February as a result of the outage. Based on the company’s share of the market, such a reduction would translate into a 7.5% cut in world-wide shipments over that period, but a much smaller percentage for all of 201115ya, estimated Michael Yang, an analyst at the technology market research firm iSuppli.
+
+↩︎
+- 
+
+Continued:
+
+
+“The impact for the year is nothing,” Mr. Yang said, though he added it could temporarily raise NAND prices. Such problems are far from unprecedented. In August 200719ya, a power outage at Samsung’s memory-chip plant near Seoul forced the company to temporarily halt some production lines. Mr. Yang said that cased prices for chips to rise for a few months. Timothy Luke, an analyst at Barclays Capital, estimated the outage would reduce 201115ya NAND flash chip supplies by 3% to 5%, possibly boosting prices to the benefit of rivals such as Samsung and Micron Technology Inc. A SanDisk spokesman declined to comment on the outage. One mitigating factor is that chip demand is typically lighter in January and February than other parts of the year, which could reduce the chances of a shortage. On the other hand, demand for NAND chips has been rising at an unusual rate, driven largely by sales of smartphones and tablets. ISuppli in September predicted that global shipments of NAND flash-memory chips by volume would jump 70% next year.
+
+
+Another instance of power outage damaging a fraction of global output happened again to Samsung on 2018-03-09.↩︎
+- 
+
+“The Split Second Disruption to the Supply Chain”:
+
+
+In 200521ya, Professor Yossi Sheffi from the Massachusetts Institute of Technology wrote a seminal work entitled The Resilient Enterprise that examined disruptions in corporate supply chains. The very first chapter in that book was entitled “Big Lessons from Small Disruptions.” It unfolds a story about how a St. Patrick’s Day (2000-03-17) lightning strike in Albuquerque, New Mexico, started a fire in Fabricator No. 22 of a Phillips NV chip manufacturing plant which led to unforeseen long-term consequences. Alert plant employees and automatic sprinklers put the fire out in less than ten minutes. Sheffi wrote, “A routine investigation showed that the fire had been minor. Nobody was hurt and the damage seemed superficial. The blaze did not make headlines in Europe, did not appear on CNN, and did not even appear in the Albuquerque newspapers.”…The fire had directly ruined only eight trays of wafers but smoke from the fire spread beyond the immediate area and, along with soot spread by workers and firefighters, contaminated much of the rest of plant. A minor fire had turned into a major disaster. Sheffi reported that Phillips notified its 30-plus customers about potential delays in chip production but predicted the delay would only be about a week…as soon as it [Nokia] realized that the delay was actually going to be weeks or months, it took action…Ericsson wasn’t quite so lucky. Sheffi reported that Ericsson executives received the same telephone call from Phillips as Nokia but they reacted very differently. They believed that the delay would be a short one…According to Sheffi, Ericsson’s lack of a Plan B cost the company around half a billion dollars.
+
+↩︎
+- 
+
+iSuppli attributes the very slow recovery to, in part, long-term contracts locking in PC manufacturers and the hard drive industry consolidating into 2 oligarchical manufacturers. One might be tempted to argue that the Thai hard drive floods are a poor case-study because of these idiosyncratic factors; but that’s missing the point: until a disruption happens, how can one know—especially an outsider—what will or will not be a problem? Are there no long-term contracts for processors, and is not Intel largely dominant? And what are the idiosyncratic factors relevant to processors? There must be some, even if we would not expect them to be the same as in the Thai hard drive floods.↩︎
+- 
+
+“Thailand Flooding Cripples Hard-Drive Suppliers”, The New York Times:
+
+
+The slow-moving floodwaters, which are an accumulation from this year’s unusually strong monsoon rains in northern Thailand, are gradually draining into the sea. At what is known as the Bang Pa-In Industrial Estate, trucks have delivered massive pumps. Workers said they would start trying to remove water from the area on Monday. The floodwaters descended to this area an hour north of Bangkok in early October. Efforts to defend industrial areas with sandbags and other barriers were futile.
+
+
+“There was no way we could have held back the water,” said Samruay Pakubol, a welder at an automotive parts factory here. Now out of work, he takes passengers on a wooden boat down the streets of the industrial zone. Workers have caught and killed crocodiles swimming in the area, he said.
+
+
+Dale Schudel, managing director of IntriPlex Thailand, a company that makes components for hard-disk drives, said his factory in nearby Ayutthaya had floodwaters almost six feet deep. But pumping out the water, which will take about two to three weeks, is only the beginning of the cleanup. Mr. Schudel described the water as “highly corrosive.” “I think you have to ask yourself, if any factory in the world were submerged in that much water, how much damage would there be?” he said.
+
+↩︎
+- 
+
+I think drones are an interesting issue, but right now they’re looking like a massive shift toward government/corporate power: in 20 years, you may be able to afford an awesome dragonfly drone which you’d like to pilot into a chip fab and upload some evil Stuxnet (note I’m not even bothering to think about the scenario in which you load the drone with 20kg of high explosives and crash it into a target), but your drone won’t be able to get through the thousands of patrolling security drones spread out over the entire installation! Enthusiasts right now may be playing around with nifty quadropters etc… and the US government is probably playing around with drones that never come down, have radar & surveillance/detection capabilities that us civilians can’t even guess at, and with networked fleets of them.↩︎
+- 
+
+Wikipedia is helpful as usual, and a quick Google turns up a random lobbying group giving some numbers (multiply by 1000 to get megawatt-hours):
+
+
+According to a 200818ya Electric Power Research Institute study, a conventional combined-cycle natural gas plant costs about $1,555.31$1,0002008 per kilowatt of capacity constructed. A coal-fired plant costs more than $3,888.28$2,5002008 per KW hour to build. The cost of a new nuclear plant is more than $6,221.25$4,0002008 per KW of capacity. Wind generation costs are about double natural gas installation costs. A new solar plant in Florida is projected at about $10,265.06$6,6002008 per KW.
+
+↩︎
+- 
+
+It’s a little like trying to get American libertarians to engage in effective collective action like lobbying or moving somewhere—if they were inclined to be communal and bow to hierarchy, they’d not be libertarians but Republicans or something!↩︎
+- 
+
+ LessWrong is no exception. It always amuses me that, as much as it gets called a cult, when you actually ask LWers what they believe in surveys—which exist, and don’t require furious handwashing & guessing about ‘well-it-looks-like-to-me’ (2009, 2011)—you find that the stereotypical LessWrong shibboleths—Strong AI thesis is true, AI will be accomplished during the 21st century, consequentialism is the right ethical paradigm like liberal libertarianism is the right political paradigm and atheism for religion, Many Worlds Interpretation is more true than other quantum mechanical interpretations, cryonics is a good idea etc.—are actually held by bare majorities and sometimes small minorities. For example:
+
+- 
+
+libertarianism (32%) is rarer than liberalism (35%)
+- 
+
+consequentialists are only 62% of respondents (a big surprise to me) and Many Worlders 56%
+- 
+
+‘probability cryonics will work’ averaged 21%; 4% of LWers are signed up, 36% opposed, and 54% merely ‘considering’ it
+- 
+
+AI is feared less than pandemics (26% vs 17%)
+- 
+
+the median Singularity is 2080 (not a Kurzweilian 2030–102040)
+
+↩︎
+- 
+
+This is another instance where detailed domain knowledge would be helpful. Shock waves dissipate fast: basic geometry suggests they weaken as roughly the cube of the distance because the energy is being dissipated over a spherical volume. More precisely, from an old nuclear weapons textbook, I learned it was an intermediate power between inverse square (a fixed energy spreading over a 2D area) and inverse cube (over 3D volume) because they hit boundary layers and reflect. Either way, a blast may need to be very close to a key part of a chip fab to matter. This leads to some interesting tradeoffs in targeting: Soviet nukes tended to have higher megatonnage than American nukes, despite the latter’s presumable technical superiority, because their targeting was inaccurate and the higher megatonnage made up for the inaccuracy via overkill; American missiles favored multiple warheads on MIRVs, because the high accuracy meant that a target could be bracketed between several small nukes and the converging shockwaves much more effective.↩︎
+- 
+
+Alfred W. McCoy in The Politics of Heroin mentions that heroin synthesis was introduced to one region by an old Chinese chemist with 7 disciples—so many, presumably, because he had only one arm left and needed assistants.↩︎
+- 
+
+Note that this claim is double-edged: if it will become impossible in 2 generations, then we can infer that it must be possible ‘now’ (200323ya) at some very high price, and given Moore’s second law, may have been possible at a reasonable price in the past (<1980s?).
+
+
+The NSA is a known example: among their many facilities like the Friendship Annex, they have owned for some decades a small chip fab in their Army facilities at Fort Meade, Maryland (operated by National Semiconductor Corporation). There are many compelling applications for an NSA chip fab to the point where it’s hard to guess what its primary mission might be:
+
+- 
+
+custom fabrication of relatively low tech but extremely security-sensitive chips: perhaps encryption chips for US government use. (Nuclear bomb components have been suggested but wouldn’t fall under their dual mandate of securing US communications and breaking foreign communications.) Making custom, legacy, and obscure chips is the official explanation:
+
+
+The original idea was to service NSA’s own needs in the intelligence arena, particularly for old components that executives of commercial semiconductor firms are either unable or unwilling to produce [due to closures of chip fabs, eg. SVTC]. Now the facility is ramping up to service the needs of other federal agencies and programs, and is offering a complete one-stop shopping center for design, fabrication, assembly, and test. This is according to a sales pitch presented by Leland Miller, NSA’s marketing director for microelectronics, at the October Association of Old Crows (AOC) conference in Virginia Beach, Va. The manufacturing process is bulk CMOS, using 6-inch wafers, to fabricate feature sizes of 1, 0.8, and 0.5 microns (1000/800/500nm) in either two or three metal layers. This is due to be upgraded to 0.22 micron (200nm), six-level metal technology by July 200026ya. Typical production amounts to 1,000 wafer starts a month, Miller says. Yields are comparable to the industry average, he adds—around 15% for large die and 80–90% for small die. Output has risen sharply from 350,000 to 450,000 die over the past year, Miller notes. It was about 3,000 die when the facility began at the 1-micron level. About 150 product designs are in the fabrication process simultaneously. The NSA facility has concentrated on the agency’s own needs, particularly on old 1-micron products, but has serviced other government customers…In addition to fabrication and packaging of programmable gate arrays in plastic multichip modules, flipchips, and ball grid arrays, the facility also can do custom designs of application-specific integrated circuits using any starting point from block diagrams to finished layouts. Typical delivery times are 12 weeks from submission of a database tape, but special orders can be handled in three weeks. Functional and parametric tests are conducted using standard commercial test equipment.
+
+
+This seems like the most likely explanation: it’s much easier for a small plant to keep up if it’s just making old outdated chips.
+- 
+
+custom fabrication of highly-specialized chips for use in code-breaking and surveillance: well-designed ASICs can offer orders-of-magnitude performance increases over commodity CPUs or GPUs.
+
+
+More intriguing is the observation by David Honig that one possibility is that the NSA is engaged in electron beam lithography (mentioned in one NSA job ad): e-beam is far too slow for profitable commercial chip production, but it has the major advantage that it can produce smaller chip features. For comparison, the Wikipedia article says e-beam systems have worked at “~20nm since at least 1990” (with the state-of-the-art being <10nm) while Intel only began commercially selling 22nm chips 22 years later in April 201214ya.
+
+
+There would be little reason for the NSA to produce its own CPUs and GPUs with e-beam, and there are plenty of commodity ASIC makers if the NSA simply wanted a highly parallel Bitcoin-style chip for brute-forcing SHA hashes, since in both cases outsourcing would be cheaper (one simply buys a lot of SHA-cracking ASICs since the problem is embarrassingly parallel); see for example, NSA’s IBM designed/built WindsorGreen/WindsorBlue supercomputer. But there is something that expensive tiny e-beam-made chips could be superior at: running serial problems—where one cannot simply parallelize over many CPUs/GPUs/ASICs—faster than anyone else can. What NSA problems might benefit from a few custom expensive very fast serial chips, I do not know; nothing in the Snowden leaks I’ve seen has jumped out as a candidate.
+- 
+
+reverse-engineering foreign-produced chips: either to try to break their systems, or look for backdoors in American-used chips (or perhaps for backdoors which can then be exploited by the NSA).
+- 
+
+test out backdoors of their own on simple testbed chips, either for use in commercial plants’ chips or to test out backdoor-tests for #3
+
+↩︎
+- 
+
+On a personal note, my grandfather served in Korea during the Korean War. He was never in any danger because he was deployed well away from the front lines. We don’t know what he did, but he insists it is classified, and hinted it involved nuclear material. (He spent much of his later career involved in gas masks.) This would be consistent with the US consideration of using nuclear strikes during the Korean War.↩︎
+- 
+
+pg413–414 of Steven Pinker’s The Better Angels of Our Nature:
+
+
+Though the United States and the USSR continued to develop nuclear technology at a breakneck pace, they began, however hypocritically, to pay homage to nuclear disarmament in conferences and statements. At the same time a grassroots movement began to stigmatize the weapons. Demonstrations and petitions attracted millions of citizens, together with public figures such as Linus Pauling, Bertrand Russell, and Albert Schweitzer. The mounting pressure helped nudge the superpowers to a moratorium and then a ban on atmospheric nuclear testing, and then to a string of arms-control agreements. The Cuban Missile Crisis in 196264ya was a tipping point. Lyndon Johnson capitalized on the change to demonize Goldwater in the Daisy ad and called attention to the categorical boundary in a 196462ya public statement: “Make no mistake. There is no such thing as a conventional nuclear weapon. For nineteen peril-filled years no nation has loosed the atom against another. To do so now is a political decision of the highest order.”205
+
+
+As the world’s luck held out, and the two nuclear-free decades grew to three and four and five and six, the taboo fed on itself in the runaway process by which norms become common knowledge. The use of nuclear weapons was unthinkable because everyone knew it was unthinkable, and everyone knew that everyone knew it. The fact that wars both large (Vietnam) and small (Falklands) were not deterred by the increasingly ineffectual nuclear threat was a small price to pay for the indefinite postponement of Armageddon.
+
+
+…One hopeful sign is that nuclear proliferation has not proceeded at the furious rate that everyone expected. In the 196066ya presidential election debates, John F. Kennedy predicted that by 196462ya there might be “ten, fifteen, twenty” countries with nuclear weapons.206 The concern accelerated when China conducted its first nuclear test in 196462ya, bringing the number of nations in the nuclear club to five in less than twenty years. Tom Lehrer captured popular fears of runaway nuclear proliferation in his song “Who’s Next?” which ran through a list of countries that he expected would soon become nuclear powers (“Luxembourg is next to go / And who knows? Maybe Monaco”).
+
+
+But the only country that fulfilled his prophecy is Israel (“‘The Lord’s my shepherd,’ says the Psalm / But just in case-we better get a bomb!”). Contrary to expert predictions that Japan would “unequivocally start on the process of acquiring nuclear weapons” by 198046ya and that a reunified Germany “will feel insecure without nuclear weapons,” neither country seems interested in developing them.207 And believe it or not, since 196462ya as many countries have given up nuclear weapons as have acquired them. Say what? While Israel, India, Pakistan, and North Korea currently have a nuclear capability, South Africa dismantled its stash shortly before the collapse of the apartheid regime in 198937ya, and Kazakhstan, Ukraine, and Belarus said “no thanks” to the arsenals they inherited from the defunct Soviet Union. Also, believe it or not, the number of nonnuclear nations that are pursuing nuclear weapons has plummeted since the 1980s. Figure 5-22, based on a tally by the political scientist Scott Sagan, charts the number of nonnuclear states in each year since 194581ya that had programs for developing nuclear weapons.
+
+
+The downslopes in the curve show that at various times Algeria, Australia, Brazil, Egypt, Iraq, Libya, Romania, South Korea, Switzerland, Sweden, Taiwan, and Yugoslavia have pursued nuclear weapons but then thought the better of it-occasionally through the persuasion of an Israeli air strike, but more often by choice.
+
+
+Pinker focuses on the nuclear taboo, but can we ignore entirely the global restrictions on nuclear technology transfer and universal state regulation of anything to do with nuclear technology? The parallels to semiconductor chip technology are clear.↩︎
+- 
+
+pg124–125, The Human Use of Human Beings (emphasis added):
+
+
+In the problem of decoding, the most important information which we can possess is the knowledge that the message which we are reading is not gibberish. A common method of disconcerting codebreakers is to mix in with the legitimate message a message that cannot be decoded; a non-statistically-significant message, a mere assemblage of characters. In a similar way, when we consider a problem of nature such as that of atomic reactions and atomic explosives, the largest single item of information which we can make public is that they exist. Once a scientist attacks a problem which he knows to have an answer, his entire attitude is changed. He is already some 50% of his way toward that answer.
+
+
+In view of this, it is perfectly fair to say that the one secret concerning the atomic bomb which might have been kept and which was given to the public and to all potential enemies without the least inhibition, was that of the possibility on its construction. Take a problem of this importance and assure the scientific world that it has an answer; then both the intellectual ability of the scientists and the existing laboratory facilities are so widely distributed that the quasi-independent realization of the task will be a matter of merely a few years anywhere in the world.
+
+↩︎
+- 
+
+pg39–40:
+
+
+To put it at its most elementary, while observing others riding bicycles does not enable one to learn the skills of the cyclist, it nevertheless shows that cycling is possible. Knowing that older brothers or sisters have learned to ride can encourage younger siblings not to conclude from early failures that the task is impossibly hard.
+
+
+…The confidence—indeed overconfidence—of wartime Anglo-American physicists (including Continental refugees) in the ease of development of a nuclear weapon does not seem to have been widely shared by their French, German, or Soviet colleagues, and the governments of the last two countries were unconvinced prior to 194581ya that the task was feasible enough to be worth the kind of resources the Americans devoted to it (see, eg. Holloway 198145ya; Goldschmidt 198442ya, p. 24).24 Trinity, Hiroshima, and Nagasaki were dramatic demonstrations that the task was not impossibly hard, and this proof (as well, of course, as the perceived threat to the Soviet Union) explains the sudden shift in the USSR in 194581ya from a modest research effort to an all-out, top-priority program (Holloway 198145ya).
+
+
+As we have seen, the British test explosion in 195274ya, although no threat to France, contributed to the latter’s weapons program by suggesting that developing an atomic bomb was easier than had previously been assumed. Likewise, the Chinese explosion in 196462ya showed other developing countries that the atomic bomb was not necessarily the preserve solely of the highly industrialized world. Furthermore, profound questions over the feasibility of early hydrogen bomb designs helped delay the American move from an atomic to a hydrogen bomb (Bethe 198244ya). By contrast, all subsequent hydrogen bomb programs could proceed with confidence in the basic achievability of their goal, and, in words used in another context by a group of weapons designers (Mark et al 198739ya, p. 64), “The mere fact of knowing [something] is possible, even without knowing exactly how, [can] focus … attention and efforts.”
+
+↩︎
+- 
+
+technical report M-85/11 “Literature Survey of Underground Construction Methods for Application to Hardened Facilities”:
+
+
+An evaluation of a nuclear power plant concept [79] revealed that locating the facility underground with a cut and cover technique would be 11% more expensive than an above-ground plan. The increased cost was attributed to direct construction costs being 70% higher, the need for special equipment for ventilation and other functions, and the additional time required to build the underground structure. More costs are incurred from hardening underground tunnels to resist blasts or seismic loads. A design cost study [85] estimates that hardening a tunnel to resist a seismic load of 0.5 g would increase construction costs by 35%…Underground subway station construction costs were also compared to show that an underground station using a tunneled earth excavation technique with an 85-ft (25.5-m) overburden would cost about 25% more than one constructed by cut and cover methods with a 20-ft (6-m) earth cover, an 47% more than a cut and cover station with a 6-ft (1.8-m) cover…Reference 77 compares the cost of siting a nuclear power plant underground. The investigation found that a cut and cover buried facility would cost 14–25% more and a mined rock plant 10–18% more than a surface power plant. A second report [86] states that costs for siting a nuclear power plant underground in rock are about 25% more. Reference 80 examines the costs of underground homes and large public buildings. Based on life-cycle cost figures of 5 case studies: ‘It does appear clear, however, that the use of earth-sheltering does not increase construction costs in any notable way, and may in fact represent a decrease in some cases’ [80]. An example earth-sheltered house is cited as costing 28% more to construct, but 12–20% less to own and operate over the 30-year life of the home.
+
+↩︎
+- 
+
+Lieberman 200323ya:
+
+
+The Chinese government is successfully using tax subsidies (see below) to attract foreign capital from semiconductor firms seeking access to what is expected to be one of the world’s largest markets. This strategy, which is similar to that employed by the European Union in early 1990s, is a means of inducing substantial inflows of direct investment by private firms. Indeed, much of the funding is Taiwanese, driven by the tax incentives and their need for market access, especially for commodity products such as DRAMs. The strategy does not rely on cheaper labor, as that is a small element in semiconductor production.
+
+
+The Chinese are, however, able to increasingly draw on substantially larger pools of technically trained labor as compared to the U.S., from the large cohorts of domestic engineering graduates.17 Importantly, the output of Chinese universities is supplemented by large numbers of engineers trained at U.S. universities and mid-career professionals who are offered substantial incentives to return to work in China. These incentives for scientists and engineers, which include substantial tax benefits, world-class living facilities, extensive stock options taxed at par value, and other amenities, are proving effective in attracting expatriate labor. For example, the Chinese central government has undertaken indirect subsidies in the form of a substantial rebate on the value-added tax (VAT) charged on Chinese-made chips.19 While many believe this is an illegal subsidy under GATT trade rules, the impact of the subsidy on the growth of the industry may well be irreversible before-and if-any trade action is taken. There are a variety of other documented measures adopted by the Chinese government.20…Currently the Chinese government is providing a 14% rebate on VAT to customers who buy Chinese-made semiconductor chips, essentially providing a large subsidy of their domestic industry in clear violation of GATT rules.14 Thus, U.S.-made chips would pay a 17% VAT, and Chinese-made chips would pay a 3% VAT. Given the tight price competition of chips and the growing importance of the Chinese chip market, this is a very [important] step towards ending U.S. production. [This VAT apparently was repealed.]
+
+
+…There are a variety of other documented measures adopted by the Chinese government.20 The development of special government funded industrial parks, the low costs of building construction in China as compared to the U.S., and their apparent disinterest in the expensive pollution controls required of fabrication facilities in the U.S. all represent further hidden subsidies. The aggregate effect of these individual “subsidies” may be only a few tens of percentage points of decrease (literally, only 20–30%) in the manufacturing costs of the chips, but in such a cost-driven industry, this difference appears to play an important role in driving the entire offshore migration process for these critical components. Essentially, these actions reflect a strategic decision and represent a concerted effort by the Chinese government to capture the benefits of this enabling, high-tech industry, and thereby threatening to be a monopoly supplier and thus in control of pricing and supply.
+
+↩︎
+- 
+
+Brown & Linden 200521ya:
+
+
+1984–20200422ya, the share of semiconductor sales in Asia, including Japan, has risen 38 → 63% of the world total.10
+
+
+…The shift of capacity from Japan and the United States to the rest of Asia (primarily South Korea and Taiwan) is striking. Japan and the United States accounted for 80% of fab capacity in 198046ya, but only 49% of capacity in 200125ya…In 200125ya, approximately one-third of U.S.-owned capacity was located offshore as shown in Table 5. The offshore fabs were primarily in Japan and Europe, which reflects the rise of joint ventures to share risk as the cost of fabs increased. Conversely, about 22% of the fab capacity located in North America was owned by companies based in other regions (not shown).
+
+
+…The prospects vary greatly by the institutional environment in each location. As discussed above, Taiwan’s fabless sector, which did not arise as an outgrowth of U.S. design offshoring, is nearly a generation behind U.S. rivals in terms of innovative products. For now, local firms in India have generally avoided the fabless model, but in China there is a small but increasing number of fabless firms targeting world markets. Although for now Chinese firms lack experienced engineers and managers and are be behind Taiwan in their development of innovative products, this will gradually shift in the years ahead. It is too early to know where this process will end.
+
+↩︎
+
+
+
+Error: JavaScript disabled.
+
+Backlinks, similar links, and the bibliography require JS enabled to load.
+        # Backlinks
+
+
+        [Backlinks (what links here)]
+        # Similar Links
+
+
+        [Similar links by topic]
+        # Bibliography
+
+ ' is redundant with the ''; but added to parallel Pandoc-generated headers which set all attributes/classes on both. -->
+        [Bibliography of links/references used in page]
+
+
+
+
+        [&hairsp;Send Anonymous Feedback&hairsp;]
+
+[Quote Of The Day]
+
+[Site Of The Day]
+
+[Annotation Of The Day]
+
+[adblock public service announcement]
+
+      ​

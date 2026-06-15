@@ -1,0 +1,4822 @@
+# Silk Road 1: Theory &amp; Practice
+
+[Source](https://gwern.net/silk-road)
+
+- 
+
+
+
+    Skip to main content
+
+
+Warning: JavaScript Disabled!
+
+For support of key website features (link annotation popups/popovers & transclusions, collapsible sections, backlinks, tablesorting, image zooming, sidenotes etc.), you must enable JavaScript.
+
+
+
+
+        # Silk Road 1: Theory & Practice
+
+
+
+
+
+Bitcoin, SR1 DNM, Fermi problems
+
+History, background, visiting, ordering, using, & analyzing the drug market Silk Road 1
+            2011-07-11–7y2018-09-29
+            finished
+            certainty: likely
+            importance: 9
+            backlinks
+            similar
+            bibliography
+
+- Size
+- Competitors
+- Cypherpunks
+- Bitcoin
+- Silk Road As Cyphernomicon’s Black Markets
+
+- Escrow
+
+- Silk Road As a Marketplace
+
+- Quality
+- Safe
+
+- Arrests
+- LE Reports
+- Vulnerabilities
+
+- Fight Club
+
+- Preparations
+- Silk Road
+- Legal Wares
+- Anonymity
+- Shopping
+
+- Evaluating Sellers
+- Encryption
+- Now What?
+- Try, Try Again
+- Evaluating and Reviewing
+
+- LSD Case Study
+
+- Seller Table
+- Description
+- Analysis
+
+- Quantitative
+- Qualitative
+- Ordering
+
+- Packaging
+
+- VoI: Ehrlich Test
+
+
+- Finis
+- Future Developments
+- Post-Mortem
+
+- Recommendations
+
+- See Also
+- External Links
+- Colophon
+- Appendices
+
+- Interviews
+
+- BBC Questions
+- Mike Power Questions
+
+- November 2013
+- May 2014
+
+- NYT
+- Capital
+- Vice
+- Forbes
+
+- Reddit Advice
+- A Mole?
+
+- “J’accuse!”
+- Objections
+- Predictions
+- Resolution?
+
+- Bitcoin Exchange Risk
+- Estimating DPR’s Fortune minus Expenses & Exchange Rate
+
+- Model
+- Expenses
+
+- Hitmen
+
+- Revenue over Time: First and Last Days
+- Exchange Rate
+- Analysis
+- Conclusion
+
+- The Bet: BMR or Sheep to Die in a Year (By Oct 201412ya)
+
+- Original
+
+- Background
+- The Wager
+
+- Statistical Considerations
+
+- Basic Data
+- Survival Analysis
+- Laplace
+
+
+- Precommitment
+- Archives of SR Pages
+
+
+
+The cypherpunk movement laid the ideological roots of Bitcoin and the online drug market Silk Road; balancing previous emphasis on cryptography, I emphasize the non-cryptographic market aspects of Silk Road which is rooted in cypherpunk economic reasoning, and give a fully detailed account of how a buyer might use market information to rationally buy, and finish by discussing strengths and weaknesses of Silk Road, and what future developments are predicted by cypherpunk ideas.
+
+
+The website Silk Road 1 (SR1), a drug marketplace operating in public, needs little introduction at this point, after Gawker’s 201115ya article went viral, drawing fire from the likes of US federal Senators Schumer & Manchin. It was probably the single most famous commercial enterprise using Bitcoins; some speculated that demand from SR patrons single-handedly pushed the exchange rate up by $5 the weekend of the Gawker article. It then flourished until its bust in 2013-10-02.
+
+# Size
+
+
+Estimates of SR’s size have been done several ways: most purchases entail a review at the end, and reviews are displayed on the front page, so one can monitor the front page and extrapolate to estimate average number of transactions per day or week, and from there estimate turnover and what SR’s commissions total to: eg. ~100 transactions a day over 2 years and averaging ~$150 is 200⋅365⋅2⋅150=10,950,000. “Traveling the Silk Road: A measurement analysis of a large anonymous online marketplace” (Christin 2013) spidered Silk Road for 8 months (2011–2012) and did something similar by recording all public prices, feedback indicating how much had been sold, and calculating a monthly turnover of $1.2m for annual revenue of ~$15m; the difference in estimates seems explained by my estimate of daily transactions being considerably too low.1 The DHS in November 2013 estimated Mt. Gox alone “was moving approximately $60 million per month into a number of Internet-based hidden black markets operating on the Tor network, including Silk Road” around the time of Gox seizures in May 201313ya, although this turnover seems too high given other monthly estimates.
+
+
+Another way is to look in the blockchain for SR-related addresses or transactions; one possible address had a 2012-06-23 balance of ₿450,825 or $2,885,280. Since it is unlikely there are ~$3m of transactions active or sitting in wallets that day on SR when the largest previous Silk Road scammer (Tony76)—pulling out all the stops—got away with an order of magnitude less money, this is highly likely to represent Silk Road’s profits or profits plus balances & escrows; which at a commission of 5-10% implies a total Silk Road turnover of >$28m. Interestingly, Christin 2013’s analysis concluded that Silk Road was by July 2012 receiving $92k monthly or $1.7m yearly in commissions (and twice that yearly figure is larger than that address balance—as it should be, being an upper bound). On 2013-04-09, a single transaction of ₿69471 was made by the address `1BAD...GuYZ`, and may have been related to the SR cointumbler. For further discussion, see “A Fistful of Bitcoins: Characterizing Payments Among Men with No Names”, Meiklejohn et al 201313ya.
+
+
+# Competitors
+
+
+I know of one competing English Bitcoin+Tor marketplace as of 2011-06-09, named BlackMarket Reloaded which lives at `5onwnspjvuk7cwvk.onion` (non-Tor mirror); informed 201115ya opinion seemed to be that it is low-volume and stagnant, but it apparently has improved substantially and as of February 201313ya, has grown substantially with ~$700k monthly turnover and begun to rival SR; with the fall of SR, it attracted substantially more attention, some of which extracted the site’s source code and copied its database, leading BMR to shut down temporarily in 2013-10-17.2 A third rival, Atlantis (`atlantisrky4es5q.onion`; mirror) was launched 2013-03-14 and has reportedly turned over >$500k between March and June 2013; it had a much more appealing glossy Web-2.0 look than the SR’s relatively old design, but made some questionable choices like providing “convenient” in-browser encryption and using Litecoin rather than Bitcoin. Atlantis shut down in September 2013, after telling DPR1 that “they shut down because of an FBI doc leaked to them detailing vulnerabilities in Tor.” The main rival to BMR was a small new site which started up in early 201313ya, called Sheep Marketplace (`sheep5u64fi457aw.onion`), which in late November 201313ya halted withdrawals, top vendors began scamming users, and Sheep essentially shut down 2013-11-29 after exfiltrating >₿39,644 & apparently selling some on BTC-E. Finally, there was a “Deepbay” (`deepbay4xr3sw2va.onion`), apparently started in early 201313ya as well and going public in June; little has been said about it and its security is unknown, but it reportedly stole all user bitcoins starting somewhere around 2013-11-04.
+
+
+There are 2 Russian competitors, “RAMP” & “Shop of Magic Products” (Wired; short interview), which have been compared to SR and BMR (respectively).
+
+
+# Cypherpunks
+
+
+Neither Bitcoin nor the Silk Road should be understood outside their ideological and historical context: the now-obscure cypherpunk movement.
+
+
+The “cypherpunk” group was a loose affiliation of cryptographic researchers and enthusiasts centered on the eponymous email list in the 1980s and 1990s who developed many novel ideas and approaches to communication, economics, and politics. Achievements of theirs included developing anonymous email remailers (inspiring the Tor anonymizing network), helping defeat the Clinton-era Clipper chip and setting a key precedent, and helping defeat USA export restrictions on cryptography (key to safe Internet commerce outside the USA; the costs of export restrictions can be seen to this day in South Korea, which locked itself into a Microsoft/Internet Explorer computer monoculture). No event marked their dissolution, but through the ’90s, they gradually lost cohesion and interest as various ideas were successful and others remained barren. (Timothy C. May remarked in 199432ya that an acceptable digital currency may take several years to develop, but that he had been that optimistic years before as well; we could date the fulfillment of the dream to Bitcoin—14 years later—in 200818ya.) Former cypherpunks include large corporations to technological innovation (BitTorrent, descending from MojoNation) to niche groups like transhumanism (digital currency inventor Wei Dai) to activism (EFF, Julian Assange’s WikiLeaks) etc.
+
+
+The cypherpunk paradigm can be summarized as: “replacing centralized systems of interactions enforced by coercion with decentralized systems of voluntary interaction whose rules are enforced by mathematics/economics”. Desiderata for systems include: communications private from all third-parties, anonymous, provably untampered with, and provably from particular parties; social mechanisms like reputation replaced by formalized systems like feedback; and legal mechanisms like anti-fraud statutes superseded by mechanisms such as escrow or bonds (which can be fortified by cryptographic techniques as multiple-party signatures).
+
+
+The ideal cypherpunk system is self-enforcing, self-regulating, and cannot be attacked directly by outsiders because they do not know where it is or how to affect it.
+
+
+Julian Assange et al 2012 write:
+
+
+The new world of the internet, abstracted from the old world of brute atoms, longed for independence. But states and their friends moved to control our new world – by controlling its physical underpinnings. The state, like an army around an oil well, or a customs agent extracting bribes at the border, would soon learn to leverage its control of physical space to gain control over our platonic realm. It would prevent the independence we had dreamed of, and then, squatting on fiber optic lines and around satellite ground stations, it would go on to mass intercept the information flow of our new world – its very essence even as every human, economic, and political relationship embraced it. The state would leech into the veins and arteries of our new societies, gobbling up every relationship expressed or communicated, every web page read, every message sent and every thought googled, and then store this knowledge, billions of interceptions a day, undreamed of power, in vast top secret warehouses, forever. It would go on to mine and mine again this treasure, the collective private intellectual output of humanity, with ever more sophisticated search and pattern finding algorithms, enriching the treasure and maximizing the power imbalance between interceptors and the world of interceptees. And then the state would reflect what it had learned back into the physical world, to start wars, to target drones, to manipulate UN committees and trade deals, and to do favors for its vast connected network of industries, insiders and cronies.
+
+
+But we discovered something. Our one hope against total domination. A hope that with courage, insight and solidarity we could use to resist. A strange property of the physical universe that we live in. The universe believes in encryption. It is easier to encrypt information than it is to decrypt it. We saw we could use this strange property to create the laws of a new world. To abstract away our new platonic realm from its base underpinnings of satellites, undersea cables and their controllers. To fortify our space behind a cryptographic veil. To create new lands barred to those who control physical reality, because to follow us into them would require infinite resources. And in this manner to declare independence.
+
+
+The decentralization is key. Centralization is unacceptable for many applications: centralization means any commercial or political interest can interfere for any purpose, be it rent-seeking or taxation, prosecuting economic warfare against another party, intended to hamper organized crime or terrorism, etc.
+
+
+This fear of centralization is not idle. The ring of power offered by centralization has been grasped on many occasions: ranging from Paypal hampering its competitors to US-led crackdowns on ancient hawala financial systems & Islamic charities in the name of counter-terrorism to the US suing the Intrade prediction market (with the assistance of the Central Bank of Ireland) to credit card companies’ near-fatal boycott of WikiLeaks to Iran’s severe inflation after economic embargoes. Previous centralized digital currencies like E-gold or Liberty Reserve suffered the expected fates, and more pointedly, an earlier online drug market (the “Farmer’s Market”) was shut down and principals indicted using scores of transaction details stored by banks & Paypal & Western Union.
+
+
+# Bitcoin
+
+
+The fundamental challenge confronting any electronic currency is coping with the “double-spend problem”: when transactions conflict (eg. spending twice the same unit of currency), which transaction takes priority? Double-spends are difficult to perform with non-electronic money since you cannot give a dollar bill to one person while simultaneously giving it to another, but trivial with electronic messages.
+
+
+One solution is to centralize transactions: if you overdraw your bank account with 2 checks, the bank will choose one to bounce and one to honor. Similarly for credit card transactions. An electronic currency like Paypal processes each transaction in realtime, so you cannot log into your Paypal account in 2 browsers and send your entire balance to 2 different people. With centralization, there is someone or something which ‘decides’ which of the 2 conflicting transactions will become the real transaction. Centralization appears in many guises in currency systems: cryptographic pioneer David Chaum’s own electronic currency could guarantee complete anonymity to anyone “spending” a coin, solving the double-spend problem by devising things so that a double-spend leaks enough information that the anonymity evaporates, but the math only works with a central “bank” which could be attacked. Chaum’s system never took off, for several reasons, but this centralized point of failure is one.
+
+
+If we avoid the problems of centralization and resolve on a decentralized system, we face a different but equally severe set of problems: without centralization, in a distributed system in which no party has veto power (and any party can be anonymous or a mask for another party), how and who decides which of 2 conflicting transactions is the “real” transaction? Must a distributed system simply allow double-spends, and thus be useless as money?
+
+
+No. The underappreciated genius of Bitcoin is that it says that the valid transaction is simply “the one which had the most computing power invested in producing it”. Why does this work? In the Bitcoin distributed system, there are many ‘good’ parties at work producing new transactions, and they will independently latch onto one of the two competing transactions produced by an attacker and incorporate it into future transactions; the amount of computing power necessary to out-invest those other parties quickly becomes too enormous for any one entity to invest. Within hours, one transaction will be universal, and the other forgotten.
+
+
+Hence, Bitcoin is an acceptable cypherpunk currency: it is decentralized, parties participate out of self-interest, and it is economically infeasible to attack Bitcoin directly.
+
+
+# Silk Road As Cyphernomicon’s Black Markets
+
+
+The Silk Road (SR) is a website accessible through the Tor anonymizing network. Tor is descended from cypherpunk designs for anonymous email: messages are swapped by servers in the “mix” network with changing cryptographic wrappers, so observers cannot tell what server a message ultimately ends up at nor who sent a message. Buyers create accounts, send bitcoins to SR-controlled addresses, browse seller pages, and order quantities similar to any e-commerce site. (Contrary to descriptions of SR as “the eBay of drugs”, SR is more akin to shopping on Amazon Marketplaces than eBay: there are no auction features.) SR has been covered in the media for years and is still operating successfully, indeed, Christin 2013 calculated a monthly turnover of ~$1.2m for annual revenue of ~$15m from 2011–2012, with daily sales volume:
+
+
+“Figure 12: Estimate of the total amount of daily sales (in ₿) occurring on SR. Each point corresponds to an average over the prior thirty days.” –Christin 2013
+
+
+The design of SR could be taken straight out of early ’90s cypherpunk—most of the design can be justified in Timothy C. May’s 199432ya Cyphernomicon, itself mostly a summary of much earlier discussions. (In an amusing historical coincidence, May happens to mention an old digital currency proposal called… “The Digital Silk Road”.) The SR is an unregulated black marketplace which is:
+
+- 
+
+reached via an anonymizing mix network
+- 
+
+made up of pseudonymous entities, who
+- 
+
+communicate privately and securely via public-key cryptography to arrange purchases
+- 
+
+using escrow schemes for payment of sellers only on receipt of goods
+- 
+
+said sellers post the equivalent of bonds as surety before being allowed to sell
+- 
+
+and buyers publicly rate their sellers (so the marketplace avoids becoming a lemon market)
+
+
+From an economic point of view, several measures serve to make incentives align:
+
+- 
+
+SR is paid as a percentage of transactions; hence, it is motivated to encourage as high a turnover as possible, and maintain the satisfaction of both buyers and sellers. This makes SR a relatively trustworthy agent because too much abuse will cause buyers or sellers to leave and cease paying the percentage, especially if there are any competing marketplaces. (This is the same dynamic that kept users on Liberty Reserve before it was shut down.)
+- 
+
+Sellers are encouraged to not scam buyers because they will not gain access to bitcoins in escrow and enough violations will forfeit their deposit held by SR
+- 
+
+Buyers have limited incentive to scam sellers because their bitcoins are paid in advance and not under their control; SR arbitrates disputes and more than a few bad transactions can lead to their balances forfeited and being blacklisted, limiting their ability to scam large amounts
+
+
+And as far as people outside the marketplace are concerned, there is a network effect at play: the better incentives align, the more buyer and sellers there will be, and they will lead to better selections and lower prices. All familiar economic results about normal thick commodity markets, but perhaps unexpected to see in such an exotic marketplace.
+
+## Escrow
+
+
+One aspect of the incentives deserves coverage as most presciently discussed by the cypherpunks and underappreciated by users: the use of escrow.
+
+
+Timothy C. May’s chapter 12 (“Legal Issues: Loose Ends: Escrow Agents”) lays out the necessity of escrow when a marketplace uses both pseudonymity and untraceable digital cash:
+
+
+On-line clearing has the possible danger implicit in all trades that Alice will hand over the money, Bob will verify that it has cleared into his account (in older terms, Bob would await word that his Swiss bank account has just been credited), and then Bob will fail to complete his end of the bargain. If the transaction is truly anonymous, over computer lines, then of course Bob just hangs up his modem and the connection is broken. This situation is as old as time, and has always involved protocols in which trust, repeat business, etc., are factors. Or escrow agents.
+
+
+…In steps “Esther’s Escrow Service.” She is also untraceable, but has established a digitally-signed presence and a good reputation for fairness. Her business is in being an escrow agent, like a bonding agency, not in “burning” either party. (The math of this is interesting: as long as the profits to be gained from any small set of transactions is less than her “reputation capital,” it is in her interest to forego the profits from burning and be honest. It is also possible to arrange that Esther cannot profit from burning either Alice or Bob or both of them, eg. by suitably encrypting the escrowed stuff.) Alice can put her part of the transaction into escrow with Esther, Bob can do the same, and then Esther can release the items to the parties when conditions are met, when both parties agree, when adjudication of some sort occurs, etc. (There a dozen issues here, of course, about how disputes are settled, about how parties satisfy themselves that Esther has the items she says she has, etc.)
+
+
+“Esther” is SR, “on-line clearing” is bitcoins, Alice is a buyer and Bob the seller, but otherwise the logic is clear and unmistakable: lack of escrow leads to a perverse incentive for Bob to scam Alice.
+
+
+We can see the proof in practice. For various reasons, SR provides buyers the option of releasing their funds from escrow to the seller, called “early finalization”; early finalization is one of the leading mechanisms for seller scams on SR. The cardinal example is the April 2012 scam where a trusted seller took the occasion of a SR-wide sales event (where SR waived its fees) to announce unusually low prices, took in hundreds of large orders totaling thousands of bitcoins (the equivalent of >$50,000) but requiring early finalization, withdrew all funds, and never delivered. A simple enough scam, yet highly effective: as May and other cypherpunks pointed out decades before, one should never entrust a pseudonymous agent with more liquid anonymous cash than its “reputation capital” is worth! One can entrust the agent with less liquid anonymous cash (not enough to burn one’s reputation in exchange for), or one could entrust the agent with more escrowed anonymous cash (so they cannot “rip-and-run”), but not both more and un-escrowed (which is paying them to scam you).
+
+
+(This could be helped slightly by providing more information about sellers, like listing the outstanding balance for sellers so buyers can be wary of any seller with an unusually large outstanding balance; but buyers will still be attracted by sales as excuses for finalizing early, and sellers could simply split their activity over multiple accounts. Escrow remains the best solution.)
+
+
+# Silk Road As a Marketplace
+
+
+“Silk Road doesn’t really sell drugs. It sells insurance and financial products,” says Carnegie Mellon computer engineering professor Nicolas Christin. “It doesn’t really matter whether you’re selling T-shirts or cocaine. The business model is to commoditize security.”3
+
+
+Beyond the basic cryptographic tools and features of the site itself, SR embodies the cypherpunk dream of letting free-market forces operate to inform buyers and let them find sellers with whom they can reach mutually acceptable agreements. There is no better way to demonstrate this dynamic than with a detailed example using real SR data of a hypothetical buyer compiling the information SR provides, making inferences on the provided data, applying his desires to appraise each seller’s wares, trading off various criteria such as risk versus price, and finally settling on a particular product.
+
+
+But one wonders: what is using it like? Does it have a decent selection? Is it safe? Ridden with scammers? Has it succumbed to an Eternal September (“I used SR when it was still underground”)? Shouldn’t we keep quiet about it like Fight Club?
+
+## Quality
+
+
+The purity and safety of SR wares, while varying considerably from seller to seller, batch to batch, and drug to drug, seems to have generally been high. For example, the LSD Avengers’ lab testing kept the LSD section’s quality up, and the FBI in its JTAN search warrant request did its own lab testing:
+
+
+Since November of 201115ya, law enforcement agents participating in this investigation have made over 70 individual purchases of controlled substances from various vendors on the Silk Road Underground Website. The substances purchased have been various Schedule I and II drugs, including ecstasy, cocaine, heroin, LSD, and others. As of April 201313ya, at least 56 samples of these purchases have been laboratory-tested, and, of these, 54 have shown high purity levels of the drug the item was advertised to be on Silk Road.
+
+
+Successful delivery rates of real drugs were high; the DHS agent Jared Deryeghiayan reportedly testified that of >50 orders, “All but 1-2 shipped the advertised drug.”
+
+
+Subsequent DNMs likewise appear to have high purities on average. For example, the Spanish drug testing service Energy Control found as of March 201511ya that “Users are asked about the type of substance they believe they have purchased. In 120 of 129 samples (93%), the main result of the analysis was consistent with the information provided by the user”4
+
+
+## Safe
+
+
+ A recent paper published by Barratt, Ferris, and Winstock (2014) analysed data from a large, international sample of 9,470 recent drug users who completed an on-line survey promoted through the media in 2012 (before the closure of the Silk Road) and found approximately 6% of their sample had purchased drugs from the Silk Road, with rates of purchasing highest among participants from the USA (10%) and lowest among Australian participants (4%). However, this low percentage of Australians is apparently at odds with the American Federal Bureau of Investigation (FBI) documents released in the wake of the Silk Road closure, in which it was determined that Australian customers were overrepresented on the original Silk Road relative to Australia's population (Ormsby, 2015). The most commonly purchased illicit substance across USA, UK and Australian participants was MDMA, followed by cannabis and LSD.
+>
+> ...The Ecstasy and related Drugs Reporting System (EDRS) has been monitoring patterns of substance use and associated characteristics of regular psychostimulant users (RPU) in Australia since 2003. In this sample, participants are eligible if over the preceding six months they have used on at least six different occasions one of the following psychostimulant substances: 3,4-methylenedioxy- methamphetamine (MDMA), 3,4-methylenedioxy-amphetamine (MDA), methamphetamine, cocaine any non-prescribed use of pharmaceutical stimulants (eg. methylphenidate, and dextroamphetamine). Over the past two years, the EDRS has reported an increasing proportion of participants sourcing NPS and traditional illicit substances online. In 2012, 3.6% of those sampled reported sourcing any drug online in their last transaction, with 5.7% of the sample having purchased online in their last transaction in 2013 Sindicich and Burns (2013, 2014).
+>
+> ...The sample incorporated 745 participants recruited as part of the 2014 EDRS. This study is designed to monitor self-reported changes in illicit drug market use and preference across Australia (for full methodology see Sindicich and Burns 2015). Participants were recruited for face-to-face interviews during March-July 2014 using a purposive sampling process, via advertisements in universities and street press, and peer referral. Participant eligibility included an age of 16 or older, use of a psychostimulant drug at least once monthly in the preceding six months, and residence in the city of University of New South Wales Human Research Ethics Committee.
+>
+> - Sindicich, N., & Burns, L. (2015). ["Australian Trends in Ecstasy and related Drug Markets 2014: Findings from the Ecstasy and Related Drugs Reporting System (EDRS)"](https://ndarc.med.unsw.edu.au/sites/default/files/newsevents/events/National_EDRS_2014.pdf). Australian Drug Trend Series No. 136. Sydney: National Drug and Alcohol Research Centre, University of New South Wales
+>
+> ...To measure dark net use specifically, respondents were asked whether they had ever used a dark net marketplace to purchase drugs, and whether they had done so in the preceding 12 months. Those found to have recently purchased from dark net marketplaces were asked if they purchased from domestic (ie. Australian) retailers on these marketplaces, or if they purchased from retailers in other countries. Buying from domestic retailers offers a relatively lower level of risk of detection compared to importing drugs across the Australian border, due to stringent screening of packages at the international border (Australian Crime Commission, 2014). Participants were asked what substances they had purchased, and whether their purchases were made for themselves or others. Participants were then asked about their main motivation for purchasing online, any negatives associated with purchasing online (both including free text response options), their likelihood of purchasing online in the future, and if their last ordered package arrived without detection.
+>
+> ...Of the 745 EDRS participants, 82 reported that they had ever purchased from the dark net (12% of the sample), with 66 (80% of all dark net users; 10% of the sample, 95% CI: 7%-11%) reporting having done so in the previous year.
+>
+> ...The majority of recent dark net purchasers reported they had purchased from the original Silk Road, with the majority reporting they had bought from international retailers, either exclusively (38%), or from both Australian and international retailers (30%). Most reported purchasing for both themselves and others (83%), and stated that 'a few' of their friends also purchased from the dark net (73%). Notably, seven participants (11% of purchasers) stated none of their friends purchased online. MDMA was nominated as the most commonly purchased drug, followed by LSD, cannabis and new psychoactive substances (NPS). Participants largely cited the cheaper price online as their main motivation for purchasing online over street markets (38%), and the higher quality of substances online (30%). The mostly commonly cited negatives of purchasing online were that packages did not arrive (27%), the slow overall process of purchasing online (22%) and the difficulty of the process (20%). The vast majority of dark net purchasers stated their last ordered package arrived without being intercepted (88%).
+> ...Though a small proportion of the sample reported ever (11%) and recently (10%) purchasing substances on the dark net, proportions are slightly higher than those from the 2015 Global Drug Survey sample (6.9% of Australians in the sample reported purchasing from the dark net in the preceding 12 months; Winstock, 2015).
+>
+> ...Substances in Australia are traditionally more expensive than other countries, likely due to Australia's relative isolation (Sindicich & Burns, 2013, 2014), and as such dark net marketplaces appear to represent a cheaper alternative to street markets (Van Buskirk, Roxburgh, Bruno, & Burns, 2013). This is supported by the finding that almost 70% of the dark net purchasers in the current study ordered from retailers outside of Australia, despite a higher legal risk of detection associated with international importation compared with domestic mail, due to stringent screening process of mail at the international border (Australian Crime Commission, 2014).
+-->
+
+
+The safety of using Tor darknet markets is a major question (and worries about safety are, according to Barratt et al 2013’s survey analysis, a major reason people don’t use SR), and one I find interesting. Unsurprisingly, it’s hard to find solid information on how many people have been busted using SR or what happened to them, and the consequences will depend on the specific substance and amounts. For example, modafinil seems to be de facto not prosecuted in the US, and the failure rates of importing from online pharmacies seem to be in the <10% range according to buyer anecdotes and 1 seller. Some users report occasional interceptions like when Forbes ordered 3 items in 2013 & 1 failed to arrive, but others claim flawless delivery records (even someone claiming to buy $50k of opiates a year on SR). General descriptions of drug importation also suggest low interception rates (as makes sense given the very large quantities of drugs sold every day); the large Canadian LSD seller Tessellated estimated in July 201313ya that “less than 1% of our packages are reported missing (some of this may be customers lying)” and 2 English drug journalists in December 201214ya discussing their most recent book:
+
+
+Q: “How much of the drugs that enter the country are actually seized by police?”
+
+
+A: “I think the figure that’s quoted in our book is about 1%; it really is a fraction of what gets in. There was one conversation I had with a chap who had access to the Serious Organised Crime Agency who said that if people knew how easy it was, then more people would do it.”
+
+
+Buyers and sellers seem to be treated differently as well: in the 201214ya bust of the insecure Farmer’s Market (see later footnote), the indictment only lists sellers and no buyers.
+
+### Arrests
+
+
+Due to length, this section has been split out as a separate page.
+
+
+### LE Reports
+
+
+Security-wise, SR seems to be receiving passing grades from law enforcement agencies internally; a leaked FBI report mentioned no attacks against SR, an anonymous federal source reports frustration5 (although these sources may just be echoing public information6), anonymous anecdotes claim the DEA is stymied7, while a May 201214ya Australian document reportedly praised the security of seller packaging and general site security, with a pseudonymous SR forums user claiming to summarize it:
+
+
+Recently, I gained access to an internal confidential report distributed to several Australia LE agencies and a few international anti-narcotic bodies regarding possible methods of combating illegal activities involving BC. Of course SR was a main feature of said report…So here are the nuts and bolts of the report, spread the information as far and wide as possible friends:
+
+- 
+
+PGP is terrifying them, every new user who learns it and helps others learn, closes a possible loophole they were planning to exploit.
+- 
+
+User ignorance of the technology being used (Tor, PGP etc.) is their single best hope for any kind of serious action against the SR community.
+- 
+
+Narcotic trade historically involves exploitation and violence. Users working together as a community for a greater good and towards the same goals has made all previous interdiction training basically obsolete. In other words, every user who helps newcomers learn how to be safe and secure especially through the use of PGP for all transactions and communication is a nail in LEO’s coffin.
+- 
+
+A total lack of violence and exploitation is very much working in our favor. So in other words, the idea of a community working together to protect the new and vulnerable has been identified as a huge obstacle for any kind of serious attempt to stop SR.
+- 
+
+Their morale regarding fighting SR and BC is very low at the moment, mainly because very few LEO have the capacity to comprehend how the whole system works, but unfortunately, recent media coverage demands some kind of action, so they are going to have to show the public they are doing something to combat SR, they just aren’t sure what yet.
+
+
+### Vulnerabilities
+
+
+In particular, I am impressed that after years of operation as of April 201313ya, SR seems to have never been seriously hacked or broken into: in that time, there have been many hacks of other sites and >9 hacks of Bitcoin currency exchanges. There has been a perennial forum spam problem, and in late 201214ya, there was a SQL injection attack leading to images being corrupted with false addresses and a few people losing their money by not being suspicious, but that seems to be it. And SR is the biggest target out there besides MtGox, for multiple reasons—the sheer amounts that pass through it, the potential of it being a small team rather than a professional group (how do you hire penetration testers when you’re SR?), the unusual products you can order, the notoriety one would earn, and finally, the “lulz” value of their databases (suppose someone were able to harvest addresses & names that are foolishly sent to sellers in the clear & unencrypted; imagine the lulz value of releasing them all in a big dump! People would be wetting their pants worldwide, since despite all warnings, there are always a great number of users who will not bother encrypting their addresses.)
+
+
+My belief is that SR can be taken down; however, I am not sure LE (law enforcement) has permission to use the tactics necessary—explaining the lack of suggested attacks or realistic attacks in the leaked FBI Bitcoin paper and summaries of the leaked Australian SR paper (respectively). My two suggested attacks are
+
+- 
+
+DDoSing the SR site, rendering it unusable (and congesting the overall Tor network)
+- 
+
+fake buyer & seller accounts leading up to a single large scam.
+
+
+Attack #1 would make the site simply unusable, and can be done on any address SR runs on since the address has to be widely known or how will the buyers & sellers know where to go? This would require a few dozen nodes, at least, although I’m not actually sure how hard it is to DDoS a Tor hidden server—reportedly the DDoS which took down SR for weeks was being run by a single individual in their spare time8, and by the very nature of the Tor anonymizing network, it should be difficult to do anything at all about a DoS attack since how do you identify the end-nodes responsible, as opposed to the relays passing on their messages? And the obvious counter-measure, running through many `.onion` addresses, even one for every user, would substantially reduce the actual anonymity of the SR servers. That a weak DDoS attack was already so successful against SR raises serious doubts in my mind about the ability of hidden services to resist a real DDoS attack like by a medium-sized botnet.
+
+
+Attack #2 would require a fairly substantial financial investment to pay the ~$500 deposit required of each seller account, but depending on how effective the final step is, may actually run at a profit: it’s not hard to get $500 of orders at any time, since you can build up a reputation, and then when you decide to burn the account, you can solicit orders for weeks due to shipping delays, and then delay the resolution even longer. Certainly the many FE scammers like Tony76, who have made off with hundreds of thousands of dollars, have demonstrated that this is perfectly doable and claims to the contrary are wishful thinking; and certainly LE is patient enough to do this tactic since it’s exactly what they did with Farmer’s Market & `carder.su` & other forums/sites too obscure to be remembered. Repeated, this would massively destroy buyers’ trust in SR, especially since there are usually only a few hundred active sellers at any point. (pine, commenting on how the competing darknet market Atlantis did in-browser encryption which I criticized as security theater & Hushmail redux, points out the Eternal September version of this scenario: the more newbie buyers who are too lazy or arrogant to use PGP (~90% of users, according to the Atlantis administrators in June 201313ya; >50%, according to a former SR1 seller; >30% of Sheep Marketplace users according to the seller “haydenP” on 2013-11-22; DPR2 estimated “between 8% and 12%” on SR2 on 2013-12-06; 90%, an Evolution/The Marketplace seller; <10%, an Agora seller; >75%, the Project Black Flag hacker; 46% & 52%, the Evolution seller fun-gee; 10%, GrandWizardsLair & 1-2% use multisig when available; a large fraction of AlphaBay users in 2016/2017 according to people who saw the leaked PMs) the more attractive an attack on SR becomes to pick up all the buyer addresses being sent in the clear and the more feasible a mass raid becomes.)
+
+
+Fortunately, I don’t think LE is authorized to engage in cyberwar (#1) or mass entrapment & fraud (#2)—and who knows, maybe SR could survive both. We’ll see.
+
+
+## Fight Club
+
+
+Whenever classic (and illegal) cypherpunk applications are implemented using Bitcoin, you are sure to find someone complaining that you must not talk about Fight Club—how will that play in Peoria⸮ You will find quite a few, actually, as much as one would expect Bitcoin to select for hard-core libertarian types9 or techies who have internalized the Streisand effect; indeed, the moderators of the Bitcoin forum have—in a crime against history—deleted the early threads about SR, including the thread that saw SR announced. (I posted a short thread linking this page, and I give it about 25% odds of being moderated/deleted; a few hours later, the thread had been deleted. I had drastically underestimated the cowardice of the forum moderators.)
+
+
+This is a certain double-bind and unfairness in such criticism. Would such critics be congratulating me if this article turned out to help Bitcoin by discussing and documenting a demand driver and important test-case? I suspect they wouldn’t. Their argument is unfalsifiable and based more on their prejudices than hard data.
+
+
+To such people, my general reply is: what makes you think I want Bitcoin to succeed? It’s interesting but that doesn’t mean I have drank the Kool-Aid. If SR coverage hurt Bitcoin, I may not care.
+
+
+And I would argue the contrary: I believe SR coverage helps Bitcoin. SR has not been harmed by its national coverage; the number of accounts and transactions have all increased dramatically, and SR’s admin has stated his satisfaction with the new status quo on the SR forums and on Gawker, and said later that “Silk Road was never meant to be private and exclusive.” (2012-01-09, “State of the Road Address”); as has a co-founder of a British Bitcoin exchange.
+
+
+Not that the SR admin ever sought secrecy—he announced SR’s official opening on the Bitcoin forums! Purchases of Bitcoin noticeably spiked after the Gawker article as already mentioned, and one cannot buy that much publicity. One might say of self-censorship that “C’est pire qu’un crime, c’est une faute.”
+
+
+And suppose SR coverage did hurt Bitcoin even to the extent that it would be worth devoting one neuron to thinking about it; I would publish anyway because that would mean that the Bitcoin experiment has failed and must be terminated immediately. If Bitcoin is not safe for the drug dealers, then it is not safe for anyone; if Bitcoin can be hurt by the truth, then it is already doomed—you cannot build on quicksand, and “that which can be destroyed by the truth should be.” Good game, chaps, let’s all meet back here when the next Satoshi Nakamoto figures out how to patch the vulnerabilities.
+
+
+# Preparations
+
+
+But besides all that, how well does it work? No way to know but to go. So, let’s take a ‘brazen’ stroll down the SR.
+
+
+SR’s 2 technical claims to fame are the exclusive use of Bitcoins for payment, and access only through the anonymizing Tor network, on which SR and the SR forum live as “hidden sites”—both you and the server funnel your requests into a set of Tor nodes and you meet in the middle. (This isn’t as slow as it might sound, and hidden sites eliminate the main security weakness of Tor: evil exit nodes.) Tor itself is secure, but this doesn’t mean as much as one might think it means: while Tor itself is basically the securest software you will ever use (or at least, it is far from the weakest link in your chain), what always kills you is what you choose to communicate over Tor: what you browser sends or doesn’t send, or the personal details you put on your seller page or brag about on Tumblr/Instagram with pictures/Venmo (making for easy arrests), or the mailing address you foolishly choose to send over it plaintext & unencrypted (vulnerable until the item ships) or the revealing message (vulnerable >2 months)10, or the pseudonym you choose to confide in, etc. Tor is a tool which does one thing very well: keeps secret the communication between your computer and someone else’s computer. It does nothing whatsoever about anything that other computer may be able to figure out or record about you or what you choose to send. The perfectly secure envelope does little good if the person you’re mailing your confession to is a policeman.
+
+
+But as any kidnapper knows, you can communicate your demands easily enough, but how do you drop off the victim and grab the suitcase of cash without being nabbed? This has been a severe security problem forever. And bitcoins go a long way towards resolving it. So the additional security from use of Bitcoin is nontrivial. As it happened, I already had some bitcoins. (Typically, one buys bitcoins on an exchange like Mt.Gox, although the routes are always changing, so see the Bitcoin wiki’s buying guide; the era of easy profitable ‘mining’ passed long ago.) Tor was a little more tricky, but on my Debian system, it required simply following the official install guide: `apt-get install` the Tor and Polipo programs, stick in the proper config file, and then install the Torbutton. Alternately, one could use the Tor browser bundle which packages up the Tor daemon, proxy, and a web browser all configured to work together; I’ve never used it but I have heard it is convenient. Other options include entire OSes like Tails or Liberté Linux, which can be used on bootable Flash drives. (I also usually set my Tor installation to be a Tor server/middleman as well—this gives me more anonymity, speeds up my connections since the first hop/connection is unnecessary, and helps the Tor network & community by donating bandwidth.)
+
+
+# Silk Road
+
+
+With Tor running and the Torbutton enabled in the browser (along with any privacy mode), we can easily connect to SR; we simply visit `silkroadvb5piz3r.onion`11. (Newbies to Tor might wonder why the gibberish address. The address is derived from the public key of the server, making it more difficult for an attacker to pretend to be the real SR or do a man in the middle attack.)
+
+
+Upon connecting, you will see a bare log-in form:
+
+
+2011 SR log-in form on the homepage
+
+
+Alternately, you might see an error page like the following; SR is occasionally down for maintenance & new features or temporarily overloaded. Usually waiting a minute is enough, and longer downtimes are discussed on the SR forums.
+
+
+2011 server error example
+
+
+Click on the join, and you will be taken to another page for registering your account, much like any other site. Invitations are not currently required, although to register a seller account is neither easy nor cheap, see later sections. (I suggest picking a strong password12. Learn from the Mt.Gox fiasco.) With your new account, you can now log in and see what there is to see on the main page:
+
+
+The front page, displaying random images of merchandise on offer, categories of listings, and recent feedback posted by buyers
+
+
+At another time
+
+
+And another time
+
+
+Notice at the bottom, below the random selections, is a section listing all the most recent reviews from buyers; feedback from buyers, like on Amazon or eBay, is crucial to keeping the system honest:
+
+
+Seller feedback
+
+
+The stimulants category contains much what you’d expect:
+
+
+2011 listing of stimulants: Adderall, 4-FA, methamphetamine, cocaine
+
+
+Moving on, we have the section for selling forgeries:
+
+
+Forgery selection
+
+
+# Legal Wares
+
+
+Perhaps more surprising are the non-drug listings. They don’t get mentioned much in the usual coverage, but SR has aspirations of being a marketplace for more than just drugs. For example, the collectibles category with its military surplus or replica helmets, or German pretzels, or the ‘services’ category, which has, interestingly, become a way for sellers to offer ‘extras’ with their wares like faster shipping (or just oddball offers, like one offering to write a German prescription for any prescribable drug in Germany):
+
+
+Collectibles category: 194185ya Canadian military helmet, reproduction German military helmet, Vietnam War American military helmet
+
+
+Services category: upgraded shipping, manuals, website invitations, homework grading
+
+
+There’s also the book section, with its predictably less than commendable but perhaps not actually illegal wares:
+
+
+Guides to committing illegal activities
+
+
+Although reportedly the book section can also be used to buy books censored for political reasons in China (“Bitcoin bursts: Hacker currency gets wild ride”, AP Digital):
+
+
+One British user told AP he first got interested in SR while he was working in China, where he used the site to order banned books. After moving to Japan, he turned to the site for an occasional high.
+
+
+This is a handy reminder that even if you happen to agree with some drug laws, there are many other laws domestic & foreign one might disagree with (bans of Kinder eggs, extremely costly regulation of venison, sex toys etc.).
+
+
+One section that perplexed me when I browsed it was the art section, for blotters:
+
+
+Blotter selection
+
+
+An euphemism for the LSD section? Apparently no—they seem to be genuine little bits of Americana, without any LSD in them, when I looked at one item more closely. (The art doesn’t appeal to me, and it seems like a risky kind of art to collect, but it takes all sorts.)
+
+
+A vintage LSD blotter with artwork on it
+
+
+Besides the mentioned blotter artwork, books, Kinder eggs, and venison, I was curious how many legal goods were available on SR in general. (Also amusing: fig tree cuttings were sold on Atlantis.) On 2013-04-17, I visited SR, archived the first page of each category, and then did some guessing at the legal fraction of the 25 items on the first page for each category. (If there was only 1 page / <25 items, I simply eyeballed what was there.) Evaluating the legality of drugs is difficult because many are regulated differently in jurisdiction (an Englishman can legally import modafinil while an American is breaking the law), are unregulated (analogues), or may be regulated differently based on the exact chemical form (the former American legal distinction between forms of cocaine); hence, I ignored the drug & drug paraphernalia sections. Copyright infringement is counted as illegal (so an e-book counts, but a physical book doesn’t), but hacking tools are not since I am unclear on what hacking tools, if any, are either criminal or civilly prohibited. My results:
+
+
+Category
+
+
+Total items
+
+
+Questionable
+
+
+Notes on items
+
+
+Drugs
+
+
+8845
+
+
+100%?
+
+
+Drug paraphernalia
+
+
+337
+
+
+100%?
+
+
+Apparel
+
+
+321
+
+
+100%
+
+
+Counterfeit or knockoff goods
+
+
+Art
+
+
+112
+
+
+8%
+
+
+Blotter art, pornography (copyright infringement)
+
+
+Biotic materials
+
+
+2
+
+
+0%
+
+
+Opium tea (apparently legal), damiana (banned in Louisiana only)
+
+
+Books
+
+
+878
+
+
+12%
+
+
+Copyright infringement (e-books)
+
+
+Collectibles
+
+
+13
+
+
+8%
+
+
+Moonshine
+
+
+Computer equipment
+
+
+67
+
+
+0%
+
+
+Specialized but legal software, hardware
+
+
+Custom Orders
+
+
+82
+
+
+32%
+
+
+Most do not specify what they are for; 8 are drug-related
+
+
+Digital goods
+
+
+655
+
+
+16%
+
+
+Site accounts or invites
+
+
+Electronics
+
+
+92
+
+
+4%
+
+
+Counterfeit/knockoff
+
+
+Erotica
+
+
+612
+
+
+100%
+
+
+Copyright infringement, site accounts
+
+
+Fireworks
+
+
+4
+
+
+0%
+
+
+Food
+
+
+10
+
+
+4%
+
+
+Moonshine
+
+
+Forgeries
+
+
+100
+
+
+92%
+
+
+Driver’s licenses principally
+
+
+Hardware
+
+
+33
+
+
+0%
+
+
+Hard drives, safes, night vision goggles, lockpicks
+
+
+Herbs & Supplements
+
+
+6
+
+
+0%
+
+
+Not that I recommend maca root as an aphrodisiac…
+
+
+Home & Garden
+
+
+9
+
+
+0%
+
+
+Poppy plant seeds, Gillette razors, Mylar film, electric lights
+
+
+Jewelry
+
+
+93
+
+
+96%
+
+
+Counterfeit/knockoff (mainly Cartier/Hermes/Montblanc/Gucci)
+
+
+Lab Supplies
+
+
+46
+
+
+0%
+
+
+Glass vials, flasks, mushroom spores, tablet machine
+
+
+Lotteries & games
+
+
+82
+
+
+100%
+
+
+Presumably all such gambling is regulated
+
+
+Medical
+
+
+36
+
+
+36%
+
+
+Needles/syringes, tablet machine, prescription drugs
+
+
+Money
+
+
+145
+
+
+0%
+
+
+Cash, debit cards, bullion, guides
+
+
+Musical instruments
+
+
+2
+
+
+100%
+
+
+Beta blockers (when asked, seller said “They were put there over a year ago for musicians to find as they are a very practical musical tool.”)
+
+
+Packaging
+
+
+49
+
+
+0%
+
+
+Plastic bags, stamps, heat-sealing equipment
+
+
+Services
+
+
+81
+
+
+24%
+
+
+DDoS; username/password cracking; many takers for ‘Common Sense’?
+
+
+Tickets
+
+
+1
+
+
+0%
+
+
+?
+
+
+Weight loss
+
+
+53
+
+
+84%
+
+
+Drugs; 2,4-Dinitrophenol, clenbuterol etc
+
+
+Writing
+
+
+4
+
+
+0%
+
+
+Drug sampling/review; ghost paper-writing; custom poems/stories
+
+
+Yubikeys
+
+
+4
+
+
+25%
+
+
+An Adderall listing (another miscategorization?); intended for two-factor authentication products
+
+
+Extrapolating to all the other public listings and multiplying out the percentages, my table suggests 10709 questionable/illegal products out of 12774 total public listings, or ~83% of SR public listings are illegal goods. (It assumes all drug/drug paraphernalia are illegal, that the first page listing is representative, does not try to assess private listings which will likely skew to illegal drugs, etc.) This is much lower than I expected, but this estimate tells us little about how much is actually bought & sold, how much turnover there is, and what fraction of each are illegal.
+
+
+# Anonymity
+
+
+Well, you’ve browsed through the SR proper. You can also visit the official SR forums at `dkn255hz262ypmii.onion`. The discussions are indispensable tools for learning about sellers and getting the latest rumors like indicators of FE scams, but the forums are also where official rule changes to SR are announced by the SR administrator.
+
+
+We have window-shopped long enough. It’s time to take the plunge and buy something. Bitcoin developer Jeff Garzik is quoted in the Gawker article as saying that “Attempting major illicit transactions with bitcoin, given existing statistical analysis techniques deployed in the field by law enforcement, is pretty damned dumb.” Fortunately I do not plan ‘major’ transactions, and in any case, I tend to suspect that said statistical techniques are overblown; a few academics have published initial investigations into tracing transactions and examining the larger Bitcoin economy, and have linked transactions to individuals, but as of 201214ya have only done so with addresses publicly linked to identities, and not broken the anonymity of people trying to be anonymous.
+
+
+The public nature of transactions means that many interesting connections & graphs can be generated and analyzed. But fortunately, it’s straightforward to anonymize Bitcoin transactions (mixing services13) by a method analogous to the Tor network we are relying upon already: route the money through several intermediaries in several quantities and reconstructing the path backwards becomes nontrivial.
+
+
+My own method was to route 4 bitcoins through Mt.Gox (this was before the hacking, a series of events which confirmed my own resolution to keep a balance at Mt.Gox for as short a time as possible; a retrospective analysis of Bitcoin exchanges suggests that for every month you keep a balance at an exchange, you run a ~1% chance of losing your money), then through MyBitcoin (which at the time was still considered trustworthy)14. This was straightforward—sign up for a throwaway account:
+
+
+MyBitcoin (defunct) login page
+
+
+Then deposit to the one-use address:
+
+
+MyBitcoin deposit interface
+
+
+A day or three later, I am tired enough of the game to route my Bitcoins into the last set of anonymizing mixes, SR’s own cointumbler. How do we do a deposit? We click on the link in the profile and see:
+
+
+SR bitcoin deposit form interface
+
+
+No big surprise there—it’s another one-time address which expired at noon, so there’s no time to shilly-shally:
+
+
+SR deposit instructions: send bitcoins to this address etc.
+
+
+Once deposits have been made or purchases entered into, one’s profile page begins to look like this:
+
+
+A record of deposits and withdrawals
+
+
+# Shopping
+
+
+After some browsing, I personally decided on an offering of the nootropic selegiline. Safe, potentially useful, and not even especially illegal. The price was right:
+
+
+Bare-bones selegiline listing
+
+
+Should I buy it?
+
+## Evaluating Sellers
+
+
+Now, you will notice that for most sellers, there is no ‘(99)’ or ‘(100)’ after the seller’s name; for example, this random seller has no such indicator:
+
+
+seller profile page with public key
+
+
+This is due to the simple fact that when I joined, the post-Gawker rush had resulted in membership jumping from the high-hundreds/low-thousands range to north of 10,000 accounts, and while many transactions had been entered into, the reviews and closures of transactions had only started. So I was not too bothered by the lack of feedback on this seller profile. I also used the handy SR forums and found no bad mentions of the seller. The user number was not terribly high, the description was detailed enough that it looked like he took selling seriously, there are no bad reviews, they posted a public key, etc. So, I was willing to take a chance on him.
+
+
+Both the seller and the example above had standard PGP-compliant public keys posted (the long string of gibberish under that odd header—quite unmistakable), which one will need to encrypt the personal information one sends the seller15. (It is a given on SR that sellers have public keys; any sellers who does not provide public keys should be shunned no matter how good they seem, and you instantly fail at security if you send the seller the address unencrypted. You are also making SR a bigger target by doing stuff in the clear, because the site is holding more valuable information.) Public-key cryptography is an old and vital concept to understand, and there are a great many descriptions or introductions online so I will not explain it further here.
+
+
+I add it to my cart:
+
+
+Selegiline: shopping cart form—fill in form and push the button, if you dare
+
+
+Notice the address field. Now, I could be a chump and put down my friend’s address in the clear. But what if SR itself is compromised? Right now, SR doesn’t have anything about me, but the address is a good starting place for finding me. So, I go to the seller’s profile, and like the example above, my seller has posted his public key. I want to encrypt the address against that public key. How?
+
+
+## Encryption
+
+
+There are a great many guides to GPG; the official GPG handbook, the Ubuntu guide, Heinlein’s “Quick Start”, the PGP Encryption Video Tutorial, & /r/SilkRoad wiki work well enough. To summarize what I did:
+
+- 
+
+I copy the public key into a text file named `key.txt`
+- 
+
+I tell GPG to memorize it: `gpg --import key.txt`
+
+
+GPG will spit out some output about how it now knows the public key of `nobody@cypherpunks.com` etc.
+- 
+
+I write down her address in a file, `address.txt`,
+- 
+
+and I encrypt it: `gpg --recipient nobody@cypherpunks.com --encrypt address.txt --output address.gpg --armor`
+
+
+Hopefully the options make sense. (We need `--armor` to get an ASCII text encrypted file which we can copy-and-paste into the shopping cart’s address form, rather than a smaller file of binary gibberish.) An example of doing this right:
+
+
+Selegiline shopping cart: with the encrypted address to send the selegiline to
+
+
+Now, one might wonder how one would post one’s own public key in case one asks questions and would like the answers from the seller to be as encrypted as one’s addresses. It’s easy to make one with `gpg --gen-key` and then a `gpg --armor --export USERNAME`, but where to post it? It used to be that you could simply push a button in your profile to register as a seller and then fill your own profile field with the public key like any seller, and I did just that. But SR closed free seller accounts and required large up-front deposits, and has announced that they are being auctioned off. The justification for this is SR claims to have received an anonymous threat to register many free seller accounts and simply mail poisoned pills out (which he alluded to earlier). Hopefully buyers will soon be able to edit their profile, but until then, there is a thread on the SR forums devoted to buyers posting their public keys.
+
+
+## Now What?
+
+
+Once you have submitted the order, the ball is in the seller’s court. The order is listed in your shopping cart as ‘processing’:
+
+
+And done
+
+
+Your balance also instantly decreases by the price, and if you look at your balance/transactions page, you will notice that that amount is listed as in escrow16. SR holds onto your Bitcoins until you finalize17 the transaction with a review—one of the protections for the buyers.
+
+
+It’s worth noting that the buyers bear the real risk on SR. A seller can easily anonymize themselves and send packages without difficulty: simply drive out of town to an obscure post office and mail it, leaving behind fuzzy surveillance recordings, if even that18. Even using the “mail covers”—photographs taken by the USPS of the exterior of all packages mailed in the USA, data heavily exploited—database would not help because presumably no genuine information about the sender is recorded on packages, although the USPS hidden camera surveillance would. (The SR forums had a subforum on shipping, as do the replacement forums.) A buyer, on the other hand, must at some point be physically present to consume the ordered drugs or items. There’s no way to cleanly separate herself from the shipment like the seller can. Shipping is so safe for the seller that many of them will, without complaint, ship worldwide or across national borders because customs so rarely stops drug shipments. For example, only 1 of my shipments of any supplement or substance I have ordered has been held for a signature; the other few dozen have never been stopped or apparently looked at hard by a Customs official. In the 2 SR orders’ cases, this turned out to be irrelevant as both sellers were in-country. Christin 201313ya remarks with surprise on how freely sellers sell internationally, but rightly looks to the minimal risks sellers bear and incentive they have for broad markets to explain this casual disregard. One of the corollaries of this shift of risks from the seller to the recipient is that a viable method of attacking someone is to get their address and order, say, heroin for them off SR as happened to security journalist Brian Krebs in July 201313ya (Krebs enjoys another dubious distinction: being a victim of Swatting). Sheep Marketplace decided to shut down its gun offerings 2013-11-08 due to “actions undertaken by a particular gun vendor where he threatened to kill a users family and began exposing addresses” (possibly “gunsandammo”).
+
+
+I check in 1 day later: the order still processing. Items apparently aren’t public once you’ve escrowed your dosh. 2 days later: still processing. 3 days later: canceled! My Bitcoins are unlocked, of course, but I’m not keen on ordering again right away. Need to browse more and look for deals. The cancellation message is not very informative:
+
+
+Order canceled, funds refunded
+
+
+Well sure, but why was it canceled? I speculate the seller decided he didn’t want to send outside the EU despite his listing claiming he would—perhaps shipping cost more than he had factored into his price. (I checked back a few weeks later, and the seller says he canceled all orders and got a new public key because the Mt.Gox exploits have made him paranoid. I can’t really fault him with that rationale. I wish he had mentioned it before, I would have cut him some slack.)
+
+
+## Try, Try Again
+
+
+After some more browsing, I decide to go with either the cheapest Adderall or the new modafinil posting, which mentioned being Provigil. (Here it was that I decided my ordering risk is very small, for a variety of reasons19, and to go forward with my investigation.) But is it real branded Provigil or just the usual Indian generics? Also, the Adderall seller has no public key listed! I take this opportunity to message the two, asking for more information and to post a public key, respectively.
+
+
+Both have replied the next day; the Adderall seller has put up his public key, and the modafinil seller clarifies it’s Indian—but it doesn’t matter since the item’s page has disappeared, indicating someone bought it already. Naturally, I reply and then delete all messages. One must assume that SR will be compromised at some point… But the Adderall it is. The listing looks pretty good, and the price per pill is superior to that I was quoted by one of my college-age friends (less than 1⁄3 the price, although to be fair it was nearing exams time) and also better than the Adderall price quote in the New Yorker, $15 for 20mg:
+
+
+Adderall item listing
+
+
+1 day after ordering: still processing, and 2 days, ‘in transit’:
+
+
+Checking in on the Adderall order: seller is still preparing to send
+
+
+And now the seller says he’s mailed it
+
+
+## Evaluating and Reviewing
+
+
+3rd day: still in transit. 4th day: the package arrived! I go over immediately, and it’s this harmless-looking little padded mailer. One would not suspect it of anything nefarious, not with those cute stamps20:
+
+
+Package of Adderall as received, before opening
+
+
+The contents are as described, 10 blue Adderall, in a double ziplock baggy (the vacuum-sealed bags are not needed for a drug this low on the importance scale—there are no drug dogs for Adderall):
+
+
+The Adderall pills themselves in plastic bags
+
+
+While I have never used Adderall before, the effects are noticeable enough that I am convinced after the first dose that they are genuine (I have continued to experiment with them to somewhat lesser effect). The very sharp-eyed will notice that these are the ‘generic’ Adderall pills, but as it turns out, the generic Adderall pills are manufactured by the exact same pharmacorp as the branded Adderall—the two products are probably a case of price discrimination. Economics can be a counter-intuitive thing. I also ordered generic armodafinil with similar steps since the armodafinil was noticeably cheaper than the regular Indian generic modafinil:
+
+
+4 of the pills are left after I tested the first one overnight.
+
+
+They work fine (I have begun experimenting with them), and I leave the seller a nice review. My third order proceeds as straightforwardly as the second order, and results in an even better packaged shipment of product that seems to be genuine as far as I can tell. Heedful of the risks and probabilities, I leave another nice review; the review form (reached when you click the ‘finalize’ link) is as straightforward as the rest of the process:
+
+
+The feedback form, after a successful order
+
+
+Feedback is an important part of the process. I was surprised to revisit one of my seller’s page when 3 or 4 of his transactions has caused him to go from no reviews to 4 positive reviews, and see that his prices had increased a good 30 or 40%. Apparently he had been selling at a considerable discount to drum up reviews. This suggests to me, at least, that existing SR users are a bit too chary of new sellers.
+
+
+Another transaction; 10x100mg Modalert ordered from an English seller, arrived in larger than one would expect packaging (which contained a pretty nifty way to hide a shipment, but I will omit those details):
+
+
+The Modalert package as received
+
+
+The Modalert was what one would expect:
+
+
+Foil packaging, front
+
+
+Foil packaging, back
+
+
+A final example: I search for modafinil:
+
+
+Search results for the query ‘modafinil’
+
+
+I finally decide to order 80x150mg armodafinil from a French seller (not so cheap as before):
+
+
+Cart report
+
+
+2 weeks later, it arrived in heavily folded paper inside this envelope:
+
+
+a message from France
+
+
+Containing the agreed-upon purchase:
+
+
+the booty
+
+
+# LSD Case Study
+
+
+With Adderall & modafinil, the seller choices were restricted enough and scams rare enough that I did not need to think hard about the process. When I became interested in running my LSD microdosing self-experiment, I looked at the LSD sellers, and this ease vanished; scammers were an acknowledged plague, and there was a bewildering array of options:
+
+
+The first page of LSD listings on SR in September 2012
+
+
+Where does one start? I decided to turn my shopping frustrations into a case study of a systematic approach to evaluating the available information (but mostly an excuse to collect some unusual data and apply some statistical reasoning).
+
+## Seller Table
+
+
+Background reading: “Official discussion thread of current LSD vendors”, “The Avengers LSD Vendors Review”, & “Collective Acid Database”.
+
+
+This table of blotter listings <₿12 which ship to USA was compiled 2012-09-03 from SR search results for “LSD”. Note that the table is now entirely obsolete, but I believe the overall appearance is representative of the SR LSD marketplace.
+
+
+Listing
+
+
+#
+
+
+μg
+
+
+₿
+
+
+S&H
+
+
+μg/₿
+
+
+Transit
+
+
+User
+
+
+Age (days)
+
+
+FE
+
+
+Feedback
+
+
+Weighted μg/₿
+
+
+Threads
+
+
+LSD reviews
+
+
+Forum hits
+
+
+“Matrix™”
+
+
+5
+
+
+250
+
+
+11.67
+
+
+1.75
+
+
+93
+
+
+international
+
+
+EnterTheMatrix
+
+
+360
+
+
+yes?
+
+
+300(98.7%)
+
+
+9021
+
+
+EnterTheMatrix reviews
+
+
+many
+
+
+many
+
+
+“Alice in Wonderland”
+
+
+5
+
+
+120
+
+
+6.99
+
+
+0.42
+
+
+81
+
+
+international
+
+
+aakoven
+
+
+360
+
+
+no?22
+
+
+300(93.7%)
+
+
+74
+
+
+aakoven reviews
+
+
+>6
+
+
+18023
+
+
+“Hoffman Now”
+
+
+2
+
+
+110
+
+
+2.96
+
+
+0.34
+
+
+7024
+
+
+international
+
+
+PremiumDutch
+
+
+360
+
+
+yes
+
+
+300(97.3%)
+
+
+67
+
+
+N/A
+
+
+2
+
+
+6025
+
+
+Synaptic26
+
+
+“5LSD Blotter”
+
+
+5
+
+
+200
+
+
+7.45
+
+
+0.58
+
+
+125
+
+
+international
+
+
+juergen2001
+
+
+360
+
+
+yes
+
+
+300(95.1%)
+
+
+115
+
+
+juergen200125ya reviews
+
+
+>18
+
+
+90
+
+
+“Trip”
+
+
+5
+
+
+150
+
+
+8.02
+
+
+0
+
+
+94
+
+
+domestic
+
+
+lonely kamel
+
+
+120
+
+
+no
+
+
+173(93.4%)
+
+
+84
+
+
+LK 1 LK 2
+
+
+0
+
+
+2027
+
+
+2 pcs Maya
+
+
+2
+
+
+250
+
+
+4.12
+
+
+1.42
+
+
+104
+
+
+international
+
+
+VitaCat
+
+
+120
+
+
+no?
+
+
+300(99.9%)
+
+
+103
+
+
+VitaCat reviews
+
+
+many
+
+
+many28
+
+
+5 pcs Maya
+
+
+5
+
+
+250
+
+
+10.21
+
+
+1.42
+
+
+107
+
+
+international
+
+
+VitaCat
+
+
+120
+
+
+no?
+
+
+300(99.9%)
+
+
+106
+
+
+VitaCat reviews
+
+
+many
+
+
+many
+
+
+“Premium LSD tabs”
+
+
+5
+
+
+?
+
+
+6.99
+
+
+0
+
+
+72
+
+
+domestic
+
+
+No FE ever
+
+
+60
+
+
+no
+
+
+68(99.1%)
+
+
+67
+
+
+NFE 1, NFE 2
+
+
+2
+
+
+2229
+
+
+Mayan 1
+
+
+1
+
+
+125
+
+
+0.83
+
+
+0.32
+
+
+143
+
+
+international
+
+
+nipplesuckcanuck
+
+
+60
+
+
+yes?
+
+
+127(97.6%)
+
+
+134
+
+
+nipplesuckcanuck reviews
+
+
+?
+
+
+11
+
+
+Mayan 2
+
+
+10
+
+
+125
+
+
+7.19
+
+
+0.49
+
+
+163
+
+
+international
+
+
+nipplesuckcanuck
+
+
+60
+
+
+yes?
+
+
+127(97.6%)
+
+
+153
+
+
+nipplesuckcanuck reviews
+
+
+3
+
+
+11
+
+
+“Shiva”
+
+
+2
+
+
+100
+
+
+2.18
+
+
+0.18
+
+
+85
+
+
+domestic
+
+
+graffenburg
+
+
+30
+
+
+no
+
+
+76(100%)
+
+
+82
+
+
+N/A
+
+
+0
+
+
+930
+
+
+“Hoffmann bike rides”
+
+
+5
+
+
+150
+
+
+7.53
+
+
+0
+
+
+100
+
+
+international
+
+
+Machine Maid
+
+
+30
+
+
+no
+
+
+10(100%)
+
+
+74
+
+
+N/A
+
+
+0
+
+
+1
+
+
+“3Jane Latest”
+
+
+5
+
+
+100
+
+
+7.36
+
+
+0.59
+
+
+63
+
+
+domestic
+
+
+Molly Want a Cracker
+
+
+24
+
+
+no
+
+
+28(100%)
+
+
+57
+
+
+Molly reviews
+
+
+0
+
+
+9
+
+
+“Beetles Stamps”
+
+
+5
+
+
+150
+
+
+4.28
+
+
+0
+
+
+175
+
+
+domestic
+
+
+USAReshipper
+
+
+10
+
+
+no
+
+
+0(?%)
+
+
+88
+
+
+N/A
+
+
+0
+
+
+331
+
+
+“5 strip Real Love”
+
+
+5
+
+
+150?
+
+
+6.41
+
+
+0.29
+
+
+112
+
+
+domestic
+
+
+Ladylucy
+
+
+4
+
+
+?
+
+
+0(?%)
+
+
+56
+
+
+Ladylucy reviews
+
+
+0
+
+
+3
+
+
+“Koi Fish”
+
+
+1
+
+
+250
+
+
+2.51
+
+
+0.6
+
+
+80
+
+
+international
+
+
+aciddotcom
+
+
+7
+
+
+yes
+
+
+0(0%)
+
+
+40
+
+
+N/A
+
+
+0
+
+
+0
+
+
+An anonymous email provided me in November 201214ya with a catalogue from a Dutch bulk seller who sells LSD (among other things); their listed prices serve as a useful comparison:
+
+
+Blotter brand
+
+
+Dose (μg)
+
+
+Unit-count
+
+
+unit-price (€)
+
+
+min. total cost (€)
+
+
+min. μg/€
+
+
+Fat & Freddy’s
+
+
+200-250
+
+
+100-1000
+
+
+4.75
+
+
+475
+
+
+42.1
+
+
+Fat & Freddy’s
+
+
+200-250
+
+
+2000-4000
+
+
+4.25
+
+
+8500
+
+
+47
+
+
+Fat & Freddy’s
+
+
+200-250
+
+
+5000-9000
+
+
+3.90
+
+
+19500
+
+
+51.3
+
+
+Fat & Freddy’s
+
+
+200-250
+
+
+10000+
+
+
+“negotiable”
+
+
+?
+
+
+?
+
+
+Ganesha
+
+
+100-120
+
+
+100-1000
+
+
+2.50
+
+
+250
+
+
+40
+
+
+Ganesha
+
+
+100-120
+
+
+2000-4000
+
+
+2.25
+
+
+4500
+
+
+44.4
+
+
+Ganesha
+
+
+100-120
+
+
+5000-9000
+
+
+1.70
+
+
+8500
+
+
+58.8
+
+
+Ganesha
+
+
+100-120
+
+
+10000+
+
+
+“negotiable”
+
+
+?
+
+
+?
+
+
+Hofmann bicycle man
+
+
+100-120
+
+
+100-1000
+
+
+2.50
+
+
+250
+
+
+40
+
+
+Hofmann bicycle man
+
+
+100-120
+
+
+2000-4000
+
+
+2.25
+
+
+4500
+
+
+44.4
+
+
+Hofmann bicycle man
+
+
+100-120
+
+
+5000-9000
+
+
+1.70
+
+
+8500
+
+
+58.8
+
+
+Hofmann bicycle man
+
+
+100-120
+
+
+10000+
+
+
+“negotiable”
+
+
+?
+
+
+?
+
+
+To convert ₿ to € (as of 2012-09-03), we multiply by 8.3. So for comparison, the top Dutch blotter was 58.8μg/€, and the top unweighted SR blotter was 163μg/₿; in €, the SR becomes 163μg/8.3₿ or 19.64μg/€, indicating that a small SR purchase with S&H will have an unit-price 3x of a large Dutch purchase minus S&H.
+
+
+A factor of 3 seems pretty reasonable, given the very large markups along the LSD supply-chain. 200323ya trial testimony32 for the American LSD chemist William Leonard Pickard stated that his wholesale customers paid him ~$0.3 per 100μg, or (as of 2012-09-03) 0.0286₿ per 100μg, or 3497μg/₿. (A stark contrast to 163μg/₿!)
+
+
+## Description
+
+
+Some general observations on this table of a subset of LSD sellers:
+
+- 
+
+There’s a striking number of new sellers: listings from ‘young’ accounts (<=2 months old) make up more than half the table. I’ve seen many complaints about a lack of US sellers but it seems the market is responding.
+- 
+
+There are dismayingly few LSD reviews on the forums for any seller except EnterTheMatrix; this seems to be partially due to the presence of many sellers not specializing in LSD.
+- 
+
+Long-term feedback below 95% is a warning sign. Of the 3 ‘old’ sellers with ~95% or less feedback (aakoven, juergen200125ya, & lonely kamel), all 3 have plenty of bad feedback on the forums. If it were just one that had both bad feedback and bad forum comments, it might be some sort of astroturfing or ‘hating’ (as aakoven pre-emptively accuses his bad feedback rating), but when all 3 have both bad forums and feedback ratings? Makes one wonder… Nor is that the ‘cost of doing business’ for very old seller accounts, since we see that the similarly old EnterTheMatrix33 & PremiumDutch ratings are solidly better.
+
+
+Since their μg/₿ are not stellar (save juergen2001’s), it’s not clear why anyone would buy from them.
+- 
+
+Some of the new sellers seem to have a lot of feedback (eg. No FE ever or nipplesuckcanuck), but looking at their feedback, we see a great deal of early finalization! This renders them pretty suspect. And of course, the 3 youngest sellers have no feedback at all. This is a problem because scammers are a serious problem with LSD sellers; a quick read of forum threads lists 5 scammers over the past 3 months: Kat, Gar, Bloomingcolor, Fractaldelic, & DiMensionalTraveler.
+- 
+
+The range of μg/₿ is interesting: a full order of magnitude is represented, from the low of 63μg/₿ to 175μg/₿.
+
+
+Perhaps surprisingly, this range doesn’t go away when I try to adjust for risk based on reviews: now the full range is 40μg/₿ (aciddotcom) to 153μg/₿ (nipplesuckcanuck).
+
+
+## Analysis
+
+
+### Quantitative
+
+
+In my modafinil article I discussed some basic statistical techniques for optimizing orders under uncertainty: one-shot ordering, repeated ordering with free learning, & repeated ordering with expensive learning.
+
+
+In this case, it’s a single order, so one-short ordering it is. One-shot ordering simply counsels ordering from a mix of the cheapest and the safest seller—what maximizes one’s expected value (EV), which is just risk⋅reward=EV. The reward is easy: total dose divided by total cost. The risk is harder: the sellers do not conveniently volunteer how likely you are to be scammed.
+
+
+The obvious way to quantify risk is to just take the feedback at face-value: a 97% rating says I am taking a 3% chance I will be screwed over. Multiply that by the reward, sort to find the largest EV, and we’re done.
+
+
+An objection: “Are you seriously saying that a seller with 1 bad review out of 100 is equally trustworthy as a seller with 3 bad reviews out of 300, and that both of them are less trustworthy than a vendor with 0 bad reviews out of 10?” It does seem intuitive that the 300 guy’s 99% is more reliable than the 100 guy’s 99%; the 10 guy may have a perfect 100% now, but could easily wind up with something much lower after he’s sold 100 or 300 things, and we would rather not be one of the buyers who causes those shifts downward.
+
+
+So. Suppose we pretended reviews were like polling or surveys which are drawing votes from a population with an unknown number of bad apples. We could call it a draw from a binomial distribution. We’re not interested in the optimistic question of “how good could these sellers turn out to be?”, but rather we are interested in finding out how bad these sellers might truly be. What’s the worst plausible vendor future rating given their existing ratings? We can ask for a confidence interval and look at the lower bound. (Lower bounds remind us no vendor is 100% trustworthy, and indeed, pace the hope function, the higher their rating the greater their incentive to require FEs and disappear with one last giant haul; the actual SR feedback system seems to use some sort of weighted average.) This gives us the pessimistic percentage of feedback which we can then interpret as the risk that we will be one of those bad feedbacks, and then we can finally do the simple expected-value calculation of “μg/₿ times probability of being happy”. What are the results? The numbers were calculated as follows:
+
+
+`# Frequentist analysis:
+# https://en.wikipedia.org/wiki/Binomial_proportion_confidence_interval#Clopper-Pearson_interval
+y <- function(ugbtc,n,pct) {((binom.test(round((pct/100)*n),n,conf.level=0.90))$conf.int):1 * ugbtc}
+# Binomial CI doesn't work on 0 data; what do we do? Punt with the age-old 50%/coin-flip/equal-indifference
+# Why 90% CIs? Fake feedback skews the stats up and down, so we might as well get narrower intervals...
+c(y(63,28,100), y(70,300,97.3), y(72,68,99.1), 90*0.5, y(81,300,93.7), y(85,76,100), y(93,300,98.7),
+    y(94,173,93.4), y(100,10,100), 112*0.5, y(125,300,95.1), y(143 127,97.6), y(163,127,97.6), 175*0.5)
+ [1]  56.60766  66.66799  67.11326  45.00000  73.58456  81.71468  90.18671
+ [8]  84.31314  74.11344  56.00000 115.50641 134.43170 153.23333  87.50000
+
+# Question: what if we use a Bayesian Jeffreys interval?
+# https://en.wikipedia.org/wiki/Binomial_proportion_confidence_interval#Jeffreys_interval
+install.packages("MKmisc")
+library(MKmisc)
+y <- function(ugbtc,n,percent) {binomCI(x=round((percent/100)*n),n=n,conf.level=0.90,
+                                method ="jeffreys")$CI:1 * ugbtc }
+c(y(63,28,100), y(70,300,97.3), y(72,68,99.1), 90*0.5, y(81,300,93.7), y(85,76,100), y(93,300,98.7),
+     y(94,173,93.4), y(100,10,100), 112*0.5, y(125,300,95.1), y(143,127,97.6), y(163,127,97.6), 175*0.5)
+ [1]  58.85933  66.81522  67.96488  45.00000  73.74114  82.88563  90.39917
+ [8]  84.64024  82.92269  56.00000 115.75319 135.22059 154.13256  87.50000
+# Answer: it's almost identical.
+
+# If Bayesian and frequentist methods differed much, one would be wrong and no one would use it!
+# let's look in further, how *exactly* do the ug/₿ ratings differ?
+binom <- c(56.60766, 66.66799, 67.11326, 45.00000, 73.58456, 81.71468, 90.18671, 84.31314, 74.11344,
+                       56.00000, 115.50641, 134.43170, 153.23333, 87.50000)
+jeffreys <- c(58.85933, 66.81522, 67.96488, 45.00000, 73.74114, 82.88563, 90.39917, 84.64024,
+                82.92269, 56.00000, 115.75319, 135.22059, 154.13256, 87.50000)
+mapply(function(x,y) round((x-y)/y * 100,digits=2), binom, jeffreys)
+#  [1]  -3.83  -0.22  -1.25   0.00  -0.21  -1.41  -0.24  -0.39 -10.62   0.00
+# [11]  -0.21  -0.58  -0.58   0.00
+## in 1 case, for Machine Maid, the ug/₿ estimates differ by 10.62%, which is interesting`
+
+
+(This demonstrates, incidentally, that feedback ratings don’t start yielding very high assurance until a surprisingly large number of reviews have been made.)
+
+
+Now we have risk factored in from just the quantitative data of the feedback amount & percentage. But we must be more subjective with the other factors.
+
+
+### Qualitative
+
+
+We have to look at more qualitative information and start comparing & ranking possibilities. There are a few criteria that one should value; in roughly descending order of importance:
+
+- 
+
+old > new
+- 
+
+high weighted-μg/₿
+- 
+
+many reviews on SR & forums
+- 
+
+no FE > FE
+- 
+
+domestic > international
+- 
+
+has feedback thread
+
+
+For a first cut, we look at all items meeting #2, where a good cut off seems to be weighted-μg/₿>90; this is just EnterTheMatrix, juergen200125ya, VitaCat, and nipplesuckcanuck. A second cut is 200125ya for requiring FE; 
+
+
+So we’re down to VitaCat and EnterTheMatrix. On most of the listed metrics, they are about equal—EnterTheMatrix seems to have an edge in feedback due to greater volume, but it’s hard to say for sure. Going with VitaCat promises to save a little bit of money since his weighted-μg/₿ is ~10 greater. So our analysis winds up with the conclusion of ordering from VitaCat, who has a reasonable-looking profile:
+
+
+Homepage of the VitaCat LSD seller on Silk Road
+
+
+And whose Maya listing looks perfectly acceptable:
+
+
+VitaCat’s 250μg LSD blotter listing
+
+
+### Ordering
+
+
+Was this the right choice? I have no idea. The best I can say is that checking the SR forums in December 201214ya, by which time any September order would have been delivered or not, there were no reports of that seller being a scammer or having engaged in a rip-and-run, while some of the lower-ranked sellers seem to have disappeared.
+
+
+I bought the 2-dose item since I couldn’t afford the 5-dose one. (It would’ve been useful but I wasn’t sure I wanted to sink in that much money, 2 doses should suffice, and it was highly likely that he would sell out before I had converted any more money into Bitcoin—as indeed he did sell out.) So instead I paid extra for tracking. Ordering was like any other SR order; I filled out the cart:
+
+
+SR1 cart showing my order from VitaCat
+
+
+Was able to check the details to make sure everything was right:
+
+
+Order details
+
+
+Waited impatiently while it was processing to see if he would accept my overseas order:
+
+
+Order status page showing order has been marked as ‘processing’
+
+
+And when he did, sat back and waited:
+
+
+Order status page: in transit
+
+
+It came without any issue:
+
+
+Photograph of envelope containing my LSD order from SR1’s VitaCat
+
+
+#### Packaging
+
+
+Because it’s just paper imbued with a tiny dose of the chemical, it’s easy to mail LSD around without issue. If anything, the packaging was a bit too clever, masquerading as ordinary business mail with a coupon:
+
+
+Decoy letter
+
+
+The attached “coupon” or 2 tabs (in a sealed plastic coating, so the fragile LSD doesn’t degrade) was smaller than I had expected:
+
+
+2 250μg doses of LSD on “Mayan” blotter paper, shipped from Germany in a sealed plastic sheet
+
+
+### VoI: Ehrlich Test
+
+
+We have one last question about ordering: should we buy an “Ehrlich test”?
+
+
+An Ehrlich test is a reagant for indole alkaloids, a category which includes psychedelics like LSD & psilocybin. As such, it can be used as a kind of quality check. However, while any LSD product will probably trigger a positive, so will other chemicals; and the test itself may simply be wrong.
+
+
+Is an Ehrlich test worth buying? This sounds like a classic Value of Information problem.
+
+
+The only SR listing for an Ehrlich test is a Synaptic listing (a seller who I have already criticized for shoddy security practice) which both costs >$40 and has a highly negative review! Googling on the open web leads quickly to eztestkits selling for £4.99, which with S&H is probably $10-15, and Avalon Magic Plants for a similar price. Synaptic’s listing is clearly a fool’s buy (and I heard later he was banned), but the latter two may not be.
+
+
+The fundamental question of a VoI analysis is: how would this information change your actions? If the test being positive rather than negative would not lead you to do anything differently, then the information has no (direct) value.
+
+
+This leads to a quick answer: if I tested a VitaCat dose (destroying >$20 of LSD) and it was negative, would I throw the rest out? No. I would be too curious, and I would have spent too much to tranquilly chuck it based on one test which I do not trust as compared against a very reputable seller. (I would be too curious since I do not plan to order again.) Therefore, the VoI is zero; and a value of zero does not justify spending the money on buying a kit and wasting LSD and time. I would just find out the hard way.
+
+
+# Finis
+
+
+There is no proof of all of the above—anything here could have been faked with Photoshop or simply reused (perhaps I have a legitimate Adderall prescription). Take it for what it is and see whether it convinces you: argument screens off authority.
+
+
+But looking back, I have been lucky: from reading the forums, it’s clear that there are scammers on SR34, and shipments do get lost in the mail or seized or otherwise not delivered. (I do not expect any legal problems; law enforcement always go after the sellers, to achieve maximum impact, and SR presents both technical and jurisdictional problems for law enforcement.) This is inherent to the idea of an anonymous marketplace, but the system worked for me. SR describes it well in one of his messages:
+
+
+Things are going really well here. There are many new buyers and sellers working well together, our servers are secure and humming along, and you may even start to feel comfortable. DO NOT get comfortable! This is not wal-mart, or even amazon.com. It is the wild west and there are as many crooks as there are honest businessmen and women. Keep your guard up and be safe, even paranoid. If you buy from someone without reputation, get to know them really well through pm, and even then be suspicious. Unfortunately it only takes one bad apple to spoil the bunch, and there are bad apples out there.
+
+
+On SR, there are lions and tigers and pigs oh my, but: alea iacta est! Like Bitcoin, SR may live another few months, or another few years, but will it? Like using SR, there’s no way to know but to go.
+
+
+# Future Developments
+
+
+So, we have seen that Bitcoin satisfies an old dilemma bedeviling the early cypherpunks; and we have covered how SR follows recommended design principles in achieving their dream of self-enforcing marketplaces, and then went through a lengthy example of how buyers can rationally order and thereby contribute to the necessary dynamics.
+
+
+The drug market has grown and thrived beyond all expectations, despite an extraordinary—perhaps unprecedented—level of media coverage and transparency of operation. By its mere existence, it lays bare the universality of illicit drug use; by its sales volume, it provides a benchmark for understanding what estimates of the global black market really mean: if the SR has turnover of $20m a year and the black market turn over closer to $100b a year, then the latter is equivalent to 5000 SRs. By its use of public technology (even immature & hard to use technologies) and ordinary postal services, it demonstrates the infeasibility of the long-standing War on Drugs; and by taming drug use, turning it from a violence-prone seamy affair to a smooth commercial transaction, it suggests that there is no necessity for the War on Drugs.
+
+
+What is next?
+
+
+No one foresaw Bitcoin in 200818ya; and the success of SR in 201115ya took many by surprise (including the author) who had assumed that it would quickly be shut down by law enforcement, fall victim to hackers seeking a lucrative payday, or at best devolve into a lemon market with a few overpriced goods. All three of these possibilities still exist; lengthy SR downtime in November 201214ya fueled speculation that law enforcement had finally found a viable attack or that SR was suffering a Denial of Service (DoS) attack. SR’s administrator stated the downtime was due to “record” numbers of users; but if large numbers of legitimate users can accidentally take down the site, clearly a full-fledged DoS attack is feasible. A real DoS attack by a single attacker in April 201313ya degraded access for a week and essentially blocked all access for ~2 days, prompting SR to suspend its commissions for several days to encourage purchases.
+
+
+But supposing that SR continues to have an annual turnover of millions of dollars of drugs and other goods? Two striking possibilities come to mind.
+
+- 
+
+the next development may be “information markets”: darknet markets for leaked data, whistleblowers, corporate espionage, personal information such as credit card numbers, etc. Existing “carding forums” may be a market niche to usurp, as they have had problems with law enforcement infiltration and would benefit from increased security. Similarly, WikiLeaks has reportedly tried to auction off access to documents in its possession, and while the auctions apparently failed, this may be due to defections and severe internal turmoil and not flaws in the fundamental idea.
+- 
+
+The most extreme cypherpunk proposal was Jim Bell’s “assassination markets” concepts published the 199729ya essay “Assassination Politics”: a prediction market in which participants lay bets on when the exact day a particular person will die; when the total bets become large enough, they function as a bounty on that person—inasmuch as a would-be hit man knows when the person will die and can profit handsomely. Assassination markets were to be a weapon against government oppression, but such markets could be used against any non-anonymous but powerful humans.
+
+
+This would seem to be much less plausible than either a drug market or an information market: both drug & information darknet markets are markets which exist offline and online already, with illegal drugs representing a global market best measured in hundreds of billions of dollars of turnover (against the SR’s millions) with scores of millions of drug users worldwide, so cypherpunk-style implementations are in a certain sense just ‘business as usual’ with a very large customer base eager to participate and moral respectability to salve the conscience. Demand for hit men, on the other hand, is rare outside organized crime and governments, difficult for any ordinary person to justify the use of, and usually confined to particular regions such as Mexico or Afghanistan. Further, a large drug delivery facilitated via SR will usually go unnoticed by the world as the recipient has no incentive to reveal it; a ‘large’ assassination, on the other hand, will be global news and may trigger a backlash large enough to take down the site, or in general degrade Tor & Bitcoin to the point where they cannot support large enough bounties on any individual to matter.
+
+
+In July 201313ya, claiming to be inspired by Silk Road, the pseudonymous programmer “Kuwabatake Sanjuro” (Yojimbo) set up what he claimed to be the first functioning assassination market at `assmkedzgorodn7o.onion` (2013-11-21 mirror) named simply “Assassination Market”; he publicized it in November 201313ya with an interview with Forbes. The obvious interpretation is that it is a scam: while it provides public Bitcoin addresses allowing verification that ~₿150 are at those addresses, and its protocol should allow a participant to prove that they were not paid, none of the targets are likely to die for years, if not decades, at which point Sanjuro can simply steal all the bitcoins trusted to him—it doesn’t matter if participants can then prove they were not paid and Assassination Market was a scam, because he would have made off with more than enough to justify the total effort of writing & running Assassination Market.
+
+
+This raises an interesting observation: a drug DNM can bootstrap from nothing through users risking relatively low-cost transactions like buying $50 of a drug to test the market out, and Silk Road did just this (with Ulbricht reportedly growing mushrooms to sell at the start); but how does an assassination market bootstrap? Murders come in discrete units: someone is either dead or not. Even if AM is for real and there is a market out there for it and it would not be destroyed by any backlash, assassination markets may turn out to be impossible because there is no way to incrementally build up trust between its “buyers” and “sellers”. This bootstrap problem seems like a fatal issue, but there are other problems with attempting to build an assassination market on top of Augur or other distributed prediction market proposals.
+
+
+The ‘host’ prediction market has strong incentive to censor or boycott assassination market contracts because the first serious successful use could easily trigger government counter-attacks in the hundreds of millions or billions of dollars on it (imagine the reaction if a head of state of a G-8 country was assassinated, given the level of EU reactions to some used gun sales on the DNMs…). Such community norms could be easily implemented as a rule that contracts involving any contingency on death (eg. contracts on whether a president will finish their term are, in general, a legitimate topic) simply cannot be more temporally precise than 1 year, reducing the leverage available to an assassin. Blockchains may be hard to censor, but they are far from invulnerable, especially given their small sizes in 2016. The assassination market can be effectively shut down by a majority of prediction market users simply voting the opposite of the truth in any contract that seems like it might be incentivizing assassinations, deterring would-be assassins. Even if the blockchain is not able to be censored or DoSed, the assassination market bootstrap is somehow solved, and it begins operation, a prediction market is inherently based on public information and can be spoofed by targets faking their own deaths upon observing spikes in markets on them or spoofed by governments who can simply say a target was killed on the wrong day, wait for all the funds to payout to the wrong predictors, and then announce that the person is in fact alive—indeed, should such markets become highly active, this becomes a lucratively self-funding witness protection program. (Such a strategy also works for actual assassinations: officially announce the death happened a day or two later; the prediction market has no reason to try to question the official death date, but the assassins must now spread bets across an increasing number of days to get any payment.)
+
+
+Overall, I am skeptical Sanjuro’s “Assassination Market” will last very long, and I certainly don’t expect any of the targets to be assassinated.
+
+
+Regardless, 2 key pieces of cypherpunk technology are now in place and already enabling remarkable new systems. Both researchers and digital entrepreneurs may benefit from taking a look back at some forgotten pioneers and re-evaluating their proposals in the light of recent successes.
+
+
+# Post-Mortem
+
+
+## Recommendations
+
+
+If you’re gonna play the game, boy, ya gotta learn to play it right:
+
+You got to know when to hold’em, know when to fold’em,
+
+Know when to walk away—know when to run.
+
+
+Don Schlitz, “The Gambler”
+
+
+Watching the fall of Atlantis, SR, and BMR, I have derived some basic recommendations for future darknet market operators (which I do not expect to be popular among them because it’s additional work & some recommendations reduce their potential profits or ability to scam users):
+
+- 
+
+data retention policies should be as aggressive as feasible. Data should be deleted the moment it is not necessary. Avoid unnecessary precision; for example, there is no need to keep track of how many orders a seller has carried out beyond, say, 300. Private messages should be automatically deleted after weeks, not months. And so on.
+- 
+
+use of PGP encryption should be mandatory. One good way is to have the site verify that all address submissions and private messages are PGP messages and reject unencrypted messages. This will annoy buyers & sellers, but this is for their own good. (The libertarians may complain that they should be free to be lazy & endanger themselves, but this is bullshit which ignores the negative externalities of not using PGP: it damages herd immunity.)
+
+
+It may also be a good idea to require sellers to rotate their PGP key every so often, as a partial way to attain forward secrecy. (They would post the new public key signed by the old public key, and then hopefully delete the old secret key.)
+- 
+
+the DNM operators should specify in advance how long they will run the site, at what level of commissions they will cash out, and precommit to shutting down the site or handing it over to a new operator whenever either condition comes to pass. This enforces compartmentalization, impedes any ongoing investigations or later information leaks, and the operator avoids committing gambler’s ruin and becoming arrogant—where they never stop operating the site, and just keep running it until they are finally arrested. If Ross Ulbricht had passed SR on as he claimed in the Forbes interview, say after he made his first ₿111k, it is likely that SR would not have been busted as soon as it was, he may never have been arrested because he could not be irrefutably tied to operating the site, and he would have had a chance to enjoy his fortune. An old proverb comes to mind:
+
+
+If you must play, decide on three things at the start: the rules of the game, the stakes, and the quitting time.
+
+- 
+
+a number of post-SR1 buyer & seller busts seem to be tied to the sellers keeping copies of the buyers’ addresses & information in unencrypted PMs. There is nothing a site operator can do directly about this problem, as they cannot know what goes on in the seller’s computer, but they can at least institute a clear “death penalty” for any seller who reveals a buyer’s address, threatens to reveal it, or claims to reveal it. The site operators of SR and BMR declined to sanction their sellers who did this (eg. MMM/Moramoru on BMR), and thereby simultaneously put all buyers at risk and incentivized police raids on sellers (there is speculation that the SR seller Plutopete, who sold legal products, was targeted because they hoped to seize buyer addresses from him).
+
+
+This does not conflict with the mandatory use of PGP encryption, as if a buyer claims a seller threatened him in a PGP-encrypted message, the site operator can demand the secret key from the buyer—since they’re making the claim, the onus is on them, after all—and decrypt the stored copy of the seller’s message to the buyer.35 If the buyer’s claims are true, the seller is immediately banned and their Bitcoin balance confiscated; while if the buyer lied, they are banned instead. To incentivize revelation of the sellers’ misbehavior, the site operator can offer as a bounty to buyers whatever Bitcoin balance the seller had.
+- 
+
+Early Finalization should not be offered as a feature, or if it is, it should be automatically limited only to young buyer accounts or similar situations.
+- 
+
+A large part of site commissions should be earmarked for hiring penetration testers and security bounties, and de-anonymizing attacks on the site operator.
+
+
+Post on forums that you’re offering a Bitcoin bounty. (Heck, with Bitcoin, you can probably even script up a block which automatically pays—for example, you could announce that you’ve created a dummy user X, with an unknown password Y, which unlocks a bitcoin transaction of 100btc. Anyone who can break into the user database can extract the password Y, and claim the bounty.)
+- 
+
+Backup withdrawal addresses should be implemented. In particular, the withdrawal addresses should be mandatory for users, and beyond that, balances should be flushed at intervals.
+
+
+The fall of SR caused tremendous problems for many users because they had foolishly let balances build up in SR rather than get around to withdrawing them. SR had an “auto-withdrawal” feature (documented on the SR wiki), but the millions of dollars’ worth of Bitcoin seized on the SR server proves that very few sellers used it. Policies must be exercised or they are worthless.
+- 
+
+The server architecture must follow a nested virtual-machine in which all market-related software is isolated in a virtual machine and the VM itself is forced through Tor by the host OS, akin to Whonix.
+
+
+Almost no software, whether it be OS or web libraries or HTTP servers, is designed with any consideration towards preserving anonymity, those which are have been audited minimally, and many choose to actively destroy anonymity (Apache error messages and `phpinfo()` pages happily hand out IP address data, since it’s so useful for debugging, or a feature inherently destroys anonymity, like CMS software which sends out emails). Multiple DNMs have leaked their IP; Ross Ulbricht’s journal notes that SR1 leaked its server IP on multiple occasions, some of which were publicly noted (and FBI agent Tarbell asserts that another such IP leak, in the CAPTCHA code, was what lead them to the SR1 server and from there to Ulbricht himself). It’s difficult enough to assure simple security, one must assume that the server will be de-anonymized at some point, and the only way to ensure that there is no information leak from the OS or server software is to make sure that information is not available in the first place! A gatewayed VM architecture ensures that one does not at least lose anonymity to trivial configuration mistakes or libraries trying to be “helpful”.
+- 
+
+Source code for the site should be available. Security through obscurity does not work.
+
+
+We learned what SR & BMR were hiding behind their obscurity—a blatant breach of anonymity (DPR’s hardwired non-Tor IP login), and incompetent code with SQL injection vulnerabilities among other issues (BMR’s source code leak). If a site operator mentally quails at releasing the source code—good! That subconscious fear means they have just realized that they have linked their DNM with their real identity, or they left in some detail like DPR’s IP address, or there’s vulnerabilities that need to be fixed. Source code also means that users can verify that many of the security features are in fact implemented and workable (so the site operator would have to be outright malicious to keep more data than claimed, etc.).
+- 
+
+PHP should be avoided.
+- 
+
+Role-separation & the principle of least privilege: accounts should be locked as buyers, sellers, and staff, and no mingling permitted.
+
+
+Sellers who buy from other sellers using a known seller pseudonym are painting a target on their back. A staffer ordering from a seller is a perfect target for a controlled delivery if the seller is an undercover agent or has been or will be flipped. (If a seller wants to buy, they can simply register a new buyer account like everyone else.) This has been a serious problem thus far: Silk Road 1 was busted due to lack of compartmentalization (a staffer took an order from an undercover agent; Ulbricht bought marijuana & fake IDs, additional evidence against him); at least one Silk Road 1 seller was successfully targeted apparently because they bought from a flipped seller using their seller account (while the flipped seller’s other, normal, customers seem to have been spared; see digitalink); Utopia Marketplace’s entire staff was arrested when an investigation of their BMR activities (based initially on offline sales but adding in their online sales) wound up. A marketplace is naturally compartmentalized and resistant to infiltration—if everyone sticks to their assigned roles.
+
+
+# See Also
+
+
+- 
+
+Drugs 2.0: “Your Crack’s in the Post” (Mike Power)
+- 
+
+Nootropics
+- 
+
+Algernon’s Law
+
+
+# External Links
+
+
+- 
+
+SR’s guide; forum guide
+
+- 
+
+“An Interview With A Digital Drug Lord: The Silk Road’s Dread Pirate Roberts (Q&A)” (Andy Greenberg, Forbes)
+- 
+
+“Ambition has no rest: the long education of the Silk Road money launderer [StExo]”; “Dread Pirate Roberts 2.0: An interview with Silk Road’s new boss”
+
+- 
+
+Reddit:
+
+- 
+
+Silk Road subreddit
+- 
+
+Q&A: “IAMA seller on the illegal anonymous marketplace Silk Road”
+- 
+
+Q&A: large LSD seller
+- 
+
+Atlantis subreddit
+- 
+
+Atlantis Q&A
+- 
+
+Sheep Marketplace subreddit
+- 
+
+BlackMarket Reloaded subreddit
+
+- 
+
+packaging guidelines
+- 
+
+“Traveling Down the Silk road to Buy Drugs With Bitcoins” -(another SR article, by Ryan Broderick; much shorter & incomplete)
+- 
+
+“The definitive history of Silk Road”
+- 
+
+“Internet Drug Dealers Are Really Nice Guys” (Vice interview of 4 sellers)
+- 
+
+“My Top-Secret Meeting with One of Silk Road’s Biggest Drug Lords” (Vice interview with Ace of The Scurvy Crew)
+- 
+
+“Here’s What It’s Like To Buy Drugs On Three Anonymous Online Black Markets” / “Follow The Bitcoins: How We Got [Tracked] Buying Drugs On Silk Road’s Black Market” (Andy Greenberg, Forbes)
+- 
+
+“A history of Silk Road, the net’s largest hidden service and drug marketplace”
+- 
+
+“20 Strange things you can buy on Silk Road”
+- 
+
+Active Vendors on Silk Road Before Shutdown, Mid-2013 (June 7, 201313ya)
+- 
+
+“How Silk Road Saved the World’s LSD Scene”
+- 
+
+“Robbery on the Silk Road: Users may have been fleeced and vendors arrested, but the online illegal drug bazaar is hard to kill”
+- 
+
+“Eagle Scout. Idealist. Drug Trafficker?” -(NYT) 
+- 
+
+“How the Internet powered a DIY drug revolution” (on The Hive (website)">the Hive)
+- 
+
+“Breaking the Silk Road 1’s CAPTCHA Programmatically” (Reddit discussion)
+- 
+
+“The weird, disturbing and hilarious things for sale on the Internet’s largest black market [Evolution]”
+- 
+
+USA v. Ulbricht docket
+- 
+
+“The Ten Crack Commandments”
+- 
+
+“So, you want to be a darknet drug lord…”, by nachash/Doxbin (guide to running hidden services)
+- 
+
+“Resistant protocols: How decentralization evolves”
+- 
+
+Trackbacks:
+
+- 
+
+Reddit discussion: first, second, third
+- 
+
+Hacker News discussion
+- 
+
+BoingBoing discussion; review by Cory Doctorow, he really got it:
+
+
+…a riveting, fantastically detailed account of the theory and practice of Silk Road, a Tor-anonymized drugs-and-other-stuff marketplace where transactions are generally conducted with Bitcoins. Gwern explains in clear language how the service solves many of the collective action problems inherent to running illicit marketplaces without exposing the buyers and sellers to legal repercussions and simultaneously minimizing ripoffs from either side. It’s a tale of remix-servers, escrows, economics, and rational risk calculus – and dope.
+
+- 
+
+Ormsby: Twitter, being interviewed about her in-progress book:
+
+
+Silk Road founder Dread Pirate Roberts hasn’t signed on for a full interview quite yet but, interestingly, he does often oblige Ormsby’s questions with quick answers. Even without a DPR fireside chat, Ormsby says she is happy with the caliber of interviewees so far. Outside of Silk Road, she’s received “offers of assistance from people like Dr.&nbsp;Monica Barrett, who is Australia’s leading academic on drugs and the internet and ‘Gwern’ of Gwern.net fame, who has made some of the most comprehensive and well-researched analysis of Silk Road available.”
+
+- 
+
+“‘Silk Road’, the virtual drug marketplace: A single case study of user experiences”, Van Hout & Bingham 2013
+- 
+
+“The Silk Road Is Showing Cracks”, Vice
+- 
+
+“The Business Of Bitcoin: Entrepreneurs See Opportunities In Alternative Currencies” & “The Chinese Are Coming! The Chinese Are Coming!”, TechCrunch
+- 
+
+“Eight Months After Sen.&nbsp;Chuck Schumer Blasted Bitcoin, Silk Road is Still Booming” & “Silk Road, Secret Website Where You Can Buy Drugs, Is Hiring; the e-bazaar needs a database engineer and a customer service rep”, Betabeat
+- 
+
+“Silk Road: A Vicious Blow to the War on Drugs; High-tech software and a new digital currency bring the black market (and high quality heroin) to your home”, The Austin Cut
+- 
+
+“Top Alternatives to Paper Money”, Jeffrey Tucker
+- 
+
+“Unravelling the dark web” (GQ; author Oliver Franklin asked me some questions & drew on this page, he did “Appreciate your help.”)
+- 
+
+“FBI vreest opmars Bitcoin”, Crimesite
+- 
+
+“Drug Enforcement Administration seizes 11 Bitcoins from alleged Silk Road dealer”, The Verge
+- 
+
+“‘Surfing the Silk Road’: A study of users’ experiences”, Van Hout & Bingham 201313ya:
+
+
+Online drug sourcing: A light bulb moment?
+
+
+The majority of participants reported commencing internet drug sourcing and purchasing on ‘Silk Road’, with little prior experience of cyber drug retailing prior to 201115ya. Participants reported finding out about the site ‘per chance’ when ‘googling’, on national TV programmes, on ‘Craigslist’ and in the Gawker article (Chen, 201115ya). Several drug sites were described as popular resources for ‘Silk Road’ members and included ‘Erowid’, ‘Bluelight’ ‘Shroomery’, Pillreports, Pharmacy Reviewer, Gwern and ‘OVDBer’ [Open Vendor Database]. These sites along with the ‘Silk Road’ forums were observed as useful (despite some comments that product reviews were dated) in providing informative ‘trip reports’ and assisting individuals with questions around optimum dosage, lab testing and harm reduction practicalities.
+
+- 
+
+“Did One of the Silk Road’s Successors Just Commit the Perfect Bitcoin Scam?”
+
+- 
+
+“Boosie5150 questionable security practices—Agora account compromised in June” (interesting opsec example)
+
+
+# Colophon
+
+
+The first version of this article was commissioned by Bitcoin Weekly, which ultimately decided to not run it36; it is based on my experiences May-June 201115ya, and may be out-dated. “Trust, but verify.” I maintained it up until 201511ya, when I stopped my DNM research.
+
+
+# Appendices
+
+
+## Interviews
+
+
+### BBC Questions
+
+
+In mid-January 201214ya, a reporter from BBC Radio’s “5 Live Investigates” emailed me asking whether I’d answer questions for their 5 February show they were doing on Bitcoin & Silk Road; I agreed. The following is the transcript:
+
+
+How did you find out about Silk Road?
+
+
+I saw the original announcement of it on the Bitcoin forums when it was linked on Reddit. I figured it would fail, and then a few months later, I saw the Gawker article on it and apparently Silk Road was actually working!
+
+
+What attracted you to using Silk Road?
+
+
+Once I heard, I just had to look into it more—it was too interesting not to. Timothy May and other cypherpunks had been speculating about black market websites using cryptocurrency since the early ’90s, and here was a real live example. I looked at their offerings and saw they had some offers I might want at reasonable price, and that settled it for me.
+
+
+What is the difference between ordering your drugs from Silk Road and getting them on the street?
+
+
+Modafinil is pretty hard to get on the street because everyone gets it either with a prescription or from an online pharmacy, so I have no idea. While I was still checking out Silk Road, I asked a friend in college how much Adderall would be and he told me he could get them for $9-10 a pill (it was close to the end of the semester); it cost half that on Silk Road, so I went with them rather than him. I’ve always found it hard to resist a ‘bargain’.
+
+
+How is Silk Road different to other websites where you can buy drugs?
+
+
+My first-hand experience with modafinil is that I much prefer to buy on Silk Road than the pharmacies.
+
+
+With them, your dollar payment can fail at any point. For example, MoneyGram once blocked a payment of mine. Very frustrating! Bitcoin is much more reliable: I can see where my bitcoins go until they enter Silk Road proper.
+
+
+And then there’s the split between Silk Road itself and all the sellers, which makes things safer—everyone encrypts their physical address before submitting it to Silk Road, and the seller decrypts it himself. If Silk Road is untrustworthy, they can only steal my bitcoins but not my address; if the seller is untrustworthy, they can only steal my address and not my bitcoins. Whereas with the pharmacies, they both get my money and my address.
+
+
+What have you ordered from the site and how often?
+
+
+I don’t order very often because I like to thoroughly experiment with things, and my tests take a while to set up and run. I think so far I’ve done one order of Adderall, one order of armodafinil, and two orders of modafinil; another order of selegiline was canceled.
+
+
+How important is anonymity to you? Do you think the technology really protects your identity?
+
+
+It’s not very important because I have little interest in the drugs law enforcement is most interested in, like heroin or cocaine. Modafinil can be shipped without much danger, with Customs only seizing the package if they notice it and nothing more. Adderall isn’t very dangerous either—everyone knows it’s all over college campuses, so what are they going to do, arrest me? I don’t even have any Adderall left!
+
+
+(To make a historical analogy, it’s like having some wine during Prohibition; no one thinks much of it, and the cops are busy with the gangsters.)
+
+
+How important is Bitcoin?
+
+
+I’d say the Bitcoin part is probably even more important than Tor. Law enforcement is not known for its NSA-style traffic analysis because it wouldn’t be usable in court37, and the other benefit is that there’s no domain name to be seized or filtered; but neither of these is very important. They can be gotten around or dealt with.
+
+
+But being able to get money to the sellers, and the sellers being able to turn it back into usable cash on Mt.Gox or another exchange, that is crucial. You cannot buy and sell drugs for free.
+
+
+What do you think the future holds for Silk Road, do you think the authorities will shut it down or do you think it will continue to grow?
+
+
+I would be fairly surprised if it was shut down; there’s no obvious way to do so. The real danger is internal: that the community itself might be skewed towards scammers and buyers just give up and buy somewhere else. It’s the same dilemma eBay faced: you don’t want to scare off the sellers by too many rules, but if you don’t do something, scammers will fleece the buyers. So far, the administrators have done a pretty good job of keeping everything running and maintaining the balance.
+
+
+How important is the community side of Silk Road.
+
+
+Extremely. The community is what determines whether Silk Road will decline or continue growing with the general growth of Bitcoin.
+
+
+What sort of people use the site?
+
+
+It’s hard to tell, but from reading the forums, it seems like it is mostly technically adept young people in Western Europe and America. Tor and Bitcoin and encryption are a challenge to use for most people, and older people have contacts they know how to use when they want various drugs.
+
+
+Is Silk Road just about scoring drugs safely or you and other users feel you are making a greater statement about society the drugs law?
+
+
+I know other users disagree and take it only as a useful service or something of a FU to The Man, but many of us do see it as a principled statement. I believe that I am capable of researching and evaluating drugs, that I can accept the risks, and see how they do or do not work, and that the government should not be coercively imposing its beliefs on me.
+
+
+I am also horrified by the effects of the War on Drugs, which has been a greater disaster than Prohibition (which we at least had the sense to repeal after a few years). Buying on the Silk Road and writing about it is, if you will, my bit of patriotism. It’s not very heroic, and I’ve never claimed to be a hero or to be doing anything particularly noteworthy, but perhaps it will change someone’s mind—either that drugs are not so bad or that the War is not so practicable.
+
+
+### Mike Power Questions
+
+
+#### November 2013
+
+
+On 2013-11-29, journalist Mike Power (of Drugs 2.0) asked me a few questions
+
+
+1. What will be the cultural and technological impact of the Silk Road bust, in your view?
+
+
+The cultural impact is that even more people are aware of SR. The flurry of coverage, while very negative and unflattering to SR (the attempted hits have badly tarnished SR’s reputation), still serves to spread the news that there was a real functioning drug DNM just as claimed, and that it worked fabulously well. This part of the pro-drug movement in America right now, in conjunction with the fact that marijuana legalization seems to be basically working out in the West, with minimal “reefer madness”, is helping normalize illicit drug consumption and make a mockery of the War on Drugs. It’s one thing for people to wonder if the persecution is more harmful than treatment would be, and to note that drugs continue to be available on the street, and quite another to realize it’s almost as easy as ordering off Amazon!
+
+
+2. What future do you see for bitcoin, Tor and the new Silk Road?
+
+
+Bitcoin seems to be going from strength to strength. As an admirer of Bitcoins from when I first learned of them in 2010, I am pleased by its success and I think it will make the Internet much more useful for commerce. (I should note that the current price increases seem unsustainable to me, and I expect there to be a large correction at some point before ~$2,600/₿, which is apparently roughly where this bubble will equal the previous bubble’s percentage increases, but though there will no doubt be many nay-sayers at that point, I expect Bitcoin to keep steadily growing.)
+
+
+I don’t expect Tor to be affected. Tor’s problems stem from the recent research on it plus the revelations about the state of NSA attacks on Tor from 6 years ago; I would not be surprised if the NSA could now identify hidden servers. The question is whether they are willing to use that capability on DNMs. Given how many DNMs fall to internal factors (Atlantis, PBF, Deepbay, Sheep), the NSA wouldn’t need to spend a cutting-edge attack on them.
+
+
+The DNMs themselves seem to be following the path set by BitTorrent: now that the business model has been proven beyond a doubt with audited figures about profitability (you can thank the FBI for that one), every geek in the world understands that they can become a millionaire if they dare38. It’s back to whack-a-mole: new markets will pop up, and will run until they get hammered down or rip-and-run. Evolution means the ones who leak their identities like Silk Road or Sheep, or who write bad code, like BMR, will either fix their problems or get weeded out & replaced.
+
+
+3. How would you summarise and characterise your experiences with LSD microdosing?
+
+
+I found no benefits from it, and I’m not sure how meaningful my results are for other people. I wouldn’t call it my best self-experiment ever, but not a waste of time either.
+
+
+4. Do you feel that governments have the right to police the computer activity, or the mindstates, of those who elect them?
+
+
+I think computer activity is, like any other activity, subject to government intervention if it is really justified (which it rarely is); taking place on a computer does not make it unreal or exempt. Policing mindstates, on the other hand, should basically be banned for all the same reasons we have free speech.
+
+
+5. What do you think of the marketplace, over on I2P? is it as serious as it looks to a non-coder, like myself?
+
+
+I have not actually set up I2P yet, so I’ve seen none of the I2P markets.
+
+
+#### May 2014
+
+
+From 2014-05-26, for a Guardian article:
+
+
+1. Is the dark net drug scene growing or contracting since the silk road bust (disclaimer, I know it’s growing, just need someone with insight such as yours to tell me on the record :-)
+
+
+The DNM scene is overall growing, although it has fragmented a great deal. Due to this fragmentation and to the lax moderation on some of the largest sites like Pandora and Silk Road 2, it’s difficult to say how much larger or how fast it’s growing, but it does seem safe to say that it’s recovered from the fall of Silk Road 1. I suspect it’s growing slower than before because of the additional trouble users have in finding trustworthy vendors & markets during the turmoil of December 2013-April 201412ya; we may see an uptick in the next half-year or so as the markets sort themselves out, multi-sig escrow becomes more common, and business resumes as usual.
+
+
+2. How busy are these sites—is this a niche interest or is it becoming more popular?
+
+
+Judging by the decreasing technical competence of users on the relevant forums and subreddits, the DNMs seem to be reaching a wider audience and not just geeks.
+
+
+3. Why do you think people use them? Is it the quality of drugs sold, the buzz of adding a bunch of illegal stuff to a basket, the minimal risk of capture, or the variety and purity of the offering?
+
+
+The advantage I see mentioned time and again is the convenience & minimal risk of capture for buyers, followed by the sheer variety of offerings on the largest markets, then the relative safety & purity of the drugs themselves; I don’t think there’s much of a buzz after the first order.
+
+
+4. Which is the fastest growing market? Why is it doing so well?
+
+
+The current fastest growing market seems to be Evolution. It’s a centralized Tor site which recently got some multisig support and runs faster & more reliably than some of its competitors like Agora; otherwise, it has no unique technical features. Its main advantage seems to be that it grew out of the Tor Carding Forum community, which had been doing person-to-person trades for drugs and fraud-related items until the forum was hacked, and this meant the market had a community from day 1, which helped it pick up sellers and then buyers, and network effects have helped it grow ever since.
+
+
+### NYT
+
+
+On 16 December, Alan Feuer of The New York Times emailed me with some questions about the recent (2013-11-29) failure of Sheep MarketPlace & theft of its user funds. I answered as best I could:
+
+
+1. Why in general were you skeptical about SMP’s survival in the first place? What about it struck you as unsustainable?
+
+
+In general, DNMs are not very stable: the market dynamics that power them and render them self-regulating and made Silk Road such a wonderful way to buy drugs require specific conditions to work, but conditions are always changing. This doesn’t mean you can’t get drugs from them, any more than restaurants always going out of business means you can’t get good Mexican food when you want it, but it does mean that any particular DNM can’t be expected to hang around more than a year or two. The SR model, with a single centralized site both buyers and sellers have to trust, did work but that trust can be abused by the site operator39. So inherently one expects DNMs to have fairly short lifetimes. (They are surprisingly like regular businesses or websites in this respect.)
+
+
+Sheep MarketPlace in particular struck me as dubious because it was so obviously modeled after SR (indicating a lack of originality and possible get-rich-quick mentality), the operators did not speak English well (despite English being the international language of programmers), it was hardly used (meaning that there was no feedback and it had not withstood any hackers the way SR had), and it received the lion’s share of the post-SR market for no particular merit of its own other than its visual appearance and lingering distrust of BlackMarket Reloaded.
+
+
+- 
+
+What do you feel is the most convincing evidence that Jiřikovský is/was connected to SMP?
+
+
+The clearnet site. It was exactly the sort of rookie error I expected from someone with a casual attitude to security: that they could promote their site as they pleased, and as long as they maintained some level of plausible denialability, it was safe. Except security & anonymity are not a courtroom with all its legal niceties, circumstantial evidence is powerful, and once you began examining Tomas, everything falls into place. At that point, it’s almost irrelevant if you find something like, for example, Tomas being the first person online to discuss the existence of Sheep Marketplace (the same mistake Ross Ulbricht/“altoid” made, incidentally). You’ve already done most of the intellectual work necessary to identify the operator of SMP. Simply by being so closely associated with a server that could only have been set up by someone working with SMP, he forfeited most of his anonymity and claims to innocence.
+
+
+(To understand what I mean by “most of the work”, it may be helpful to read my hopefully-entertaining essay on anonymity in Death Note.)
+
+
+Incidentally, you should probably see the Reddit translation & discussion of Tomas’s interview with Lidové Noviny on SMP for Tomas’s general failure to respond to the presented evidence, failure to say who was running the clearnet site on his server if not him, and in some cases, like his early mention of SMP, clear lying.
+
+
+3. I had a bit of difficultly understanding the facts and significance of the Clearnet site. Would you help me understand that?
+
+
+See above. The clearnet site is very similar to how “altoid” posted on some forums about a new site called Silk Road, was the first identifiable person to ever discuss Silk Road, and then proved to be the account of a guy called Ross Ulbricht. It’s incredibly suspicious and exactly what you might expect the operator to do in an attempt to drum up interest and attract attention and so is the best starting point for an investigation. It’s not enough to prove in court he ran Silk Road—but we are not in court.
+
+
+4. Is it your belief that the “heist” was in fact perpetrated by SMP’s admins themselves?
+
+
+The heist was clearly perpetrated by the operator of SMP; even the SMP forum moderators admit as much.
+
+
+If you mean the story about “EBOOK101” hacking the site… I am agnostic on the topic.
+
+
+While it is a reasonable trigger for why Tomas might decide to grab the money and run, and we saw a similar hack prompt backopy to decide to close down BMR fully, the problem with the story is that no one seems to have ever dealt with an EBOOK101, EBOOK101 has not left any taunting messages or clues like the BMR hacker did, and SMP in retrospect seems to have been orchestrating the scam for at least a week in advance by shutting down withdrawals (on the pretext of adding tumbling), coaxing people into depositing even more money, and delaying tactics like adding a fancy countdown timer.
+
+
+And in any event, it’s mostly a moot point: SMP stole far more money from its users than EBOOK101 was supposed to have. And suppose the story were true—Tomas’s willingness to immediately give up after the hack suggests to me that he would not have been continuing SMP much longer regardless…
+
+
+5. And your take on the FBI’s role in all of this?
+
+
+I only know what my informant has told me; since he presented a convincing case for Tomas to me which he did not have to, I assumed he was also telling me the truth about him telling the FBI and them being very interested in what he had to say. So I assumed that they were on the case and understood the need for prompt action. But the FBI has issued no statements on the topic, I have not contacted Christopher Tarbell myself, and thus far there have been no arrests or other law enforcement action I am aware of. I am a little bewildered by the complete silence. So I no longer have any idea on their role. For all I know, they’ve completely given up. Or maybe they’ll announce arrests tomorrow. You should ask Tarbell.
+
+
+I’m curious what you think about the subreddit postings by the two hackers who ostensibly “chased” the thief through cyberspace. Was it real chase against the wrong perpetrator or another part of Jiřikovský’s ruse?
+
+
+It was a real chase, but neither of them are very familiar with blockchain analysis, and so they wound up eventually reaching false conclusions like “Sheep stole 97k bitcoins”.
+
+
+This is a common problem with blockchain analysis. People at first think that Bitcoin transactions are completely anonymous, then when they learn the truth, they vulgarly go to the opposite extreme and assume that because every transaction is public, it’s completely trackable and there is no privacy and analysis is a simple matter of following transactions—not realizing that at every transaction, you have to make a mental leap and assume you are still following the same person or bitcoins, an assumption which is fragile, easily broken, and difficult to ever justify.40
+
+
+Also did your informant tell you why he/she reached out to you instead of him posting the suspicions about SMP online himself?
+
+
+Well, he didn’t post publicly at the time because he didn’t want to interfere with the FBI investigation. Why didn’t he post after Tomas had been doxed by the other Redditor, when I felt free to post his results? I’m not sure. I get the impression he doesn’t much care about publicity or helping out the DNM communities, so while he allowed me to post what I knew, he felt no particular need to post anything himself. As well, my precommitment and reputation meant that any posting would mean more coming from me.
+
+
+### Capital
+
+
+On 2013-02-07, I answered some questions from Paul-Philipp Hanske of the German magazine Capital about the DNMs and Sheep in particular:
+
+
+So, I would take the liberty of asking some questions about the SMP scam and black markets in general. As I told it before: many thanks in advance for answering them…
+
+
+According to this report the chase for the thief went wrong. What’s your estimation? What happened?
+
+
+What happened was simple: the bitcoins got moved around, and at some point, the thief was given unlinked bitcoins, without the hobbyists realizing it. The problem with the blockchain is that people start off thinking Bitcoin is completely anonymous; when they realize they are wrong, they flip to assuming it’s completely public & transparent & any transaction can be easily understood, which is less wrong but still not right. At any transaction, control can be transferred without any visible sign. The transaction could have been to an online wallet, an exchange, a prediction market, a DNM, a laundry/mixer, Shared Send, etc. The blockchain merely records transactions among addresses and it does not give you any meaning beyond that. People forget the limitations and escalating uncertainty, and so the Sheep chasers found themselves at a BTC-E cold wallet address. Presumably the Sheep thief then withdrew bitcoins (being paid from the then-hot-wallet) or sold & withdrew some fiat or both.
+
+
+If the chasers traced the wrong amount of bitcoins: how could the thief hide such a big amount? Do you think he sold it?
+
+
+The amount in Bitcoins can be easily hidden: just scatter it among multiple addresses to make the balances small enough they would not draw any attention. I don’t know if he sold it. I think he should not sell much, as to handle a large amount would require an exchange which might require paperwork & using his real identity; but then, I would not have wasted hundreds of bitcoins trying to send such a huge sum through the Bitcoin Fog mix, so I do not think the Sheep thief is the most rational or knowledgeable person around.
+
+
+what’s your estimation how much was stolen?
+
+
+The best estimate right now seems to be ~₿39k, although some of this may have been what the hacker (apparently a Profesorhouse) earned.
+
+
+Is there still strong evidence that Jiřikovský is part of the scam?
+
+
+The evidence remains largely the same, I think. Jiřikovský backed down on his threats of legal action against a Czech redditor, and he gave a strange interview with a Czech papers which struck me as ignoring most of the circumstantial evidence, arrogant, and making incoherent/wrong technological claims. I have heard of no related arrests, but that doesn’t mean much: Ross Ulbricht wasn’t arrested for almost a year after paying for a hit with his Australian bank account, after all, and many investigations take longer.
+
+
+If he (or his group) would be part of it: isn’t it now terribly dangerous for them? A lot of people are angry…
+
+
+Probably. But it’s unlikely anyone will act on speculation.
+
+
+What’s your latest estimation about the role of the FBI in this case?
+
+
+I don’t think they’re doing much but waiting. If there’s active investigations, I’d guess all the work is being done by agencies in the EU with physical access.
+
+
+Do you think anyone complained to the police because of the scam?
+
+
+No. I’m impressed that Plutopete has the chutzpah to challenge the Silk Road seizure, but I still can’t see anyone actually complaining to the police about losses on an illegal DNM.
+
+
+One last question concerning black markets: I’m very fascinated by operators of these websites. What do you think is their motivation? Only earning money?
+
+
+Of the operators of the ~20 sites active at this moment, the majority seem to be entirely non-ideological and pragmatic: a few seem to have mixed motives relating to cryptopunk or marijuana or public service, and SR2’s DPR2/Defcon/Hux may be libertarians (assuming they’re not just imitating Ulbricht), but the rest? They’re in it for the money.
+
+
+One of the interesting parts of the post-SR fallout and the new crop of marketplaces is seeing to what extent SR’s longevity was due to Ulbricht’s principles. It may be that we overestimated the value of running a marketplace, that the incentives to scam first-generation marketplaces (without multi-signature escrow) are too great.
+
+
+Or also some libertarian beliefs as Ross Ulbricht claimed to have?
+
+
+I don’t see any reason for skepticism about that.
+
+
+In general: how strong do you think is the connection between black markets and libertarian thinking?
+
+
+It was strong in the beginning, but like Bitcoin itself, I think it’s become too popularized to remain strongly ideological. I suspect most users strongly agree with the libertarian position on the War on Drugs, but maybe not much beyond that.
+
+
+What do you think is the best black markets in the moment?
+
+
+From a design perspective, I’m interested in The Marketplace for pioneering what I think may be the next step forward for DNMs, multi-signature escrow; they’ve used it longest, and from a security perspective, that puts them ahead of almost all of their competitors. From a more practical perspective, SR2 still seem to have the widest selection and most business, although their problems with getting basic functionality working has driven off a lot of buyers & sellers.
+
+
+Where did the most vendors go to? (it would be great if this market would be so big that you could also browse for German vendors… ;)
+
+
+It’s hard to estimate since I haven’t yet extracted counts of products and vendors, but the biggest sites seem to be SR2, Agora, Pandora, Blue Sky, and The Marketplace. I’m sure there are German sellers on some of them.
+
+
+The authorities are really upset about the Tor/deep-net-market-thing. What can they do against it? Do they have any possibilities? Do you think the deep-net-market-scene will still exist in 5 years?
+
+
+Even if Tor turns out to be irredeemably compromised, there’s still I2P, and beyond I2P, there’s also Freenet. When current markets are busted or go down, given how many people have tasted the forbidden fruit, there will still be plenty of demand for replacements. I expect there will still be a DNM scene in 5 years using one of the networks, and if there isn’t, it’ll be because some technically superior approach has obsoleted all the current markets. (Periodically people sketch out designs for fully distributed DNMs; none of them have made any serious progress, but on the other hand, people were speculating about digital currencies for many years before Bitcoin came along…)
+
+
+### Vice
+
+
+Jordan Pearson, “Motherboard”, 2015-03-19:
+
+
+What is your motivation for releasing the torrent file [of the Evolution marketplace and forums]? How will this help with the Evo fallout? What was your role on Evo (vendor? mod?)
+
+
+Scrapes of the market are useful for people trying to cope with the fallout. If you need to look up a vendor’s contact info so you can email them, or if you didn’t save the PGP key of your favorite vendor & want to verify the Agora one isn’t a fake, or can’t quite remember their name though you’d recognize their listings… Plus, since everyone knows I scrape, they’ll be asking me to look things up or for copies, and it’s easier to make a torrent.
+
+
+I had no role on Evo (I was, if anything, a critic). I am an independent writer/researcher and I scrape all the markets for research.
+
+
+How long were you scraping Evo for?
+
+
+Pretty much from when it opened to buyers to when it shut down a few days ago: 2014-01-21 to 2015-03-17.
+
+
+And during this time you noticed some stuff that alerted you to the notion that the admins could pull an exit scam? What was that?
+
+
+Exit scams are always a possibility for centralized-escrow markets. (Evolution had a multisig option, but it was not true multisig and no one used it.) I was always particularly distrustful of Evolution because their well-known roots in carding/fraud & allowing listings like poisons & guns meant they both had no morals and were particularly likely to be infiltrated or busted; either way, loss of coins was a major risk. I expected them to die well before this, however, and even odds of it dying by LE raid.
+
+
+You’re a researcher-why help people track down their dealers?
+
+
+Because it’s helpful. I have the mirrors, so I might as well do something useful with them.
+
+
+These dealers are ostensibly moving to different markets, some of which are popping up right now (ie. Ironclad). What do you think of that? A lot of chatter right now about moths rushing to the latest flame in terms of scammy sites.
+
+
+That’s always a problem when a big market goes down—the sudden diaspora can overload the older trustworthy markets, and the newer untrustworthy ones see a large inflow. eg. SR1 indirectly knocked out BMR and led to the rise of Sheep. Right now the big question is whether Agora will last: they are older than Evolution, IIRC, and must be tempted to exit scam for the same reasons, especially since the LE attention on Evolution will be forced to move onto Agora. If they stay open, they’re the market of choice for everyone, but if they disappear too, people will be forced to choose from among the existing small markets—Nucleus, Abraxas, Diabolus, Black Bank, Middle Earth, Kiss, Outlaw, etc. If the smaller markets are ambitious, this will be their golden opportunity to ascend and become the new top market, but of course, they could discover the risk feels too much and the centralized escrow is too tempting… We went through a few iterations of this after SR1 before things stabilized under the Agora/Evolution duopoly.
+
+
+(LE is another question-mark; by now, with Evolution over a year old and TCF before that and at least 3 vendors busted, they should have managed to infiltrate at least one employee into Evolution, but we won’t know for months whether they had enough to bust anyone else before Evolution closed and effectively terminated their investigations.)
+
+
+### Forbes
+
+
+Thomas Fox-Brewster, 2015-03-23:
+
+
+Some dealers I’ve spoken to think setting up a bespoke market is the way to go. Think that’s the case? Are you planning to set one up if you don’t have one already?
+
+
+By bespoke market, I assume you mean a vendor shop. Those are definitely dead ends—they do not solve the trust issues of rating and escrow. (For example, one scam is to set up a vendor shop and tell customers to use an obscure third-party escrow service; naturally, this escrow service is run by the same people, and when the mark sends the bitcoins to buy something, they keep it.) They also aggravate issues of hacks, since a drug vendor is not likely to also be a great web programmer & sysadmin. Vendor shops have never scaled, and never will without solving decentralized markets.
+
+
+Can we trust any of the big markets anymore?
+
+
+You could never trust any of the big markets. Evo exit scamming is just people waking up from their dreams and learning from history the hard way. All this has happened before, and will happen again.
+
+
+Is the dream of a decentralised market even close to happening?
+
+
+I don’t think so. Open Bazaar, last I heard, had next to no anonymity and I don’t know how far any of the others have gotten. If they did exist, I’m not sure anyone would use them; they will likely be intrinsically hard to use, like multisig, and may see the same lack of adoption. They work in theory but not practice. Market exit scams, for all the hyperbolic media coverage, are simply an ordinary and acceptable cost of doing business.
+
+
+Separately, why do most dealers I speak with use Lelantos?
+
+
+Gmail etc. are well-known for handing over email information to law enforcement; Safe-mail used to be popular but people seem to have finally realized that any security there is illusory and it’s another Hushmail in the making; Rise-up is a bit hard to get accounts on; and Tormail has been gone for years. So I guess Lelantos is just the best balance available?
+
+
+## Reddit Advice
+
+
+A list of tips from an anonymous Redditor, presented for what they are worth (not all are necessarily important):
+
+
+This guy’s mistakes:
+
+- 
+
+Getting 41 pounds of weed sent to him. That’s a lot of weed.
+- 
+
+Getting weed sent through the mail at all (it’s easy to detect).
+- 
+
+Signing under a false name.
+- 
+
+Signing for a package at all41.
+- 
+
+Had a scale in his house at the time of delivery.
+- 
+
+Never sign for packages. Never get them sent under false names. Do not open them immediately. Never have paraphernalia or anything incriminating in your house at the time of delivery. Always use bitcoin. Use PGP wherever possible. Always ask for a lawyer but otherwise don’t talk to cops.
+
+
+General:
+
+- 
+
+Be sure to read both the guides for seller’s and buyer’s on Silk Road.
+- 
+
+Make sure that your vendor ships via USPS. Rationale: USPS must get a warrant to open your mail. Also, USPS handles much more mail than UPS or FEDEX. I don’t know this for sure, but I’d bet their screening/tracking of suspected drug importers is probably laxer than UPS/FEDEX.
+- 
+
+Open a large PO box (big enough to hold a USPS Priority mail envelope (11.625 inches X 15.125) without folding). Rationale: Most samples will fit in an envelope less than this in size. Ordering a big mailbox means that you don’t have to go to the counter to pick it up.
+- 
+
+Open your box at a “Mom and Pop” service, not a UPS store or USPS PO Box. “Mom and Pop” shops don’t have the resources to track suspicious packages. And USPS PO Box’s won’t accept packages from UPS or FEDEX. (While you specify that you only accept USPS, you should be prepared to accept packages from other vendors.)
+- 
+
+Make sure you have 24 hour access. Rationale: Pick it up after hours without meeting face to face. Also allows for faster pickup–the less time spent in the system, the better.
+- 
+
+Send a test package before ordering drugs. Rationale: You want to make sure you can receive mail at that address without problems before ordering drugs.
+- 
+
+Order only from domestic sources. Rationale: If it doesn’t cross an international border, it doesn’t have to go through customs screening.
+- 
+
+If you must order from overseas, order from UK or Germany, not Netherlands or other common drug source country. Rationale: Anecdotal reports suggest that shipments from common drug source countries get closer screening.
+- 
+
+Order small amounts (gram or less). Rationale: Law enforcement has limited resources. Odds are, they’re not going to bother with small amounts.
+- 
+
+Use your real name and address on all forms. Rationale: Anyone (such as a vindictive ex, or an enemy) could send you drugs. If you get caught receiving mail with drugs in it, you can deny that it’s yours. A fake name destroys your plausible deniability, as it indicates an intent to deceive.
+- 
+
+Order normal stuff to your box on a regular basis. Rationale: You want to make your box stand out as little as possible.
+- 
+
+Refuse to sign for any drug package. Rationale: Remember, those drugs aren’t yours. If you sign for it, it’s evidence that you were expecting the package.
+- 
+
+Don’t order too many drugs at once. Rationale: Many vendors don’t include any identifying info., so you may end up with a bunch of packets of white powder, with little idea of what’s in each packet.
+- 
+
+Use GPG to encrypt your messages to the vendors. Rationale: While this doesn’t protect you if the vendor is compromised, it does prevent your name and address from being stored ‘in the clear’ in Silk Road’s database.
+- 
+
+Don’t order out of escrow. Rationale: Your only protection from bad vendor behavior is their reputation and escrow. And some vendor’s don’t care about their reputation.
+- 
+
+Read up on vendor’s in the forums. Rationale: You’ll get a much better idea of their product quality than you can get from their official ratings/reviews alone.
+
+
+## A Mole?
+
+
+### “J’accuse!”
+
+
+In March 201313ya, I learned of a rumor that a particular fake ID seller on SR1, “KingOfClubs”, was actually a federal mole. It came from a person who claimed that the carding forum `carder.su` which had been busted in early 2012, was undone by an agent who infiltrated it over 2 years as a user named “celtic” by selling high-quality fake IDs to members (according to Wired’s July 201313ya coverage, Celtic was a real carder who had been busted & his identity assumed). This is perfectly plausible as one of the standard law enforcement strategies to take down carding or drug forums is infiltrating forums (eg. ShadowCrew, CardersMarket, CarderPlanet, `fakeplastic.net`), taking them over, or even setting up their own fake forums as honeypots (the “Carder Profit” forum).
+
+
+He thought that the seller had a similar modus operandi, making the following comparisons:
+
+- 
+
+celtic sold fake custom IDs from 15 states; the seller likewise sells these specific states
+- 
+
+celtic sold a large variety of IDs; the seller sells a wider variety than others,
+- 
+
+celtic advertised with lengthy detailed descriptions; the seller has descriptions which are much more than a few lines, like some other SR sellers
+- 
+
+celtic sold expensive high-quality IDs, with difficult new security features; likewise
+- 
+
+celtic advertised his wares as “novelty IDs”
+- 
+
+celtic implied he was Russian
+- 
+
+celtic asked for the necessary information to be sent via email and required 2 email addresses
+- 
+
+celtic had his non-anonymous payments sent within Nevada
+- 
+
+celtic had operated on the forum for over 2 years; the seller was at the 1 year mark.
+
+
+They also mentioned that after contacting the SR admins, they were blocked from accessing SR under that or other accounts.
+
+
+### Objections
+
+
+This rumor struck me as unusually detailed, plausible, and interesting. It would also be cool to scoop an investigation. So I looked into the matter more deeply; I started by compiling an archive of all KoC’s listings, reviews on Reddit, and listings by other ID sellers for comparison (archive; contains MAFF & MHT), and noted the following:
+
+- 
+
+the `carder.su` mole supposedly sold 15 states’ IDs and so does KoC. But KoC’s current profile lists only the following:
+
+
+Product
+
+
+Price
+
+
+Montana Driver’s License (Holograms + Scannable)
+
+
+₿6.61
+
+
+Indiana Driver’s License (Holograms + Scannable)
+
+
+₿6.61
+
+
+Wisconsin Driver’s License (Holograms + Scannable)
+
+
+₿6.61
+
+
+Alaska Driver’s License (Holograms + Scannable)
+
+
+₿6.61
+
+
+New California Drivers License (Holograms + Scans)
+
+
+₿6.61
+
+
+Rhode Island Driver’s License (Hologram+Scannable)
+
+
+₿6.60
+
+
+Idaho Driver’s License (Holograms + Scannable)
+
+
+₿6.60
+
+
+Tennessee Driver’s License (Holograms + Scannable)
+
+
+₿6.60
+
+
+Arizona Driver’s License (Holograms + Scannable)
+
+
+₿6.60
+
+
+New York Driver’s License (Hologram + Scannable)
+
+
+₿6.60
+
+
+Ontario Driver’s License (Raised Lettering, Scans)
+
+
+₿6.60
+
+
+New Texas Drivers License(Raised LTR, Holo, Scans)
+
+
+₿6.60
+
+
+Texas Drivers License (Holograms + Scannable)
+
+
+₿6.60
+
+
+subtotal: 13
+
+
+New South Wales Driving License (Holograms+Scans)
+
+
+₿6.61
+
+
+Manitoba Driver’s License (Scannable Tracks 1,2,3)
+
+
+₿6.60
+
+
+Quebec Driver’s License (Scannable Magstripe1,2,3)
+
+
+₿6.60
+
+
+Alberta Driver’s License (Holo, Raised LTR, Scans)
+
+
+₿6.60
+
+
+UK Driving License (Holograms + Scannable)
+
+
+₿6.60
+
+
+subtotal: 5
+
+
+total: 18 (excludes combo offers)
+
+
+No matter how you sum it, that’s not 15 states.
+- 
+
+It’s not clear that celtic or KoC’s variety is unusual. For example, in the indictment 2 of the defendants, Haggerty or “Wave” & John Doe or “Gruber”, actually sound almost identical to this “celtic”: they counterfeited driver’s licenses in 15 states; this does not seem consistent with their story and undermines the value of any observation of KoC selling 15 states since that’s at least 2 people who also sold for 15 states—suggesting that 15 states is simply what is easily handled by available equipment/techniques, are favored due to having many residents being tourists, or something like that.
+- 
+
+On the SR side of things, KoC does not seem all that unusual. Some sellers talk a lot and sell a lot, others don’t. For example, the seller namedeclined has something like 21 different items in the forgery & fake ID sections, and is positively prolix about one I randomly clicked on, his fake Geico insurance card.
+- 
+
+If his cards were being done with government equipment, or top of the line anyway, they ought to be excellent and might as well be cheap to attract as many suspects as possible. But there are many complaints in the SR forums & Reddit that his rather expensive cards weren’t very good and in some cases were very poor. He also isn’t all that cool with customers, easily losing his temper. All this is reflected in his feedback score, which is not terrible but also is not great.
+- 
+
+KoC using the term “novelty ID” doesn’t mean much. As far as I know, all the Chinese/Asian sellers use that excuse as well: “oh, they’re not fake IDs, they’re novelty IDs; we can’t be blamed if our customers misuse them.”
+- 
+
+KoC doesn’t make it sound like he’s Russian. He comes off as American, and his listings imply he’s shipping domestically.
+- 
+
+obviously in buying custom fake IDs, customers need to provide the relevant info like age and a photo of the person who will be using the ID. KoC provides a public key, accepts encrypted private messages on SR for the form, and links repeatedly to a hidden service for image uploads; he does list a `tormail.org` email address as an option, but you can just connect to `tormail.org`’s hidden service (that’s the point of it) and send an email via them. You would have to be lazy or foolish to send such an email from your regular email address before he would have access to your email, and there is no mention of requiring 2 email addresses
+- 
+
+while KoC seems to have accepted Western Union, Moneygram, and Moneypak early on (like a mole might), he seems to have dropped them entirely: his profile specifically disclaims accepting anything but bitcoin. Why would a mole do that?
+- 
+
+Many sellers are less than 2-3 years old, since SR is still relatively new and it wasn’t clear early on that it would survive or be worth doing business on; given that new sellers probably drop quickly as they stop selling for various reasons (they were scammers, it turned out to be too much work, whatever), we would expect to see mostly medium-aged accounts selling.
+
+
+Two additional points I would make:
+
+- 
+
+while the media does confirm that `carder.su` members used fake IDs, this is common to many or all carding forums; more importantly, I cannot confirm their account of the demise of `carder.su` based on the 201214ya indictment, and no one in Google mentions any “celtic” in combination with `carder.su`. The redactions make it difficult to be sure, but they do not seem to have usually redacted the usernames or pseudonyms or nicks (eg. pg40), and in the lists of redacted defendants’ offenses, few short-names come off with large quantities of forged items or other such violations. While the Farmers Market indictment listed enough details that I could be sure that it was mostly due to Hushmail rolling over (as indeed proved to be the case), here I’m not sure of anything; the indictment goes into the wrong details for me to feel I can infer anything.
+- 
+
+At least one of their claims seems false: yes, SR might ban an account for filing a false report against a seller. But it can’t lock you out based on your IP or something like that; the Tor hidden service architecture simply doesn’t allow for that, as far as I know. The most it could do is maybe set a cookie and not let anyone with a cookie from a banned account log in or register an account, but that is trivially bypassed by deleting all cookies or using an incognito mode or using a different browser.
+
+
+A counter-objection is that celtic-KoC might have deliberately dropped Nevada IDs and non-bitcoin payment to throw off anyone familiar with the previous identity. But in this scenario, presumably the absence would be for public consumption and anyone requesting either would get what they asked for as they became juicy targets for his investigation. This can be easily tested just by asking; so 2 throwaway accounts messaged KoC on those issues:
+
+- 
+
+First conversation:
+
+- 
+
+
+“I know they’re not listed, but would it be possible for you to do either a Utah or Nevada license? (Ideally with UV and hologram.)”
+
+- 
+
+
+“I won’t be able to do Nevada but I may be able to do Utah with UV and holos, i’ll get back to you in the next couple days on that”
+
+
+- 
+
+Second:
+
+- 
+
+
+“bro how are you, do you make Nevada license and do you accept WU OR MG thanks”
+
+- 
+
+
+“I don’t do Nevada DL’s at the moment but I can do a bunch of different states that aren’t listed, what else are you interested in? I don’t accept WU or MG but if you go under the ‘Money’ section of SR and go to the vendor ‘FreeMoney’ he will be able to exchange your WU or MG or Moneypak for ₿. Regards.”
+
+
+While his consistent disavowal of both non-bitcoin payments and making Nevada licenses might simply be trying to be consistent in his persona, that would imply considerable paranoia on his part about being recognized—and makes this possibility that much more unlikely.
+
+
+### Predictions
+
+
+When will we know? The `carder.su` indictment was signed 2012-01-10. The earliest dates mentioned in it are in 200719ya, but most of the early dates seem to be in 200917ya, in line with a >2 year infiltration which suggests a 2-3 year lag (or possibly as much as 5 years). The KoC account is listed as 1 year old and consistent with that, he has initial forum posts dating back to March 201214ya. That suggests any busts will come March 2014–201511ya, up to 2017. (I can’t guess whether the hypothetical SR bust would be faster or slower than `carder.su`: SR is much more secure and decentralized from a seller’s point of view, so one might expect it to take longer; but SR is also much higher profile as far as I can tell and so one could expect there to be much more pressure to deliver some sort of victory.)
+
+
+What’s my current opinion? Reading through all of the above, thinking about the difficulties of attacking SR (KoC can only have access to small fry buyers, not SR staff like Dread Pirate Roberts), I feel that I can only assign 20% to a prediction that by March 201511ya, “there will have been a bust (>10 named defendants) related to forged IDs eg. driver’s licenses, linked to the SR vendor KoC”.
+
+
+We’ll see.
+
+
+### Resolution?
+
+
+In October 201313ya, SR1 was raided and its operator Ross Ulbricht was arrested; a few months later, several employees were also arrested.
+
+
+Part of the initially released evidence was a photograph of several fake IDs for Ulbricht purchased on SR1 (which he seems to have used for buying server hosting) which had been intercepted by Customs around 2013-07-10. This was striking, and some people claimed the IDs in the photo looked like KoC’s IDs. This was confirmed in a December 201412ya filing in his trial42
+
+
+Is this confirmation? Well, the filing does not describe KoC as a CI or UC, but it also does not describe how the KoC package was intercepted other than “as part of a routine border search”, which sounds implausible for any fake ID shipment (fake IDs should not trigger any drug dogs and are likely shipped in envelopes rather than bulkier packages) and especially implausible in that it just so happens to be a shipment to a person of interest; if Ulbricht’s name had been entered in some sort of screening database, that would be plausible but the filing specifically mentions the package was addressed to a “Josh”; and the early July 201313ya date seems a bit too soon for the SR1 server imaging in June 201313ya to have de-anonymized Ulbricht to the point where his physical address was known and his mail could be screened. KoC being a CI/UC would resolve the question immediately, but direct evidence of this is absent.
+
+
+So I think the exact role KoC played in the fall of SR1 remains uncertain.
+
+
+## Bitcoin Exchange Risk
+
+
+“Beware the Middleman: Empirical Analysis of Bitcoin-Exchange Risk” compiles a list of Bitcoin exchanges and which ones have died or failed to return one’s money (see also the followup Moore et al 2016); I was interested in the average risk per day, but the paper did not include the relevant figure, so I copied the raw data and partially replicated their analysis in R:
+
+
+`exchange <- read.csv("https://gwern.net/doc/bitcoin/2013-moorechristin-bitcoinexchanges.csv")
+# log transform busy-ness per paper
+exchange$ActiveDailyVolume <- log1p(exchange$ActiveDailyVolume)
+# calculate lifetime lengths
+exchange$Days <- as.integer(as.Date(exchange$Dates) - as.Date(exchange$Origin))
+# but the paper says "The median lifetime of exchanges is 381 days"!
+# The difference may be due to me defaulting each exchange opening/closing to the 1<sup>st</sup> of the month,
+# since the paper's table on pg3 only specifies month/year.
+summary(exchange$Days)
+#    Min. 1<sup>st</sup> Qu.  Median    Mean 3<sup>rd</sup> Qu.    Max.
+#      15     168     344     365     565     930
+
+# Rough daily risk percentage calculation: # of lossy exchange-days / total exchange-days:
+(sum(exchange$Repaid==0, na.rm=TRUE) / sum(exchange$Days)) * 100
+# [1] 0.03421
+# eg. so leaving funds on an exchange for a month is ~1% (0.03 * 30 = 0.899 ~= 1)
+
+# replicate Cox model survival curve & regression
+library(survival)
+# plot aggregate survival curve
+surv <- survfit(Surv(exchange$Days, exchange$Closed, type="right") ~ 1)
+plot(surv, xlab="Days", ylab="Survival Probability")
+# https://i.imgur.com/lFZEKbv.png
+
+# see how the moderators help predict exchange death
+cmodel <- coxph(Surv(Days, Closed) ~ Breached + ActiveDailyVolume + AML, data = exchange)
+summary(cmodel)
+# ...
+#   n=40, number of events=18
+#
+#                       coef exp(coef) se(coef)     z Pr(>|z|)
+# Breached           0.80309   2.23242  0.57129  1.41    0.160
+# ActiveDailyVolume -0.22233   0.80065  0.10493 -2.12    0.034
+# AML                0.00156   1.00157  0.04230  0.04    0.970
+#
+#                   exp(coef) exp(-coef) lower .95 upper .95
+# Breached              2.232      0.448     0.729     6.840
+# ActiveDailyVolume     0.801      1.249     0.652     0.983
+# AML                   1.002      0.998     0.922     1.088
+#
+# Concordance= 0.696  (se = 0.08 )
+# Rsquare= 0.116   (max possible= 0.94 )
+# Likelihood ratio test= 4.91  on 3 df,   p=0.178
+# Wald test            = 5.22  on 3 df,   p=0.156
+# Score (logrank) test = 5.41  on 3 df,   p=0.144
+
+predict(cmodel, type="risk")
+#  [1] 1.0062 1.2807 1.8416 1.4132 0.6280 0.6687 2.5166 1.4629 1.3860 1.3283 0.8558 1.6955 1.1386
+# [14] 0.9682 0.6275 1.9333 0.5593 1.1443 1.1941 1.8569 1.9889 3.6656 0.9899 0.9849 0.5649 0.6393
+# [27] 0.5527 0.4847 0.5212 0.8798 0.5222 0.8132 0.8166 0.5222 0.4404 1.2850 0.6114 1.0574 0.9704
+# [40] 1.8765
+# difference between the paper's risk ratios and the calculated risks:
+predict(cmodel, type="risk") - exchange$Risk.Ratio
+#  [1] -0.1138438  0.0007105 -0.1684229 -0.1768372 -0.0219620  0.0586867 -1.3333981 -0.1070626
+#  [9] -0.0639567 -0.1416868 -0.0841594 -0.1044674 -0.1013990 -0.0117733  0.0174954  0.0533416
+# [17]  0.0293197  0.0543248  0.0540563 -0.2930878 -0.2411229 -0.7444104 -0.0901261  0.0348886
+# [25]  0.0348513  0.0392880  0.0327111  0.0347424  0.0311519 -0.0302076  0.0321711  0.0532302
+# [33]  0.0165801 -0.0178064 -0.0095536 -0.1650013 -0.0186322 -0.0825834 -0.0696364 -0.3535190
+summary(predict(cmodel, type="risk") - exchange$Risk.Ratio)
+#    Min. 1<sup>st</sup> Qu.  Median    Mean 3<sup>rd</sup> Qu.    Max.
+# -1.3300 -0.1090 -0.0203 -0.0992  0.0323  0.0587
+
+# Moving on; replicate the logistic regression they ran on predicting breaches:
+lbreach <- glm(Breached ~ ActiveDailyVolume + I(Days/30), family="binomial", data = exchange)
+summary(lbreach)
+# ...
+# Deviance Residuals:
+#    Min      1Q  Median      3Q     Max
+# -1.158  -0.671  -0.283  -0.102   2.982
+#
+# Coefficients:
+#                   Estimate Std. Error z value Pr(>|z|)
+# (Intercept)        -4.4996     1.7666   -2.55    0.011
+# ActiveDailyVolume   0.7730     0.3182    2.43    0.015
+# I(Days/30)         -0.1048     0.0698   -1.50    0.133
+#
+#     Null deviance: 42.653  on 39  degrees of freedom
+# Residual deviance: 32.113  on 37  degrees of freedom
+# AIC: 38.11`
+
+
+Moore has provided his original R source code, his exchange data, and anti-money-laundering-laws data, so his original analysis can be replicated by anyone interested in the topic.
+
+
+## Estimating DPR’s Fortune minus Expenses & Exchange Rate
+
+
+Ron & Shamir 2013, based on blockchain analysis, estimates SR/DPR earned ₿633,000 in commissions; the FBI indictment states that it was ₿614,305, presumably based on the seized site databases. It’s been suggested that the expense of running SR, and the large changes in the exchange rate, may substantially reduce how many bitcoins DPR actually could have saved up, possibly to as low as ₿“150-200k”. (The logic here is that if SR earns commissions of ₿100 in 2011 but needs to pay $100 of hosting bills, it needs to sell all ₿100 but in 2013, it would need to sell only ₿1.)
+
+
+DPR surely spent some of the commissions on running SR & himself, but running a website isn’t that expensive, and how badly the exchange rate bites will depend on details like how it fluctuated over time, how sales grew over time, and how big the expenses really are. The reduction could be tiny, or it could be huge. It’s hard to tell based just on a gut estimate.
+
+
+So: below, I take estimates of SR growth from Christin 2013’s crawl and the FBI indictment, infer linear growth of SR sales, estimate daily expenses, and combine it with historical Bitcoin exchange rates to show that DPR probably has most of his bitcoins and 200k or lower is right out.
+
+### Model
+
+
+My strategy is to model Silk Road’s growth as linear in dollar amounts, but with different amounts of bitcoins each day depending on the exchange rate, subtract a daily operating cost, and then sum the commissions.
+
+
+So say that on 2012-01-01, SR did $10k of business, and the exchange rate was 1:100, so ₿100 in turnover, and SR gets an average commission of 7.4%, so it would get ₿7.4.
+
+
+To do this, I need to estimate the revenue each day, the expenses each day, the commission each day, and the exchange rate each day. Then I can multiply revenue by commission, subtract the expense, and sum the left overs to get an estimate of the total bitcoins available to DPR which he could (or could not) have spent.
+
+
+### Expenses
+
+
+- 
+
+Employees: we know that Libertas and one or two others were employed at salaries of $1-2k per week. I’ll assume there were 2 others, and each was paid the max of $2k per week, which means total daily employee expenses is (2⋅2000)7 = $571 per day. (Unfortunately, the indictment doesn’t give any clear indication of their numbers, just referring to them as ‘they’.)
+
+
+This is a conservative estimate since I’m pretty sure that SR was a one-man operation until probably in 201214ya.
+- 
+
+The servers: we know there were at least 2 servers (the main site, and the forums). The task of hosting the sites does not seem to be too bandwidth or disk-space intensive, and servers are extremely cheap these days. The use of DataClub.biz and GigaTux suggest DPR was using cheap VPSes. I’ll estimate a monthly expense of $500 ($250 a piece) which per day is $16.
+
+
+This is also very conservative.
+- 
+
+DPR: his rent of $1,000/month has been widely bruited about, and in general he reportedly spent little. Makes sense to me, I’ve met and seen the rooms of a few well-paid geeks in SF like DPR, and I would believe them if they said they didn’t spend much money on anything but rent & food. I’ll bump this up by $1,000 for food and all expenses, since he apparently didn’t even eat out very much. So frac200031=65.
+
+
+Doubling his rent for total expenses is probably also conservative; for most people, rent is not >50% of income, but SF is incredibly expensive to live in.
+
+
+This gives a daily expense of $652 (or a monthly total of $19.1k in expenses). As you can see, the employees are by far the most expensive part of running SR in my estimate, which makes me wonder if maybe Libertas was the only employee.
+
+#### Hitmen
+
+
+Assuming the details about DPR hiring hitmen in the indictments are reasonably accurate, we can throw in two large expenses:
+
+- 
+
+an $80k expenditure for killing his Maryland employee. The first payment of $40k was made on 2013-02-04 and the second/final payment of $40k was made on 2013-03-01 (pg9). If we use the exchange rate of those two days, then the hit cost DPR (40000 / 20.42) + (40000 / 34.24) = ₿3127
+- 
+
+the second hit was priced in bitcoins (pg23):
+
+
+Through further messages exchanged on March 31, 201313ya, DPR and redandwhite agreed upon a price of 1,670 Bitcoins
+
+
+So the hits cost DPR somewhere around ₿4797. An extremely large and painful amount, by most standards, but still nowhere near ₿10k—much less higher.
+
+
+### Revenue over Time: First and Last Days
+
+
+Christin:
+
+
+Table 3 provides a breakdown of the feedback ratings from 184,804 feedback instances we collected…In Figure 12, we plot an estimate of the daily commissions collected by Silk Road operators as a function of time. We simply reuse the previous estimates, and apply both the fixed 6.23% rate, and the schedule of Table 4 to each item. We find that the new schedule turns out to yield on average a commission corresponding to approximately 7.4% of the item price.
+
+
+The FBI:
+
+
+From February 6, 2011 to July 23, 2013 there were approximately 1,229,465 transactions completed on the site…$79.8 million (USD) in commissions.
+
+
+According to Bitcoin Charts, on 2013-07-23, the MtGox price was $91. (As the most famous exchange, any FBI estimate almost certainly used it.) So that implies 79,800,00091=₿876,923. Or to put it the other way, at $79.8m in transactions, then using Christin’s 7.4% estimate, total sales were $1,078,000,000 or ₿10,780,000.
+
+
+Wikipedia says “These transactions involved 146,946 unique buyer accounts, and 3,877 unique vendor accounts.”, and “The total revenue generated from transactions was 9,519,664 bitcoins. Commissions collected from the sales by Silk Road amounted to 614,305 bitcoins.”
+
+
+(So the numbers aren’t too different: 614k vs 876k and 10.8m vs 9.5m.)
+
+
+We’ll set 2011-02-06 to $10 in sales (probably not too far from the truth). But what about 2013-07-23? pg20 of the indictment says:
+
+
+For example, on July 21, 2013 alone, DPR received approximately 3,237 separate transfers of Bitcoins into his account, totaling approximately $19,459. Virtually all of these transactions are labeled “commission”.
+
+
+194590.074 = $262,959 that day. $20k in commissions is extremely impressive, since Christin estimates only $4k/day commissions as late as the end of July 2012—so SR must have grown by 500% 2012–2013. We use this revenue estimate as our endpoint and interpolate from $10 to $262,959 over the ~900 days SR existed. This is a conservative way of modeling SR, since the graphs in Christin indicate that SR saw sigmoid growth in 2012, and 2013 would’ve seen even more growth (to be consistent with the 2013 July commission datapoint being 5x the 2012 July commission datapoint).
+
+
+### Exchange Rate
+
+
+I grab weighted price for each day between 2011-02-06 & 2013-07-23, and stuff it in a CSV.
+
+
+### Analysis
+
+
+`sr <- read.csv("https://gwern.net/doc/darknet-market/silk-road/1/dpr-exchangerate.csv")
+sr$Sales <- c(10, rep(NA, 890), 262959, NA, NA)
+## revenue increased by $300 a day:
+l <- lm(Sales ~ as.numeric(Date), data=sr); l
+# Coefficients:
+#      (Intercept)  as.numeric(Date)
+#             -285               295
+sr$Sales <- predict(l, newdata=sr)
+sum(with(sr, (Sales * 0.074 - 652) / ExchangeRate))
+# [1] 803397`
+
+
+Or we can run the estimate the other way: if DPR had to spend $652 a day and converted at that day’s exchange rate, and we took into account the hitmen, how many bitcoins would he have spent in total?
+
+
+`sum(with(sr, 652 / ExchangeRate))
+# [1] 127154
+(614305 - 127154) - 4797
+# [1] 482354`
+
+
+### Conclusion
+
+
+Obviously ₿803k > ₿614k, which implies that the linear model overestimates sales in the early life of SR; but going the other direction and estimating just from costs & hitmen & total commission, we still wind up with nearly ₿500k (and that was after making a bunch of highly conservative assumptions). The fewer sales (and commissions) early on, the less of a fixed number of bitcoins will be sold. So, while it may initially sound plausible that DPR could have been forced to part with say ₿400k to pay for SR and sundry expenses, the distribution of sales and fluctuations of Bitcoin value mean that this simply does not seem to be the case.
+
+
+Unless there are some abandoned yachts floating around the SF Bay Area, DPR/Ross Ulbricht probably has ₿500k-614k.
+
+
+## The Bet: BMR or Sheep to Die in a Year (By Oct 201412ya)
+
+
+On 2013-10-30, I offered to any comers 4 escrowed Bitcoin bets relating to whether BlackMarket Reloaded and Sheep Marketplace would survive the next year. I posted it to
+
+- 
+
+/r/SilkRoad
+- 
+
+/r/SheepMarketplace
+- 
+
+the Silk Road 2 forums
+- 
+
+Sheep forums (censored)
+
+
+Reactions were generally extremely negative, accusing me of scamming, being LE, pretending to be the escrow nanotube, etc. No one took any of the bets and I shut the books on 2013-11-06. For posterity, I am archiving a copy of my statement below.
+
+### Original
+
+
+BMR & Sheep have demonstrated their danger, but few DNM-users seem to genuinely appreciate this. I am publicly betting that they will fail in the near-future. If you think I am wrong, just try to take my money and prove me wrong! Otherwise, spare us your cheap talk.
+
+
+Hi! I’m Gwern Branwen. You may remember me from such DNM webpages as Silk Road: Theory & Practice, and /r/silkroad. Today I’m here to talk to you about BlackMarket Reloaded & Sheep Marketplace.
+
+
+(A signed version of this 2013-10-30 post will be posted as a comment, because I wish to use Markdown formatting; my PGP key is available.)
+
+#### Background
+
+
+With the fall of SR, we’re all very sad: it was a good site which performed a useful function. But life goes on, so it’s no surprise we’re all moving on to new DNMs. That said, I am concerned by the accumulating pattern I am seeing around BMR and Sheep, and by the delusional optimism of many of the users.
+
+BMR
+
+
+BlackMarket Reloaded, since the fall, has been marked by a pattern of arrogance, technical incompetence, dismissal of problems, tolerance for sellers keep buyer addresses & issuing threats, astounding tolerance for information leaks (all the implementation information, and particularly the VPS incident with the user data leak; mirror: 2), etc. We know his code is shitty and smells like vulnerabilities (programmer in 3 different IRC channels I frequent quoted bits of the leaked code with a mixture of hilarity & horror), yet somehow backopy expects to rewrite it better, despite being the same person who wrote the first version and the basic security principle that new versions have lots of bugs. (I’m not actually bothered by the DoS attacks; they’re issues for any site, much less hidden services.)
+
+
+And then there’s the things he’s not telling us. Atlantis shut down because they were worried about contacts from LE, and thus far this shut down seems to have saved them; but BMR has been around several times longer than Atlantis—would it not beggar belief if LE had not made contacts, attempted SR-style stings, or infiltrated BMR staff? And remember how we were able to discover all sorts of leaks in DPR’s opsec once we had the indictment and knew what to look for? Or consider the claims being made about the Project Black Flag Leaks, where someone claims to have accessed a laundry list of information from its internals—only after Metta DPR decided to rip-and-run. If this is what we see publicly for BMR, what on earth is going on behind the scenes?
+
+
+backopy should have handed on BMR weeks ago, but is still around. He seems to plan to repeat SR/DPR’s mistakes exactly: leak information all over the place, never retire, and just keep on until he is busted and takes who-knows-how-many people down to prison with him. He has learned nothing. What, exactly, is his exit strategy? What goals does he have and when will they ever be satisfied? He has been running BMR for more than 2 years now, and has not left. How does this story end: of a man who does not know his limits, does not have ability equal to the task, and refuses to quit while he’s ahead? It ends with a party-van, that’s how it ends.
+
+
+And hardly anyone seems troubled by this! The BMR subreddit is full of bustle; people are even hailing backopy as a “hero” for allowing withdrawal of bitcoins. (How generous of him.)
+
+
+Sheep
+
+
+Is Sheep any better? No. BMR is troubled and probably infiltrated at this point, but Sheep may well be a dead market walking at this point. No one has a good word to say about its coding, so there may well be BMR-style issues in its future. More importantly: the veriest Google search would turn up that clearnet site, and it has been pointed out that the clearnet Czech site hosted by HexaGeek was uncannily similar to the actual hidden service. It uses almost the same exact technology, and the official explanation is that they had “fans” (fans? who set up, many months ago, before anyone gave a damn about Sheep, an entire functioning mirror while cloning the software stack and being in a foreign non-English-speaking country just like the Sheep admins?). Ridiculous! DPR may have set up a WordPress site, but at least ‘altoid’ didn’t run an entire SR mirror! (He left that to `onion.to` & `tor2web.org`.). Sheep’s likely about one subpoena of HexaGeek away from fun party times in the party-van.
+
+
+#### The Wager
+
+
+I am uninterested in seeing Sheep/BMR busted and lots of newbies caught because they can’t appreciate the patterns here. People don’t take mere criticism seriously, and even if I lay it all out like here, and I mention that I have an excellent track record of predictions, they still won’t because anyone can doom-monger and issue warnings, it won’t get through to them. I want to get through to them—I want them to understand the risks they’re taking, I want them to reflexively use PGP, and I want them to leave balances on sites for as short a time as possible. So! I am putting my money where my mouth is.
+
+Bets
+
+
+I and 3 others are publicly wagering ₿4 ($816 at today’s rate), ₿1 each, on the following 4 bets:
+
+- 
+
+BMR will not be operating in 6 months:
+
+
+25%; 1:3 (you risk ₿3 and if BMR is still operating, you win our ₿1, else you lose the ₿3 to us)
+- 
+
+BMR will not be operating in 12 months
+
+
+40%; 1:1.5 (you risk ₿1.5 & BMR is operating in a year, you win our ₿1, else lose ₿1.5)
+- 
+
+Sheep will not be operating in 6 months
+
+
+30%; 1:2.3 (your ₿2.3 against our ₿1)
+- 
+
+Sheep will not be operating in 12 months
+
+
+60%; 1:0.66 (you risk ₿0.66 against our ₿1)
+
+
+The ₿4 are currently stored in `1AZvaBEJMiK8AJ5GvfvLWgHjWgL59TRPGy` (proof of control: `IOqEiWYWtYWFmJaKa29sOUqfMLrSWAWhHxqqB3bcVHuDpcn8rA0FkEqvRYmdgQO4yeXeNHtwr9NSqI9J79G+yPA=` is the signature by `1Az` of the string `"This address contains bitcoins for the BMR/Sheep bet run by gwern."`).
+
+
+Definitions
+
+- 
+
+BMR = `kss62ljxtqiqdfuq.onion`
+- 
+
+Sheep = `sheep5u64fi457aw.onion`
+- 
+
+The exact definition of ‘not operating’ includes but is not limited to this: on noon EST of 2013-04-30 (6-months) or 2014-10-30 (12-months), if Nanotube can visit the relevant DNM, create a buyer account, deposit bitcoins, and order an item, then the site is operating. If deposits or new accounts or purchases are not allowed or not possible, it is not operating.
+
+
+At his own discretion, the arbitrator can take into account other factors, like widespread reports that a market has been raided and turned into a sting operation.
+
+
+Escrow
+
+
+Arbitration & escrow are being provided by Nanotube, a long-time Bitcoin user & -otc trader, who has handled some past bets (most famously, the ₿10,000 bet between the Ponzi schemer pirateat40 & Vandroiy) and I believe can be trusted to escrow this one as well; he has agreed to a nominal fee of 1%.
+
+
+(I am not using Bets of Bitcoin because they have a dishonest & exploitative rule-set, and I am not sure Predictious would allow these bets.)
+
+
+HOWTO
+
+
+If you disagree and are man enough to take our bets, post the amount you are betting on which bet, and Nanotube will supply an address for you to transfer your bitcoin to. When it arrives in his wallet, then our bet will be in effect.
+
+
+May the most accurate beliefs win.
+
+
+### Statistical Considerations
+
+
+In my past betting & predicting, I have found it useful to start with some simple base rates & statistical calculations as a way of anchoring my subjective considerations. Neither approach is extremely reliable, but they can help us figure out what are reasonable-looking estimates and we can increase or decrease them based on the observed security issues to get a final estimate which will be better than either random guessing based on gut-feel or blind acceptance of numbers spat out by a model.
+
+
+In my bet, I used an earlier version of this analysis, and after looking at the various results, settled on gut-estimates as follows:
+
+- 
+
+BMR 6-month shutdown risk: 35%
+- 
+
+BMR 12-month: 50%
+- 
+
+Sheep 6-month: 40%
+- 
+
+Sheep 12-month: 50%
+
+
+After expanding the data to include Deepbay and continuing to observe the DNMs, I would personally decrease the risk for BMR and increase for Sheep (a choice vindicated when Sheep shut down with a scam in late November, not long after my analysis).
+
+#### Basic Data
+
+
+I am interested in websites selling drugs over Tor or i2p, using cryptocurrencies like Bitcoin/Litecoin/Dogecoin, allowing multiple sellers other than the site operators, and providing some sort of escrow functionality. This excludes clearnet sites like Topix, single-vendor shops like Modern Culture or Bungee54, carding shops like Tor Carders Market, hosting services like Cryuserv or Bad Wolf, DNM-focused forums like The Hub, and forums for buyers & sellers to deal directly with each other like The Majestic Gardens.
+
+
+This data is current as of 2013-11-12 and is used in the following survival analysis:
+
+
+Market
+
+
+Started
+
+
+Ended/currently
+
+
+Months operating
+
+
+Status
+
+
+Notes
+
+
+Silk Road
+
+
+January 2011
+
+
+October 2013
+
+
+33
+
+
+closed
+
+
+Raided
+
+
+Atlantis
+
+
+2013-03-26 Sep
+
+
+tember 201313ya 6
+
+
+clo
+
+
+sed Vol
+
+
+untary shut down; scam? Losses not clear
+
+
+Deepbay
+
+
+June 2013
+
+
+2013-11-04 5
+
+
+close
+
+
+d [scam
+
+
+](https://www.reddit.com/r/Bitcoin/comments/1qaewa/deepbay_marketplace_owner_steals_sites_bitcoins/)
+
+
+Budster
+
+
+2013-10-10 2013-
+
+
+10-20 0
+
+
+closed [
+
+
+scam?](ht
+
+
+tps://web.archive.org/web/20150518085349/https://www.reddit.com/r/Budster/comments/1ove9w/has_anyone_made_a_purchase_yet/ccw8srh)
+
+
+Project Black Flag
+
+
+2013-10-14 2013-
+
+
+10-28 0
+
+
+closed [
+
+
+scam](htt
+
+
+ps://www.reddit.com/r/DarkNetMarkets/comments/1peguv/pbf_rip/)
+
+
+BlackMarket Reloaded
+
+
+June 2011
+
+
+November 2013
+
+
+30
+
+
+open
+
+
+Sheep Marketplace
+
+
+February 2013
+
+
+November 2013
+
+
+10
+
+
+open
+
+
+BuyItNow
+
+
+April? 2013
+
+
+November 2013
+
+
+8
+
+
+open
+
+
+`buyitnowquyft7dx.onion`
+
+
+Pandora
+
+
+2013-10-21 Novem
+
+
+ber 201313ya 1
+
+
+open
+
+
+`pand
+
+
+orajodqp5zrr.onion`
+
+
+Silk Road 2
+
+
+2013-11-06 Novem
+
+
+ber 201313ya 0
+
+
+open
+
+
+Tormarket
+
+
+2013-11-07 Novem
+
+
+ber 201313ya 0
+
+
+open
+
+
+`torm
+
+
+arkozaegyvco.onion`; no reports of sales yet
+
+
+#### Survival Analysis
+
+
+I have some basic familiarity with survival analysis from my lengthy analysis of how long Google services survive, so I thought I’d take a stab at a survival analysis of the DNMs:
+
+
+`library(survival)
+library(rms)
+market <- read.csv(stdin(),header=TRUE, colClasses=c("factor","Date","Date","logical","factor"))
+Marketplace,Started,Ended,Dead,Cause
+SR,2011-01-27,2013-10-02,TRUE,external
+Atlantis,2013-03-26,2013-09-21,TRUE,internal
+Deepbay,2013-06-05,2013-11-04,TRUE,internal
+Budster,2013-10-20,2013-10-21,TRUE,internal
+ProjectBlackFlag,2013-10-14,2013-10-21,TRUE,internal
+BMR,2011-06-10,2013-11-12,FALSE,NA
+Sheep,2013-02-15,2013-11-12,FALSE,NA
+BuyItNow,2013-04-02,2013-11-12,FALSE,NA
+Pandora,2013-10-21,2013-11-12,FALSE,NA
+SR2,2013-11-06,2013-11-12,FALSE,NA
+Tormarket,2013-11-07,2013-11-12,FALSE,NA
+
+
+market$Days <- as.integer(market$Ended - market$Started)
+surv <- survfit(Surv(market$Days, market$Dead, type="right") ~ 1)
+summary(surv)
+
+ time n.risk n.event survival std.err lower 95% CI upper 95% CI
+    1     11       1    0.909  0.0867        0.754            1
+    7      8       1    0.795  0.1306        0.577            1
+  152      6       1    0.663  0.1628        0.410            1
+  179      5       1    0.530  0.1761        0.277            1
+  979      1       1    0.000     NaN           NA           NA
+
+# Confidence intervals show not enough datapoints to really estimate!
+# 6-month mortality:
+sixm <- 1 - (1-((1-0.53)/179))^(365.25/2); sixm
+[1] 0.3813
+# 12-month mortality
+1 - (1-((1-0.53)/179))^(365.25)
+[1] 0.6172
+
+plot(surv, xlab="Days", ylab="Survival Probability function with 95% CI")`
+
+
+A survival curve calculated from 11 DNMs
+
+
+So, a 40% risk of failing in 6 months and 62% in a year. Not good news. But can we do better?
+
+Expanded Sample: Bitcoin Exchanges
+
+
+As it happens, I previously wrote some R code to do another survival analysis as well, this one of Bitcoin exchanges like MtGox, checking a published paper’s results. A Bitcoin exchange is an online website which trades in Bitcoins, is a target for hackers, and is often of questionable legality—so they’re actually quite a bit like DNMs in some respects. What if we try to borrow strength by combining the DNMs & exchanges into a single dataset, include a dummy variable indicating DNM or exchange, estimate a survival curve from that dataset, and predict?
+
+
+Continuing from before:
+
+
+`market$Type  <- as.factor("black.market")
+
+exchange <- read.csv("https://gwern.net/doc/bitcoin/2013-moorechristin-bitcoinexchanges.csv")
+exchange <- with(exchange, data.frame(Marketplace=Exchange, Started=as.Date(Origin), Ended=as.Date(Dates),
+                                      Dead=as.logical(Closed), Cause=NA))
+exchange$Days <- as.integer(as.Date(exchange$Ended) - as.Date(exchange$Started))
+exchange$Type <- as.factor("exchange")
+
+allSites <- rbind(exchange, market)
+
+# plot aggregate survival curve
+surv <- survfit(Surv(allSites$Days, allSites$Dead, type="right") ~ 1)
+plot(surv, xlab="Days", ylab="Survival Probability function with 95% CI")`
+
+
+The 11 DNMs lumped in with a few dozen Bitcoin exchange sites
+
+
+We can try asking whether the DNMs seem to be riskier:
+
+
+`cpmodel <- cph(Surv(Days, Dead) ~ Type, data = allSites, x=TRUE, y=TRUE, surv=TRUE)
+cpmodel
+# ...
+#                   Coef   S.E.   Wald Z Pr(>|Z|)
+# Type=black.market 0.2128 0.5644 0.38   0.7061`
+
+
+The risk does seem to be higher (odds ratio of 1.24) but unsurprisingly we can’t have much confidence in the estimate yet.
+
+
+With the survival curve and an estimate of DNM risk, we can extract survival estimates for the still-living DNMs:
+
+
+`conditionalProbability <- function (d, followupUnits, cmodel) {
+    chances <- rep(NA, nrow(d)) # stash results
+
+    for (i in 1:nrow(d)) {
+
+        # extract chance of particular subject surviving as long as it has:
+        beginProb <- survest(cmodel, d[i,], times=(d[i,]$Days))$surv
+        if (length(beginProb)==0) { beginProb <- 1 } # set to a default
+
+        tmpFollowup <- followupUnits # reset in each for loop
+        while (TRUE) {
+            # extract chance of subject surviving as long as it has + an arbitrary additional time-units
+            endProb <- survest(cmodel, d[i,], times=(d[i,]$Days + tmpFollowup))$surv
+            # survival curve may not reach that far! 'survexp returns 'numeric(0)' if it doesn't;
+            # so we shrink down 1 day and try again until 'survexp' *does* return an usable answer
+            if (length(endProb)==0) { tmpFollowup <- tmpFollowup - 1} else { break }
+        }
+
+        # if 50% of all subjects survive to time t, and 20% of all survive to time t+100, say, what chance
+        # does a survivor - at exactly time t - have of making it to time t+100? 40%: 0.20 / 0.50 = 0.40
+        chances[i] <- endProb / beginProb
+    }
+    return(chances)
+}
+allSites$SixMonth <- conditionalProbability(allSites, (365/2), cpmodel)
+allSites$OneYear <- conditionalProbability(allSites, 365, cpmodel)
+
+allSites[allSites$Type=="black.market" & !allSites$Dead,][c(1,8,9)]
+   Marketplace SixMonth OneYear
+# 46         BMR   1.0000  0.3679
+# 47       Sheep   0.8084  0.6429
+# 48    BuyItNow   0.8248  0.7286
+# 49     Pandora   0.6934  0.5720
+# 50         SR2   0.6765  0.5579
+# 51   Tormarket   0.6765  0.5579`
+
+
+While it seems reasonable to expect these markets to survive with high confidence for a few months, I am left quizzical by the estimate that BMR has a 100% chance of surviving for half a year, yet a 37% chance of surviving for a year. I could accept the 37% estimate, but 100% is bizarre and reflects the limits of this approach.
+
+
+#### Laplace
+
+
+A nifty way of estimating some things come from Laplace’s rule of succession (additional derivations): s failures and n total chances to fail, is s+1n+2. nshepperd offers a more general formula: the probability that the next site will last for at least ‘z’ time, given total running of all DNMs of t months with n shutdowns is (t/(t+z))n+1.
+
+
+Pooled, all-markets (SR+BMR+Sheep+Deepbay+BIN+PBF+Budster+SR2+TorMarket), # of failures vs # number of live months:
+
+- 
+
+by Laplace: 5/(33+6+5+0+0+30+10+8+1+0+0) = 5/93 = 0.0434 = 5.4% chance of closure per month; generally: 1 - (93 / (93+1))^5 = 100 - 95% = 5% chance of closure in the first month
+
+- 
+
+6 month survival: (93 / (93+6))^5 = 73% chance of survival = 27% closure
+- 
+
+12-month survival: (93 / (93+12))^5 = 54% chance of survival = 46% closure
+
+
+By market:
+
+- 
+
+BMR:
+
+- 
+
+6-month: 33 / (6 + 33) = 0.84 = 84% survival = 16% closure
+- 
+
+12-month: 33 / (12 + 33) = 0.73 = 73% survival = 27% closure
+
+- 
+
+Sheep:
+
+- 
+
+6-month: 9 / (6 + 9) = 0.60 = 60% survival = 40% closure
+- 
+
+12-month: 9 / (12 + 9) = 0.43 = 43% survival = 57% closure
+
+
+I believe both sets of estimates are lower than the true risk, given what I have discussed about the sites’ security & anonymity.
+
+
+## Precommitment
+
+
+`43a4c3b7d0a0654e1919ad6e7cbfa6f8d41bcce8f1320fbe511b6d7c38609ce5a2d39328e02e9777b339152987ea02b3f8adb57d84377fa7ccb708658b7d2edc`
+
+
+## Archives of SR Pages
+
+
+For myself & other people, I sometimes archive sets of DNM pages; they may be of interest to others, so I provide a list here:
+
+- 
+
+SR pages relevant to KoC (see appendix on KoC)
+- 
+
+SR category pages (for the tabulation of legal goods)
+- 
+
+SR product pages for mifepristone, MT/MTP kits, & Cytotec
+- 
+
+Casey Jones/truckin/Hughes: forum search hits, forum posts, court records (see arrests section)
+- 
+
+forum thread on SR commission increases
+- 
+
+forum thread on German arrests
+- 
+
+all SR/BMR/Atlantis pages mentioning testosterone
+- 
+
+SR forum discussions of this page
+
+
+- 
+
+See also the followup looking at DNMs in general: “Measuring the Longitudinal Evolution of the Online Anonymous Marketplace Ecosystem”, Soska & Christin 2015↩︎
+- 
+
+Given the execrable & amateur quality of the PHP code which powered BMR, it is difficult to see how anyone sane could trust the site again.↩︎
+- 
+
+“Meet The Dread Pirate Roberts, The Man Behind Booming Black Market Drug Website Silk Road”, pg2 (September 201313ya Forbes).↩︎
+- 
+
+“The emergence of deep web marketplaces: a health perspective”, Caudevilla; ch7, The Internet and drug markets 2016:
+
+
+At the end of 201214ya and during 201313ya, the Energy Control team was aware of the growing popularity of DWMs through information provided by recreational drug users. An exploratory search of the available markets at that time (Silk Road, Black Market Reloaded and Sheep) prompted the development of the IDTS provided by Energy Control and focusing on DWMs.
+
+
+During the first quarter of 201412ya, a specific protocol with objectives, procedures, methods and techniques was elaborated using TEDI (Transnational European Drug Information: TEDI, 201412ya) guidelines as a reference. All samples were analysed by gas chromatography-mass spectrometry. The fee for a simple analysis was EUR 50 (to be paid in bitcoins). All funds raised were put back into running the project.
+
+
+A one-year pilot project started in April 201412ya; drug users who purchase drugs in DWMs were the target population. Several threads in the main DWM forums were opened offering general information about the IDTS with links to a specific IDTS page on Energy Control’s website ( 12 ). An email address for users to contact the service for detailed information about the process was made available. After submitting samples for analysis, users receive a detailed report with drug test results and specific and individualised harm reduction information. Users were encouraged to engage with Energy Control experts by emails or in DWM forums in order to resolve their questions.
+
+
+…A total of 129 samples were analysed over this period, as shown in Figure 7.2. Users are asked about the type of substance they believe they have purchased. In 120 of 129 samples (93%), the main result of the analysis was consistent with the information provided by the user. In the remaining 9, the sample contained another drug, a mixture of substances was detected or it was not possible to determine the composition of the sample with the analytical techniques employed. The main results of the drug testing are shown in Table 7.2 Cocaine was the substance most frequently submitted for analysis. Purity levels were high, although more than 50% of samples were adulterated. Levamisole was the adulterant most frequently detected, in 43% (23 out of 54) of samples. Other adulterants detected in cocaine samples were phenacetin in 9% (5 out of 54), caffeine (1 sample) and lidocaine (1 sample). MDMA samples (in both pill and crystallized forms) showed high levels of purity, and no adulterants or other active ingredients were detected. Other samples analysed were MDA and methamphetamine (n = 3), 2C-E, alprazolam, mephedrone, 2C-B, butyrfentanyl, synthetic cannabinoids (n = 2), clonazepam, DOB, DOET, DOM, DON, DXM, kratom, mescaline, methylone, midazolam, modafinil and pentobarbital (n = 1). Results for MDMA pills, showing very high dosages of MDMA that can lead to significant adverse or toxic effects, are similar to those reported by other harm reduction groups offering drug testing programmes (TEDI, 201412ya). The high frequency of non-adulterated cocaine samples is also notable, although levamisole contamination seems to be a widespread problem, as reported in the rest of the global drug market…Another interesting aspect is the low frequency of ‘legal highs’ in samples submitted for analysis.
+
+
+TABLE 7.2: Test results for samples analysed by the Energy Control International Drug Testing Service (Samples analysed between April and December 201412ya. Categories with n < 5 samples not included.)
+
+
+Sample
+
+
+n
+
+
+Only main compound detected
+
+
+Purity (m ± SD)
+
+
+Range
+
+
+Cocaine
+
+
+54
+
+
+48.1% (26/54)
+
+
+70.3 ± 19.9%
+
+
+5-99%
+
+
+MDMA (crystal)
+
+
+9
+
+
+100% (9/9)
+
+
+91.1 ± 8.0%
+
+
+78-99%
+
+
+MDMA (pills)
+
+
+8
+
+
+100% (8/8)
+
+
+142.1 ± 40.2 mg
+
+
+94-188 mg
+
+
+Amphetamine (speed)
+
+
+8
+
+
+37.5% (3/8)
+
+
+51.6 ± 34.6%
+
+
+10-98%
+
+
+LSD
+
+
+8
+
+
+100% (8/8)
+
+
+129.7 ± 12.1 μg
+
+
+107-140 μg
+
+
+Cannabis resin
+
+
+5
+
+
+100% (5/5)
+
+
+THC: 16.5 ± 7.5% / CBD: 3.4 ± 1.5%
+
+
+THC: 9.1-16.4% / CBD: 1.6-5.3%
+
+
+Ketamine
+
+
+5
+
+
+40% (2/5)
+
+
+71.3 ± 38.4%
+
+
+27-95%
+
+
+↩︎
+- 
+
+“Sources: DEA probes Silk Road, suspected online hub for illegal drugs”, Newsday 2013-09-22:
+
+
+“So far, unfortunately, their system has been somewhat successful,” said a federal law enforcement source involved in the investigation into the site. “Our goal is to make sure that doesn’t continue to be the case.” Federal charges have yet to be brought against the site or its administrators, but another law enforcement source involved in the Silk Road probe said high-tech investigative methods used by the government are helping investigators build a case. Those methods include encryption-cracking technology and the exploitation of security weaknesses in some encrypted email and instant message software used by Silk Road customers, the source said. Efforts to find any known operator of Silk Road were unsuccessful.
+
+
+The encrypted chat program may be TorChat (given its popularity) or Cryptocat (given its serious security issues & its known use by the Atlantis administrators, who shut down in September 201313ya citing security issues); the “encrypted email” is almost certainly a reference to Tor Mail, which allowed emails set in the clear & which server was seized in the July/August FBI raids on Freedom Hosting.↩︎
+- 
+
+For example, the British Channel 4 writes in “How illegal drugs are bought and sold on the dark web”:
+
+
+However, Silk Road is still up and running. A source close to the FBI told Channel 4 News that it has “exceptionally good operational security”, and its owners avoid personal meetings in order to stay under the radar.
+
+
+This sounds like the FBI might know quite a bit about DPR—except that month before, Andy Greenberg had written in Forbes:
+
+
+At one point during our eight-month pre-interview courtship, I offer to meet him at an undisclosed location outside the United States. “Meeting in person is out of the question,” he says. “I don’t meet in person even with my closest advisors.” When I ask for his name and nationality, he’s so spooked that he refuses to answer any other questions and we lose contact for a month.
+
+↩︎
+- 
+
+A poster on the SR forums claims:
+
+
+The beauty of this system is that the buyer has no idea who is selling them the drugs. I still talk to some people I used to work with and they talk about this place. They don’t know what to do about it. In general, the police are interested in getting drug dealers. They will arrest buyers to get to the dealers. They try to flip small time dealers to get to bigger dealers, but that rarely happens. Usually they are just getting other small dealers. The only way I know of that they could prove you were using SR is by seizing your computer and finding evidence on it or by you telling them. Even if that happens, they still won’t be able to get to the dealer. SR is very frustrating to law enforcement. I just talked to a cop who was at a conference where the DEA was talking about SR. According to him, they don’t have a clue with how to bust this place and the DEA guy was one of their computer experts.
+
+↩︎
+- 
+
+DPR publicly claims the attack was sophisticated and featured zero-days; from his 2013 Forbes interview:
+
+
+Q: What can you tell me about the cyberattack that hit the Silk Road in May? How big was it? How long did it last? Is it still going on? Do you know anything about who is responsible?
+
+
+A: It lasted nearly a week if I recall correctly. Hackers and scammers are constantly trying to attack Silk Road anyway they can. Everyone knows there’s a lot of money flowing through here, so we are the biggest target on the Tor network by far. This has been a blessing and a curse. For one, our systems are incredibly resilient to attack and are constantly being tested. On the other hand, we are on the front-line dealing with and reacting to all of the latest exploits. We do our best to stay at least one step ahead, but as we saw last month, sometimes we get taken by surprise by someone with a zero day exploit. This one was by far the most sophisticated we’ve seen to date. I’d rather not comment on the parties responsible for the attack or the specifics of the attack itself.
+
+
+Q: So this was not merely a distributed denial of service attack? It was a zero day exploit? Did it gain access to any data or simply knock the site offline?
+
+
+A: I’m not one hundred percent on this, but I don’t think it’s possible to do a DDoS over Tor, or at least it is much harder than doing it over the clear net. The effect of the attack was to block access to Silk Road. No data was leaked, in fact we’ve never had a data leak.
+
+
+Q: Do you believe the attack was orchestrated by your competitors at Atlantis, as many have suggested?
+
+
+A: I’d rather not comment on the parties responsible for the attack.
+
+↩︎
+- 
+
+Which includes SR founder Dread Pirate Roberts and his successor; for a selection of their writings on the topic, see Greenberg’s “Collected Quotations Of The Dread Pirate Roberts, Founder Of Underground Drug Site Silk Road And Radical Libertarian”.↩︎
+- 
+
+Dread Pirate Roberts on SR’s data retention policy c. July/August 201214ya:
+
+
+- 
+
+addresses are kept on record until your vendor has marked your item as shipped. I encourage everyone to encrypt their address to their vendor’s public key just in case.
+- 
+
+messages are kept for two months. again, sensitive data transmitted through our messaging system should be encrypted.
+- 
+
+transaction records, including feedback are kept for 4 months. I said 3 in another thread, but upon double checking, it is 4. We do this because the data contained in the transaction record, including the buyer, is used to weight the feedback for that transaction. After 4 months, the age weight has pretty much reduced the weight to zero anyway, so we no longer need the data. If you want further explanation about this, check out the wiki page and forum thread about the feedback weighting system.
+- 
+
+the accounting log is kept for 3 months. Only 2 weeks are displayed so an adversary who gains access to your account won’t be able to see all of that history.
+- 
+
+withdrawal addresses are not kept, but everyone should realize that the time and amount of the withdrawal could narrow down which transaction it was in the blockchain quite a bit, especially if it was an uncommon amount.
+- 
+
+deleted items are kept for 4 months. this is to preserve the integrity of the link to the transactions associated with the item.
+- 
+
+user accounts with a zero balance and no activity for 5 months are deleted.
+
+
+…These time parameters were arrived at through trial and error. They are as tight as we can make them without sacrificing the integrity of the market. Could they be a little tighter? Maybe by a week or two, but please think through the implications of policy changes before you call for them.
+
+
+That SR1 did have such a data retention policy has been confirmed by the FBI in its JTAN search warrant request, but it’s unclear whether the retention policy was undermined by the SR1 backup system:
+
+
+In analyzing the configuration of the Silk Road Web Server, the FBI has discovered that the server regularly purges data from these databases older than 60 days. Thus, the image of the Silk Road Web Server possessed by the FBI contains data reflecting only 60 days of user activity, counting back from the date the server was imaged…However, the FBI has also discovered computer code on the Silk Road Web Server that periodically backs up data from the server and exports that data to another server. Testing of this backup script has revealed the IP address of the server to which this backup data is exported—namely, the IP address of the TARGET SERVER. Based on analysis of the backup script, it does not appear that previously backed-up data is deleted when new back-ups are made. Therefore, I believe it is likely that the TARGET SERVER contains records of user activity on the Silk Road website spanning a much longer date range than the data kept on the Silk Road Web Server.
+
+↩︎
+- 
+
+Note that this is not a normal WWW site; there are no normal WWW sites for the SR. There was `http://silkroadmarket.org` which was apparently controlled in some fashion by SR (probably to stop domain squatting or scam sites pretending to be SR), but whatever it was, it wasn’t important; not updated regularly and no longer working.
+
+
+The bad thing about .onion URLs is that they are not human-memorable (see Zooko’s triangle), and so it is especially easy to spread a fake link. In particular, SR has been the target of many phishing attacks, where a random .onion hidden server is set up to look like SR and either pretends to be SR or just does a man in the middle attack, proxying for the real SR server. For example, one such site has already been linked in the comments on this page; it was easy to detect as it was even slower than SR (since there are two hidden servers involved), and it blindly forwarded me to the real SR `.onion` with the fake user/password pair, apparently expecting that I would be logged in without problem. Later, SR introduced PINs required for any withdrawal of bitcoins, so phishers adapted their login forms to ask for PINs as well. A 2012–201313ya example of such a phishing page:
+
+
+A screenshot of a SR phish, with the tell-tale PIN field circled; provided by anonymous author
+
+
+A research paper documented how to observe traffic volumes to particular hidden services, so a blogger observed hidden node traffic April-May 201313ya, and recorded what `.onions` were being visited; no surprise, a substantial number were SR phishing attempts (“I have confirmed that some users were directed to these phishing pages from links on the ‘The Hidden Wiki’ (.onion).”). Summing the official & phishing URLs for the 2 days his nodes were in charge of SR, he gets a lower bound of 27,836 visitors to SR & 327 to SR phishing sites (so 1.17% of would-be SR visitors were exposed to a phishing site) and an upper bound of 167,016/1,962 (respectively). Another way to measure hidden-service traffic is to run a DNS server and see how many clients accidentally try to lookup a hidden service’s `.onion` address; Thomas & Mohaisen 2014 collected leaks 2013-09-10 to 2014-03-31 and found SR1 was 1.4% of leaked requests & Agora 1.1%, which given that Agora is growing & SR1 is gone, suggests Agora may now be as large as SR1 was. Incidentally, the darknet markets seem to make up a large fraction of content available as Tor hidden services; see the above traffic estimates and also Spitters et al 2014
+
+
+Naturally, nothing stops the `.onion` URLs supplied on this page from themselves being part of a phishing/man-in-the-middle attack! This is a fundamental security problem: how do you bootstrap yourself into a web of trust? In this case, if you don’t know the SR admins, about all you can do is Google the URLs I have listed, and see whether enough other people claim that they are the true URLs that you will trust the URLs. Caveat emptor.↩︎
+- 
+
+Specifically, one that will be very difficult to brute-force the hash. This won’t protect you from some compromises of SR (for example, the server being controlled by an attacker and harvesting passwords as they are entered by live users), but it will protect you from others—for example, if the database is stolen, a long password helps frustrate an attempt to derive the original password and let them log into your account and engineer endless nefarious misdeeds.↩︎
+- 
+
+Mixing services are run by various people and not always reliable. Meiklejohn et al 201313ya reported that one cointumbler service stole their bitcoins, and Möser 2013 tested 3 cointumblers & found 1 was broken.↩︎
+- 
+
+Mt.Gox and MyBitcoin offer a doubly instructive lesson into why one trusts Bitcoin third-parties as little as possible, keeps one’s bitcoins locally, and regularly back it up; the large Polish exchange Bitomat offers a third.↩︎
+- 
+
+Addresses ought always to be encrypted, and further, one must do the encryption oneself. If a single person, tool, or site is doing the encryption for your SR ordering, and only SR encryption, then they are an obvious target for attackers like law enforcement.
+
+
+This is a very real concern: in September 201115ya, an older online drug market, “Farmer’s Market”, was busted and 8 administrators or sellers were indicted. No users/buyers seem to have been arrested, indicted, or convicted yet, but reportedly former customers have gotten love-letter-equivalents from the Department of Justice warning them & asking for information.
+
+
+The indictment doesn’t reveal how all the evidence was obtained (aside from the drugs purchased by and mailed to agents), but the defendants all used a Canadian email service called Hushmail which provides a Web interface for emails encrypted using PGP. Hushmail either provides or runs the encryption code for the user, and as such, can compromise users at any time, and indeed, has turned over decrypted emails to law enforcement in the past (“Operation Raw Deal” yielded “12 CDs” of emails). I personally stopped using Hushmail when this was revealed in 200719ya, but it seems the defendants did not. In October 201214ya, a Tor developer attended an FBI conference where a DEA agent told them that “they just had random Americans receive the Paypal payments, take a cut, and then turn them into a Panama-based digital currency [Pecunix], and the Panama company didn’t want to help trace where the money went…the two main people used Hushmail to communicate. After a subpoena (and apparently a lot of patience since Canada still isn’t quite the same as the US), Hushmail rolled over and gave up copies of all the emails.” (The litany of detailed financial records in the indictment is also a vivid demonstration of how insecure non-Bitcoin services can be.) Another sobering example comes from an Australian child pornography ring which practiced remarkable operational security in its use of PGP and Usenet message groups (as described in the 200818ya Castleman affidavit & a summary by Baal): after a member was flipped due to offline activities, the length investigation succeeded in prosecuting less than half of its members, principally those members which had placed their trust in a third-party email/VPN service called `Privacy.LI`. Finally, Tor Mail was popular with DNM users for providing a hidden service, and while it did not betray its users, its French servers were seized in the Freedom Hosting raid and its emails have since been employed by the FBI.↩︎
+- 
+
+I only used the standard Bitcoin escrow. (Needless to say, Paypal is completely out of the question.) SR has another escrow scheme where the escrowed amount is tied to the current exchange rate, in order to protect the seller against exchange rate volatility; that escrow is documented in the announcement and the “Escrow hedge” section of the Buyer’s Guide.
+
+
+Volatility, particularly during Bitcoin’s periodic bubble such as the move from $1 to $30 during SR1’s early history, has been suggested as a reason Bitcoin is inappropriate for DNMs (left unsaid, typically, is what non-cryptocurrency would be a safe alternative or what alternative cryptocurrency would be expected to be less volatile were it to become as successful as Bitcoin). But how does volatility affect DNMs?
+
+
+Volatility upwards is, of course, largely a good thing for DNMs, as they produce a wealth effect. (Unsurprisingly! Why would Bitcoin becoming more valuable be bad for a Bitcoin-based economy? If that’s a disaster, may Heaven send us many more such disasters.) The buyers, who have been holding or obtaining bitcoins to prepare for future drug purchases, now have a more valuable asset; and the sellers, who are typically holding even larger sums, get an unearned windfall profit. And the buyers who have a purchase in-flight may have missed out on a discount compared to if they had waited, yes, but there are relatively few such people at any given instant (you only buy drugs every so often, after all) and they seem to take it fairly philosophically since they know they wouldn’t’ve been holding those bitcoins if they hadn’t been intending to spend them buying drugs in the first place. As much as old SR1ers joke about how they spent $500,000 of Bitcoin on LSD, everyone knows that’s not how it really works. And there’s no “deflationary spiral”, because DNMs represent only a tiny fraction of transactions, and anyway who’s going to hold off a drug order just because of the possibility of a 5% increase the next day? If someone really believed in Bitcoin being a great investment, they’d simply buy some more bitcoins to offset their purchases.
+
+
+The really bad thing is when prices crash. This sets up an ugly dynamic for unhedged sellers: typically you still have to pay your expenses and your supplier in a fiat, so do you continue shipping out orders pre-paid with bitcoins which are now worth a lot less and may well incur a loss? That was always the problem on SR1 as I recall it: rising prices were great, but after a crash like -50%, some sellers couldn’t or wouldn’t deliver. (Similar to exit scams. Not everyone was good about being adequately-capitalized or having safe profit margins or avoiding debt.)
+
+
+This is bad until the in-flight orders get worked out, one way or another. Of course, subsequent orders are then pegged to the new lower exchange rate so the problem is temporary. If Bitcoin dropped 90%, there’d be mass cancellations and a lot of anger, but after all the sturm und drang, it would go mostly back to normal maybe with a number of sellers banned or their reputation permanently tarnished, except an order which cost 0.1btc the week before now costs 1btc etc. And any negative wealth effect, I suppose, from buyers eating the loss on their held bitcoin & needing to stock up, and feeling poorer and ordering less.↩︎
+- 
+
+ “Finalization” can be done before the package arrives, but obviously this leaves you open to a bad seller. I have never finalized early, and I regard as idiots anyone who does—an opinion borne out by reports of a SR scam in April 201214ya where the highly-rated seller Tony76 held an attractive sale requiring early finalization; the hundreds of orders never appeared, and he left with thousands of bitcoins. (See the SR forum thread for Tony76 reviews for discussion ad nauseam.) He ran a private store as well, and that has been estimated at stealing >5,800 bitcoins. The procedure is also interesting; captainjojo:
+
+
+From every indication Tony76 was setting everything up for this a couple of weeks in advance. He refused to send via express or priority or any type of tracked shipment, so it would take longer before people could say their package wasn’t coming. He asked for FE from basically everybody, he opened up international. He then told everyone he was going offline to get caught up, further obscuring things. The simplest answer would seem to be he just completed one of the biggest scams on SR and is relaxing seaside with a Margarita with 60-100k of everybody’s money.
+
+
+This failure mode was foreseen by cypherpunks back in the 1980s & 1990s; Timothy C. May’s comments on the issue have already been quoted. The 2012 draft of Christin 201313ya gives us a SR-wide look into the practice of FE:
+
+
+We observe that 20,884 instances of feedback contain variations of “F.E.,” “finalizing early,” or “finalize early.” This shows that finalizing early is a rather common practice on SR. There does not appear to be [substantially] more problems reported with feedback including such strings (only 342 of them map to a rating of 1 or 2). This seems to show that established sellers that are offered the option of requesting early finalization from their customers do not abuse that privilege….A third observation is that item 4 stops being sold immediately after April 20. The last time it is observed on the site is April 25, before being de-listed. From discussions in SR forums [6], it appears that the seller of that item abruptly left the marketplace, potentially leaving a large number of paid, finalized early, orders unfulfilled. In other words, there is suspicion of a “whitewashing attack [12],” whereby a seller creates an excellent reputation, before using that reputation to defraud users and leaving the system. In hindsight, the 20% drop in price occurring just prior to April 20 was considerably steeper than all the other promotional discounts. This could have been an indicator that the seller was not intending on fulfilling their orders and was instead artificially lowering prices in hopes of attracting large numbers of customers to defraud.
+
+
+I’d note that this doesn’t show that one can F.E. heedlessly, since it is a description of the current status quo in which users know not to F.E. lightly; this only proves a claim like ‘existing sellers requesting early finalization have not yet majorly abused it’. Another major issue is that these estimates are an upper bound due to 3 sources of underestimating negative reviews (personal communication, 201313ya): Christin’s crawl had access issues in April 201214ya and so did not capture any non-FE post-4/20 reviews left for Tony76; the deletion of banned seller pages—Tony76’s page was gone by the time the crawl resumed—means that negative reviews are much more likely to not be publicly accessible; and people who were scammed do not seem to reliably update their “5/5 FE” reviews. The final 201313ya paper reads
+
+
+We observe that 20,884 instances of feedback contain variations of “F.E.”, or “finalizing early”, accounting for spelling variations (“finalize” versus “finalise”) and word order (“early finalization” vs “finalize early”). Feedback including such strings does not, at first glance, appear [substantially] worse: only 342 of them map to a rating of 1 or 2. There is however a [substantial] caveat behind this finding. A buyer that finalizes early, leaves a good rating, and ends up being defrauded, does not have to lower their rating; doing so is purely voluntary, and other than by sheer altruism, there is little incentive to do so. In fact, buyers may not even have the possibility of updating their feedback, if a rogue seller shuts their page down after having absconded with their victims’ money.
+
+↩︎
+- 
+
+To quote a SR seller:
+
+
+I don’t think I’m risking much. It would be almost impossible for law enforcement to find me. They would need to find out where the package came from, and go to that mailbox, and have a police officer wait a few weeks for me to return to that mailbox. All just because they found a 100mg of a Schedule II drug in an envelope. Also, they wouldn’t suspect me. My criminal record is perfectly clean. Not even a parking misdemeanor…I doubt that I could be caught. They would need to find out the mailbox that I’ve been putting the packages in, and then have someone wait there and watch me, and then they would need to prove that I was the one who put it in the mailbox. So if they could back-track and find out where the package came from, then maybe they could catch me. Also, there are many different mailboxes around me, so I put the packages in different mailboxes each time. Definitely can’t hurt.
+
+
+A Redditor comments on the jurisdictional advantages of going through USPS (as is usually recommended in seller discussions); I do not know if he is correct, but the description sounds plausible:
+
+
+Also, once it’s in the mailbox, it’s property of the US postal service, and they’re VERY particular about what happens to it. No one (including other agencies) can carry weapons in a post office except for postal inspectors, nor can they investigate mail on their own; it has to go through the post office itself.
+
+↩︎
+- 
+
+I was not worried at all. I’ve researched very carefully how many modafinil users have ever been prosecuted for any reason, and it is a handful at most out of millions of users, and that includes people ordering from online pharmacies which are far less secure than SR. As well, the most similar example, Farmer’s Market (see previous footnote) showed no prosecutions of their customers, and they had terrible security. So I was safe on multiple levels: I was buying something almost never prosecuted, I was a customer & not a seller, I was buying on a secure site, and I was buying small quantities.↩︎
+- 
+
+I have no idea why the stamps are not canceled; Wikipedia mentions that sometimes the stamp cancellation machines fail and the stamps get a pen cancel instead. One seller mentions that sometimes he receives uncanceled stamps, and asking older relatives, they did too (and sometimes the package or envelope was canceled—just not on the stamps).↩︎
+- 
+
+This metric is the per-unit cost weighted by an expected-value interpretation of what feedback implies about the risk; see the later Quantitative section for the full explanation.↩︎
+- 
+
+See the threads “AAKOVEN SELECTIVE SCAMMER!” & “AAkoven—US Buyers Beware”↩︎
+- 
+
+aakoven forum account’s posts↩︎
+- 
+
+For unit prices <₿3, I increase the unit count until it fits within ₿7.5; otherwise, μg/₿ is calculated the obvious way: dose times quantity divided by price plus shipping.↩︎
+- 
+
+PremiumDutchUK forum account’s posts↩︎
+- 
+
+The prolific seller Synaptic was excluded for failing to provide a public key; public keys are not optional.↩︎
+- 
+
+“lonely kamel” forum account’s posts↩︎
+- 
+
+VitaCat forum account’s posts↩︎
+- 
+
+“No FE ever” forum account’s posts↩︎
+- 
+
+graffenburg forum account’s posts↩︎
+- 
+
+USAReshipper forum account’s posts↩︎
+- 
+
+The second transcript of testimony by Skinner (co-conspirator, turned state’s evidence) has this passage on page 7-8:
+
+
+[Skinner:] …This [aspirin pill] weighs approximately a gram. And if it was ground up and everything, this would be about 10,000 doses of LSD in the pure crystalline form.
+
+
+Q. And what would then a dosage unit sell for?
+
+
+A. At the wholesale level to the largest customers in the world, approximately 29.75 cents per dosage.
+
+
+Q. And what would it sell for then on the street at the retail level, if you know?
+
+
+A. Well, I—I’ve heard as—figures as high as…$10 per dose.
+
+
+Q. (by Mr.&nbsp;Hough) So when a kilogram was manufactured at this lab and it was then given -
+
+
+A. Fronted out to Petaluma Al.
+
+
+Q. Fronted out to Petaluma Al, what was the understanding of what that was worth and what -
+
+
+A. $2,975,000 approximately.
+
+↩︎
+- 
+
+Illustrating the danger of early finalization even for top sellers, he did a “sale” FE rip-and-run in February 2013 which netted >₿700 (>$21k); reportedly he left a Wire quote on his profile page: “But, the game’s out there, and it’s play or get played. That simple.” To which one might add, “Silly woman, you knew I was a snake”. ETM’s scam played out as it slowly became apparent that another LSD seller, LucyDrop, was pulling the same thing and probably hadn’t shipped any of their >600 outstanding orders (>$70k).
+
+
+I am increasingly disgusted watching these FE scams: while suckers will always be suckers and people scammed by FE have mostly themselves to blame, equally to blame is the SR staff/DPR, for enabling these scams. They could at any time simply ban FE, and choose not to. Nor am I alone in this; discussing events with several people, the conversation invariably went something like this:
+
+
+- 
+
+me: [mentions latest FE scam]
+- 
+
+them: What’s FE?
+- 
+
+me: Oh, that’s where you deliberately release your payment from escrow to the seller before the goods have arrived.
+- 
+
+them: ??? Why would you ever do that?
+- 
+
+me: Well, there’s a couple reasons. You could do it to be nice to the seller, maybe make their cashflow easier. Or because you’re a new buyer and should bear some more risk. And… that’s mostly it, really.
+- 
+
+them: Those don’t sound terribly important. Am I missing anything?
+- 
+
+me: Not that I know of.
+- 
+
+them: I see. How much did you say these two big recent FE scams lost?
+- 
+
+me: We think that they made away with $40-140k, but it could be more depending on how many people haven’t left feedback, how many will continue ordering, what exchange rate they cash out at, etc.
+- 
+
+them: And how much does SR sell a month?
+- 
+
+me: Christin 2012 estimates something like $1.2m a month.
+- 
+
+them: So this month SR buyers have lost to just 1 or 2 scammers the equivalent of a tenth of the entire monthly turnover of SR, as much as SR itself takes in commissions, all thanks to an almost entirely useless ‘feature’, and the SR staff have done nothing about it?
+- 
+
+me: Looks like it.
+- 
+
+them: [hopeful] Did this ‘early finalization’ feature just get added?
+- 
+
+me: No. It’s been there since the start ~3 years ago. [helpfully] There’s been lots of big scams before this too, like Tony76 who made off with, I think, >$100k in total.
+- 
+
+them: This looks like the Worst Idea Ever, unless the SR staff hates the buyers and wants them to suffer as much as possible. Am I insane—or are the SR staff incompetent, insane, or evil?
+- 
+
+me: I have no idea.
+
+
+The competing Atlantis marketplace prided itself on its less abusive early finalization system
+
+
+Restricted Finalize Early (we only allow our trusted sellers [see seller guide for requirements] to request Finalize Early, the option is not physically available for other sellers, and requesting it will have them banned. This has proven to be a priceless technique for protecting users and weeding out scammers.)
+
+↩︎
+- 
+
+Looking at the reviews posted to the front page and sentiment on the forum, I would hazard a guesstimate that scammers are 0-10% of the marketplace, and probably to the low end of that spectrum. In the January 201214ya one-year anniversary message, “State of the Road Address”, the administrator claimed that “over 99% of all transactions conducted within the escrow system are completed to the satisfaction of both buyer and seller, or a mutually agreed upon resolution is found.” Christin 2013’s analysis found 99.1% of feedbacks giving 4-5 stars (similar to eBay rankings) but notes that this cannot pick up scams done out of escrow (as one might expect many scams to be done).↩︎
+- 
+
+A seller cannot necessarily simply provide their public key & the original message, and operators encrypt the message to the key to get the same encrypted text, because GPG appears to not be deterministic. There are encryption approaches which would allow it, but they weren’t in use.↩︎
+- 
+
+While BW held up its end of the deal and I understand why its operator might fear the legal consequences, I am a little disappointed that he chose not to publish it; I was reminded of Hamlet:
+
+
+Thus conscience does make cowards of us all,
+
+And thus the native hue of resolution
+
+Is sicklied o’er with the pale cast of thought,
+
+And enterprises of great pith and moment,
+
+With this regard their currents turn awry,
+
+And lose the name of action.
+
+↩︎
+- 
+
+Dismissal of LE as too incompetent to mount attacks feasible for the NSA has become much less tenable as the news has leaked how the NSA has shared data with the DEA’s “Special Operations Division”. Given the mounting weaknesses in the Tor network & hidden services, it is likely the NSA could find SR if it wants. The only positive aspect to the Snowden leaks for SR is that the documents show that the NSA goes to considerable effort to reveal data gathered through its advanced capabilities only when it is possible to come up with a more innocent possible source (a “parallel construction”), and there doesn’t seem to be any obvious way to do that for a SR bust. The most obvious place that parallel construction might enter into SR is the Customs search which—mirabile dictu—just happened to uncover Ulbricht’s fake IDs, inasmuch as the DEA training materials on parallel construction emphasize the value of searches.↩︎
+- 
+
+The operator of the failed (hacked) post-SR2 market FloMarket provides an explicit example in his post-shutdown interview:
+
+
+myself: who are you in real life, personally and professionally?
+
+
+Flole: I have developed software for some people, but I never did it professionally. I did it just as hobby, and I learned all programming skills as hobby.
+
+
+Flole: Personally I am a 15 year old pupil, living in EU, who has fun developing software. I am doing it for several years now.
+
+
+Flole: As a side note i can add that I have never tried any drugs, never smoked cigarettes and never drink alcohol.
+
+
+myself: How did you ended to develop and admin a DarkMarket? and Why? what were you expecting from it?
+
+
+Flole: I saw that silkroad has been seized and I thought there should be something replacing it (Silkroad 2.0 has been faster). I have read, that backopy, admin of BMR, made 440.000$ per days, so I though: sounds interesting I mainly expected money and fun from it. I wanted to buy expensive DJ equipment, so I started the site.
+
+
+…myself: what do you think about all the new darkmarkets that have been created lately?
+
+
+Flole: they tried the same thing I did: Making profit from SR and BMR shutdown. I think we can’t trust to any of the new sites, since they haven’t been tested for exploits. I will and like my site: Some time all works well, and then they get hacked… They just want to make money easy and fast…
+
+↩︎
+- 
+
+If we were to classify Silk Road / BMR / Atlantis / SMP as the first generation of Bitcoin+Tor DNMs and analogize them to Napster, then the second generation of DNMs, the BitTorrent of DNMs, will—I think—be the new DNMs which make use of “multi-signature escrow” to remove the weak point of a centralized site handling deposits/escrow which can then be hacked or stolen. “The Market Place” seems to be the pioneer here, but it’s still too early to say whether multi-signatures work in practice like they do in theory or whether DNM users value the convenience of a centralized site too much.↩︎
+- 
+
+A lesson that must be relearned with every major theft or loss of Bitcoins. For example, core developer Gregory Maxwell rebuking blockchain sleuths on 2014-02-27 after the MtGox bankruptcy:
+
+
+What people are doing is loading up a famous 424k BTC transaction MTGox made in 201115ya. (Or at later 550k BTC transaction for which I’m aware of no solid evidence belonged at the time to MTGox—Just some speculation by Dooglus) and then clicking around on the movement of funds until they find an address with a large amount of coin available to it.
+
+
+The problem is that you would expect a large portion of all withdraws from MTGox to be linked in such a manner and certainly all very high value ones. Once you’ve gone even one hop you cannot be sure that the coins are controlled by MTGox anymore. The alternative hypotheses that these were large manual withdraws to big purchasers is equally supported by the data. A significant fraction of all circulating coins are “linked” to MTGox—but this doesn’t mean that MTGox currently controls them.
+
+↩︎
+- 
+
+Dealing with a controlled delivery by signing and then having “thrown it in the trash” did not work in the case of Matthew Nelson. I’m not clear on whether just signing and then not taking it anywhere is culpable or if it was due to the triggered search warrant which turned up additional contraband and then enabled a charge on possession of the package.↩︎
+- 
+
+Relevant excerpt:
+
+
+The Government intends to offer evidence that, while the Silk Road website was operational during 201313ya, the defendant attempted to procure fraudulent identification documents from Silk Road, and that the defendant leased servers under fake identities.
+
+
+On or about July 10, 201313ya, agents with U.S. Customs and Border Protection (“CBP”) intercepted a package that was inbound from Canada as part of a routine border search, which contained nine fraudulent identification documents. (Compl. ¶ 42(a)(i)). These counterfeit identity documents consisted of fake driver’s licenses bearing Ulbricht’s photograph, but with different names, and appeared to be issued by New York, Florida, Texas, Colorado, California, South Carolina, Alberta, Canada, the United Kingdom and New South Wales, Australia. The Government expects to offer these seized counterfeit identification documents into evidence, through the testimony of an agent with Homeland Security Investigations, who, on or about July 26, 201313ya, performed a controlled delivery of the fraudulent identification documents to Ulbricht. (Compl. ¶ 42(a)(ii)). The Government expects Agent-1 to testify that Ulbricht produced a copy of his true government-issued Texas driver’s license during this encounter, and stated, in sum and substance and among other things, that: (1) “hypothetically” anyone could go onto a website called “Silk Road” and purchase any drugs or fake identity documents he or she desired; and (2) he lived at the residence to which the package containing the fake IDs was addressed, where he was living under the alias “Josh.” (Compl. ¶¶ 42(b)(iii)-(iv)).
+
+
+Further, the Government intends to introduce evidence that Ulbricht in fact ordered these counterfeit identification documents off of Silk Road, using the Silk Road user account “shefoundme.” Specifically, beginning on June 10, 2013-approximately one month before the nine fake IDs were seized by CBP-“shefoundme” sent a message on the Silk Road messaging system to a Silk Road vendor named “KingOfClubs,” in which “shefoundme” indicated he wanted to order “a few of your highest quality IDs.” In subsequent messages, “shefoundme” ordered nine fake IDs for $1,650 in United States currency, and specified that he wanted counterfeit identification documents from New York, Florida, Texas, Colorado, California, South Carolina, Alberta, Canada, the United Kingdom and New South Wales, Australia, corresponding to the jurisdictions on the nine counterfeit IDs which were ultimately seized by CBP. On July 5, 2013, “KingOfClubs” confirmed that he had sent the package containing the fraudulent identification documents to “shefoundme” and that they were scheduled to be delivered the following week. On July 18, 201313ya, “KingOfClubs,” provided the United States Postal Service (“USPS”) tracking number to “shefoundme,” in response to complaints that the package had not arrived, and “shefoundme,” indicated that he checked the USPS website, which indicated that the package was “inbound out of customs on the 10th,” the date on which the counterfeit identification documents were seized by CBP.
+
+↩︎
+
+
+
+Error: JavaScript disabled.
+
+Backlinks, similar links, and the bibliography require JS enabled to load.
+        # Backlinks
+
+
+        [Backlinks (what links here)]
+        # Similar Links
+
+
+        [Similar links by topic]
+        # Bibliography
+
+ ' is redundant with the ''; but added to parallel Pandoc-generated headers which set all attributes/classes on both. -->
+        [Bibliography of links/references used in page]
+
+
+
+
+        [&hairsp;Send Anonymous Feedback&hairsp;]
+
+[Quote Of The Day]
+
+[Site Of The Day]
+
+[Annotation Of The Day]
+
+[adblock public service announcement]
+
+      ​

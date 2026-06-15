@@ -1,0 +1,5462 @@
+# Modafinil
+
+[Source](https://gwern.net/modafinil)
+
+- 
+
+
+
+    Skip to main content
+
+
+Warning: JavaScript Disabled!
+
+For support of key website features (link annotation popups/popovers & transclusions, collapsible sections, backlinks, tablesorting, image zooming, sidenotes etc.), you must enable JavaScript.
+
+
+
+
+        # Modafinil
+
+
+
+
+
+DNMs, law, modafinil
+
+Effects, health concerns, suppliers, prices & rational ordering.
+            2009-02-20–9y2018-06-04
+            finished
+            certainty: highly likely
+            importance: 9
+            backlinks
+            similar
+            bibliography
+
+- Usage
+- Effects
+
+- SNPs
+
+- Costs
+
+- Side Effects
+- Tolerance
+- Legal Risk
+
+- USA
+- Australia
+- China
+- Japan
+- UK
+
+
+- Analysis
+
+- Benefits
+- Costs
+
+- Suppliers & Prices
+
+- Brands
+- Vendors
+
+- Grey Markets
+
+- Modafinil Table
+- Armodafinil Table
+- Bulk Synthesis/purchases
+
+- Darknet Markets
+
+- Examples
+
+- Modafinil
+
+- Modalert
+- Modapro
+- Modvigil
+- Orifarm/Mylan
+
+- Armodafinil
+
+- Waklert
+
+
+- Margin Estimation
+
+- Affiliates
+- India
+- Estimates
+
+
+- Ordering Behavior
+
+- One-Shot Ordering
+- Ordering With Learning
+- Ordering When Learning Isn’t Free
+
+- Extended Present-Value Example
+
+- Discount Rate Applications: Swapping Time for Time
+- Coordination Problems: Assaying
+
+- /r/Nootropics
+- Assaying
+
+
+- External Links
+- Appendix
+
+- Schizophrenia
+
+- Epidemiology
+- Schizophrenics on Modafinil
+
+
+
+
+Modafinil is a prescription stimulant drug. I discuss informally, from a cost-benefit-informed perspective, the research up to 201511ya on modafinil’s cognitive effects, the risks of side-effects and addiction/tolerance and law enforcement, and give a table of current grey-market suppliers and discuss how to order from them.
+
+
+Modafinil is a wakefulness stimulant drug developed in the 1980s. It is prescribed for narcolepsy but is widely used off-label for its stimulating effects and to deal with sleep deficits. As such, many believe it helps their cognitive performance & productivity. (However, comparing it to the fictional drug NZT in the 201115ya movie Limitless is a gross exaggeration.) I would describe its advantages over other common stimulants as: more powerful and less addictive & tolerating than caffeine or khat; much longer-lasting than nicotine; less likely to alter mood or produce ‘tweaking’ behavior than Adderall or Vyvanse; and much more legal & with almost no side-effects compared to methamphetamine or cocaine. On any specific aspect, there may be a stimulant superior to modafinil, but few stimulants come close to modafinil’s overall package of being a long-lasting, safe, effective, non-mood-altering, quasi-legal stimulant, and that is why it has become so popular.
+
+
+Its development stems from adrafinil, a wakefulness drug developed back in the late 1970s. It worked reasonably well in animals and humans1, and interestingly enough, in a different way from most stimulants.2 Inside the body, adrafinil is a prodrug, which is metabolized by the liver into modafinil. So using adrafinil is inferior to using a straight dose of modafinil both because it stresses the liver (which apparently caused its discontinuation by the usual manufacturer3) and because reportedly you need about 3 times more adrafinil to be metabolized into an equivalent dose of modafinil. Its chief advantages were that all patents on it expired long ago, and it’s very rarely proscribed (or prescribed either)—so it was relatively cheap & easy to get.
+
+
+Modafinil is better, but the problem is that a number of forms are patented, and in addition, it’s a proscribed drug in the US & Canada4. So you can either try to convince a doctor to give you a prescription or deal with dubious online pharmacies or suppliers in countries where modafinil is available over-the-counter. The former way is annoying and you pay full price, and the latter way is unreliable and still expensive—you may be buying at a lower price, but the risks of seizure at the border, shipping, possibly paying for laboratory assays etc. can more than make up for that.
+
+
+Modafinil costs about $25–12 a day6; non-prescription sources are too unpredictable to say.7
+
+# Usage
+
+
+Modafinil can be reliably determined in plasma and urine (Schwertner & Kong 200521ya; Tseng et al 200521ya), and is readily absorbed (40–65%, as measured by urinary recovery) after single (Wong et al 199927yaa) or multiple oral doses (Wong et al 199927yab), reaching peak plasma concentrations 2–4 h after administration (Wong et al 199927yaa). The presence of food in the gastrointestinal tract can slow the rate but does not affect the total extent of absorption. Steady-state plasma concentrations are achieved between 2–4 days with repeated dosing. It is highly lipophilic, and ~60% bound to plasma proteins, primarily albumin. Major pharmacokinetic parameters are independent of doses in the range of 200–600 mg⧸day (Robertson & Hellriegel 200323ya). The major circulating metabolites modafinil acid and modafinil sulfone do not appear to exert any significant activity in the brain or periphery (Robertson & Hellriegel 200323ya). The elimination half-life is approximately 12-15 h (Wong et al 199927yaa), and single daily dosing is adequate and common in clinical practice.8
+
+
+# Effects
+
+
+Modafinil has a couple different but closely related benefits. You can sum them up as pretty much it cuts your sleep need by about 2⁄3s9, or it allows you to go without sleep for a day with little mental penalty10 with increasing penalties thereafter. (If you aren’t sleep-deprived, it seems to just increase your alertness and energy levels, with mixed effects on other things.) It is overall a better stimulant than caffeine or the amphetamines11, and targets different receptors than the amphetamines.12 The picture is good enough that some bioethicists are daring enough to go off their usual script (“the long-term effects are unclear; there may be unexpected side-effects or long-term consequences13—more study is required”) and abandon the Precautionary Principle and suggest that maybe healthy people using modafinil might be a good thing14.
+
+
+Besides compensating for sleep-related mental deficits in general15 especially combined with short naps (Batéjat & Lagarde 1999), it may make you smarter16—even if you’re healthy:
+
+
+In addition, modafinil (at well-tolerated doses) improves function in several cognitive domains, including working memory and episodic memory, and other processes dependent on prefrontal cortex and cognitive control. These effects are observed in rodents, healthy adults, and across several psychiatric disorders.17
+
+
+And the gripping hand: the 100mg dose may be the problem and be too high; the exact shape of the dose-response curve and between-subject variability remains unclear, with some anomalies like “Modafinil affects mood, but not cognitive function, in healthy young volunteers” (Randall et al 200323ya), noted no benefits on the CANTAB test suite due to the lower dose tested having greater anxiogenic effects:
+
+
+There was a significant post-treatment change in the factor measuring ‘somatic anxiety’ and in individual ratings of ‘shaking’, ‘palpitations’, ‘dizziness’, ‘restlessness’, ‘muscular tension’, ‘physical tiredness’ and ‘irritability’, which was mainly due to significantly higher ratings of somatic anxiety in the 100 mg group compared with the other two groups [placebo & 200mg]. Further changes in mood were revealed after the stress of cognitive testing, with the 100 mg group showing greater increases in the ‘psychological anxiety’ and the ‘aggressive mood’ factors.18
+
+
+The effect of modafinil on mood is cloudy19 (part of the problem being, I suspect, varying doses and populations); “A Randomized, Double-Blind, Crossover Trial of Modafinil on Mood” (Taneja et al 200719ya) used doses of 400mg, finding:
+
+
+Normal healthy volunteers (n = 12, 10 men and 2 women; 30-44 years) underwent a 3-day, counterbalanced, randomized, crossover, inpatient trial of modafinil (400 mg daily) versus placebo with 4-day washout period between 2 treatments. Mood was assessed daily using both the Positive and Negative Affect Schedule and a general mood scale, which consisted of 10 bipolar adjective ratings based on a severity scale ranging 1–10. Modafinil increased general mood and Negative Affect scales relative to placebo and had a significant effect on Positive Affect scales. These results suggest that modafinil may have general mood-elevating effects accompanied by increased negative affect (anxiety). The findings may have implications for clinical practice, in particular for the adjunctive use of modafinil in treatment-resistant depression20.
+
+
+Goss et al 2013, meta-analyzing the depression trials, finds
+
+
+Data from 6 RCTs, with a total of 910 patients with MDD [major depressive disorder] or bipolar depression, consisting of 4 MDD RCTs (n = 568) and 2 bipolar depression RCTs (n = 342) were analyzed. The meta-analysis revealed significant effects of modafinil on improvements in overall depression scores (point estimate = −0.35; 95% CI, −0.61 to −0.10) and remission rates (odds ratio = 1.61; 95% CI, 1.04 to 2.49). The treatment effects were evident in both MDD and bipolar depression, with no difference between disorders. Modafinil showed a significant positive effect on fatigue symptoms (95% CI, −0.42 to −0.05). The adverse events were no different from placebo.
+
+
+## SNPs
+
+
+Interestingly, there seem to be some groups for which modafinil does little, and this ineffectiveness may not be due to counterfeit product or poor self-monitoring, but genetics (Bodenmann et al 2009, see also Bodenmann & Landolt 2010 on the same subjects):
+
+
+Two-time 100 mg modafinil potently improved vigor and well-being, and maintained baseline performance with respect to executive functioning and vigilant attention throughout sleep deprivation in Val/Val [G/G] genotype subjects but was hardly effective in subjects with the Met/Met [A/A] genotype.
+
+
+The genotype variation specifically refers to the Rs4680 SNP, which is one of the SNPs that services like 23andMe test for. So someone could sign up for 23andMe testing and only start buying modafinil if the results are favorable; considering that 23andMe sometimes holds sales at $100 or $200 and that one could easily spend this much on a single order of modafinil, testing first may not be a bad idea. But on the other hand: anecdotes are hard to come by of people who have used modafinil, been genotyped, and checked that SNP, yet I have been told by 2 Val/Val users that sublingual Modalert/Waklert did nothing for them (personal communication; 2) and by 4 Met/Met users that modafinil worked for them and there are 2 further anecdotes on Hacker News & Reddit (1, 2, multiple). Besides the dubiousness of such a large effect size from a single SNP, candidate-gene results frequently disappear (Ioannidis et al 2011), like what happened when 12 highly cited IQ-related SNPs failed to replicate in a well-powered 201115ya GWAS and subsequent GWASes (replication being the coin of science). As of 2013-05-23, there do not seem to have been any followup citing studies of this SNP association. Given the weakness of the evidence, one would probably have to be on the razor’s edge of deciding to try or not try modafinil before your result would make the difference.
+
+
+# Costs
+
+
+## Side Effects
+
+
+Modafinil has a few side-effects. (I omit adrafinil’s possible liver damage since it doesn’t apply to modafinil.) The FDA in general seems to take a pretty optimistic view about any side-effects or long-term issues21. The known issues generally are:
+
+- 
+
+Hormonal birth control may be less effective, as well as methadone22
+- 
+
+General symptoms of over-stimulation: confusion, nervousness, tremors, irritability, etc.23
+- 
+
+Weight loss24
+- 
+
+Bad-smelling urine is very commonly reported25. Apparently is related to sulfur breakdown products26.
+
+
+From the abstract of a journal review of modafinil (“Modafinil: A Review of Neurochemical Actions and Effects on Cognition”, Minzenberg et al 200818ya):
+
+
+Furthermore, modafinil appears to be well-tolerated, with a low rate of adverse events and a low liability to abuse.
+
+
+But a low rate of adverse events is still a rate. (And—this is a truism that applies to every single drug or substance which I should not have to point out—everyone is unique in that some substance will be horrible for them while great for others and vice versa; this is as true for modafinil—eg. one person I know experienced ‘serious muscle pain’ which he described as proportional to the dose—as it is for much more dangerous drugs like aspirin27. Lists of side-effects are available in the FDA prescribing info (linked below) and online, but are unhelpfully generic; to take the first half of the list of regular side-effects: “headache” (obvious for any stimulant), “dizziness” (generic), “difficulty falling asleep or staying asleep” (of course!), “drowsiness” (maybe you’re using modafinil too much?), “nausea” (does anything not cause nausea?), “diarrhea”, “constipation”, “gas”, “heartburn”, “loss of appetite” (some people want that), and “unusual tastes” (is that really a bad thing?). The “serious” side-effects are more interesting; again taking the first half: “rash”, “blisters”, “peeling skin”, “mouth sores”, “hives”, “itching”, “hoarseness”, and “difficulty breathing or swallowing”—these all sound like they may be related to the histamine effects of modafinil. But overall, I am left unimpressed by them: if you develop a rash, stop taking modafinil! If you have peeling skin, stop taking modafinil! If you’re taking it for its utility, you can stop at any time—the side-effects you are most worried about are the ones which may develop into a real danger or which are permanent. So let’s move on to a closer look at the more serious risks.
+
+
+Interested readers can compare the FDA adverse events reports for modafinil/armodafinil and for aspirin, but should remember these are raw reports, unscaled by number of prescriptions, and adverse event reports are probably less likely to be reported by illicit users.) What are those adverse events?
+
+
+The most serious reported side-effect I know of is Stevens-Johnson syndrome (SJS). Modafinil, like acetaminophen, is one of the unfortunate category of drugs believed to cause SJS. SJS is generally rare (“about 300 new diagnoses per year” in the USA). It’s not clear how much modafinil increases SJS risk the FDA report specifies that there was only 1 ‘possible’ syndrome during the clinical trials of around 1,585 people (a child who had a fever & rash; Cephalon argued strenuously that it was not SJS). Presumably if modafinil really did cause SJS at a rate of 1 in 1,500, then the millions of users since would have caused >667 cases of SJS. Page 2 of Cephalon’s physician guide goes into all the details:
+
+
+In clinical trials of modafinil, the incidence of rash resulting in discontinuation was approximately 0.8% (13 per 1,585) in pediatric patients (age <17 years); these rashes included 1 case of possible Stevens-Johnson Syndrome (SJS) and 1 case of apparent multi-organ hypersensitivity reaction. Several of the cases were associated with fever and other abnormalities (eg. vomiting, leukopenia). The median time to rash that resulted in discontinuation was 13 days. No such cases were observed among 380 pediatric patients who received placebo. No serious skin rashes have been reported in adult clinical trials (0 per 4,264) of modafinil. Rare cases of serious or life-threatening rash, including SJS, Toxic Epidermal Necrolysis (TEN), and Drug Rash with Eosinophilia and Systemic Symptoms (DRESS) have been reported in adults and children in worldwide post-marketing experience. The reporting rate of TEN and SJS associated with modafinil use, which is generally accepted to be an underestimate due to underreporting, exceeds the background incidence rate. Estimates of the background incidence rate for these serious skin reactions in the general population range between 1 to 2 cases per million-person years.
+
+
+The specific increased incidence rate in another FDA publication is specified to be 5.7 per 1 million patients as compared to the background rate of 1-2 per million patients.
+
+
+In the previous adult trial, with ~3x as many patients, no rashes were reported and no SJS. With a background incidence rate of 1 to 2 cases per million-person-years, to be distinguishable, the rate would only have to rise a little. I’d especially want to know whether those ‘adults and children’ is really just ‘children’. As it stands, it looks like the problem is primarily in juveniles, and they are not the ones considering whether to experiment with modafinil. For adults, adverse side-effects are generally in the 0-4% range of the population (see table 3, page 4 of the guide). Another FDA page gives us details:
+
+
+From the date of initial marketing, December 199828ya, to January 30, 200719ya, FDA received six cases of severe cutaneous adverse reactions associated with modafinil, including erythema multiforme (EM), Stevens-Johnson syndrome (SJS), toxic epidermal necrolysis (TEN), and drug rash with eosinophilia and systemic symptoms (DRESS) involving adult and pediatric patients. The 6 cases from the United States occurred in four females and two males aged 49, 42, 27, 17, 15, and 7 years old, respectively. The median time-to-onset of adverse dermatologic effects following initiation of modafinil therapy was 17.5 days, ranging from 5 days to 5 weeks…There were no deaths. 5 of 6 patients required hospital admission for management, including one patient with TEN who was admitted to the surgical burn unit 20 days after starting modafinil at recommended doses to treat a sleep disorder.
+
+
+Consistent with the listed onset and claims that females have increased risk, the one report of modafinil-induced SJS on Reddit was a female who developed it after 10 days. 3 pediatrics seems like a substantial fraction of the cases; calculating what rate in millions these 6 cases represent is harder. I haven’t yet found direct estimates of how many people took modafinil 1998–9200719ya; an article on Cephalon’s anti-competitive practices says “United States sales of Provigil increased from $25 million in 1999 to $475 million in 2005 to $800 million in 2007.” 2002 sales were $196.3 million (Pollack & Ault 2003) and 2003 sales $300 million (Vastag 2004). We could try to guesstimate the overall sales between 1999–8200719ya as 25+475+8003⋅(2007−1999)=$3,466.7m; Normann & Berger 2008 put 2007 global sales at >$700m. The FDA cases are for the USA only as far as I know, so we want only US consumption (although helping external validity, ~90% of prescriptions are for off-label use according to Cephalon in 2004). If each US pill is $10 in sales (probably low), then 346.67m pills were sold; if each person uses one pill a day for 2 years on average, then we divide the pill count by 2 years of days, 346,670,0002⋅365.25=346670000730.5=474,565 people. Half a million is in roughly the right range, which is fine for a guesstimate—we could easily double our result or more by changing some of our assumptions (how many people used modafinil before 199927ya? How many sales were there after 200719ya? Does the average person prescribed it really use it for as much as 2 years, or do people tend to switch or get better much faster than that? etc.). A better estimate can be extracted from the MIDAS database of drug sales which tells us that Provigil sold from Q1 2011-Q1 2012 $1,411,547,000 in 2,376,000 “units”; I believe units are monthly prescriptions of 30 pills, since that gives me a per-pill estimate of $19.8/pill which is consistent with people’s reports of monthly prescriptions costs (eg. $440 for 30 is $15 a pill, or $1,000 for 30 is $33 a pill, which bracket that average). So that implies 71,280,000 pills sold (which at a daily dose affects 195,154 man-years); there were 6 cases previously which we estimated at 346.67m pills but from $10 a pill which we now know to be too low by half, so we cut the 346 to 173, and 6 cases per 173m implies 1 case per 29m, and if 2011-early-2012 were sold 71.28m pills, we’d expect 2.5 new cases in that period. (This ~2 annual rate seems reasonably consistent with the rarity of online anecdotes of actual SJS, as opposed to people being worried that their common—~1%—side-effects of rashes etc. may progress to SJS.) For armodafinil, the first reported case-study of SJS came in 2018, with Holfinger et al 2018 reporting a 21yo female who developed symptoms 12 days after starting (fortunately, she apparently made a full recovery and “only subtle skin discolorations over previously blistered skin areas remained”).
+
+
+Few long-term studies have been done of modafinil’s safety outside of the drug approval trials. The LD50 is so high that it is currently not known for humans28; one troubled woman attempted suicide with an overdose of 4.5 grams of modafinil but failed29, and another man apparently tried & failed with a blister pack (>2.4g?); no deaths are known to be attributable to modafinil (which curiously makes it safer, acute dose-wise, than caffeine). Of course, one cannot rule out that there might be drastic consequences which manifest only decades later, but given that modafinil could be called a pseudo-life-extension drug due to its famous wakefulness effects, there’re arguments that modafinil is a net gain even with any (a priori unlikely) long-term backfiring.
+
+
+So overall, assuming one does not use modafinil too frequently, or to skip more than 1 night at a time30, and remembers to remain hydrated & eat extra food to compensate for the additional activity & appetite suppression, modafinil does not seem to have any major risks for healthy users as far as I can tell, and certainly no such scaremongering like the following quote is justified:
+
+
+“You’re taking a high risk”, Baroness Susan Greenfield, neuroscientist and Director of the Royal Institution of Great Britain, told me. “Our brains are who we are. They are hugely delicate. You’re risking your whole life.”
+
+
+## Tolerance
+
+
+Indeed, modafinil’s relative lack of side-effects has led to it being called the most perfect “nootropic”, in the etymological sense of a drug which has no bad aspects and only improves the mind. But there is no free lunch, after all. (There may be bargain lunches which we are thrilled to buy, but they aren’t free. If they were, why didn’t Evolution grab them already? For discussion of how drugs can be bargain lunches, see The Algernon Argument.)
+
+
+Anecdotally, the real troll under the bridge for modafinil seems to be that one can develop tolerance, where it no longer has the stimulant or anti-sleep effects that made it so awesome (it has been speculated to be related to liver metabolism). For example, poker player Paul Phillips took 2–300mg daily for a long period and said the effects “have attenuated over time. The body is an amazing adjusting machine, and there’s no upside that I’ve been able to see to just taking more.” (Such comments are common online among those who have used modafinil heavily, to the point where I have successfully predicted tolerance for such users, and I carefully avoid using modafinil more than weekly, if that.) The lack of academic support for these observations of tolerance is a little strange—users hardly have any incentive to make up downsides about their favorite drug.
+
+
+But there are two pieces of good news in the anecdotes. By and large, they only report tolerance, and not addiction/dependence. Caffeine tolerance builds up rapidly, and worse, there is dependence: one painfully declines to below baseline mental performance when one stops using the caffeine; but there seems only to be tolerance to modafinil—I have seen no first-hand anecdotes reported performance declines after tolerance and ceasing use. (One’s baseline productivity may be so low compared to productivity while using modafinil that one feels like there is dependence, though.) Secondly, some anecdotes report that modafinil can be used indefinitely on a weekly or more frequent basis without developing tolerance. So this downside may not be large. There’s no evidence that modafinil tolerance is linked to medium-term changes in the brain (like use of irreversible MAO inhibitors, which affect MAO levels for weeks), so I’ll ignore it in the following cost-benefit analysis. A drug which offers a high return on investment but can only be used once a week is still offering a high return on one’s investment.
+
+
+But what does the research literature say? It seems to report no euphoria31, tolerance, withdrawal, or dependency:
+
+- 
+
+Biederman et al 2005; cited in FDA prescribing information on non-withdrawal.
+- 
+
+Some claims of no observed tolerance in patients: “Modafinil, used for at least 3 years in some patients, produces, in most cases, no peripheric sides effects, does not disturb night sleep and is never responsible of tolerance of drug dependence.” Bastuji & Jouvet 198838ya, “Successful treatment of idiopathic hypersomnia and narcolepsy with modafinil”; “Modafinil: the unique properties of a new stimulant”, Lyons & French 199135ya; Nasr et al 200620ya; Teitelman 2006, Rammohan et al 2001
+- 
+
+“Off-label uses of modafinil”, Teitelman E. Am J Psychiatry 200125ya.
+- 
+
+“There was also no statistically-significant difference in final modafinil dosage between patients who had a positive history of chemical abuse/dependence (290 mg⧸day) and those who did not (258 mg⧸day).”, from “Absence of mood switch with and tolerance to modafinil: a replication study from a large private practice”, Nasr et al 2006
+- 
+
+“Efficacy and safety profiles of Provigil (modafinil) maintained during long term (40 and 88 weeks) treatment of excessive daytime sleepiness associated with narcolepsy”, Emsellem HA. Neurology 200026ya, 54 (Suppl 3): A29
+- 
+
+“Modafinil is well tolerated, with no evidence of tolerance developing during 40 weeks of treatment.” from “Long-term efficacy and safety of modafinil (PROVIGIL®) for the treatment of excessive daytime sleepiness associated with narcolepsy”, Mitler 200026ya.
+- 
+
+Deroche-Gamonet et al 2002 experimented on rats with modafinil and cocaine: “Modafinil did not produce reinforcing or rewarding effects and did not modify the effects of cocaine…However, as shown previously in nonhuman primates and in humans, modafinil could possibly have reinforcing effects in cocaine-experienced individuals.” Shuman et al 2012 found modafinil-caused sensitization in cocaine-using mice, but only at high doses (75 mg⧸kg in their mice vs <5 mg⧸kg in normal humans). A later mouse study found no sensitization to amphetamines or that modafinil increased preferences for modafinil-associated locations, and a later rat study found no reinforcement in modafinil use. One such study, using rhesus monkeys, was “Evaluation of the cocaine-like discriminative stimulus effects and reinforcing effects of modafinil” where: “The reinforcing and discriminative stimulus effects of modafinil-required very high doses: modafinil was over 200 times less potent than d-amphetamine and was also less potent than l-ephedrine.” Mereu et al 2020 found modafinil did not cause modafinil self-administration in rats, only cocaine, and ultimately concluded that the reinforcing didn’t involve dopamine at all (contra Volkow et al 200917ya), and Haney et al 2021 find modafinil reduces human cocaine self-administration.
+- 
+
+Jasinski 200026ya 32
+- 
+
+From the abstract of “Discriminative-stimulus effects of modafinil in cocaine-trained humans”, Rush et al 200224ya: “Cocaine and methylphenidate, but neither modafinil nor triazolam, produced cocaine-like discriminative-stimulus, subject-rated, and cardiovascular effects.”
+- 
+
+The abstract to the Danish “Modafinil in the treatment of depression—a systematic review” mentions that “discontinuation of the drug should be tried after a couple of months, as one study suggests that the effect wears off.”
+- 
+
+only a few case-studies of addiction have been reported, but despite often hair-raising doses, the effects appear mild: eg. Kate et al 2012, Mete et al 2015, Krishnan & Chary 2015, Alacam et al 2018.
+
+
+There has been speculation33 and reports of subjects acting as if there were tolerance34. One tiny (n = 10) study, that garnered inordinate amounts of media attention, was “Effects of modafinil on dopamine and dopamine transporters in the male human brain: clinical implications” (Volkow et al 200917ya) which, somewhat against earlier non-human research35, found some dopamine upregulation; while a feature commonly found in addictive drugs, that’s a long way from actual addiction, especially given the real-world data on the lack of addiction (“…no published case reports of addiction”, Shuman et al 201214ya) and modafinil binding differently than the other addictive drugs.
+
+
+## Legal Risk
+
+
+### USA
+
+
+Modafinil is a Schedule IV drug in America; the DEA suggests that Schedule IV trafficking be punished by
+
+
+Not more than 5 years. Fine not more than $250,000 if an individual, $1 million if not an individual.
+
+
+Scary. State laws may be more lenient. I am told that “§11377 of the California Health & Safety Code, which states that the punishment for possession of modafinil is not more than one year in county jail OR a punishment pursuant to subdivision (h) of §1170 of the Penal Code, which states that conviction could lead to imprisonment in county jail for 16 months to three years.” Better, but still scary.
+
+
+Headline cases of online drug markets or pharmacies, like the September 201115ya indictment of ‘Farmers Market’, confine their charges to site administrators & employees, but headline cases are by definition unusual. On the other hand, reading through forums and other places, I see no mentions of actual convictions, which is a little odd given that estimates of illegal use in the USA alone run into the scores of thousands of users per year—could this scheduling be just a dead letter, or the sort of law kept as an additional punishment the system can use if it doesn’t like you or thinks it can’t make the real charges stick? The general belief among modafinil users is that as long as one is importing less than 2-500 doses, the most US Customs will do is seize the order and send a “love letter” daring you to come get it. I am not a lawyer, but I do know how to use search engines, so in February 201214ya I did some looking. Here are my results:
+
+- 
+
+Erowid lists nothing useful beyond some legal statuses, as expected.
+- 
+
+PACER is a database of federal court filings; it is proprietary and has no full-text search. Fortunately the filings are all public domain and have been jail-broken into a searchable database; the RECAP subset found 2 search results:
+
+- 
+
+APOTEX, INC. v. CEPHALON, INC. et al
+- 
+
+COMPLAINT against RANBAXY PHARMACEUTICALS, INC., CEPHALON, INC., BARR LABORATORIES, INC., MYLAN LABORATORIES, INC., TEVA PHARMACEUTICAL INDUSTRIES, LTD., TEVA PHARMACEUTICALS USA, INC., RANBAXY LABORATORIES, LTD. (receipt number 928132), filed by KING DRUG COMPANY OF FLORENCE, INC.
+
+
+Neither concerns ordinary users.
+- 
+
+Washington State Supreme and Appellate Court Decisions: no hits for ‘modafinil’
+- 
+
+HeinOnline: law journal database with 37 matches:
+
+
+I looked at the matched pages for all; they were generally related to bio-ethics, professional sports, or patents and price-fixing (due to Cephalon’s bad behavior). No criminal cases.
+- 
+
+LexisNexis Academic: 998 hits in mainstream media, blogs, TV shows, etc.
+
+
+I downloaded them all to a 4.3M text file to review; there might be mentions of criminal cases. Searches through the file for the keywords ‘charge’, ‘court’, ‘convict’, and ‘criminal’ turns up the usual professional sports & Cephalon monkey business, but no outright regular criminal cases. The one exception may be cases related to the BALCO investigation—a company that specialized in prescribing banned substances to many professional athletes and concealing it, one of which was modafinil. Looking at Wikipedia and the articles, all substance-related convictions seem to have been for steroids, not modafinil, but I could be mistaken. In any case, BALCO is a pretty exceptional scandal and not very relevant to ordinary modafinil users.
+- 
+
+Google Scholar’s legal search turns up 71 hits for “modafinil” or “modafinil possession”; many are familiar to me from HeinOnline.
+
+
+Besides the usual patent/price-fixing and sports hits, Google Scholar turns up some interesting cases where it is noted the plaintiff has been prescribed modafinil or has ceased taking their prescribed modafinil (for issues like ADHD or fatigue), and a 200224ya patent granted to a Chinese investor for modafinil as an fertility treatment (!), which are not things I expected to find.
+
+
+More useful were various appeals which mentioned modafinil; among the hits I checked were included an author bio, 2 disputes with Social Security or an insurance company rejecting a claim, 2 academic papers (an aside in a paper on mental problems in prisons and a case study of pharmacists & mysterious deaths), and finally 2 actual criminal convictions related to modafinil, 1 conviction apparently for modafinil possession:
+
+- 
+
+“State v. Jackson, NJ: Appellate Div. 2010” involved a man with a history of depression attempting to shove a woman onto railroad tracks and then resisting arrest; he was charged with “resisting arrest, aggravated assault and possession of a schedule IV controlled dangerous substance, namely modafinil”, but the appeal exclusively concerns the ‘resisting arrest’ charge (1 year probation) which was part of a plea bargain, which I take to mean he was not convicted on any modafinil-related charges. (The judgment mentions that he had been prescribed the stimulant Wellbutrin; possibly it turned out he had a modafinil prescription, he had been given samples, or maybe the prosecutor simply didn’t want to bother.)
+- 
+
+One Missouri case resulted in a 7 year conviction for modafinil possession, and nothing else; it’s covered in an appeal, “172 S.W.3d 922 (200521ya): Kendrick WAGNER, v. STATE”. The appeal is about how he got his sentence increased by 1 year for failing to show up for sentencing, “due to his own negligence in failing to arrange for transportation that day.” This is dramatic and distressing: a plea bargain for 6 years? For modafinil?
+
+
+Unfortunately, information about the trial is scarce. The best I’ve been able to do is use the Missouri case-search system, where we see his previous criminal record:
+
+- 
+
+1997: pled guilty to “Possession Of Controlled Substance Except 35 Grams Or Less Of Marijuana”; suspended 3 years, 3 years probation
+- 
+
+1999: some sort of seizure case which he seems to have ignored and thus lost
+- 
+
+2000: pled guilty to “Trafficking In Drugs In The Second Degree” (represented by public defender); 5 years
+- 
+
+2003: pled guilty to “Possession Of Controlled Substance Except 35 Grams Or Less Of Marijuana”, 7 years; this is the modafinil case (“2103R-01753-01—ST V KENDRICK D WAGNER”)
+- 
+
+On a side note, he is, as of October 201214ya, still fighting a 201115ya charge: “Improper Lane Use { Ordinance RSMo: Not Available }”
+
+
+The given name, the various charges, the use of a public defender, and the city he lives in suggest Wagner is a poor black man who is rather shiftless; further, Missouri has something of a reputation—I do not know how deserved it is—for a justice system that is especially harsh on blacks.
+
+- 
+
+I signed up for a free 2-day membership to Wolters Kluwer’s Loislaw service and searched for “modafinil OR provigil”.
+
+
+There were 272 hits: 65 ‘Acts’, 27 ‘Administrative Rules’, 26 ‘Statutes’, and 26 ‘Proposed Regulations’; the remaining 128 were ‘Case Law’. Looking briefly at the first 4 categories, they didn’t seem very relevant, so I examined only the Case Law. The results began in 200323ya, and largely rehashed all the previous hits, although with many more insurance and discrimination and other medical disputes.
+- 
+
+An online acquaintance asked a law student friend for help; he searched Westlaw for “modafinil and possession” and “provigil and possession” over all federal and state cases.
+
+
+He found much the same results as me: patent disputes etc. He turned up Jackson’s charge & Wagner’s conviction as one would expect, but nothing else relevant. (He also found a curious appeal over an attempt to kidnap & murder a World of Warcraft player where the defendant tried to argue it was due to various mental disorders as well as his new modafinil prescription. The appeals court rejected this, noting his stalking & elaborate preparations long predated the prescription and most people with Asperger’s or bipolar—much less modafinil prescriptions—never attempt to kidnap or kill someone.)
+- 
+
+An appeal on Reddit and Imminst.org/Longecity for further examples turned up one claim by a one redditor that “A friend of mine passed out in his car after drinking and had a modafinil on him. He was busted with a felony.”; he later gave me the case docket: North Dakota Case No. 18-08-K-01620 2008 (sourced from their online case system), busted for some sort of substance felony charge (modafinil is not specifically mentioned in the entry) & drug paraphernalia misdemeanor; pled guilty and got a 1 year sentence with work release. Confusingly, the specific felony charge makes no sense to me; the possession charge is specifically a violation of North Dakotan law “19-03.1-23(6)”, which an online copy says is
+
+
+It is unlawful for a person to willfully, as defined in section 12.1-02-02: a. Serve as an agent, intermediary, or other entity that causes the internet to be used to bring together a buyer and seller to engage in the delivery, distribution, or dispensing of a controlled substance in a manner not authorized by this chapter; or b. Offer to fill or refill a prescription for a controlled substance based solely on a consumer’s completion of an online medical questionnaire. A person who violates this subsection is guilty of a class C felony.
+
+
+I’m not sure why he’d be charged with that, when the immediately following section #7 fits simple possession much better with the same penalty, but applying to possession of a scheduled drug without a prescription:
+
+
+It is unlawful for any person to willfully, as defined in section 12.1-02-02, possess a controlled substance unless the substance was obtained directly from, or pursuant to, a valid prescription or order of a practitioner while acting in the course of the practitioner’s professional practice, or except as otherwise authorized by this chapter, but any person who violates section 12-46-24 or 12-47-21 may not be prosecuted under this subsection. Except as provided in this subsection, any person who violates this subsection is guilty of a class C felony.
+
+- 
+
+in August 201511ya, the court-martial of Nathaniel Penalosa, a cadet at the United States Air Force Academy in Colorado, began, on 10 charges (for a maximum of 15 years under the military code) including, reportedly, rd Class Nathaniel Penalosa accused of using and distributing drugs on base">“using and distributing LSD, Modafinil and Molly” which he had bought on Silk Road 2; a routine search of his dorm room had turned up paraphernalia which then tested positive for methylenedioxymethamphetamine. The subsequent investigation apparently led to several of his customers/fellow-students, at least one of whom testified (given immunity) about Penalosa selling him modafinil; 3 cadets were expelled, Penalosa testified against a cadet, and plea-bargained to 3 years.
+- 
+
+in January 2018, an Illinois police deputy pled guilty to 1 charge stemming from 3 charges in April 201511ya that she was stealing prescription medicine evidence and a search of her home turned up modafinil/zolpidem/tapentadol (media: 1, 2), for which she claimed to have prescriptions and apparently did “for at least one of the medications”. The 2018 article doesn’t specify what medication the plea bargain referred to.
+- 
+
+as part of “Operation Granite Shield” in New Hampshire, coordinated raids of 88 agencies aimed at street-level drug dealing (opiates specifically) arrested more than 150 people; these led to followup arrests, including 13 more on 2018-05-17, of whom 1 29yo NH man was charged with 2 warrants and also modafinil possession (apparently his second charge for ‘possession of a controlled drug’ although none of the news reports specify what the first charge was for)
+- 
+
+An ex-doctor in Pennsylvania was arrested & sentenced to rehabiliation/parole in December 2019 for forging modafinil/armodafinil prescriptions he used to help with shift work; he needed multiple prescriptions because he was “taking approximately 800 mg per day or three to four pills per shift since he had built up a tolerance to the drugs.” (No mention of why he didn’t order online but resorted to forgery.)
+- 
+
+The Indian businessman Jeetendra Harish Belani was arrested in the Czech Republic on 2019-06-03 (indicted 2019-06-26), extradited to the USA, and in July 2020 was sententenced to time served, 3 years’ probation, & a $125,778.2$100,0002020 fine:
+
+
+Between 201511ya and 2019, Belani admitted that he and his co-conspirators, through LeeHPL Ventures, imported into the United States various drugs available only by prescription, including tapentadol, a Schedule II controlled substance, as well as tramadol, carisoprodol, and modafinil, all Schedule IV controlled substances. In addition, Belani admitted that between 201511ya and mid-2017, he worked with two co-conspirators in the United States—William Kulakevich and Julia Fees—to unlawfully smuggle a drug known as etizolam into the United States so that Kulakevich and Fees could resell it via a website they operated—`www.etizy.com`.
+
+
+Most of the documents in the case are sealed on PACER, making it hard to say how much of a role modafinil played. Etizolam has been the focus of considerable LE attention, especially on the darknet markets, so may well have been the primary reason.
+- 
+
+A Rome, Georgia woman was arrested & charged in October 2020 when a K9 alerted to methamphetamine in her car at a road check; she also had modafinil pills and was charged Schedule IV possession.
+- 
+
+A Lawrenceville, Georgia man was sentenced to 5 years’ probation in May 2021 for operating modafinil websites 2006–142020
+
+
+So my searches turn up only a few arrests/convictions since the 199828ya FDA approval, which arguably have some extenuating or complicating circumstance. This is far from a complete search; the law student cautioned me that many opinions are never published, and there may be keyword issues where all the matching keywords are about “substance possession” etc. and not “modafinil”. Finally, one major legal database is missing, LexisNexis Legal. But it is suggestive, when you contrast it with other drugs; for example, it’s trivial to find charges or convictions for Adderall.
+
+
+### Australia
+
+
+A Redditor in Australia (ACT) reports on 2018-06-06 that a friend was raided after an intercept of 300 armodafinil tablets; while armodafinil seems to be legal in Australia to import in personal use quantities, the amount may have been too much, and it’s unclear what will happen.
+
+
+### China
+
+
+Xinhua reported in August 2019 that Chinese customs seized mail with 300 modafinil pills and “captured three suspects”; one of them may have been a financial analyst reportedly arrested for buying modafinil from a Taobao seller.
+
+
+### Japan
+
+
+Internationally, the situation is too various to generalize, ranging from over-the-counter legal to unregulated to as or more controlled than the US; Japanese law, since 200620ya, has imposed considerable penalties on modafinil use/sale (with a small exception for travelers carrying small quantities). Currently, these incidents been reported:
+
+- 
+
+2013-05-07: 45yo dentist in Okayama arrested for importing 108 doses
+- 
+
+November 2013: man arrested for 144 tablets
+- 
+
+2014-02-05: 36yo man arrested in Hiroshima for importing 144 from India, December 201313ya (images)
+- 
+
+A Redditor reports in late 2014 that an import of 120 pills into Japan was intercepted by Customs and after a 3-month investigation, he received a fine of ¥75000/$630
+- 
+
+2015-03-23: 26yo Singaporean physics grad student Malik Sharif Maricar arrested for 108 tablets after a 10 February intercept by Customs; apparently expelled and is in the USA as of June 2015
+
+
+### UK
+
+
+Data is hard to come by for specific countries: for example, England apparently permits online purchase of modafinil and online sales are forbidden, but instances of enforcement are hard to find and equivocal (for example, the online site ModafinilUK was hit in the 201214ya raids, but news coverage suggests the English owner would not be charged with anything36). Rumor has it that one UK-based modafinil seller has been jailed for his sales, but I was unable to find any confirmation of this.
+
+
+# Analysis
+
+
+So what’s the cost benefit analysis here? We need to take into account the financial expense of modafinil, the biological side-effects, and the benefit of less sleep.
+
+## Benefits
+
+
+As in my melatonin page, we’ll assume the value of our time is measured by the minimum wage. We’ll also assume modafinil costs $3 a day (this adds 50% to be conservative). Finally, we’ll assume the average sleep savings per day is 4 hours—roughly half one’s sleep; this seems reasonable since sometimes people will use modafinil to skip that day’s sleep and sometimes they’ll sleep normally and will take it for greater performance while they are awake.
+
+
+So, our very first calculation goes minimum wage⋅hours saved, or 6.55⋅4, or $26.2. $26.2 > $3, so off-hand modafinil seems worthwhile: the return is 873%.
+
+
+## Costs
+
+
+But what of the other costs? There’s the stinky pee, for example. I don’t think this is even worth including, but let’s assign it 5¢ (how long are you going to be in the bathroom anyway?). Then there are the unknown health effects. Sure, the skeptic says, the studies have turned up little to nothing, but what about the long-term effects?
+
+
+Well, alright. We’ll add it in. Let’s consider the worst-case: modafinil is fatal. One human life is usually valued at around 10 million dollars. I personally can expect another 50 years of life. We could look at it this way: what if modafinil had an average fatality rate of 1 over those 50 years, and I value the overall 50 years at $10m (and 25 years at $5m, and 5 years at $1m etc.), and each day has the same chance of killing you, so you could die the first day at 150⋅365.25 probability. Applying the usual expected gain/loss formula, each day we incur an expected loss of 10,000,000⋅150⋅365.25, or $548. Ouch. That is noticeably larger than the $26.2 we expected to gain. This is the worst case; there’s no way modafinil is actually 100% lethal.
+
+
+So the expected value of modafinil is approximately 21 times less than it needs to be. Or, to put it another way, if modafinil had a less than 1⁄21 chance of killing you, it could be worth while. Do you think modafinil has a less than 1⁄21 kill rate? I do.
+
+
+(We could complicate the analysis by incorporating a discount rate and reduce the value of modafinil by assuming that one only uses it occasionally to avoid building up tolerance, but the basic point is made: there needs to be an improbably high risk to modafinil to neutralize its benefits.)
+
+
+# Suppliers & Prices
+
+
+## Brands
+
+
+Generally, armodafinil > modafinil > adrafinil, brand-name > generic, but how do the generics go? The general scuttlebutt seems to be that the generics in descending order of desirability go:
+
+- 
+
+Modapro
+- 
+
+Modalert
+- 
+
+Alertec
+- 
+
+SpierX
+
+
+## Vendors
+
+
+Fine, but how are we going to get any modafinil? (We’ll ignore getting a legitimate prescription or having a friend buy you some in India.) Buying modafinil is very much a grey-market. And it’s a black-market if one wants genuine Cephalon-manufactured Provigil/Nuvigil. (The real deal in pharmacies runs upwards of $10 per pill; so we won’t even bother to include it in the price table. Generic competition as of 2016 has reportedly driven it down to a more reasonable $1/pill.)
+
+
+So Indian generics it is. (India ignores any pharmaceutical patents before a certain year, which includes those on modafinil.)
+
+
+Vendor notes:
+
+- 
+
+EDAndMore.com has a great deal of negative feedback, few or no other vendors sell the same SpierX modafinil, and one commenter has pointed out that the `EDAndMore.com` domain is registered to the same Malaysian registrar as `SpierX.com`, suggesting a close relationship behind-the-scenes. (Pharmacy reviewer likes them.) Even online acquaintances I consider sensible and trustworthy can come to diametric appraisals of the quality of SpierX. My working hypothesis is that EDAndMore has an unreliable supply chain or SpierX has poor quality control (which makes them a good candidate for some of the later statistics discussion); one primitive test reported that there’s some sort of sulfur content, indicative of modafinil.
+- 
+
+Nubrain37 38 seems to have a reputation for honesty
+- 
+
+Additional review sources include Longecity & SafeOrScam
+
+
+It’s worth noting that shipping can make a major difference. For example, the now-defunct Airsealed’s $22 modafinil seemed like an excellent deal—but the price was almost doubled by their $15 shipping, but if one bought a lot the price also looked a lot better. The above table assumes that one orders only one unit of whatever it is; if one had been ordering several hundred dollars of modafinil from Airsealed, say, then Airsealed might look much better, and so for that purpose S&H is listed.
+
+
+A final note: reputations are not a perfect defense as one often hears of sellers that start off good but degenerate. There are many compelling economic or statistical reasons for this to happen:
+
+- 
+
+regression to a mean of any relevant factors
+
+- 
+
+eg. regression to a mean of the owner: what happens when the passionate founder sells or leaves?
+
+- 
+
+charging an inverse risk premium once a reputation is established (people who are risk-averse will rationally pay extra for an established trustworthy service than a newcomer)
+- 
+
+lack of competition (possible, but doesn’t seem like an issue of late; this may be an exacerbating factor in the previous—there may be no other trusted sellers really competing)
+- 
+
+lack of investment into lowering prices or using new technology, treating the service as a ‘cash cow’ (possibly irrationally, or rationally if it’s powering another, more lucrative, investment)
+- 
+
+‘burning’ a reputation/consuming reputational capital; the service becomes more profitable exploiting customers temporarily even though this destroys the long-term value—the most extreme example is ‘cut and run’, simply never delivering on a batch of orders, this can be very profitable if a vendor is very trusted, as Silk Road 1 proved. (The bigger a modafinil site, the more temptation because the more orders that will naturally come in before the news gets out.)
+
+
+The riskier an investment is, the less each future dollar it might earn is worth; risk encourages ripping and running. Being quasi-legal or illegal is risky, quite on top of the usual small-business risks.
+
+
+With all that in mind, my research into online vendors produced the follow tables (began February 200917ya; last updated 2013-11-15; previous versions: October 2010, March 2011, December 2011, May 2012, March 2013):
+
+
+### Grey Markets
+
+
+#### Modafinil Table
+
+
+To make updates easier, entries are batched by domain; click to sort columns
+
+
+mg/$39
+
+
+mg
+
+
+Amt
+
+
+$
+
+
+S&H
+
+
+Brand
+
+
+Provider
+
+
+189
+
+
+200
+
+
+540
+
+
+570
+
+
+0
+
+
+Modalert
+
+
+SunModalert.ru
+
+
+155
+
+
+200
+
+
+270
+
+
+348
+
+
+0
+
+
+Modalert
+
+
+SunModalert.ru
+
+
+152
+
+
+200
+
+
+180
+
+
+237
+
+
+0
+
+
+Modalert
+
+
+SunModalert.ru
+
+
+144
+
+
+200
+
+
+90
+
+
+125
+
+
+0
+
+
+Modalert
+
+
+SunModalert.ru
+
+
+126
+
+
+200
+
+
+60
+
+
+95
+
+
+0
+
+
+Modalert
+
+
+SunModalert.ru
+
+
+85
+
+
+100
+
+
+180
+
+
+213
+
+
+0
+
+
+Modalert
+
+
+SunModalert.ru
+
+
+105
+
+
+200
+
+
+30
+
+
+57
+
+
+0
+
+
+Modalert
+
+
+SunModalert.ru
+
+
+83
+
+
+100
+
+
+270
+
+
+325
+
+
+0
+
+
+Modalert
+
+
+SunModalert.ru
+
+
+75
+
+
+100
+
+
+90
+
+
+120
+
+
+0
+
+
+Modalert
+
+
+SunModalert.ru
+
+
+66
+
+
+100
+
+
+60
+
+
+91
+
+
+0
+
+
+Modalert
+
+
+SunModalert.ru
+
+
+62
+
+
+200
+
+
+10
+
+
+32
+
+
+0
+
+
+Modalert
+
+
+SunModalert.ru
+
+
+57
+
+
+100
+
+
+30
+
+
+53
+
+
+0
+
+
+Modalert
+
+
+SunModalert.ru
+
+
+32
+
+
+100
+
+
+10
+
+
+31
+
+
+0
+
+
+Modalert
+
+
+SunModalert.ru
+
+
+87
+
+
+100
+
+
+500
+
+
+575
+
+
+0
+
+
+Modalert
+
+
+OneMedStore
+
+
+87
+
+
+100
+
+
+360
+
+
+414
+
+
+0
+
+
+Modalert
+
+
+OneMedStore
+
+
+88
+
+
+100
+
+
+240
+
+
+274
+
+
+0
+
+
+Modalert
+
+
+OneMedStore
+
+
+85
+
+
+100
+
+
+120
+
+
+142
+
+
+0
+
+
+Modalert
+
+
+OneMedStore
+
+
+70
+
+
+100
+
+
+90
+
+
+110
+
+
+18
+
+
+Modalert
+
+
+OneMedStore
+
+
+61
+
+
+100
+
+
+60
+
+
+81
+
+
+18
+
+
+Modalert
+
+
+OneMedStore
+
+
+47
+
+
+100
+
+
+30
+
+
+46
+
+
+18
+
+
+Modalert
+
+
+OneMedStore
+
+
+196
+
+
+200
+
+
+500
+
+
+510
+
+
+0
+
+
+Modalert
+
+
+OneMedStore
+
+
+177
+
+
+200
+
+
+360
+
+
+407
+
+
+0
+
+
+Modalert
+
+
+OneMedStore
+
+
+156
+
+
+200
+
+
+240
+
+
+308
+
+
+0
+
+
+Modalert
+
+
+OneMedStore
+
+
+148
+
+
+200
+
+
+120
+
+
+162
+
+
+0
+
+
+Modalert
+
+
+OneMedStore
+
+
+126
+
+
+200
+
+
+90
+
+
+125
+
+
+18
+
+
+Modalert
+
+
+OneMedStore
+
+
+106
+
+
+200
+
+
+60
+
+
+95
+
+
+18
+
+
+Modalert
+
+
+OneMedStore
+
+
+82
+
+
+200
+
+
+30
+
+
+55
+
+
+18
+
+
+Modalert
+
+
+OneMedStore
+
+
+270
+
+
+200
+
+
+400
+
+
+281
+
+
+15
+
+
+Modvigil
+
+
+The Pharmacy Express40
+
+
+209
+
+
+200
+
+
+200
+
+
+176
+
+
+15
+
+
+Modvigil
+
+
+The Pharmacy Express
+
+
+172
+
+
+200
+
+
+100
+
+
+101
+
+
+15
+
+
+Modvigil
+
+
+The Pharmacy Express
+
+
+106
+
+
+100
+
+
+100
+
+
+79
+
+
+15
+
+
+Modalert
+
+
+The Pharmacy Express
+
+
+168
+
+
+200
+
+
+100
+
+
+104
+
+
+15
+
+
+Modalert
+
+
+The Pharmacy Express
+
+
+122
+
+
+100
+
+
+200
+
+
+149
+
+
+15
+
+
+Modalert
+
+
+The Pharmacy Express
+
+
+209
+
+
+200
+
+
+200
+
+
+176
+
+
+15
+
+
+Modalert
+
+
+The Pharmacy Express
+
+
+133
+
+
+200
+
+
+100
+
+
+135
+
+
+15
+
+
+Modafil
+
+
+The Pharmacy Express
+
+
+196
+
+
+200
+
+
+200
+
+
+189
+
+
+15
+
+
+Modafil
+
+
+The Pharmacy Express
+
+
+200
+
+
+200
+
+
+300
+
+
+285
+
+
+15
+
+
+Modafil
+
+
+The Pharmacy Express
+
+
+208
+
+
+200
+
+
+540
+
+
+520
+
+
+0
+
+
+Modalert
+
+
+DesiredMeds
+
+
+161
+
+
+200
+
+
+270
+
+
+335
+
+
+0
+
+
+Modalert
+
+
+DesiredMeds
+
+
+151
+
+
+200
+
+
+180
+
+
+238
+
+
+0
+
+
+Modalert
+
+
+DesiredMeds
+
+
+144
+
+
+200
+
+
+90
+
+
+125
+
+
+0
+
+
+Modalert
+
+
+DesiredMeds
+
+
+126
+
+
+200
+
+
+60
+
+
+95
+
+
+0
+
+
+Modalert
+
+
+DesiredMeds
+
+
+105
+
+
+200
+
+
+30
+
+
+57
+
+
+0
+
+
+Modalert
+
+
+DesiredMeds
+
+
+88
+
+
+100
+
+
+180
+
+
+205
+
+
+0
+
+
+Modalert
+
+
+DesiredMeds
+
+
+87
+
+
+100
+
+
+270
+
+
+310
+
+
+0
+
+
+Modalert
+
+
+DesiredMeds
+
+
+82
+
+
+100
+
+
+90
+
+
+110
+
+
+0
+
+
+Modalert
+
+
+DesiredMeds
+
+
+74
+
+
+100
+
+
+60
+
+
+81
+
+
+0
+
+
+Modalert
+
+
+DesiredMeds
+
+
+62
+
+
+200
+
+
+10
+
+
+32
+
+
+0
+
+
+Modalert
+
+
+DesiredMeds
+
+
+61
+
+
+100
+
+
+30
+
+
+49
+
+
+0
+
+
+Modalert
+
+
+DesiredMeds
+
+
+32
+
+
+100
+
+
+10
+
+
+31
+
+
+0
+
+
+Modalert
+
+
+DesiredMeds
+
+
+120
+
+
+200
+
+
+300
+
+
+499
+
+
+0
+
+
+Modalert
+
+
+EDAndMore.com
+
+
+115
+
+
+200
+
+
+200
+
+
+347
+
+
+0
+
+
+Modalert
+
+
+EDAndMore.com
+
+
+103
+
+
+200
+
+
+100
+
+
+195
+
+
+0
+
+
+Modalert
+
+
+EDAndMore.com
+
+
+200
+
+
+200
+
+
+300
+
+
+300
+
+
+0
+
+
+Alertec
+
+
+EDAndMore.com
+
+
+202
+
+
+200
+
+
+200
+
+
+218
+
+
+0
+
+
+Alertec
+
+
+EDAndMore.com
+
+
+152
+
+
+200
+
+
+100
+
+
+145
+
+
+0
+
+
+Alertec
+
+
+EDAndMore.com
+
+
+149
+
+
+200
+
+
+180
+
+
+226
+
+
+16.1
+
+
+Modvigil
+
+
+MODafinil UK
+
+
+143
+
+
+200
+
+
+150
+
+
+194
+
+
+16.1
+
+
+Modvigil
+
+
+MODafinil UK
+
+
+130
+
+
+200
+
+
+120
+
+
+169
+
+
+16.1
+
+
+Modvigil
+
+
+MODafinil UK
+
+
+124
+
+
+200
+
+
+90
+
+
+129
+
+
+16.1
+
+
+Modvigil
+
+
+MODafinil UK
+
+
+114
+
+
+200
+
+
+60
+
+
+89
+
+
+16.1
+
+
+Modvigil
+
+
+MODafinil UK
+
+
+94
+
+
+200
+
+
+30
+
+
+48
+
+
+16.1
+
+
+Modvigil
+
+
+MODafinil UK
+
+
+136
+
+
+200
+
+
+180
+
+
+265
+
+
+0
+
+
+Modalert
+
+
+RxShop.md
+
+
+126
+
+
+200
+
+
+120
+
+
+169
+
+
+22.1
+
+
+Modalert
+
+
+RxShop.md
+
+
+124
+
+
+200
+
+
+150
+
+
+220
+
+
+22.1
+
+
+Modalert
+
+
+RxShop.md
+
+
+110
+
+
+200
+
+
+90
+
+
+141
+
+
+22.1
+
+
+Modalert
+
+
+RxShop.md
+
+
+99
+
+
+200
+
+
+60
+
+
+99
+
+
+22.1
+
+
+Modalert
+
+
+RxShop.md
+
+
+73
+
+
+200
+
+
+30
+
+
+60
+
+
+22.1
+
+
+Modalert
+
+
+RxShop.md
+
+
+75
+
+
+200
+
+
+30
+
+
+58
+
+
+22.1
+
+
+ModaFresh
+
+
+RxShop.md
+
+
+102
+
+
+200
+
+
+60
+
+
+96
+
+
+22.1
+
+
+ModaFresh
+
+
+RxShop.md
+
+
+111
+
+
+200
+
+
+90
+
+
+140
+
+
+22.1
+
+
+ModaFresh
+
+
+RxShop.md
+
+
+128
+
+
+200
+
+
+120
+
+
+166
+
+
+22.1
+
+
+ModaFresh
+
+
+RxShop.md
+
+
+137
+
+
+200
+
+
+150
+
+
+219
+
+
+0
+
+
+ModaFresh
+
+
+RxShop.md
+
+
+141
+
+
+200
+
+
+180
+
+
+256
+
+
+0
+
+
+ModaFresh
+
+
+RxShop.md
+
+
+67
+
+
+200
+
+
+90
+
+
+269
+
+
+0
+
+
+Super Drug Saver
+
+
+55
+
+
+200
+
+
+30
+
+
+95
+
+
+15
+
+
+Super Drug Saver
+
+
+43
+
+
+100
+
+
+90
+
+
+195
+
+
+15
+
+
+Super Drug Saver
+
+
+34
+
+
+100
+
+
+30
+
+
+72
+
+
+15
+
+
+Super Drug Saver
+
+
+57
+
+
+200
+
+
+180
+
+
+610
+
+
+25
+
+
+Controlled Pills
+
+
+56
+
+
+200
+
+
+150
+
+
+515
+
+
+25
+
+
+Controlled Pills
+
+
+53
+
+
+200
+
+
+120
+
+
+425
+
+
+25
+
+
+Controlled Pills
+
+
+49
+
+
+200
+
+
+90
+
+
+339
+
+
+25
+
+
+Controlled Pills
+
+
+45
+
+
+200
+
+
+60
+
+
+240
+
+
+25
+
+
+Controlled Pills
+
+
+40
+
+
+200
+
+
+30
+
+
+125
+
+
+25
+
+
+Controlled Pills
+
+
+114
+
+
+200
+
+
+40
+
+
+70
+
+
+0
+
+
+Modalert
+
+
+Rx_rex
+
+
+119
+
+
+200
+
+
+80
+
+
+135
+
+
+0
+
+
+Modalert
+
+
+Rx_rex
+
+
+120
+
+
+200
+
+
+120
+
+
+200
+
+
+0
+
+
+Modalert
+
+
+Rx_rex
+
+
+47
+
+
+100
+
+
+50
+
+
+99
+
+
+7
+
+
+Modalert
+
+
+Nubrain
+
+
+48
+
+
+150
+
+
+20
+
+
+55
+
+
+7
+
+
+Modalert
+
+
+Nubrain
+
+
+62
+
+
+200
+
+
+50
+
+
+155
+
+
+7
+
+
+Nubrain
+
+
+238
+
+
+200
+
+
+100
+
+
+84
+
+
+0
+
+
+Modalert
+
+
+4NRX Pharmacy41
+
+
+167
+
+
+100
+
+
+100
+
+
+60
+
+
+0
+
+
+Modalert
+
+
+4NRX Pharmacy
+
+
+37
+
+
+100
+
+
+30
+
+
+81
+
+
+0
+
+
+Modvigil
+
+
+4NRX Pharmacy
+
+
+215
+
+
+200
+
+
+100
+
+
+85
+
+
+8
+
+
+Modalert
+
+
+United Pharmacies42
+
+
+147
+
+
+100
+
+
+100
+
+
+60
+
+
+8
+
+
+Modalert
+
+
+United Pharmacies43
+
+
+31
+
+
+100
+
+
+30
+
+
+90
+
+
+8
+
+
+Modvigil
+
+
+United Pharmacies
+
+
+23
+
+
+100
+
+
+30
+
+
+130
+
+
+0
+
+
+Modiodal
+
+
+Modafinil Store
+
+
+15
+
+
+100
+
+
+30
+
+
+180
+
+
+15
+
+
+Modiodal
+
+
+Biogenesis AntiAging44
+
+
+22
+
+
+100
+
+
+30
+
+
+125
+
+
+10
+
+
+Modiodal
+
+
+AuraPharm
+
+
+Due to severe problems with payment processors, online pharmacies (including modafinil sellers) have been exploring Bitcoin as a solution. Bitcoin, being relatively new, has a volatile exchange rate, and pricing can be confusing. This table breaks out Bitcoin-denominated modafinil products separately. Generally, the sellers seem to automatically peg their Bitcoin prices to dollar-equivalents so the prices remain constant in dollars whatever the most recent Bitcoin price may be. (Conversions were made with the Bitstamp price of $415/₿ & £270/₿ on 10:30PM 2013-11-14.)
+
+
+mg/$
+
+
+mg
+
+
+Amt
+
+
+₿
+
+
+$
+
+
+S&H
+
+
+Brand
+
+
+Provider
+
+
+94
+
+
+200
+
+
+30
+
+
+0.0990041
+
+
+48
+
+
+16
+
+
+Modvigil
+
+
+MODafinil UK
+
+
+115
+
+
+200
+
+
+60
+
+
+0.16091261
+
+
+88
+
+
+16
+
+
+Modvigil
+
+
+MODafinil UK
+
+
+125
+
+
+200
+
+
+90
+
+
+0.22282113
+
+
+128
+
+
+16
+
+
+Modvigil
+
+
+MODafinil UK
+
+
+130
+
+
+200
+
+
+120
+
+
+0.28472964
+
+
+169
+
+
+16
+
+
+Modvigil
+
+
+MODafinil UK
+
+
+144
+
+
+200
+
+
+150
+
+
+0.32256156
+
+
+193
+
+
+16
+
+
+Modvigil
+
+
+MODafinil UK
+
+
+149
+
+
+200
+
+
+180
+
+
+0.37219406
+
+
+225
+
+
+16
+
+
+Modvigil
+
+
+MODafinil UK
+
+
+?
+
+
+200
+
+
+200
+
+
+?
+
+
+?
+
+
+0
+
+
+Modalert
+
+
+MedsForBitcoin.com45
+
+
+?
+
+
+200
+
+
+100
+
+
+?
+
+
+?
+
+
+0
+
+
+Modalert
+
+
+MedsForBitcoin.com
+
+
+?
+
+
+200
+
+
+40
+
+
+?
+
+
+?
+
+
+0
+
+
+Modalert
+
+
+MedsForBitcoin.com
+
+
+114
+
+
+200
+
+
+40
+
+
+0.1684
+
+
+70
+
+
+0
+
+
+Modalert
+
+
+Rx_rex
+
+
+119
+
+
+200
+
+
+80
+
+
+0.3248
+
+
+135
+
+
+0
+
+
+Modalert
+
+
+Rx_rex
+
+
+120
+
+
+200
+
+
+120
+
+
+0.4811
+
+
+200
+
+
+0
+
+
+Modalert
+
+
+Rx_rex
+
+
+178
+
+
+200
+
+
+40
+
+
+0.1085
+
+
+45
+
+
+0
+
+
+Modalert
+
+
+Modadeals46
+
+
+222
+
+
+200
+
+
+100
+
+
+0.2169
+
+
+90
+
+
+0
+
+
+Modalert
+
+
+Modadeals
+
+
+267
+
+
+200
+
+
+200
+
+
+0.3614
+
+
+150
+
+
+0
+
+
+Modalert
+
+
+Modadeals
+
+
+#### Armodafinil Table
+
+
+mg/$47
+
+
+mg
+
+
+Amt
+
+
+$
+
+
+S&H
+
+
+Brand
+
+
+Provider
+
+
+104
+
+
+150
+
+
+270
+
+
+388
+
+
+0
+
+
+Waklert
+
+
+SunModalert.ru
+
+
+94
+
+
+150
+
+
+90
+
+
+143
+
+
+0
+
+
+Waklert
+
+
+SunModalert.ru
+
+
+91
+
+
+150
+
+
+180
+
+
+297
+
+
+0
+
+
+Waklert
+
+
+SunModalert.ru
+
+
+86
+
+
+150
+
+
+60
+
+
+105
+
+
+0
+
+
+Waklert
+
+
+SunModalert.ru
+
+
+82
+
+
+150
+
+
+30
+
+
+55
+
+
+0
+
+
+Waklert
+
+
+SunModalert.ru
+
+
+44
+
+
+50
+
+
+90
+
+
+102
+
+
+0
+
+
+Waklert
+
+
+SunModalert.ru
+
+
+35
+
+
+50
+
+
+60
+
+
+85
+
+
+0
+
+
+Waklert
+
+
+SunModalert.ru
+
+
+34
+
+
+150
+
+
+10
+
+
+44
+
+
+0
+
+
+Waklert
+
+
+SunModalert.ru
+
+
+31
+
+
+50
+
+
+30
+
+
+49
+
+
+0
+
+
+Waklert
+
+
+SunModalert.ru
+
+
+16
+
+
+50
+
+
+10
+
+
+32
+
+
+0
+
+
+Waklert
+
+
+SunModalert.ru
+
+
+59
+
+
+50
+
+
+279
+
+
+235
+
+
+0
+
+
+Waklert
+
+
+SunModalert.ru
+
+
+53
+
+
+50
+
+
+180
+
+
+170
+
+
+0
+
+
+Waklert
+
+
+SunModalert.ru
+
+
+91
+
+
+150
+
+
+120
+
+
+198
+
+
+0
+
+
+Waklert
+
+
+myModafinil.net
+
+
+76
+
+
+150
+
+
+80
+
+
+157
+
+
+0
+
+
+Waklert
+
+
+myModafinil.net
+
+
+52
+
+
+150
+
+
+30
+
+
+87
+
+
+0
+
+
+Waklert
+
+
+myModafinil.net
+
+
+162
+
+
+150
+
+
+200
+
+
+185
+
+
+0
+
+
+Waklert
+
+
+MedsForBitcoin.com48
+
+
+143
+
+
+150
+
+
+100
+
+
+105
+
+
+0
+
+
+Waklert
+
+
+MedsForBitcoin.com
+
+
+100
+
+
+150
+
+
+40
+
+
+60
+
+
+0
+
+
+Waklert
+
+
+MedsForBitcoin.com
+
+
+50
+
+
+150
+
+
+10
+
+
+30
+
+
+0
+
+
+Waklert
+
+
+ArmodafinilNow
+
+
+69
+
+
+150
+
+
+40
+
+
+87
+
+
+0
+
+
+Waklert
+
+
+ArmodafinilNow
+
+
+76
+
+
+150
+
+
+90
+
+
+177
+
+
+0
+
+
+Waklert
+
+
+ArmodafinilNow
+
+
+150
+
+
+150
+
+
+100
+
+
+92
+
+
+8
+
+
+Waklert
+
+
+United Pharmacies49
+
+
+81
+
+
+50
+
+
+100
+
+
+54
+
+
+8
+
+
+Waklert
+
+
+United Pharmacies50
+
+
+163
+
+
+150
+
+
+100
+
+
+92
+
+
+0
+
+
+Waklert
+
+
+4NRX Pharmacy51
+
+
+Bitcoin:
+
+
+mg/$
+
+
+mg
+
+
+Amt
+
+
+₿
+
+
+$
+
+
+S&H
+
+
+Brand
+
+
+Provider
+
+
+91 1
+
+
+50 1
+
+
+20
+
+
+0.477
+
+
+198
+
+
+0
+
+
+Waklert
+
+
+myModafinil.net
+
+
+76 1
+
+
+50 8
+
+
+0
+
+
+0.3783
+
+
+157
+
+
+0
+
+
+Waklert
+
+
+myModafinil.net
+
+
+52 1
+
+
+50 3
+
+
+0
+
+
+0.2096
+
+
+87
+
+
+0
+
+
+Waklert
+
+
+myModafinil.net
+
+
+50 1
+
+
+50 1
+
+
+0
+
+
+0.07228
+
+
+30
+
+
+0
+
+
+Waklert
+
+
+ArmodafinilNow
+
+
+69 1
+
+
+50 4
+
+
+0
+
+
+0.2096
+
+
+87
+
+
+0
+
+
+Waklert
+
+
+ArmodafinilNow
+
+
+76 1
+
+
+50 9
+
+
+0
+
+
+0.4265
+
+
+177
+
+
+0
+
+
+Waklert
+
+
+ArmodafinilNow
+
+
+? ?
+
+
+?
+
+
+?
+
+
+?
+
+
+0
+
+
+Waklert
+
+
+MedsForBitcoin.com
+
+
+? ?
+
+
+?
+
+
+?
+
+
+?
+
+
+0
+
+
+Waklert
+
+
+MedsForBitcoin.com
+
+
+? ?
+
+
+?
+
+
+?
+
+
+?
+
+
+0
+
+
+Waklert
+
+
+MedsForBitcoin.com
+
+
+Alternative price charts:
+
+- 
+
+Pharmacy Reviewer (covers only EDAndMore & Medstore Online)
+- 
+
+Ben on Imminst.org (February 201115ya)
+
+
+#### Bulk Synthesis/purchases
+
+
+Another fascinating possibility for obtaining modafinil is to not order pills, but order powder or one’s own synthesis of modafinil:
+
+- 
+
+A Korean company “Chemland21” offered in 200620ya to synthesize modafinil at $550/kg
+- 
+
+a possibly-defunct Chinese supplier “pharm-marketing.com” offers it for an unknown price
+- 
+
+a Chinese-Thai producer “Drugs Power Store” offers 1kg for ~$3,000 (~$0.6 per 200mg, competitive with the ~$0.9 of the cheapest online stores)
+- 
+
+the Chinese supplier “Sun Nootropic” formerly advertised 1kg for >$1,057 or 0.2kg for $200; they received positive reviews but one Longecity poster said “Paypal no longer allows anything to do with Modafinil” but “they can still sell it, at the same prices, through paypal, only if Modafinil isn’t mentioned at all” reportedly took it down due to Chinese regulations in March 201313ya (they also advertised 100g adrafinil for $196.7$1332014)
+- 
+
+the Chinese supplier Top ChemTek was offering modafinil at reportedly $1,357.64$9182014/kg.
+- 
+
+the Canadian supplier reChem Labs offers to Canadian customers only, for research purposes of course, 1g of armodafinil for $20, 3g for $45, 5g for $60, and 10g for $100. reChem labs “strictly forbids consumption of any of the products.”
+- 
+
+the major Chinese marketplace Alibaba.com offers a constantly changing selection of wholesalers who claim to sell modafinil; unfortunately it (the import-export section in particular) is a laissez-faire market where caveat emptor!, with many stories of burned buyers. One importer says
+
+
+…I have worked with a lot of different Chinese suppliers; not this one specifically, though. Alibaba gold rating means absolutely nothing, and Alibaba will not be helpful in a dispute. I have been scammed by multiple 5 year gold suppliers on there. Even when I showed Alibaba 3rd party testing proving they sold me baking soda as pitolisant or EDTA as coluracetam, I was SOL. I was out the money, and Alibaba did nothing to demote the supplier rating. So as far as anyone should be concerned, that rating is useless…We were also scammed by a supplier on Look Chem. Same story. We showed them proof it was fake, but they did nothing about it. The supplier is still listed as a verified supplier. So I consider the whole “verified” thing on all the sites to be BS. We have a few trusted suppliers that we stick to now. The others are just a gamble.
+
+
+It seems unsafe to consume any modafinil or armodafinil bought over Alibaba.com without third-party testing one arranges oneself (and definitely not through or provided by the Alibaba.com seller). For the difficulties of testing modafinil, see the later section.
+
+
+Reports of Westerners successfully taking this route are rare (the only claims of success I have seem are in the Longecity thread linked previously). Additional information is welcomed.
+
+
+### Darknet Markets
+
+
+There are other sources; the Silk Road 1 DNM & its successors usually have generic modafinil & armodafinil52, at reasonable prices; but given the anonymizing measures, use of Bitcoin rather than dollars, and the inherent flux of an online marketplace, I cannot possibly incorporate it into the chart. However, I am interested in modafinil price trends over time and have been monthly compiling product pages from SR/BMR/Atlantis/Sheep/SR2 for future analysis:
+
+- 
+
+2013-05-28
+- 
+
+2013-07-03
+- 
+
+2013-08-03
+- 
+
+2013-09-04
+- 
+
+2013-09-20 (a premature collection triggered by the Atlantis shutdown)
+- 
+
+2013-10-01
+- 
+
+2013-11-03
+- 
+
+2013-11-12 (checking in on the new SR2; turned out, no modafinil listings were up yet)
+- 
+
+2013-11-28 (over concerns about Sheep; SR2 now has modafinil listings)
+- 
+
+2014-01-01 (SR2, Blue Sky Marketplace)
+- 
+
+2014-04-04 (SR2, Agora, Blue Sky Marketplace, evolution, Cloud-Nine)
+- 
+
+2014-05-21 (Agora, Andromeda, Black Bank, Blue Sky, Cloud-Nine, Evolution, SR2)
+- 
+
+2014-06-03 (Agora, Alpaca, Andromeda, Black Bank, Blue Sky, Cloud-Nine, Evolution, SR2—entries from 8 June, when their search engine worked again)
+- 
+
+2014-07-05 (Agora, Alpaca, Andromeda, Black Bank, Blue Sky, Cloud-Nine, Evolution, Pandora, SR2 entries from 6 July)
+- 
+
+2014-08-05 (Agora, Cloud-Nine, Hydra, Evolution, SR2)
+- 
+
+2014-09-28 (Agora, Andromeda, Black Bank, Blue Sky, Cloud-Nine, Evolution, Hydra, Pandora, SR2)
+- 
+
+2014-10-02 (Agora, Andromeda, Cloud-Nine, Evolution, Hydra, Pandora, SR2)
+- 
+
+November 201412ya: canceled due to Operation Onymous
+- 
+
+2014-12-05 (Agora, Evolution, Diabolus, Nucleus, TOM)
+- 
+
+2015-01-02 (Agora, Black Bank, Diabolus, Evolution, Middle Earth, Nucleus)
+- 
+
+2015-02-05 (Black Bank, Diabolus, Dream, Evolution, Nucleus; Agora the next day)
+- 
+
+2015-03-03 (Agora, Black Bank, Diabolus, Dream, Evolution, Nucleus)
+- 
+
+2015-04-03 (Abraxas, Agora, AlphaBay, Crypto Market Nucleus, Middle Earth)
+- 
+
+2015-05-03 (Abraxas, Agora, AlphaBay, Black Bank, Crypto Market, Diabolus, Middle Earth, Nucleus, Outlaw)
+- 
+
+2015-06-04 (Abraxas, Agora, Alphabay, Crypto, Dream, East India Company, Haven, Middle Earth, Nucleus, Outlaw)
+- 
+
+2015-07-03 (Abraxas, Agora, Alphabay, Crypto/Diabolus, Dream, East India Company, Middle Earth, Nucleus, Outlaw, Oxygen)
+
+
+## Examples
+
+
+Counterfeits seem to be responsible for many negative experiences with modafinil; in the absence of effective assaying or contacting the manufacturer53, this section is an experiment with providing data on what believed genuine product looks like, inasmuch as the counterfeits sometimes not do a good job of replicating the packaging & appearance of genuine products.
+
+### Modafinil
+
+
+#### Modalert
+
+
+Below is data given to me by an acquaintance about 2 strips of 200mg Modalert which he obtained through 2 separate sources.
+
+
+Strips:
+
+- 
+
+Weight: 4.62 +/- 0.05g
+- 
+
+Size: 4.8x12.0cm
+- 
+
+Texture: Dimpled, with dimples approx 0.5mm apart
+- 
+
+Material: Two layers of aluminum, with two thin layers of glue in between them (one on each side of the pouch). The glue is a clear, thin, stretchy plastic; it is not sticky unless heated.
+- 
+
+Texture: Solid silver, dimpled except in the rounded-rectangle pouches that contain the pills. The dimples are approximately 0.5mm apart. The spacing between the pill-pouches is 6-7 dimples in size
+- 
+
+The front has purple printed text and a red stripe down the left. The red stripe is 2 dimples wide.
+
+
+2 strips, front & back
+
+
+The front of 1 10x100mg strip, and rotated
+
+
+The back of said strip, also with rotated view
+
+
+Pills:
+
+- 
+
+Weight: 320mg
+- 
+
+Color: White, slightly shiny, and made of the same material throughout with no coating
+- 
+
+Shape: 1cm in diameter, 3mm thick. The bottom has a 1mm bevel around the circumference. The top has a similar bevel, plus a diameter about 1mm thick and 0.5mm deep. Sometimes the bevel is offset slightly (<.02mm) so that there’s a 90 degree corner in front of the bevel.
+- 
+
+In water, breaks into small particles producing a milky liquid, but settles to the bottom if left still for several hours
+
+
+3 pills, one broken in half
+
+
+One pill, top & bottom
+
+
+In October 201115ya, Paul Newcomb ordered from Nubrain & EDandMore, providing photographs:
+
+
+10x100 Modalert, ordered from Nubrain
+
+
+10x200 Modalert, ordered from Nubrain
+
+
+In February 201214ya, `myModafinil.net` sent me a free sampler of 200mg Modalert; one package:
+
+
+10x200 Modalert, sent from myModafinil.net
+
+
+#### Modapro
+
+
+Paul Newcomb:
+
+
+10x200 Modapro, ordered from Nubrain
+
+
+#### Modvigil
+
+
+Photos of an order of Modvigil ordered from `Modup.net` were posted on Reddit June 2013: front, back.
+
+
+#### Orifarm/Mylan
+
+
+Swedish prescription, 100mg Mylan:
+
+
+Blisterpack back of 100mg Mylan modafinil (2016)
+
+
+Front packaging of 100mg Mylan modafinil (2016)
+
+
+### Armodafinil
+
+
+#### Waklert
+
+
+I’ve bought 150mg Waklert (generic armodafinil manufactured by Sun Pharma) twice on Silk Road 1; the first shipment:
+
+
+4 of the pills are left after I tested the first one overnight.
+
+
+Second:
+
+
+a shipment of 80 Waklert (8 packages of 10)
+
+
+close up of the front and back of one package
+
+
+## Margin Estimation
+
+
+One way to evaluate whether something is ‘too good to be true’ is to figure out what the cost to the seller is. It is impossible for them to sell it for less in the long run—they would lose money on each purchase. And they have overhead, too, so their price to you must be greater than cost. There are exceptions where you can buy for less than cost and not be scammed, but every exception has some exceptional reason driving it. If you can’t figure the reason out, you should be suspicious.
+
+### Affiliates
+
+
+So what’s the raw cost of modafinil to these online pharmacies? We can get a first estimate by looking at affiliate commissions. Commissions are part of the cost structure, so we can subtract the commission from the price and get an upper bound on how much the modafinil cost. (A company might be willing to pay a commission so high it makes a sale unprofitable if it generates a lot of return business, but this seems unlikely in an online pharmacy scenario.)
+
+
+For pharmaceutical affiliate marketing programs, particularly the Russian/East-European partnerka ecosystem like GlavMed which dominated modafinil sales until the early 2010s, commissions historically were around 30-50%. I signed up for 3 affiliate programs between April 201115ya and January 201254; in order, by price per mg as given in the above chart (cheapest first):
+
+- 
+
+EDAndMore: 20%55
+- 
+
+ThePharmacyExpress: 15%
+- 
+
+Good Health Pharmacy: 15%
+- 
+
+OneMedStore: 30%
+
+
+Interestingly, there is only a weak pattern of commissions shrinking with prices, which suggests we may be seeing price discrimination at work56; if EDAndMore can offer both the cheapest prices and higher commissions, that suggests there is considerable margin to cut. Further, EDAndMore offers shipping ‘for free’, but of course, there is no such thing as a free lunch so what that actually means is that the shipping is built into the price. If we assume that shipping costs them $10 a package of 200x200 and exclude it from their modafinil cost, and we cut 20% for commission, that suggests a price of 200⋅200180−(180⋅0.2)−10, or ~300 mg/$—substantially higher than the 222 mg/$ available to the consumer.
+
+
+### India
+
+
+These pharmacies are almost all sourcing their modafinil (if it’s actual modafinil) from Indian sources. More directly, there are scattered reports online about pricing in places like Russia or, most relevant, India:
+
+
+the modalert from india, which is sold through both european and indian online pharmacies, costs about 12$ / 10 pills—200mg. now the same stuff in an indian pharmacy costs only $3 / 10 pills—200mg (https://www.longecity.org/forum/topic/44117-modafinil-sources/page-2?&&p=454877#entry454877)
+
+
+Such a pharmacy price would be 10⋅2003 or 667 mg/$. So this sets another bound—it’s highly unlikely any online pharmacy would be able to beat an Indian pharmacy. Modalert packaging (see above) comes with retail prices in rupees stamped on it, presumably for tax purposes; at 81 rupees for 10 pills, and ~50 rupees to the dollar, that’s ~$2 per 10 or 20 cents per 100mg pill. The 200mg pills are stamped 129 rupees, or ~$2.5 or 25 cents per 200mg pill. Another reader reports similar Indian prices in January 2012: 85 rupees for 10x100 and 130 rupees for 10x200. A reader setting up a business told me in January 2012 that he had arranged with a UK-India importer for modafinil at $0.35-45 per pill in bulk, which is consistent with the stamp prices plus overhead & profit for the importer. A similar reader said, when I asked in February 2012, that the going price was 131 rupees for 10x200 and my February 200mg Modalert arrived with stamps for 131 rupees per 10 pills. My armodafinil (Waklert generic brand) bought on Silk Road are stamped 150 rupees (per 10x150mg) or ~$3, which is less of a premium than I would have guessed. An Indian redditor claims February 2013 Sun Waklert/Modalert at $0.28 per pill, and the Indian drug database HealthKartPlus prices Sun 150mg Waklert at 150 rupees per 10 and 200mg Modalert at 131 per 10. In September 201511ya, another redditor reported 40x200mg at $9.6.
+
+
+(There is another, more pessimistic bound—the cost of fake medicines, which aren’t as cheap as one might guess, one example being a $109.03$59.952003 product costing $2.50 sometime before 200323ya.57)
+
+
+### Estimates
+
+
+So to review:
+
+- 
+
+your standard blister-pack of 200mg Sun modafinil will run one around $4 in an Indian pharmacy. Since real fake medicine costs about as much and the cost of the modafinil is one of the smallest costs involved, we can assume that it is probably real and the Indian pharmacy prices apply.
+- 
+
+The India Post shipping from India to USA will cost ~$14.
+- 
+
+On the clearnet end, the costs are domain name, hosting, customer support, and processing bitcoins;
+
+- 
+
+cashing out bitcoins to pay the India drop-shipper might cost 5% of that in various fees
+- 
+
+a domain name shouldn’t cost more than $20/year even for a Russian registrar
+- 
+
+hosting an ecommerce site is also maybe $20/month which totals to~$300 (the modafinil business can be rough so probably a seller will actually be paying more for security than I include here)
+- 
+
+support might be something like minimum wage at a 40-hour year-round job or 8⋅365=2920 handling all the orders; domain, hosting, and support are amortized over all orders, which for a top modafinil seller should easily be thousands of orders per year, so let’s say 200026ya orders
+
+
+Hence, if you order a 40x200mg Sun Modalert, it will generally run you something like $80 from a seller; then the bare minimum that modafinil seller could manage is a cost of (4+14)⋅1.05+(3002000)+(8⋅3652000)≈20 for a maximum possible margin of <74%. Being more conservative and assuming a 50% profit margin, this is consistent with (ie. greater than) both the affiliate percentages from past modafinil sellers and with the general affiliate percentages quoted by spam researchers, so it seems safe to assume that once a modafinil seller is up and running with a secure bugfree ecommerce website, a reliable dropshipper & modafinil source, and a good reputation, then it is profitable.
+
+
+# Ordering Behavior
+
+
+Internet suppliers are not known for their transparency or reliability, and on top of the technical difficulties it is well-known that suppliers can be untrustworthy and actively deceptive; and the few retailers online of modafinil which are trustworthy tend to be more expensive (as a look at the above chart shows) or they require prescriptions for US buyers (like the Canadian online pharmacies). It’s hard to get any hard numbers on how likely a particular supplier is to be a scam, or how many customers of a particular site are happy. A BBC online poll58 (for what that’s worth) about “cognitive-enhancing drugs” (eg. modafinil, Adderall, and Ritalin) got 761 responses, of which 38% were users at any point (~289), of which “nearly 40% said they had bought the drug online, and 92% said they would try it again.” In the worst case scenario that the 8% who wouldn’t try it again were all online buyers, that’d implies be a 839=0.2051 or 21% unsatisfied rate or 79% satisfaction rate.
+
+
+So we are faced with a classic problem of risk: given that any supplier may shaft us, how should we rationally order products to reduce our risk?
+
+
+For modafinil we can come up with a few distinct ordering scenarios:
+
+- 
+
+a one-shot order
+- 
+
+multiple orders, with oneself as an oracle (perhaps one has used genuine Provigil in the past and is sufficiently rational to avoid mistakes caused by things like the placebo effect)
+- 
+
+multiple orders, with laboratory assays as the oracle
+
+
+## One-Shot Ordering
+
+
+For an extended example of how one might calculate an order, see a Silk Road example
+
+
+For #1, the simple answer is best. You decide roughly how much you trust each supplier based on factors like how their website looks, what descriptions of them you found online, whether they seem ‘too good to be true’, etc.—what is the percentage that they will pay? A known scam is 0%, a totally trusted source is 100% and everyone else is a shade of gray. Then you multiply their trustworthiness against their unit price (milligrams per dollar) price. Whomever comes out on top, you order from.
+
+
+So, if I thought EDAndMore had only a 60% chance of delivering real modafinil rather than caffeine pills, I would multiply their unit-price 222 against the trust-penalty of 0.6 and get 133.2 (222⋅0.6). And then I might decide United Pharmacies smells a bit better and give them a 70% chance, for a total of 145.6 (208⋅0.7); and perhaps Airsealed gets a whopping 95% trust from me, for a total of 71.25 (75⋅0.95). In this scenario, Airsealed is highly trustworthy compared to the other two, but because Airsealed costs nearly 3 times its competitors, it comes out poorly against United Pharmacies; UP is only a little more expensive than EDAndMore, but has a noticeable edge over EDAndMore in trust and so wins. For Airsealed to win, I would have to trust both EDAndMore and United Pharmacies somewhere less than 33%.
+
+
+I order and I get… something. This is where the one-shot strategy ends. You calculated, did your best, and either won or lost.
+
+
+If you plan to order again (and modafinil is such a useful drug that it is hard to see why one would not plan to use it indefinitely as side-effects, tolerance, and finances permit), you have a chance to update based on how the first order went. Presumably one has learned from one’s own experiences whether the product was modafinil or not. Modafinil is fairly distinct from caffeine; one gains tolerance to caffeine very quickly, and caffeine will not keep one going overnight with little mental penalty. So we’ll assume one knows. If it was modafinil, then great. You’ve found an honest supplier. (You might want to order a few years’ supply while you can.) If you really want an optimally cheap supply, you can try some of the other suppliers. Naturally you will not try any supplier whose per-unit price is more expensive, because you trust your current supplier 100% and must distrust the others at least a little, so the list of possible suppliers has been cut down.
+
+
+## Ordering With Learning
+
+
+If it was not, then you have a problem. Are you the vengeful sort who assumes that suppliers are all-rotten? Then you blacklist them and order from the next cheapest supplier (by unit-price adjusted for perceived risk). If you’re not vengeful, if you believe the suppliers who say that they don’t have control of their supply chain and sometimes bad products slip in, then you have to do more work.
+
+
+If we interpret our distrust probability as instead ‘what percentage of delivered product is genuine’, then to continue the previous example, my trust probability would drop only a little if EDAndMore sent me caffeine/fake modafinil. Why? Because I estimated a 60% chance of them sending me modafinil, and 60% is another way of saying there’s a 40% chance they’ll send me not-modafinil. 40% chances happen quite often and I wouldn’t be very surprised if one happened when I ordered. On the other hand, I expected mostly pure product out of Airsealed (95% of their shipments being good), so if Airsealed sent fakes to me, then I would be quite shocked—5% chances don’t happen all that often (it’s like rolling a 20 in Dungeons & Dragons">D&D). How much do I knock down my estimate of Airsealed? By more than EDAndMore. But how much more? Well, you have to apply Bayes’ theorem. (One basic property of Bayes’ theorem is that extreme probabilities are hugely damaged by opposed observations, while equivocal probabilities like 51% take a lot of data to knock down. For a good explanation, see “An Intuitive Explanation of Bayes’ Theorem” or “Visualizing Bayes’ Theorem”.)
+
+
+P(a|b)=P(b|a)⋅P(a)P(b)
+
+
+The former is a little complex, so we’ll simplify down again. Here’s our scenario: 95% of the orders delivered by a ‘good’ supplier will be real (all modafinil); but bad suppliers have only 5% of the orders be real. (Apparently this isn’t all that unrealistic; whether it’s because supply chains are unreliable or deliberate profit-maximizing behavior, often neither good or bad suppliers ship all fakes or all genuine modafinil.)
+
+
+Now, supplier A, whom you had calculated was probably good with 90% probability, sent you a fake. Keeping in mind that you might just be one of the unlucky 5%, now how much do you think that A is good?
+
+
+A rearrangement of Bayes’ theorem from the end of Eliezer Yudkowsky’s “Intuitive Explanation of Bayes’ Theorem” (he explains its derivation if you don’t trust me):
+
+
+P(a|b)=P(b|a)⋅P(a)(P(b|a)⋅P(a))+(P(b|¬a)⋅P(¬a))
+
+
+How confusing and intimidating! Where does one start, with all the different symbols?
+
+
+Let’s break it down step by step. If you didn’t read either Wikipedia or Yudkowsky, you should have, but remember the pipe is read backwards: P(foo|bar) means ‘how likely is foo now that I have observed bar’ (you could mentally rewrite it to something like P(bar→foo)). b represents our observation, whatever it is. In this case, it’s the not-modafinil, the fake pills. a represents our new, reduced, belief that A is a good place to order from. So at the beginning we can make a few definitions:
+
+- 
+
+a = being a good supplier
+- 
+
+b = receiving fakes
+
+
+If you look, the right-hand side of that equation has exactly 4 pieces in its puzzle:
+
+- 
+
+P(a)
+
+
+This is something we already know, ‘probability of being a good supplier’. Well, we specified a few paragraphs above that we had somehow concluded that A was a good supplier with 90% odds.
+- 
+
+P(¬a)
+
+
+This is the opposite of the previous. Now logically, if something has a 90% chance of being true, then it has a 10% chance of not being true. Either one or the other. So this is simply equal to 10%.
+- 
+
+P(b|a)
+
+
+Remember, we read the pipe notation backwards, so this is ‘the probability that a good supplier (a) will send us fakes (b)’. We also said that good suppliers send 95% good orders; by the same logic as above, that’s another way of saying they send 5% fakes. So this is simply 5%.
+- 
+
+P(b|¬a)
+
+
+Finally, we have ‘the probability that a bad supplier will send us fakes’. We said bad suppliers send 5% good orders, so again, subtracting from 100 and we know they must send 95% fakes. So this is simply 95%.
+
+
+To put all these definitions in a list:
+
+- 
+
+a = good supplier
+- 
+
+b = fakes
+- 
+
+P(a) = probability of being a good supplier = 90% = 0.90
+- 
+
+P(¬a) = probability of being a bad supplier = 10% = 0.10
+- 
+
+P(b|a) = probability a good supplier will send fakes = 5% = 0.05
+- 
+
+P(b|¬a) = probability a bad supplier will send fakes = 95% = 0.95
+
+
+We substitute in to the original equation:
+
+
+P(a|b)=P(b|a)⋅P(a)(P(b|a)⋅P(a))+(P(b|¬a)⋅P(¬a))=0.05⋅0.9((0.05⋅0.9)+(0.95⋅0.1))=0.045((0.05⋅0.9)+(0.95⋅0.1))=0.045(0.045+(0.95⋅0.1))=0.045(0.045+0.095)=0.0450.14=0.32
+
+
+32% seems like a reasonable answer. Intuitively, I’d expect my trust to drop considerably below 50%, but still well above 5%, and 32% is well within that range.
+
+
+Phew! So, now we have a full system for situation #2. First, go through the expected utility calculation for all the prices you’ve gathered in which you trade off risk versus price. Then order, test for modafinil or not-modafinil, and do a Bayesian update on the supplier. Rinse, and repeat. This procedure terminates if there are any good suppliers (suppose you luck out and the second supplier you test, #4 on the per-unit list, is honest; now you only need to test 3 more suppliers since they are the only ones cheaper—why would you care about an equally reliable but more expensive supplier?).
+
+
+Of course, this does require you to already have beliefs about the reliability of a supplier. If one is willing to order blind, there’s a cute frequentist trick for rough estimation when you have a bunch of independent binary experiments: the rule of three, which goes simply that if you haven’t observed x despite looking n times, then 95% of the time x has a probability of less than 3⧸n. So if we had ordered 10 times from a seller and we assume the seller isn’t doing anything tricky like “send a new customer 11 real orders and then sell him only fakes” but is randomly sending reals and fakes, we can calculate the seller sends fakes less than 3⁄10 = 0.3 = 30% of the time. The weaker generalization is Laplace’s Rule of succession, which says the odds of a fake in the next order, given s failures and n total orders, is s+1n+2—the idea being that we should assume the worse, that we get a fake in the next order; then, if one looked at one of our orders randomly, there’d be an additional fake. In the previous example, that works out to 0+19+2=111=0.09=9%. (We can apply Laplace to all sorts of instances; one cute example is estimating whether a cop will pull you over for driving faster than him—if we assume that you were pulled over once, and you saw 4⁄5 others try & fail, then the odds you will be pulled over the next time is 4+15+2=57=0.71=71%.)
+
+
+We could also try applying the rule of three and Laplace’s rule of succession to estimating seizures by customs: I personally have ordered modafinil perhaps 7 times, one of which was not seized by customs but unusual circumstances meant I dastn’t get it; so I would obtain 3+17=0.57=57% by the rule of three or 1+16+2=0.25=25%.
+
+
+And the real rates? One supplier told me of 20-30 shipments without seizure, which would be 320=15% or 0+120+2=4.5%, and specifically claims a 3% rate; another supplier claims in their FAQ a 3% rate for all packages which are “stolen, returned, delayed till deadline”. Levchenko et al 2011 reports that of 120 purchase attempts, 56 purchases went through and only 3 were not delivered for any reason, for a failure rate of ~5%.59 Darknet market sellers seem to enjoy similar success rates, I infer from the general tenor of forum posts. In general, these low rates seem plausible given how rarely I hear of actual seizures. (People ask what the odds of seizure are far more often than seizures actually happen, it seems.)
+
+
+## Ordering When Learning Isn’t Free
+
+
+See also the discussion as applied to evaluating sleep experiments and nootropics experiments.
+
+
+How do we extend this procedure to handle situation #3, where we no longer trust ourselves to test the supposed modafinil (for free)? This is a question on the value of information (4 examples).
+
+
+Let’s assume it costs $1,000 to assay some pills and like in #2, we’ll assume the assay is infallible. Then we just repeat the #2 procedure except with the assay replacing our own subjective testing. Fair enough, right?
+
+
+But a wrinkle comes to mind: $1,000 is a lot of money. Quite a lot, really. You could buy a lot of modafinil with $1,000; even if we played it safe and bought from Nubrain, $1,000 would get us 62⋅1000, or 62,000 mg, or at 200mg a day, 310 days’ worth60.
+
+
+Are we sure we want to spend that? I mean, what if the price difference between the last 2 suppliers is just a few pennies—would we still want to spend $1,000 just to be sure? Even if we plan to buy for years, decades, or the rest of our life, that $1,000 might not be worth spending to optimize and save a few pennies. We could ask ourselves—is the possible penalty of a few pennies every order over our lifetime worth the $1,000 right now? If we’re saying $1,000 on every order, then we do want to spend it, and if we’re saving 1 penny on each order, but can you say instantly and with confidence that saving $50 is worth it? Or $55? Our intuitions are not that precise, and in cases like this, we ought to look for a more rigorous and precise way of expressing this trade-off.
+
+
+As it happens, there’s a nifty formula for our dilemma. We want to compare an infinite stream of small savings against a single large expenditure. The savings would make us slightly wealthier each time period. In fact, you could imagine that we were actually discussing loans or saving bonds or annuities: is the small expense or payoff each year worth the large upfront payment or investment? In economics terminology, the question is whether the ‘net present value’ of that payoff stream is larger than our present potential investment.
+
+
+Net present value can be approximated based on knowing one’s discount rate (which is a percentage) and then plugging in the numbers to the following formula:
+
+
+NPV=annualPayoffln(discountRate+1)
+
+
+What is my discount rate? If I introspect and ask myself, would I prefer $150 in a year to $100 right now; I say yes, so I know my discount rate is less than 0.5/50%; would I prefer $125 to $100 now? Yes, so it’s less than 0.25/25%; and so on down to around $107 versus $100, where the $7 feels a little too little. So let’s say my discount rate is 7%.
+
+
+What do our two suppliers look like? Maybe one charges me $220 for a year’s supply and the other—the one I haven’t yet tested—supplies it for $200. So $20 a year is at stake. Let’s plug it in:
+
+
+NPV=annualPayoffln(discountRate+1)=20ln(1+0.07)=20ln(1.07)=200.06765=295.6
+
+
+But it would cost us $1,000 to assay and find out whether there was a savings or not! Clearly it’s not a good idea to spend the money for the assay. $20 a year is just not enough.
+
+
+As it happens, at a discount rate of 7%, we would have to potentially save about $68 before the assay became a good idea. (For $20 a year to be worthwhile, your discount rate has to fall down to around 2%, and very few people are that patient and self-sacrificing!) If you look back at the supplier chart, it runs the gamut from 200+ mg per dollar to <16 mg; so for the first few purchases the assay might well be worthwhile.
+
+
+Thus we solve situation #3. You apply the #1 method to decide at any point which supplier to order from next by their risk-adjusted unit-price; then you update the risk-adjusted unit-price through #2’s idea of using Bayes’ theorem; then if testing is not free, you decide to stop testing and stop searching suppliers when, as given by #3’s present value formula, the testing (assays) start costing more than one can hope to gain.
+
+
+As it happens, $1,000 is a gross exaggeration of how much assaying would cost; Erowid will do a kind of testing for $120, and we can run 2 simple chemistry tests to learn if there’s a sulfur group (which is a good proxy for modafinil) in a pill at an amortized cost of <$1 a pill or <$50 to start.
+
+
+It goes without saying that #1-3 are all simplified models which may not apply to every situation; but at some point, the would-be user of nootropics must start thinking for himself.
+
+### Extended Present-Value Example
+
+
+So let’s step through a problem using expected value and net present value.
+
+
+Starting with the price-chart, our top contenders per unit cost (mg/$) are (as of December 2011):
+
+- 
+
+238, 4NRX Pharmacy
+- 
+
+215, United Pharmacies.co.uk
+- 
+
+202, EDAndMore.com
+- 
+
+192, ThePharmacyExpress
+
+
+If we trust them all implicitly, we should order 4NRX. Let’s imagine our trust differs and come up with some hopefully non-random percentages about whether a supplier is honest:
+
+- 
+
+238, 4NRX Pharmacy, 65%
+- 
+
+215, United Pharmacies.co.uk, 90%
+- 
+
+202, EDAndMore.com, 50%
+- 
+
+192, ThePharmacyExpress, 90%
+
+
+We apply expected value to get our ‘expected unit cost’, as it were, and we get new rankings:
+
+- 
+
+215, United Pharmacies.co.uk, 90% = 194
+- 
+
+192, ThePharmacyExpress, 90% = 173
+- 
+
+238, 4NRX Pharmacy, 65% = 155
+- 
+
+202, EDAndMore.com, 50% = 101
+
+
+One can change the ranking arbitrarily, of course, with extreme enough confidences. In this case, it wouldn’t be too hard to swap the first and second or restore 4NRX to the top of the heap. We’ve finished applying expected value.
+
+
+Let’s ask about net present value. We can ask: is it worth our while to assay, based on the difference of 194 expected mg/$ versus 173 expected mg/$? Maybe we should just order forever from UP.co.uk and forget about TPE.
+
+
+Well, let’s make the assumption that we will order 100 doses of 200mg of modafinil every year indefinitely,
+
+
+That is 100⋅200194=103 dollars with UP.co.uk and 100⋅200173=116 dollars with TPE, a difference of $13 per year. For the cost of our assay, we’ll go with the $50 amateur assay-test, and we’ll use my own personal discount-rate of around 5%:
+
+
+NPV>testCost=annualPayoffln(discountRate+1)>testCost=13ln(1+0.05)>50=13ln(1.05)>50=130.048790>50=266.4>50
+
+
+We turn a profit of around $210. This little model isn’t correct since it covertly implies one of the two suppliers is sending fakes, yet back in expected value we gave 90% for both suppliers sending genuine products—a contradiction.
+
+
+We can try again with something fairer. Imagine you have the samples from both suppliers sitting at hand waiting to be tested. What do you expect to find? Well, if there’s a 90% chance that each of them is shipping genuine products, then there’s a 10% for each shipping counterfeits, which is pretty small and so the odds are good that our test will simply tell us that both suppliers are honest. Let’s look at all 4 possible outcomes:
+
+- 
+
+What are the odds that both are honest suppliers? (H H)
+
+
+Well, 90% times 90% is 81%.
+- 
+
+And that both are dishonest? (D D)
+
+
+10% times 10% is just 1%.
+- 
+
+That the first one is dishonest and the second is honest? (D H)
+
+
+90% times 10% is 9%.
+- 
+
+And vice versa? (H D)
+
+
+Well, same thing, 9%. (So the probability of either is 9% + 9% or 18%.)
+
+
+If both suppliers are honest, one gained nothing from the test, so we start with an 81% chance of not benefiting. Then, if the second one (the one you aren’t ordering from) is dishonest and the first one is honest, you still gain nothing (you picked correctly, huzzah!) so that’s 81% and 9%. If the first one (the one you are ordering from) is dishonest and the second one is honest, then you gain (9%), and the final 1% is also useful (you can scrap them both and look at suppliers further down the list). So all in all, there’s only a 10% chance of gaining from the assay!
+
+
+So here’s another opportunity to apply expected value: the value of our assay times that 10% chance it’ll actually lead to a financial gain:
+
+
+(266.4⋅0.10)>50=26.6>50
+
+
+Oh well!
+
+
+A final thought about modafinil:
+
+
+“I am not interested in talking about my ideas. I am interested in your application of them to your life.”61
+
+
+## Discount Rate Applications: Swapping Time for Time
+
+
+When I consider Life, ’tis all a cheat,
+
+Yet, fool’d with hope, men favour the deceit;
+
+Trust on, and think to morrow will repay:
+
+To morrow’s falser than the former day;
+
+Lies worse; and while it says, We shall be blest
+
+With some new joys, cuts off what we possest.
+
+Strange cozenage! none would live past years again,
+
+Yet all hope pleasure in what yet remain;
+
+And, from the dregs of Life, think to receive,
+
+What the first sprightly running could not give.
+
+
+John Dryden, Act IV of Aureng-zebe (1675351ya)
+
+
+Here is a fun thought experiment for you (which could be formulated as a sleep problem instead): a genie offers to tinker with your lifespan in the following manner, he will take away your scheduled year as an 85-year-old but give you an additional year as a 25-year-old. I think many people would take such a deal—more youth is good; even if you don’t get any more life, you are getting better life. Slightly stickier would be if the genie changed the deal slightly: you lose the same year as a sickly old man, but you only get 11 months in the prime of your life. I would still take this deal, and I think so would many people. It’s a hard problem to decide where I would finally decide I would prefer to live the year as a sickly old man than a virile young self with no health problems at all, but I’d trade off quite a bit of time; I think I would definitely accept anywhere down to 6 months or 50%. (I haven’t been impressed by the quality of old folk’s lives, and I’ve been told that it is overall like having a permanent cold in terms of energy and capability—which is pretty miserable!) Deciding the exact QALY is a much-debated problem. But whether you like it or not, you are making this sort of tradeoff every time you decide not to exercise or eat right, and it is a tradeoff many make at the end of their lives by avoiding heroically painful and expensive medical interventions, or simply face the prospect of living with diminished capacities62.
+
+
+All this is to say that I do not value life as an old man as much as life as a young man. This leads to the interesting observation: suppose modafinil use resulted in hideous crippling disease which manifests decades down the line, which is why the existing studies and large populations of users have not reported anything but rare and relatively minor side-effects; and suppose further that the risk was proportional to usage or something along those lines such that every modafinil dose that granted 8 hours of productivity cost one 8 hours of life in half a century—given all this, I would still regard modafinil as a blessing! From my perspective, if I lost a year to the disease, I gained the equivalent of 1.5 old years, which is quite a bargain.
+
+
+So the anti-modafinil argument starts off at a disadvantage if it wants to appeal to long-delayed consequences. Above we already saw how to use discount rates; discounting is applicable here, except our unit would be ‘years’ rather than ‘dollars’. It would be enlightening to ask, what is the net present value of one year of life 50 years in the future? We can’t use the exact formula from above because a year isn’t an income stream; the formula we want is the inverse of the interest rate formula:
+
+
+presentValue=futureValue(1+discountRate)years
+
+
+We say a year right now is worth 100% and we are asking what fraction of a present year a far distant year would be worth; while real people have discount rates much higher63, we will generously assume the improbably low discount rate of 2%64; and then ask how much a year is worth 50 years from now:
+
+
+presentValue=100(1+0.02)50=1002.692=37%
+
+
+Which is interesting as it suggests, on a pure discount-rate basis, that we will benefit from any activity which has a less than 3:1 penalty between then and now; if modafinil gains us 1 hour today and costs us 2 hours in that distant future, we are better off. I earlier said I was willing to trade, based purely on qualitative considerations, future and present at a 2:1 rate, so between the quality of life discounting (~2:1) and the temporal discounting (>3:1), an hour of modafinil use would have to cost me at least 6 hours in the future! A single 8-hour session on modafinil would need to cost me more than a day to be a bad idea.
+
+
+It’s quite a poisonous drug that comes with such a penalty; I don’t believe even smoking has that kind of penalty (I cite one calculation in Nicotine that one cigarette costs 11 minutes). So the reader could ask themselves: with everything they know and have heard about modafinil (and have not heard), how likely is it that modafinil is even worse than smoking?
+
+
+## Coordination Problems: Assaying
+
+
+On the one hand, information wants to be expensive because it’s so valuable. The right information in the right place just changes your life. On the other hand, information wants to be free, because the cost of getting it out is lower and lower all the time. So you have these 2 things fighting against each other.
+
+
+Hackers and 'Information Wants to Be Free': The most famous phrase in the book wasn’t mine. And it wasn’t in the book.">Stewart Brand to Steve Wozniak (198442ya; first The Hackers Conference)
+
+
+One response to the price of laboratory assays is to somehow distribute the cost among interested persons.
+
+
+Any user-based service would founder, I think. Look at my footnote about EDAndMore—there is a link to user feedback about EDAndMore, but it is littered with what smells like fake reviews. But how could I possibly prove that? If people really began to use the service, then the sellers have great incentive to corrupt it. One of the best user-generated sources was `DrugBuyers.com`, and even there, if you looked through threads, you would find endless comments by users banned for being shills.
+
+
+Now, it’s easy to avoid this problem and create a reliable rating system for modafinil sellers. All one has to do is order every few months, and send the product to a lab for assays. (This would be the Consumer Reports model for drugs.) But this requires a spare couple thousand dollars, and is a public good susceptible to the free rider problem. I certainly don’t have $2,000 to buy $100 of product (plus S&H) from 10 retailers and then pay for 10 lab assays. So really, the best I can do is catalogue what they advertise.
+
+
+It’s a public good, because while rationally, modafinil buyers should be willing to pay a few dozen or even hundred dollars to obtain access to the results of dozens of assays of purchases (avoiding, in the long run, spending thousands on counterfeits), and there are many thousands of buyers, plenty to collectively pay the vendor enough to cover the purchases & assays and provide a profit, it would be even more rational for one buyer to find the result and resell the summarized info for less, or just release it for free—“X is the best!”—and thereby ruining the vendor.
+
+
+Knowing how vulnerable they are, no vendor will go into the business to begin with—keeping everyone ignorant and making everyone worse off than if they could just have agreed not to share that result. (Consumer Reports gets away with it because it covers so much, there’s a lot of detail, and they seem to be largely funded by their automobile division.)
+
+
+One of the canonical solutions to a public good problem like this is called the assurance contract: participants legally bind themselves to contribute a sum of money if there are enough other such promises that the necessary threshold is passed. One of the most successful facilitators of assurance contracts is the online site Kickstarter; but of course, it is illegal to order modafinil without a prescription, and it is highly unlikely Kickstarter would permit an assurance contract for modafinil assaying to be created or completed.
+
+
+Unsurprisingly, there are only a few examples of modafinil testing:
+
+- 
+
+EcstasyData tested a Modvigil tablet and found no issues
+- 
+
+ModUP tested Modvigil at an unknown lab and found no issues
+- 
+
+Rechem.ca’s modafinil tested at a Dutch lab with apparent issues; a test of Sun modafinil at the same lab yielded similar results (but the interpretation is not 100% clear, given the lab’s focus on safety-testing, and may simply be detecting leftover traces of intermediate steps in the modafinil synthesis or something like that)
+
+
+#### /r/Nootropics
+
+
+In 201313ya, the /r/Nootropics subreddit moderators began a series of independent tests. (I am one of the moderators but have not participated in the project, being skeptical of the conflicts of interest involved.) How did they fund it? Not via an assurance contract. What actually happened was that they solicited donations of funds from vendors/websites/businesses listed in the subreddit FAQ as places to buy nootropics from; some vendors responded with funds, the moderators bought the necessary samples, and sent them off to the labs with the results posted publicly. This system works as long as the moderators are willing to volunteer their time and remain incorruptible; but it could easily collapse if, for example, a bogus vendor pays a moderator & sends a non-representative sample—the moderator has no direct interest in getting the truthful results except perhaps if they wanted to buy that exact product from that exact vendor. It’s true that it’s harder for a vendor to corrupt a third-party’s COAs than their own COAs, but it’s still doable. So we’ll see how well the system works out.
+
+
+The attempts to test did yield another benefit: information about how one would go about lab-testing modafinil. Not easily, it turns out, since it requires DEA approval on some level:
+
+
+Colin spoke to Sigma Aldrich, and said that the modafinil testing has to go through Sigma’s DEA approval. So he has declined to get involved in that testing. Even with a prescription, the testing has to have different approvals apparently. So if we want to test it, we will have to find another lab willing to get the approval
+
+
+This is the first I’ve heard about DEA approval necessary for testing. Is this Sigma only or is this something that’ll be a problem for anyone doing American lab testing?
+
+
+Colin said that it was a Sigma Aldrich thing. They won’t sell the reference sample unless the lab purchasing it goes through their DEA approval. I wonder what would happen if I called up Sigma with a prescription…I just did. They said that it’s actually not them, but the DEA rules themselves. The lab has to be DEA authorized to test any scheduled substances. They told me that even with a prescription, they are not allowed to sell it to me, since they are not a licensed pharmacy. They are a supplier, and the rules are totally different. So it looks like we need to find a lab that already has DEA authorization to test scheduled substances. It’s always got to be difficult!…It’s news to me too, but kind of makes sense when you think about all the regulations there are.
+
+
+The price quote is “$2,000 per test”.
+
+
+#### Assaying
+
+
+But suppose one has resolved this problem. There are a few options:
+
+Professional
+
+- 
+
+Erowid’s EcstasyData.org will, for $120, test for the presence or absence of modafinil and have done so (but they do not test the concentration; see their FAQs)
+- 
+
+There are a few laboratories which have been suggested:
+
+- 
+
+Analytical Laboratories
+- 
+
+San Rafael Chemical Services
+- 
+
+Colmaric Analyticals
+
+
+Amateur
+
+
+Modafinil is not that water-soluble while most pill binders are or at least have different densities, so it should be possible to extract purer modafinil by crushing & dissolving pills in water.
+
+
+Trajork writes:
+
+
+Modafinil is a sulfa drug, containing a certain chemical group called a sulfonamide group65. And lo and behold I stumbled across a simple pair of chemical tests for sulfonamides.
+
+
+I took about a third of a pill and placed it in a test tube, adding a few ml of dilute NaOH. I then mixed it up and heated it over an alcohol burner. This should produce ammonia, which has a really characteristic odor. I got a whiff of my tube and, indeed, it was ammonia! I also tested the fumes with a piece of litmus paper—it turned blue, as expected [litmus turns red for acids & blue for bases; ammonia is a base]. Then I put another third of a pill in another test tube and added dilute HCl. Upon heating it, sulfur dioxide should be produced—another gas with a characteristic, pungent odor. So I sniffed my tube—it smelled awful! Further, my litmus paper turned red, which is what I’d expect because SO2 is acidic.
+
+
+Finally, one other test—I wanted to make sure this isn’t a characteristic of pill binder substances or anything. So I took half a caffeine pill and did the NaOH → NH3 test on it. No ammonia whatsoever.
+
+
+I am not a chemist & cannot vouch for this procedure; at best, such a test would be crude and likely produces many false positives and negatives66, but may still be worth using. At least it should be cheap—checking, 50+ strips of pH/litmus paper is ~$5; hydrochloric acid is harder to find, but seems to be obtainable at $10–20 online; and sodium hydroxide similarly (and no doubt purchasable cheaper locally), for a worst-case cost of $45. This is roughly a third of `EcstasyData.org`’s price, and enough to test 50+ samples at a worst-case cost of ~$1 per sample.
+
+
+Those with access to FTIR, NIR, or Raman spectroscopy may find Assi et al 2020 helpful. Another possibility is to attempt to rule out possible substitutes like amphetamines using a standard reagent test like the Mecke or Marquis tests; this has been tried before, apparently successfully.
+
+
+# External Links
+
+
+- 
+
+Online sources of discussion & anecdotes:
+
+- 
+
+Modafinil at Erowid
+- 
+
+Imminst/Longecity
+- 
+
+Drug-forums.com (which also boasts an extensive collection of documents, and >38 PDFs on modafinil)
+- 
+
+Bluelight.ru
+- 
+
+Reddit submissions
+
+- 
+
+Modafinil.com
+- 
+
+General:
+
+- 
+
+“Brain Gain: the underground world of ‘neuroenhancing’ drugs” (The New Yorker)
+- 
+
+“Wake Up, Little Susie: Can we sleep less?” (Slate)
+- 
+
+“My Experiment With Smart Drugs” (Johann Hari)
+- 
+
+“Medicine: This Will Keep You Awake” (Philadelphia)
+- 
+
+“The drugs do work: my life on brain enhancers” (Guardian)
+- 
+
+“The Real Limitless Drug Isn’t Just for Lifehackers Anymore” (New York)
+- 
+
+“Modafinil and startups” (Daniel Tenner)
+- 
+
+“My Experiences With Modafinil”/“A Slightly More Cautious Take On Modafinil” (Sebastian Marshall; Anonymous)
+- 
+
+“Why You Are Suffering from a Modafinil Deficiency”/“Where to Get Modafinil—Bulletproof Readers Chime In” (Dave Asprey)
+- 
+
+“The Modafinil Diaries” (Edward Sung)
+- 
+
+“Oxford academic: I use brain enhancing drugs” (Anders Sandberg)
+- 
+
+“Cognitive enhancement, legalising opium, and cognitive biases”
+- 
+
+“Managing Modafinil” use for cerebral palsy (Eric S. Raymond)
+- 
+
+“Methylphenidate, modafinil, and caffeine for cognitive enhancement in chess: A double-blind, randomized controlled trial”, Franke et al 2017 (“8.9% of respondents admitted to having used prescription or illicit drugs at one time or another to improve their chess play.”)
+- 
+
+“Failed by the system, people are turning to the dark web for prescription drugs”
+
+- 
+
+Google Answers (Q: Modafinil Brands)
+- 
+
+modafinil as a negative externality or positional good:
+
+- 
+
+“The Economics of Not Sleeping” (Matthew Yglesias)
+- 
+
+“A blessing in disguise, albeit a very good disguise” (Yvain)
+- 
+
+“The Ethical Consequences of Modafinil Use” (Cahill 200521ya)
+
+
+# Appendix
+
+
+## Schizophrenia
+
+
+### Epidemiology
+
+
+General observations: modafinil does not seem to be suspected as a cause of schizophrenia in any of the usual documentation, suggesting that even agencies like the FDA with incentive to find fault with modafinil see nothing suspicious. (Cephalon’s legal woes demonstrate, I think, that it has little corrupting influence over government agencies.) Similarly, while schizophrenia is a mysterious disorder or cluster of disorders, modafinil does not seem to have any chemical connections. Between these two, my expectation is that there is no causal link, or the link is from schizophrenia to modafinil use. Schizophrenia famously strikes young people, so we might expect some low correlation if we do not correct for age—young people also being famously adventurous and drug-using. But how to estimate?
+
+
+One of the main causal links to problems for modafinil are SJS and rashes, based on a patient population of roughly a million. The FDA estimated a rough tripling of that risk:
+
+
+given a case count of 4 (excluding the clinical trial case) and a projected total patient exposure of 704,167.7 patient years in the U.S., the calculated reporting rate for modafinil associated SJS/TEN in all ages in the U.S. is 5.7 per 1,000,000 patients as compared to the background rate of 1-2 million per patient.
+
+
+The important thing is the patient-years estimate of 704k. More germane is the FDA summary for mental issues:
+
+
+Dr.&nbsp;Mosholder [22] analyzed three clinical trials, two double blind and one open label. There were no completed suicides across trials. Although the exposure to modafinil was greater, there were more events of psychosis/mania, suicidality, and aggression among the modafinil treated patients as compared to placebo. Coinciding with Dr.&nbsp;Mosholder’s review was another DDRE review [23] performed by Dr.&nbsp;Kate Gelperin and Ms.&nbsp;Kate Phelan, RPh that analyzed the same psychiatric events from postmarketing sponsor submitted and AERS data. These data were presented at the March 200620ya Advisory Committee Meeting. The most important finding of this review is that signs and symptoms of psychosis or mania, particularly hallucinations, can occur in some pediatric patients with no identifiable risk factors, at usual doses of any of the drugs currently used to treat ADHD, including modafinil.
+
+
+I am not sure how to get Division of Drug Risk Evaluation (DDRE) reviews, so there are no numbers on these symptoms. Pages 12-14 of the FDA summary discuss juvenile reports in the first year of surveillance; the 4 relevant events were temporary increases in aggression, permanent worsening of ADHD & oppositional defiant behavior, suicidal thoughts in an obese depressed girl, and epilepsy with visual hallucinations.
+
+
+These presumably are what the DDRE reviews are talking about. If we make that assumption, and reason that any fast-acting schizophrenics would be caught in the adverse effects database, we could suggest that any schizophrenia risk increases would be in one per hundred-thousand patient-years order of magnitude. As schizophrenia has prevalence rates in the fraction of a percentage rate (Wikipedia suggests 0.3-0.7%), a doubling may not be as noticeable as it is for SJS with prevalence more like 0.0001%, but would still lead to unusual numbers of schizophrenics linked with modafinil use.
+
+
+### Schizophrenics on Modafinil
+
+
+Another approach would be to ask, “does modafinil exacerbate schizophrenia symptoms or cause additional symptoms?” Presumably if modafinil could cause schizophrenia, it could also worsen cases of full-fledged schizophrenia. This is not a perfect strategy as it is quite plausible that a drug might worsen symptoms of a disorder without causing it, but it may shed some light. Fortunately, sleepiness is a side-effect of many psychotropic drugs employed for schizophrenia, and modafinil’s general cognitive improvements have attracted attention, so we have a fair number of studies and case reports where modafinil was administered to schizophrenics which we can look at:
+
+- 
+
+Scoriels et al 2013 is a systematic review of modafinil treatment of schizophrenics; as far as our concern goes (causing or worsening schizophrenia):
+
+
+…However, some studies have failed to find the expected cognitive enhancing properties in schizophrenia (Hunter et al 200620ya; Pierre et al 200719ya; Sevy et al 200521ya; Spence et al 200521ya), although no case of worsening of symptoms or cognitive functions have been observed in any of these studies. [from the systematic review] …Outcome measures included psychiatric symptoms, cognition, emotion, global functioning, motor functioning, fatigue, and drug effect. Side effects were also accounted for. Psychotic symptoms were assessed for overall symptoms, positive and negative symptoms and depression symptoms…Assessment of psychiatric symptoms was performed in chronic modafinil administration studies. The studies carried out by Pierre et al 200719ya and Arbabi et al 201214ya showed improvement in three clinical global impression symptoms scales. However, the remaining 12 measures on psychiatric symptoms did not show any difference with drug administration; neither did the three measures of global functioning, nor the five measures of fatigue. Farrow and colleagues showed that acute administration of modafinil enhanced unconstrained motor activity (Farrow et al 200620ya). This has not been replicated in studies with acute or chronic dosage designs. However, these studies were based on questionnaires that reported subjective perception of motoric activity, unlike Farrow’s study that measured the effect of modafinil in actual motor activity in patients.
+
+- 
+
+Kumar 2008 examined 4 randomized trials of <80 schizophrenics. Modafinil helped symptoms only a smidgen (such as working memory performance). 2 active schizophrenics, in their first week, developed ‘psychosis’ and discontinued use, out of 62 subjects given modafinil. This is worrisome but I don’t know how statistically reliable this is or what the base rate is.
+- 
+
+Turner et al 200422ya, “Modafinil improves cognition and attentional set shifting in patients with chronic schizophrenia”; mentions background:
+
+
+Stimulant treatment has been used previously in the treatment of schizophrenia, most commonly in an attempt to treat patients with prominent negative symptoms (Angrist et al, 198244ya). However, most of these studies have reported a re-emergence or worsening of positive symptoms as a result of the dopaminergic activity of these drugs (Sharma et al, 199135ya; Szeszko et al, 199927ya). Nevertheless, circumstantial evidence has accumulated to suggest that stimulant treatment might be of benefit to cognitive and negative symptoms in patients with schizophrenia (Davidson and Keefe, 199531ya). Chiarello & Cole 198739ya reported some improvement in approximately half of patients with schizophrenia who received psychostimulants, while Goldberg et al 199135ya showed that amphetamine yielded a significant improvement in performance on the WCST in a group of patients sustained on haloperidol. Following methylphenidate, Carpenter et al 199234ya showed possible improvements in self-reported symptoms and ward staff opinion in three out of eight patients with schizophrenia and a childhood history of hyperactivity (although no changes were noted using various other rating scales). However, in two other studies, methylphenidate significantly increased thought disorder in patients with schizophrenia (Levy et al, 199333ya) and increased redundant responding on an oral word production test (Szeszko et al, 199927ya)….Two case studies examining the use of modafinil in schizophrenia showed improvement in the negative symptoms of both patients and a decrease the sedating side effects of their antipsychotic medications(Yu et al, 200224ya). One patient showed an increase in activity and a reversal of weight gain with modafinil. Modafinil has also been shown to improve antipsychotic-associated sedation in three patients with schizophrenia (Makela et al, 200323ya).
+
+
+As modafinil has possible or weak effects on the dopaminergic system, it may help but may also hurt schizophrenia symptoms.
+- 
+
+Sevy et al 200521ya, “Double-blind, placebo-controlled study of modafinil for fatigue and cognition in schizophrenia patients treated with psychotropic medications”
+- 
+
+Spence et al 200521ya, “Modafinil modulates anterior cingulate function in chronic schizophrenia”
+- 
+
+Pierre et al 200719ya, “A randomized double-blind, placebo-controlled trial of modafinil for negative symptoms in schizophrenia”
+- 
+
+“Modafinil for clozapine-treated schizophrenia patients: a double-blind, placebo-controlled pilot trial”, Freudenreich et al 200818ya, treated 35 schizophrenics; no additional psychosis.
+- 
+
+Rosenthal & Bryant 2004’s non-blinded 11 patients included 2 with additional hallucinations.
+- 
+
+Kane et al 2009 had a placebo patient drop out for psychosis.
+- 
+
+Peloian & Pierre 200818ya “Modafinil: A Candidate for Pharmacotherapy of Negative Symptoms in Schizophrenia” had 1 active psychosis but 2 placebo; they remark:
+
+
+Anecdotal case reports that emerged prior to and after the start of our trial have raised the potential for modafinil to cause psychotic exacerbation (Mariani & Hart, 200521ya; Narendran et al 200224ya) or manic induction (Wolf et al 200620ya; Ranjan & Chandra, 200521ya; Vorspan et al 200521ya). On the other hand, no liability has emerged from larger samples or controlled studies (Frye et al 200719ya; Nasr et al 200620ya; Fava et al 200521ya; Rosenthal & Bryant, 200422ya; Turner et al 200422ya). Nevertheless, in order to minimize risk, we chose to limit the maximum dose of modafinil to 200 mg⧸day, since manic or psychotic worsening has typically been reported at doses greater than 300 mg⧸day.
+
+- 
+
+“A Review of the Effects of Modafinil on Cognition in Schizophrenia” (Morein-Zamir et al 200719ya) is bullish on the potential benefits of treatment:
+
+
+Recent research has focused on enhancing cognition in patients with schizophrenia because of the association between cognitive performance and functional outcome. Initial findings indicate that modafinil may lead to better executive functioning and attentional performance in patients with schizophrenia. The results further suggest that patient characteristics such as overall current cognitive functioning levels, genetic polymorphisms, and medication status may be important mediators for the effectiveness of modafinil, allowing for future treatment to be targeted to those most likely to benefit…Numerous studies have reported that modafinil was well tolerated in their samples of patients with schizophrenia.93,94,99 Often only mild side effects are reported including headaches, insomnia and dry mouth.98 Nevertheless, while most patients appear to tolerate the drug well, several cases have been reported where patients who received modafinil suffered from psychotic relapse or worsening of already existing psychotic symptoms.87,98 These reports have primarily included patients receiving chronic administration although there is 1 report of a single patient undergoing psychotic relapse 4 days after a single dose.91 The concern for safety may also limit the use of effective dosage levels (eg. 100-vs 200 mg). More definitive evidence regarding the safety and tolerability of modafinil will eventually be provided by the use of meta-analysis as well as by large-scale studies, such as the ongoing NIMH sponsored clinical trials.
+
+
+Spence et al 200521ya contains possibly the first suggestion of modafinil + schizophrenia = psychosis; smaller case reports I have found include:
+
+- 
+
+“Is Psychosis Exacerbated by Modafinil?”, Narendran et al 2002, a case report of one subject
+- 
+
+Makela 200323ya, “Three case reports of modafinil use in treating sedation induced by antipsychotic medications”, which reported no side effects in 3 schizophrenia (and other disorders) patients
+- 
+
+Aggarwal et al 200917ya “Psychotic Relapse in a Patient with Schizophrenia Associated with Modafinil Therapy” reported an instance (mentioning the patient had unspecified reduction in sleep after a week of use).
+- 
+
+Ozer S. Demir B. “Hypomania in a Schizophrenic Patient Treated with Modafinil for Clozapine-Induced Sedation”. Archives of Neuropsychiatry 201016ya;47(2):171-3 (Turkish).
+- 
+
+Fountoulakis KN, Siamouli M, Panagiotidis P, Magiria S, Kantartzis S, Iacovides A, et al. “Ultra short manic-like episodes after antidepressant augmentation with modafinil”. Pro- g Neuropsychopharmacol Biol Psychiatry 200818ya;32(3):891-2.
+- 
+
+Wolf J, Fiedler U, Anghelescu I, Schwertfeger N. “Manic switch in a patient with treatment resistant bipolar depression treated with modafinil”. J Clin Psychiatry 200620ya;67(11):1817209ya.
+- 
+
+Ginsberg DL. “Modafinil Associated Mania”. Primary Psychiatry 200719ya;14(1):23-5.
+- 
+
+“Modafinil in the treatment of excessive daytime sleepiness in children”, Ivanenko et al 200323ya was a chart review of 13 children (none diagnosed with schizophrenia); 2 possible examples:
+
+
+One child with a preexisting seizure disorder had seizure relapse that temporally coincided with initiation of modafinil administration. When sodium valproate was added, seizures resolved despite ongoing modafinil therapy. Another child with a history of visual and auditory hallucinations exhibited significant worsening in her psychotic symptoms with the initiation of modafinil administration, requiring temporary discontinuation of the drug, adjustment of psychotropic medications, and reinstatement of modafinil therapy without any recurrence of psychotic manifestations.
+
+
+A few case studies concern patients without prior psychiatric problems:
+
+- 
+
+Wu P, Jones S, Ryan CJ, Michail D, Robinson TD. Modafinil induced psychosis. Intern Med J 200818ya;38(8):677-8.
+- 
+
+Vorspan F, Warot D, Consoli A, Cohen D, Mazet P. Mania in a Boy Treated With Modafinil for Narcolepsy. Am J Psychiatry 200521ya;162(4):813-4
+- 
+
+Mariani J, Hart C. Psychosis associated with modafinil and shift work. Am J Psychiatry 200521ya;162(10):198343ya.
+- 
+
+“Late Onset Mania Possibly Related to Modafinil Use: A Case Report”, Kanal et al 2012
+
+
+The review Saavedra-Velez 200917ya “Modafinil as an adjunctive treatment of sedation, negative symptoms, and cognition in schizophrenia: a critical review” found, surveying the above studies among others:
+
+
+The main adverse effect was found to be a small risk of psychosis exacerbation, which was seen in 5 of 83 patients (6.0%) in the active treatment groups as compared to 2 of 70 patients (2.9%) in the placebo groups.
+
+
+Given the previous studies, this seems to me to indicate a real risk in schizophrenic patients. But then again, schizophrenics are by definition abnormal brains, so we cannot say this overturns the previous section based on more general populations. One possible confound is the existing drugs used in patients (Deutch & Bubser 2007):
+
+
+The data with modafinil are impressive in that reported side effects have been quite benign. However, adverse effects are associated with all therapeutic drugs, and because modafinil is used as an adjunct to treatment with APDs, the risk for emergence of adverse interactions is significant while benefit remains unclear (see Glick et al81). The use of modafinil in normal control subjects is consistent with a significant increase in attention and other cognitive functions, but these effects are not dose dependent. While animal data strongly suggest that the orexin cells, histamine neurons, and 2 key afferent structures are strongly activated at low doses, higher doses cause widespread activation, and it is reasonable to assume that the risk of side effects increases in parallel. Interestingly, however, Rasmussen et al in this issue note that orexin antagonists block catalepsy, an animal model of extrapyramidal side effects.
+
+
+An additional confound is that the modafinil itself may not be causing these events, but the behavior allowed by modafinil. One letter to an editor suggested that instances of mania or other events could be due to patients omitting sleep (echoed in Harvey 200917ya, “Pharmacological Cognitive Enhancement in Schizophrenia”), and possibly observed in non-schizophrenia, with bipolar (Colombo C, Benedetti F, Barbini B, Campori E, Smeraldi E. Rate of switch from depression into mania after therapeutic sleep deprivation in bipolar depression. Psychiatry Res 199927ya;30(3):267-70). This makes sense given that sleep deprivation is already known to cause hallucinations and euphoria among other things, and is ironically borne out by the one mental event mentioned in the FDA prescribing information, based on the premarketing trials:
+
+
+There have been reports of psychotic episodes associated with PROVIGIL use. One healthy male volunteer developed ideas of reference, paranoid delusions, and auditory hallucinations in association with multiple daily 600 mg doses of PROVIGIL and sleep deprivation. There was no evidence of psychosis 36 hours after drug discontinuation. Caution should be exercised when PROVIGIL is given to patients with a history of psychosis.
+
+
+(1.2g+ of modafinil daily can cause sleep deprivation and other bad things? That’s good to know…)
+
+
+There is a published Cochrane protocol towards a full review, “Modafinil for schizophrenia”, Scoriels et al 201016ya, which will examine the efficacy of modafinil treatment and of course the side effects; the meta-analysis has not yet been finished. I emailed the lead author. She wrote, to summarize, that the 4 clinical symptoms studies showed 1 improvement and 3 nulls; 7 studies focused on cognition, with 3 improvements and 1 no results with worsening on ‘an attention task’ (the only negative effect in the 7 studies). All avoided doses >400mg. She also mentioned a study she had conducted, Scoriels et al 2011, which found cognitive benefits, and 3 mild adverse events (itchiness, and 2 one-night insomnias). The final published 201313ya review “Modafinil effects on cognition and emotion in schizophrenia and its neurochemical modulation in the brain” does not seem to meaningfully differ.
+
+
+So, we are left with minimal observed consequences from modafinil use in a general population, and a potential small risk of psychosis in diagnosed schizophrenic populations (with at least 2 confounds which either do not apply to general populations or only matter when one engages in really irresponsible use of modafinil).
+
+
+- 
+
+See the 199927ya Milgram review, “Adrafinil: A Novel Vigilance Promoting Agent”↩︎
+- 
+
+See Minzenberg et al:
+
+
+It is currently approved by the United States Food and Drug Administration as a schedule IV agent to treat excessive daytime sleepiness in narcolepsy, shift work sleep disorder, and obstructive sleep apnea/hypopnea syndrome. It has been popularly categorized as a psychostimulant due to its wake-promoting properties. However, it has shown a number of effects on physiology and behavior in both animal models and in humans, which suggest a divergent mechanism of action compared to amphetamine (described in detail below). This includes a lower liability to abuse, and a lower risk of adverse effects on organ systems such as the cardiovascular system.
+
+↩︎
+- 
+
+There’s some question whether the dismissal of adrafinil may be overblown. In his 201412ya SSC nootropics survey, Scott Alexander comments:
+
+
+There is some theoretical concern about liver-related side effects from adrafinil, but some pharmacologists say these are overblown and that its liver profile is similar to Tylenol—ie don’t take a massive overdose on it or use it every day for years and you’ll be fine. None of my respondents reported ever having any liver problems with adrafinil—not even asymptomatic elevation of liver enzymes—but n = only 17 so the results don’t rule out even moderately common adverse reactions.
+
+↩︎
+- 
+
+Admittedly, Schedule IV drugs like modafinil are not one of the scheduled drugs which send people to federal pound-you-in-the-butt prison, but it still is troublesome.↩︎
+- 
+
+One American prescription user said ~2011 that his prescription was for 200mg pills; each box cost around $50 copay for 30 pills, or about $1.70 (120 mg⧸USD). He took one a day. In 2013, another American gave the same price, but a third listed a $5 copay; a person claiming to work in a pharmacy said “the wholesale price for modafinil 200mg is 15 bucks per pill.”↩︎
+- 
+
+from Businessweek’s “The 10Q Detective: Losing Sleep Over Cephalon”, 2009:
+
+
+Supplementing the coupon efforts: discounted pricing. The prescription cost to the patient for a 30-day supply of daily recommended dosages of Provigil (200 mg) and Nuvigil (150 mg) is $361 and $295, respectively, a savings to cash-paying patients and health-care payers of 23%, according to pharmaceutical information site Destination Rx.
+
+
+361⁄30 = 12.03; although it’s unclear what of this is the actual price to the consumer.↩︎
+- 
+
+This is just conventional wisdom, echoed by many websites. An example:
+
+
+When you buy modafinil online, make sure the company you are buying it from has a good track record and delivers orders promptly and securely. Modafinil is available in 100-mg and 200-mg doses and in packets of 30 tablets to 100 tablets. Prices may vary depending on where you are in the world. But in the United States, prices may range from $50 to more than $300. Make sure that you compare online modafinil prices to get a better deal.
+
+↩︎
+- 
+
+Minzenberg again.↩︎
+- 
+
+I hedge and say 2⁄3s rather than 100%, as most people use it, because any such claim ought to take into account the total cost of use—such as sleep rebound/recovery sleep’. (If a drug lets you skip a night of sleep and then you sleep 16 hours the next day, would it be honest or dishonest to claim it cuts your sleep need by 100%?) How much of a penalty is unclear. From Bonnet et al 200521ya:
+
+
+In 1 study,91 modafinil reduced total sleep time (sum of stages 2, slow-wave, and REM sleep; 9.78 hours) relative to placebo (11.43 hours) on the first night of recovery sleep but not on the second night. Another study showed a reduction in total sleep time and sleep efficiency when modafinil 200 mg but not 100 mg was administered 30 minutes prior to bedtime (no sleep deprivation).89 Modafinil also impairs recovery sleep, as recorded subjectively via sleep logs; and it delays rebound recovery sleep. Lagarde et al126 reported that sleep duration increased on the first recovery sleep night for the placebo group but not for the modafinil group (10.0 hours vs 8.5 hours, respectively), compared with baseline. On the second night, the reverse was found-placebo subjects reported 8.1 hours of sleep, whereas modafinil subjects reported sleeping 10 hours. These results suggest that modafinil delays recovery sleep but, like all other stimulants, does not reduce sleep need.
+
+
+The extent to which poor sleep following modafinil administration could impair performance has received little attention. In those studies in which performance after recovery sleep was measured,27,82,119,126,132 statistical results were not provided. However, the results appear to indicate that performance after recovery sleep did not differ between modafinil and placebo, and that, for both groups, performance was restored to pre-sleep-deprivation levels. A recent study27 showed that performance was restored to pre-sleep-deprivation levels; however, in that study, 400 mg of modafinil did not impair sleep during a 12-hour recovery period following 85 hours of total sleep deprivation (also, recovery sleep commenced 20 hours after the dose was given).
+
+
+Wesensten et al 200521ya discusses recovery sleep after testing caffeine vs modafinil vs amphetamines:
+
+
+Sleep periods commencing closer to drug administration might reveal drug-induced effects on recovery sleep. For example, in the same study as Pigeau et al 1995, Buguet et al 199531ya evaluated the effect of modafinil 200 mg versus amphetamine 20 mg or placebo on recovery sleep. The first recovery sleep session commenced at 22:00 hours—after 64 h of total sleep deprivation and 6.5 h after the third drug administration. Buguet et al 199531ya reported significantly decreased total recuperative sleep time (sum of stages 2; SWS, stages 3 and 4; and REM) in both the modafinil and amphetamine groups (9.78 h and 9.37 h respectively, compared with 11.43 h for placebo). In a study by Lagarde et al 1995, volunteers maintained sleep logs for 5 days following participation in a study involving sleep deprivation and modafinil or placebo. Lagarde et al 199531ya reported that sleep duration increased on the first recovery sleep night for the placebo group but not for the modafinil group (10 versus 8.5 h, respectively), compared with baseline sleep. However, on the second night, the situation was reversed—placebo subjects reported 8.1 h of sleep whereas modafinil subjects reported sleeping for 10 h. It has been suggested that modafinil actually reduces the extra ‘sleep need’ driven by sleep deprivation (Buguet et al 199531ya, in which amphetamine- induced decreased recovery sleep time was ascribed to a deleterious effect of drug whereas modafinil-induced decreased recovery sleep time was ascribed to a reduced need for recovery sleep). However, these same results (Buguet et al 199531ya), those of Lagarde et al 199531ya, and results from the present study suggest a more parsimonious explanation, i.e.&nbsp;that drug half-life and dosage determine whether a given stimulant will likely interfere with recovery sleep.
+
+
+…In the present study, postrecovery sleep performance did not differ among drug groups—and for all groups, performance appeared to be restored to presleep deprivation levels. These results correspond to those reported by Pigeau et al 199531ya in which postrecovery sleep performance in both the modafinil and dextroamphetamine groups was restored to baseline levels (despite the decreased recovery sleep time relative to placebo). The recovery sleep period in this study was relatively long (12 h) as was that in the Pigeau et al 199531ya and Buguet et al 199531ya study. Rosenthal et al 199135ya found that when an enforced recovery sleep period of 24 h was imposed following a 0, 24, or 48-h sleep deprivation period, volunteers sleep deprived for 48 h accumulated significantly more TST [sum of sleep stages 2, SWS, and REM] than nonsleep-deprived volunteers for up to 16 h. Thereafter, however, the effects were reversed, suggesting little or no additional benefit to extending recovery sleep beyond 16 h.
+
+
+Estrada et al 201214ya:
+
+
+Results showed significant differences between the sleep periods of the placebo and modafinil groups. Of the 8 h (480 min) allowed for sleep, the placebo group recorded longer inactivity (recovery sleep) than the modafinil group (453.91 min versus 438.91 min, respectively). Significant differences were detected for mean sleep efficiency (the percentage of time actually sleeping), with the placebo group recording significantly greater sleep efficiency than the modafinil group (94.58% versus 91.55%). These significant differences may suggest one of two hypotheses: 1. that subjects required a longer period of rest to recover from the placebo condition and also slept more efficiently than in the recovery from the modafinil condition; or 2. that modafinil interferes with the time it takes to go to sleep. This second hypothesis is supported by the level of estimated serum concentration that remained at bedtime. This suggests that modafinil differentially impacted the need for recovery rest. A review of the mood and performance assessment results showed that the sleep effects identified had no detectable impact on recovery session performance, with nearly all measures returning to general baseline levels following recovery sleep.
+
+
+I took a closer look at Lagarde et al 199531ya since it was an unusually long 60 hour sleep deprivation experiment (2 nights skipped, as opposed to my usual 1) with unusually high modafinil doses (200mg every 8 hours or 600mg a day); they write:
+
+
+The sleep log maintained by the subjects during the five days following sleep deprivation revealed a sleep rebound during the first recovery night (p < 0.05) in the placebo condition. A comparison with the pre-treatment night shows that the same phenomenon occurred with the modafinil condition but on the second night (p < 0.01). Sleep duration increased from the first to the fifth night in the modafinil condition (p < 0.05) and persisted after the sixth night in the placebo condition (p < 0.05) (table I). Two subjects had to take a diurnal nap on the second and third day after sleep deprivation in both situations. A detailed behavior analysis showed significant differences when using the placebo between responses on the first morning of sleep deprivation, used as reference, and responses obtained on the second day of sleep deprivation: [placebo] Subjects reported having less energy (p < 0.05), being less relaxed (p < 0.05) and in worse condition (p < 0.05). They were also sleepier after 24 hours of sleep deprivation (p < 0.05) and were more tired (p < 0.05). Recovery was rapid, on the very first day following termination of sleep deprivation.
+
+
+…Analysis of the sleep logs has shown that modafinil did not increase the recovery time of the subjects, in fact, it may have shortened it since the quantitative aspect of sleep was restored on the 5th night post-treatment, whereas, it remained high at the same point in time in subjects given the placebo. However, the sleep rebound observed after sleep deprivation only occurred on the second night post-treatment, perhaps due to the persistent effect of the modafinil molecule which may have accumulated in the body after several administration.
+
+
+I am interested in total sleep rebound, however, since that is what matters from the economic perspective. The table reports that pre-treatment sleep for placebo was 6.53±1 hours & modafinil 7.03±0.36. If I sum the 6 nights of sleep means and then pool variance, I get these results: control slept 51.88±1.53 hours during the 6 recovery nights while experimental: 51.24±1.43. Multiplying the original pre-treatment sleep estimate of 7 hours gives 42.2 hours expected sleep, so both groups incurred the same penalty of ~9.7 hours for skipping 2 nights (~14 hours) of sleep, for a net savings of just 4-5 hours.↩︎
+- 
+
+But modafinil doesn’t erase the cost completely nor can you simply keep using it. “The Use of Stimulants to Modify Performance During Sleep Loss: A Review by the Sleep Deprivation and Stimulant Task Force of the American Academy of Sleep Medicine”, Bonnet et al 200521ya:
+
+
+…In some studies, a return to baseline (pre-sleep-deprivation) performance was noted, but, in other studies, performance did not appear to be restored to baseline levels. The effects of different doses of modafinil were not directly compared in these studies, and it is therefore difficult to determine whether failures to find statistically-significant differences were dose related. In 1 study, modafinil appeared to impair performance on a map-reading/reconstruction task; however, the relevance of this finding to other aspects of operational performance is unclear…As the duration of continuous wakefulness is extended, the effectiveness and/or duration of the effect of modafinil on performance appears to be reduced. For example, 1 study82 found that both modafinil (300 mg) and d-amphetamine (20 mg) significantly improved performance on 4-choice serial reaction time for 9 hours when administered at 17.5 hours of sleep deprivation, but the performance-enhancing effects of modafinil were significant (compared with placebo) for only 6 hours after a subsequent administration at 47.5 hours of sleep deprivation. A similar effect was reported for the group administered 20 mg of d-amphetamine. Statistically-significant effectiveness was maintained for only 8 hours when administered at 47.5 hours of sleep deprivation…. Results from some studies suggest that modafinil at doses of 200 mg or greater restore performance to pre-sleep-deprivation levels,98,123 although this does not appear to be the case in all studies, or for all performance measures (for example, see results reported in)82,83. In some studies, it was difficult to determine whether modafinil restored performance to baseline levels because of the statistical techniques reported.
+
+
+From the 201016ya review “Modafinil and methylphenidate for neuroenhancement in healthy individuals: A systematic review”, Repantis et al:
+
+
+For methylphenidate an improvement of memory was found, but no consistent evidence for other enhancing effects was uncovered. Modafinil on the other hand, was found to improve attention for well-rested individuals, while maintaining wakefulness, memory and executive functions to a significantly higher degree in sleep deprived individuals than did a placebo. However, repeated doses of modafinil were unable to prevent deterioration of cognitive performance over a longer period of sleep deprivation though maintaining wakefulness and possibly even inducing overconfidence in a person’s own cognitive performance.
+
+
+Similar results were reached by the review Bagot & Kaminer 2013. Gill et al 2006:
+
+
+…This was a randomized, double-blind, placebo-controlled crossover study that followed CONSORT guidelines. Participants were assigned to one of two study groups, with study sessions occurring at least seven weeks apart, and received either modafinil or placebo depending on their random allocation. Testing after night shifts included a coding task and an AX version of the Continuous Performance Task, both of which test cognitive function. Participants also completed visual analog scales for three subjective outcomes, and symptoms were elicited.
+
+
+Results: Modafinil facilitated performance on long interstimulus-interval AX trials (F [1, 23] = 6.65, p = 0.1) and marginally reduced errors on AY trials in the Continuous Performance Task (F [1, 23] = 3.59, p = 0.07), suggesting facilitation of sustained attention, cognitive control, and working memory. Additionally, modafinil, compared with placebo, facilitated performance on the coding task at the first session. Subjective data from visual analog scales confirmed that modafinil increased perceived alertness during the simulated patient care sessions but worsened sleep onset when opportunities for sleep arose.
+
+
+Another study using sleep-deprived doctors (Sugden et al 201214ya) found:
+
+
+Modafinil improved performance on tests of higher cognitive function; participants in the modafinil group worked more efficiently when solving working memory (F1,38 = 5.24, P = 0.028) and planning (F1,38 = 4.34, P = 0.04) problems, were less-impulsive decision makers (F1,37 = 6.76, P = 0.01), and were more able to flexibly redirect their attention (F1,38 = 4.64, P = 0.038). In contrast, no improvement was seen in tests of clinical psychomotor performance.
+
+
+A battery of tests from “Effects of modafinil on cognitive and meta-cognitive performance” (Baranski et al 200422ya):
+
+
+The design involved a double-blind, placebo controlled, fully within-subjects manipulation of placebo and modafinil (4 mg⧸kg: approximately 300 mg, on average) over three 50-min cognitive testing sessions (ie. before drug ingestion, and at 90 and 180 min after drug ingestion). The cognitive task battery included subjective assessments of mood, fatigue, affect, vigor and motivation, and cognitive assessments of serial reaction time, logical reasoning, visual comparison, mental addition and vigilance. In addition, trial-by-trial confidence judgements were obtained for two of the cognitive tasks and more global, task level assessments of performance were obtained for four of the cognitive tasks. Relative to placebo, modafinil improved fatigue levels, motivation, reaction time and vigilance. In terms of self-assessments of cognitive performance, both the placebo and modafinil conditions were ‘well calibrated’ on trial-by-trial confidence judgements, showing neither marked over- nor under-confidence. Of note, the modafinil condition displayed a non-statistically-significant tendency towards ‘overconfidence’ for task-level assessments of performance.
+
+
+(The 200917ya Navy study of armodafinil “A Single Dose of Armodafinil Significantly Promotes Vigilance 11 Hours Post-Dose” didn’t agree with the finding of calibration.) If reviews aren’t your thing and you’d like specifics, here are some citations on the general topic of modafinil counteracting cognitive impairments from sleep loss in healthy adults:
+
+- 
+
+Bensimon G, Benoit D, Lacomblez L, Weiller E, Warot D, Weil JS, et al. “Antagonism by modafinil of the psychomotor and cognitive impairment induced by sleep-deprivation in 12 healthy volunteers”. Eur Psychiatry 199135ya;6:93–7
+- 
+
+Hart, Margaret Haney, Suzanne K Vosburg, Sandra D Comer, Erik Gunderson and Richard W Foltin. “Modafinil Attenuates Disruptions in Cognitive Performance During Simulated Night-Shift Work”. Neuropsychopharmacology (200521ya), 1-11
+- 
+
+Lagarde D, Batéjat. “Disrupted sleep-wake rhythm and performance: advantages of modafinil”. Mil Psychol 199531ya;7:165–91
+- 
+
+Pigeau R, Naitoh P, Buguet A, McCann C, Baranski J, Taylor M, et al. “Modafinil, d-amphetamine and placebo during 64 hours of sustained mental work: Effects on mood, fatigue, cognitive performance and body temperature”. J Sleep Res 199531ya;4:212–28
+- 
+
+Stivalet P, Esquivie D, Barraud P-A, Leifflen D, Raphel C. “Effects of modafinil on attentional processes during 60 hours of sleep deprivation”. Hum Psychopharmacol 199828ya;13:501–7
+- 
+
+Wesensten NJ, Belenky G, Kautz MA, Thorne DR, Reichardt RM, Balkin TJ. “Maintaining alertness and performance during sleep deprivation: modafinil versus caffeine”. Psychopharmacology 200224ya;159:238–47 (Heavy caffeine users were screened out, and subjects went through 48h withdrawal as well.)
+- 
+
+Wesensten et al 200422ya, “Modafinil versus caffeine: effects on fatigue during sleep deprivation”
+- 
+
+Wesensten et al. “Performance and alertness effects of caffeine, dextroamphetamine, and modafinil during sleep deprivation”. J. Sleep Res. (200521ya) 14, 255-266
+- 
+
+Wesnes KA, Macher J-P. “Modafinil reverses the marked attentional deficits produced by sleep deprivation in healthy volunteers”. Eur Neuropsychopharmacol 200422ya;14:S380
+
+↩︎
+- 
+
+Caffeine is pretty ineffective because tolerance develops. One amusing comparison of modafinil versus caffeine, dextroamphetamine, and placebo: “The effects of caffeine, dextroamphetamine, and modafinil on humor appreciation during sleep deprivation”. But the Air Force study on helicopter pilots (“The Effects of Modafinil on Aviator Performance During 40 Hours of Continuous Wakefulness: A UH-60 Helicopter Simulator Study”; journal version, “A double-blind, placebo-controlled investigation of the efficacy of modafinil for sustaining the alertness and performance of aviators: a helicopter simulator study”, Psychopharmacology 200026ya;150:272–82) disagrees, commenting that while they knew of no direct comparisons, modafinil was probably less effective at compensating for sleep deprivation than dextroamphetamine. Estrada et al 2012 directly compared modafinil & dextroamphetamine in helicopter tasks, and found them similar.↩︎
+- 
+
+See the 199630ya study checking neuroreceptor activation: “Potential brain neuronal targets for amphetamine-, methylphenidate-, and modafinil-induced wakefulness, evidenced by c-fos immunocytochemistry in the cat”. Their wakefulness effects also differ in fundamental respects like circadian rhythms. For more on modafinil vs amphetamines, see the tolerance/addiction section.↩︎
+- 
+
+“The Ethical Consequences of Modafinil Use” (Cahill 200521ya) summarizes the general vein of thinking:
+
+
+In informed conversations about modafinil, people are always astonished to learn that there are no apparent side-effects to this drug. They insist that there must be a catch, and more than half decide that there is little chance that there are no side-effects, instead opting to believe that disastrous consequences will be discovered down the road. There is a deep-rooted understanding in our culture that supernaturally enhanced ability does not come without a price. Modafinil seems to offer many benefits with minimal physical cost, but the hidden cost of modafinil’s conferring superhuman powers could lie in unanticipated ethical side effects. Although discussion surrounding the public policy issues that neurocognitive enhancers like modafinil raise is interesting, the more difficult issues that sleep-preventing drugs such as modafinil raise concern what has been called “personhood and intangible values” (Farah et al, 200422ya). These issues will mainly be faced by ordinary people in the course of daily life. For example, in a culture where sleep deprivation is a “serious public health problem” (National Center on Sleep Disorders Research, 200323ya) what effect will a drug that ameliorates the negative consequences of sleep deprivation have on personal autonomy? Modafinil also highlights conflicts between cultural values concerning success and effort that will have to be resolved for modafinil to assume a role in society.
+
+
+…Americans are wary of the amount of meaning that can come from work done on modafinil because of another cultural concept called pharmacological Calvinism. Peter Kramer defined this concept as “a general distrust of drugs used for non-therapeutic purposes and a conviction that if a drug makes you feel good it must be morally bad” (Listening to Prozac, Kramer 199333ya). According to pharmacological Calvinism, drugs should only be used for the purpose of curing or treating illness and disease. Neurocognitive enhancers are particularly subject to scrutiny by this cultural value because they raise questions about what constitutes an illness or disease. For instance, Cephalon’s website sells modafinil as treatment for “excessive sleepiness”, despite the fact that this is not commonly considered a specific medical condition and is not a condition that modafinil is FDA approved to treat. On one hand, excessive sleepiness is an unpleasant condition that many Americans may wish there were more help for. If excessive sleepiness were ever recognized as a condition in and of itself deserving of medical treatment, our culture might come to embrace use of modafinil for this purpose. On the other hand, pharmacological Calvinists fear that this could pathologize what is seen as normal sleeping time and daytime energy, and this raises difficult questions surrounding how much sleep and daytime energy is “normal”.
+
+↩︎
+- 
+
+“The Ethics of Designer Brains”, Big Think, quoting “Dr.&nbsp;Paul Root Wolpe, senior Bioethicist at NASA”:
+
+
+Up until now, it’s been a bit of a moot question because the drugs that we had had side effects that made them undesirable. So if you take amphetamines to try to increase your attention, you’re going to have jitters, sleep disturbances and other things like that. Now you have something like Modafinil, a much more benign drug that can, in many people, enhance attention without any of those systemic side effects. And now we really have to begin to ask ourselves some interesting questions. They did some studies, for example, with pilots. Gave some of them, not Modafinil, but a similar type drug and some they didn’t and then they threw emergencies at them in flight simulators. And what they discovered is that the pilots that were on attention enhancing drugs responded faster and more accurately to those emergencies. So now we’re not just talking about, should I take it when I want to pay attention, maybe we should make people take it who have—surgeons and pilots and other people—who have other people’s lives in their hands. Maybe my surgeon on Modafinil will be much more able to focus on what he’s doing than my surgeon off of Modafinil.
+
+↩︎
+- 
+
+From Bonnet et al 200521ya:
+
+
+Reaction time from several different types of tasks has been frequently reported. Reaction time or response time was significantly improved after modafinil administration (50 to 400 mg per 24 hours) during sleep-deprivation periods of 36 to 88 hours, compared with placebo, in 9 of 10 studies.25,27,117-124 Short-term memory has been examined with tasks, including the DSST and memory search. During sleep loss, significant beneficial effects of modafinil relative to placebo have been found in 3 studies119,120,122 but not in a fourth.117 Mathematic ability, usually measured by numbers of correct addition or subtraction problems completed in a given period of time, was significantly improved during sleep loss after administration of modafinil compared with placebo in 3 studies83,117,119 but not in a fourth.25 Two studies both found improved grammatical reasoning ability during sleep loss after administration of modafinil compared with placebo.118,123…Although, as reviewed above, modafinil has been shown to improve performance on simple psychomotor tasks, its effect on executive functions during sleep deprivation has received less attention. One study122 found improved performance after modafinil, compared with placebo, on creative-thinking and sentence-completion tasks during a night-shift paradigm. Another study showed decreased errors in complex estimation during sleep loss after modafinil, 400 mg, compared with placebo.27
+
+↩︎
+- 
+
+ Some relevant citations (omitting a mouse study):
+
+- 
+
+“Modafinil effects on cognitive function in HIV+ patients treated for fatigue: a placebo controlled study” (McElhiney 201016ya): ambiguous because the HIV+ patients improved on a “global change score”, which might be due solely to the stimulant effect
+- 
+
+“Does modafinil enhance cognitive performance in young volunteers who are not sleep-deprived?” (Randall et al 200422ya): Unlike Randall 200323ya, 100mg doses helped and had no listed negatives:
+
+
+Modafinil was without effect in several tests of reaction time and attention, but the 200-mg group was faster at simple color naming of dots and performed better than placebo in the Rapid Visual Information Processing test of sustained attention. Modafinil was without effect on spatial working memory, but the 100-mg group performed better in the backward part of the digit span test. Modafinil was without effect on verbal short-term memory (story recall), but 100 mg improved digit span forward, and both doses improved pattern recognition, although this was accompanied by a slowing of response latency in the 200-mg group. There were no significant effects of modafinil compared with placebo in tests of long-term memory, executive function, visuospatial and constructional ability, or category fluency…
+
+- 
+
+“Effects of modafinil on working memory processes in humans” (Mueller et al) tested healthy non-sleep-deprived volunteers on 200mg doses:
+
+
+Two computerized working memory tasks were administered, a numeric manipulation task that requires short-term maintenance of digit-sequences and different degrees of manipulation as well as delayed matching task that assesses maintenance of visuo-spatial information over varying delay lengths. The battery was supplemented by standardized paper pencil tasks of attentional functions….Modafinil significantly reduced error rates in the long delay condition of the visuo-spatial task and in the manipulation conditions, but not in the maintenance condition of the numeric task. Analyses of reaction times showed no speed-accuracy trade-off. Attentional control tasks (letter cancellation, trail-making, catch trials) were not affected by modafinil.
+
+- 
+
+“Effects of modafinil on cognitive performance and alertness during sleep deprivation” (Wesensten 200620ya) is a review of then-available modafinil studies:
+
+
+Results indicate that modafinil is efficacious for sustaining/restoring objective performance and alertness during sleep deprivation with few adverse effects. At appropriate dosages, modafinil restores performance and alertness to non-sleep deprived levels. Modafinil also impairs post-sleep deprivation recovery sleep, but from the few studies available addressing this issue, it is unclear whether these sleep impairments translate into post-sleep performance impairments. [That is, you sleep less than normal but this seems to translate to normal wakefulness.] Further research is needed to determine whether modafinil restores performance on simple cognitive tasks only or whether modafinil additionally restores executive functions (eg. abstract thought, critical reasoning, planning, decision-making, situational awareness, and effective judgment) which are critical in most modern operational settings.
+
+
+- 
+
+“A Match Made by Modafinil: Probability Matching in Choice Decisions and Spatial Attention”, Geng et al 201214ya: “Modafinil also enhanced learning of the probability distribution, evidenced by earlier learning of the probability distribution.”
+
+- 
+
+“Acute Effects of Modafinil on Brain Resting State Networks in Young Healthy Subjects”, Esposito et al 2013
+- 
+
+Some unfortunate results for the bright young nerds interested in modafinil:
+
+- 
+
+“Cognitive effects of modafinil in student volunteers may depend on IQ”, Randall et al 200521ya:
+
+
+The results of two previous studies on the effects of modafinil, a selective wakefulness-promoting agent, in healthy university students were combined in a retrospective analysis. This allowed determination of whether the effects of modafinil were dependent on IQ and whether the larger sample size (n=89) would reveal more cognitive benefits. A battery of cognitive tests was completed 2-3 h after dosing. In the whole sample, modafinil (200 mg) significantly reduced the number of missed targets in a test of sustained attention (RVIP). However, interestingly, several interactions between modafinil and IQ emerged. Modafinil (100 and 200 mg) significantly improved target sensitivity in the RVIP test, but only in the group of ‘lower’ IQ (mean+/-sem=106+/-0.6), not in the ‘higher’ IQ group (mean+/-sem=115.5+/-0.5). Furthermore, there were significant modafinil x IQ interactions in two further tests. Modafinil significantly reduced speed of responding in a color naming of dots, and in clock drawing, but only in the ‘lower’ IQ group. Thus, the cognitive benefits of modafinil seem particularly marked in tests of vigilance and speed, in which sleepiness would be an important factor. Furthermore, the results indicate that high IQ may limit detection of modafinil’s positive effects.
+
+- 
+
+“A randomized trial on the efficacy of methylphenidate and modafinil for improving cognitive functioning and symptoms in patients with a primary brain tumor”, Gehring et al 201115ya:
+
+
+…Following stimulant treatment, there was evidence of a beneficial effect on test performance in speed of processing and executive function requiring divided attention. Patients with the greatest deficit in executive function at baseline appeared to derive the greatest benefit following stimulant therapy. Inconsistent, differential effects were found on a measure of attention in favor of methylphenidate and on a measure of processing speed in favor of modafinil. There was also evidence of a general beneficial effect on patient-reported measures of fatigue, mood, and quality of life, with no statistically-significant differences between treatment arms in these measures over time.
+
+- 
+
+“Acute Effects of Modafinil on Brain Resting State Networks in Young Healthy Subjects”, Esposito et al 201313ya:
+
+
+…As far as modafinil Gf effects, regression analysis of APM results indicates that in the treated group, but not in the placebo cohort, there is an improvement in subject that are low performing at baseline when these individuals are challenged with items of medium levels of difficulty. This finding is in line with the idea that the drug can work better in individuals performing at submaximal levels
+
+
+(One odd result is Killgore et al 200620ya, “The Effects of Caffeine, Dextroamphetamine, and Modafinil on Humor Appreciation During Sleep Deprivation”: “Humor appreciation for cartoon stimuli was enhanced by modafinil relative to both placebo and caffeine, but there was no effect of any stimulant medication on the appreciation of verbal humor during sleep loss.”)
+- 
+
+Mueller et al 2012
+
+
+A double-blind placebo-controlled parallel design study evaluated the effect of 200 mg of Modafinil (n = 32) or placebo (n = 32) in non-sleep deprived healthy volunteers. Non-verbal tests of divergent and convergent thinking were used to measure creativity. A new measure of task motivation was used, together with more levels of difficulty on neuropsychological tests from the CANTAB battery. Results: Improvements under modafinil were seen on spatial working memory, planning and decision making at the most difficult levels, as well as visual pattern recognition memory following delay. Subjective ratings of enjoyment of task performance were significantly greater under modafinil compared with placebo, but mood ratings overall were not affected. The effects of modafinil on creativity were inconsistent and did not reach statistical-significance….Participants on modafinil felt considerably more pleasurable after performing individual tasks assessing ‘cold’ cognition and on all but one of the creativity tasks (the Group Embedded Task). This finding is reminiscent of the reinforcing effects of modafinil in humans described by Stoops et al 200521ya which were only evident when there were additional cognitive task demands, suggesting that any motivational effects of the drug derived mainly from its perceived effects on task performance and were thus not similar to those of ‘recreational’ drugs of abuse such as cocaine and amphetamine. The interesting question is whether modafinil enhances motivation through an hypothesised perception by the subject of its ability to enhance performance, or alternatively whether the drug enhances motivational factors which directly impact cognition (and both of these may obtain). It should be noted, however, that modafinil did not produce obvious subjective effects, for example, on arousal, as indicated by visual analogue rating scales or cardiovascular measures.
+
+- 
+
+Caldwell et al 2020
+- 
+
+Randall’s review of the mixed literature on modafinil improvements:
+
+
+In a group of high IQ (mean 115) university students, Randall et al 200323ya failed to detect any positive effects on cognitive performance of modafinil (100 and 200 mg) Liepert et al 200422ya found no effects of modafinil (200 mg) on the performance of a small battery of tests (reaction time, nine-hole-peg and letter cancellation tasks) in healthy male subjects (mean age 27 years, IQ not specified). In a group of high IQ (mean 118) middle-aged volunteers, modafinil (200 mg) improved performance in a simple speed test (colour naming of dots) and in a clock-drawing test (Randall et al 200422ya). Using a somewhat different range of tests, and combining the data for the 100 and 200 mg doses, Turner et al 2003 found that modafinil improved performance of a high IQ (mean 115) group of young men (mean age 25 years) in the Digit Span, Pattern Recognition Memory (PRM), Stop-Signal Reaction Time [cf.&nbsp;healthy controls in Schmaal et al 2013) and spatial planning (New Tower of London) tests. Finally, Randall et al 200521ya found that modafinil improved performance in a group of students (mean IQ 109) in Digit Span (100 mg), PRM (100 and 200 mg), color naming of dots (200 mg) and in a test of sustained attention (Rapid Visual Information Processing, RVIP; 200 mg). Mueller et al 2004 found that the positive effects of modafinil (200 mg) in students (IQ not specified) were limited to two relatively difficult and monotonous computerised working memory tests. Improved performance in the RVIP test of sustained attention had been previously found by Randall et al 200521ya in a sample of 60 students with a mean IQ of 109. No effects had been found in a smaller sample of 30 students with a mean IQ of 115 (Randall et al 200323ya), which may have resulted from a combination of a small sample and a higher IQ group. A faster speed in naming colored dots had previously been found by Randall et al (200422ya, 200521ya), using sample sizes of 45 and 60, respectively. Improved performance in clock drawing had previously been found in the group of middle-aged volunteers (Randall et al 200422ya), but not in the student studies, where the level of performance in this task was higher (Randall et al 200323ya, 200521ya). However, this meta-analysis did not reveal any more effects of modafinil on cognitive performance than those previously reported with smaller sample sizes and even with our larger sample size we were unable to find any improvement in spatial planning, as had been reported by Turner et al 200323ya. As the Digit Span and PRM tasks were used only in our second student study (Randall et al 200521ya), these tasks could not be included in the meta-analysis, but improvements by modafinil have been reported in more than one study (Turner et al 200323ya, 200422yaa, 200422yab; Randall et al 200521ya)
+
+
+The 201214ya meta-analysis “Cognition Enhancement by Modafinil: A Meta-Analysis” wound up drawing on only 3 studies, and is not very informative. The 201511ya review, “Modafinil for cognitive neuroenhancement in healthy non-sleep-deprived subjects: a systematic review”, likewise found only a few studies. The 2019 meta-analysis “The Efficacy of Modafinil as a Cognitive Enhancer: A Systematic Review and Meta-Analysis”, Kredlow et al 2019, manages to pull together 19 usable studies on cognition in healthy non-sleep-deprived subjects, and finds a small overall average effect of g = 0.10, much like the Roberts et al 2020 meta-analysis.↩︎
+- 
+
+See Repantis et al 201016ya.↩︎
+- 
+
+On the other hand, Randall et al 200422ya, ibid, didn’t measure mood but did find benefits to working memory (WM) on the forwards and backwards digit span with the 100mg dose.↩︎
+- 
+
+Taneja et al 200719ya, describing previous research:
+
+
+Becker and colleagues used the Profile of Mood States to assess the impact of modafinil for 6 weeks on tension-anxiety and anger-hostility (components of high NA) and depression-dejection (akin to low PA) in patients with narcolepsy. They found non-statistically-significant improvements in the NA and depression subscales and concluded that there were no adverse effects of modafinil on mood.4 However, another study using the Profile of Mood States in patients with myotonic dystrophy concluded that modafinil significantly increased the tension-anxiety factor while improving other aspects of mood.3 Clouding the picture further, Randall et al 200323ya concluded that, compared with placebo, modafinil increased physiological symptoms of anxiety, but subjective negative affective states were not impacted except under challenge conditions. Thus, the specific impact of modafinil on PA and NA is unclear.
+
+↩︎
+- 
+
+See also “Modafinil for Atypical Depression: Effects of Open-label and Double-blind Discontinuation Treatment”, Vaishnavi et al 2006↩︎
+- 
+
+“Advisory Panel Endorses More Uses for Stimulant”, by Andrew Pollack with Alicia Ault, New York Times 200323ya:
+
+
+Cephalon said it had not seen much evidence of such use. It said Provigil should not be used to fight sleepiness in just any night shift worker, only those with a clinical condition called shift work sleep disorder. People with that condition never quite adjust to night work…FDA officials suggested during the meeting that they were not overly concerned with use of the drug by healthy people because the drug was generally safe. Robert Temple, an FDA official, said it was “not completely obvious” that use of the drug just to keep healthy people alert would be a bad thing, because sleepy people could endanger others. “If they’re driving next to me, I think I’d prefer they be on it”, he said.
+
+↩︎
+- 
+
+Erowid covers both in its interaction page:
+
+
+The [anti birth-control] mechanism is that Modafinil upregulates (increases effectiveness of) the enzyme CYP3A4/5, which is involved in the metabolism of the contraceptive hormones and thus breaks them down more quickly. We have only been able to find a single paper that looked at the issue in humans and it showed that daily 400 mg doses of Modafinil for a month [statistically] significantly reduced the levels of the hormone estradiol and norgestimate in the 16 women studied. There is no direct research showing actual increases in impregnation rates and it is unclear whether less frequent or lower doses of Modafinil would have clinically significant effects on hormonal birth control…Methadone is metabolized by several liver enzymes in the CYP2* cluster, with CYP3A4 being an important metabolizer. Because modafinil up-regulates CYP1A2, CYP2B6, and CYP3A4/5, the action of methadone may be substantially shortened [R) & (S)-Methadone In Vitro">Wang & DeVane 2003]. Erowid also received one experience report from a reported methadone user who found that they had to redose with methadone every few hours to avoid opiate-withdrawal after taking large doses (> 1000 mg) of modafinil.
+
+
+It’s unfortunate that the real endpoint of getting pregnant couldn’t be tested; otherwise, the methodology looks pretty good (except for the issue of 400mg dosage for many days). Eyeballing the table on pg3 & graphs on pg6, the decrease in birth-control hormone (ethinyl estradiol) looks like it’s “statistically-significant” but the effect size only medium. Specifically, the 400mg modafinil group saw their total ethinyl estradiol level fall 18% (d = 0.53). Since few dose 400mg but rather 200mg, I wonder if the real effect is more like 9% and this in turn is small enough that I wonder if modafinil would actually increase the birth control’s failure rates. (I should mention that the effect size on triazolam, the “commonly prescribed sedative hypnotic and anxiolytic agent”, looks quite serious, so the CYP metabolism is an issue.) ↩︎
+- 
+
+Bonnet et al 200521ya covers some side-effects listed in studies & trials; for a comprehensive list, one could consult the FDA’s prescribing information:
+
+
+In the above-reviewed studies, however, no serious adverse events were reported. For modafinil, the LD-50 (ie. the dose that is fatal for 50% of animals administered the drug) is 1250 mg⧸kg in mice and rats and 200 mg⧸kg in dogs. Assuming identical dosing, the LD-50 for dogs would be comparable to 14 grams in a 70-kg human. In humans, there have been 2 cases of reported high-dose ingestion of modafinil. In 1 case, 4.0 gm of modafinil was ingested, and, in the second case, 4.5 gm of modafinil was ingested. Both cases resulted in excitation/agitation, insomnia, and “slight or moderate elevations in hemodynamic parameters” (modafinil package insert). Both patients fully recovered within 24 hours. In clinical studies, effects observed at elevated doses included confusion, nervousness, tremor, palpitations, anxiety, irritability, aggressiveness, sleep disturbances, nausea, diarrhea, and decreased prothrombin time. In comparison to placebo-treated patients, the most commonly observed adverse events associated with modafinil include headache, infection, nausea, nervousness, anxiety, and insomnia. In 2 multicenter studies, 5% of patients (19 of 369) discontinued modafinil due to an adverse event. Reasons for discontinuation included headache (most common), cataplexy, nausea, depression, and nervousness. Since few studies exist in which different doses of modafinil have been compared within the same study, it is unclear whether side effects are dose related. Results indicate a dose-response relationship for incidence of adverse events;133 however, in that study, data for specific adverse events were not provided, and, of the doses tested (200 mg, 400 mg, 600 mg, and 800 mg administered as a single dose), the 600-mg and 800-mg doses exceeded those administered in normal, healthy adults in the above-reviewed sleep-deprivation studies. Side effects similar to those reported by sleep-deprived volunteers (eg. shaking, palpitations, dizziness, restlessness, irritability) were reported by non-sleep-deprived volunteers receiving comparable modafinil doses,129 and this suggests that the side effects of modafinil are a direct effect and not due to an interaction with sleep deprivation.
+
+
+Example feedback, from Makris 200422ya:
+
+
+Based on participant written statements, two males and three females reported side effects following administration of modafinil but not following administration of amphetamine. Unusual feelings or significant occurrences reported following administration of modafinil were ‘headache,’ ‘hyped up/could run a marathon,’ ‘restless,’ ‘could not sleep, ’extreme anxiety and sleeplessness,’ and ‘sick in my stomach.’ These effects occurred only after the high dose [<630mg? “7.0 mg⧸kg”] of modafinil and during the late afternoon and/or evening hours while participants were away from the laboratory.
+
+↩︎
+- 
+
+“Wake-promoting agents with different mechanisms of action: comparison of effects of modafinil and amphetamine on food intake and cardiovascular activity” (Makris et al 200422ya), Appetite 42 (200422ya) 185-195:
+
+
+…This study compared the effects of amphetamine and modafinil on food intake and cardiovascular activity in healthy men and women. Participants (n = 11) completed 11 sessions. In random order, participants received placebo on five separate sessions and single oral doses of modafinil (1.75, 3.5, or 7.0 mg⧸kg) and amphetamine (0.035, 0.07, 0.14 mg⧸kg). Free time between hourly performance testing intervals gave participants the opportunity to eat. Like amphetamine, modafinil reduced the amount of food consumed and decreased energy intake, without altering the proportion of macronutrients consumed. Although both medications significantly increase heart rate and blood pressure at higher doses, the dose of modafinil that was efficacious in decreasing food intake did not significantly increase heart rate. Modafinil may be well suited for the treatment of obesity, although further studies with repeated dosing in overweight populations are warranted. Modafinil may have less adverse health consequences than some anorectic agents and greater treatment efficacy….A limited number of studies have examined the effects of modafinil on food intake in nonhumans and humans. Nonhuman studies suggest that modafinil decreases appetite and food intake and reduces frequency of eating (Nicolaidis & Saint Hilaire, 199333ya; Shelton, Nishino, Vaught, Dement, & Mignot, 199531ya). Two human studies evaluating the efficacy of modafinil for the treatment of attention deficit hyperactivity disorder (ADHD) in adults reported reductions in energy intake or appetite suppression following acute administration of modafinil, while no changes in appetite were observed in another study evaluating the effects of modafinil in children with ADHD (Jasinski & Kovacevic-Ristanovic, 200026ya; Taylor & Russo, 200026ya; Rugino & Copley, 200125ya)….The high doses of modafinil and amphetamine increased heart rate and blood pressure, but the magnitude of effects was relatively small. For example, compared to baseline measurements, heart rate increased by approximately 8 beat/min, reaching an apex of 78 beats/min, following the high dose of modafinil. A similar pattern was observed with blood pressure. The moderate dose of modafinil, which significantly reduced energy intake, increased cardiovascular measures to a lesser degree suggesting that it may have a safer profile of effects compared to amphetamine. These findings are comparable to the findings of previous studies, which report that modafinil produces fewer, if any, cardiovascular changes than stimulant drugs, is well tolerated, and produces a more desirable safety profile than stimulants. Significant increases in cardiovascular parameters generally occur following administration of doses greater than 400 mg (Jasinski & Kovacevic-Ristanovic, 200026ya; Rush et al 200224ya; Caldwell, Caldwell, Smythe, & Hall, 200026ya; PDR, 200224ya).
+
+
+The side-effects of other weight-loss drugs are pretty heart-stopping:
+
+
+Medications have been successful in supporting weight loss but many of them have been withdrawn from the market or are not recommended for weight loss due to adverse effects such as hemorrhagic stroke (phenylpropanolamine), heart valve disease and pulmonary hypertension (fenfluramine, dexfenfluramine), and abuse liability (amphetamine).
+
+↩︎
+- 
+
+See, eg. https://ask.metafilter.com/47324/How-well-does-Modafinil-work#720855, https://ask.metafilter.com/47324/How-well-does-Modafinil-work#1072382; but for reports to the contrary (poster sure they used genuine modafinil but no smells), see Reddit.↩︎
+- 
+
+“Urine smells of sulfur”↩︎
+- 
+
+Mike Darwin, a dialysis technician, on aspirin (“Interventive Gerontology 101.01: The Basics”):
+
+
+It is almost axiomatic in medicine that any increase in bleeding time (anticoagulation) is associated with an increased incidence of clinically significant gastrointestinal (GI) and intracranial bleeding. For vitamin E to show benefit, it would be necessary for any increase in adverse effects to be offset by the benefits it conferred. For vitamin E, this was not the case, whereas for aspirin, which also increases bleeding time and causes an increased incidence of GI and intracranial bleeding, shows such strong benefit in the reduction of myocardial infarction that it is worth the associated risk in the appropriate patient population (ie. those 50 or over and those with known cardiovascular disease).
+
+
+…For instance, take Vioxx. Poor Merck! Vioxx probably causes no more heart attacks than ibuprofen and it certainly didn’t kill as many people as aspirin does each year in the US. Consider that there were 7,600 deaths and 76,000 hospitalizations in the US last year due to NSAIDs (NSAIDs include aspirin, ibuprofen, naproxen, diclofenac, ketoprofen, and tiaprofenic acid.)! You have to be pretty sick to be hospitalized. The Phase I–III clinical trial size is simply too small to show that a drug causes 1 in 1,000, let alone 1 in 5,000 or 1 in 10,000 people to drop over dead and to do so with no prior toxicity, or signs of toxicity (abnormal labs, etc.)…My point was that other NSAID drugs wreak more death and mayhem than Vioxx did every year, and yet thy are sold OTC and no one gives the truly incredibly morbidity and mortality a second thought. Any GP or ED doc will regurgitate countless stories of serious GI bleeding due to NSAIDS (and especially aspirin) on cue. Of course, they don’t mention all the hemorrhagic strokes caused by aspirin’s anti-platelet activity because they have no way to distinguish those from “regular strokes” and with so much of the population on aspirin that wouldn’t be easy.
+
+
+Aspirin causes a truly gruesome and often fatal condition in children called Reye’s syndrome, and if it were any other drug than aspirin, it would have been pulled from the market, Instead, a massive educational campaign was launched to teach parents not to give sick children aspirin—the rational thing to do! However, meanwhile (until the population was educated), children continued to be neurologically maimed and killed by Reye’s. I’ve dialyzed youngsters with multi-system organ failure from Reye’s and it is a wretched and heartbreaking illness with a poor outcome.
+
+
+Beyond the COX-inhibiting NSAIDS, there is “Tylenol”, or more properly, acetaminophen (APAP) (paracetamol in the rest of the world). Johnson&Johnson/MacNeil are apparently getting tired of paying for liver transplants and paying out judgments for people who die of liver failure because this hepatotoxic drug has spread into almost every product on the market for pain or discomfort, ranging from nostrums for menstrual cramps to sleep aids. APAP toxicity is the most common cause of hepatic failure requiring liver transplantation in Great Britain. In the United States, APAP toxicity has replaced viral hepatitis as the most common cause of acute liver failure, and it is the second most common cause of liver failure requiring transplantation in the US.The percentage of cases of acute liver failure caused by an overdose of acetaminophen increased considerably 1998–5200323ya, with unintentional overdose accounting for at least half of these case. Acetaminophen (APAP) is now the drug of choice for suicide in the US & UK and the number of deaths and hospitalizations from APAP has risen steadily since its widespread introduction in the 1960s (it was initially introduced in the 1950s). I can’t find the numbers for the US, but in England and Whales there are ~700 successful suicides/yr using APAP. The drug interacts unpredictably with alcohol in many individuals to cause serious liver toxicity and the economic costs of APAP toxicity are estimated to be in the hundred of millions of dollars/yr. I note that few, if any other PRESCRIPTION, let alone OTC drug, with a decades long history of steadily escalating injury and death to the population. By contrast, Vioxx was a dream drug! So it is the hypocrisy and unfairness of the treatment of Vioxx that I find objectionable.
+
+↩︎
+- 
+
+Wikipedia, citing no sources unfortunately, reports that:
+
+
+Modafinil toxicity levels vary widely among species. In mice and rats, the median lethal dose (LD50) of modafinil is approximately or slightly greater than 1250 mg⧸kg. Oral LD50 values reported for rats range from 1000 mg⧸kg to 3400 mg⧸kg. Intravenous LD50 for dogs is 300 mg⧸kg. In clinical trials on humans, taking up to 1200 mg⧸day for 7 to 21 days or one-time doses up to 4500 mg did not appear to cause life-threatening effects, although a number of adverse experiences were observed, including excitation or agitation, insomnia, anxiety, irritability, aggressiveness, confusion, nervousness, tremor, palpitations, sleep disturbances, nausea, and diarrhea.
+
+↩︎
+- 
+
+“Successful treatment of idiopathic hypersomnia and narcolepsy with modafinil”, Bastuji & Jouvet 198838ya.↩︎
+- 
+
+Here is an interesting pseudonymous anecdote (emphasis added) on the risks of skipping multiple nights:
+
+
+You need to know (and monitor) your own body, and not ignore physiological imbalance, even if it seems trivial. Drink a lot of water, eat lots of nutritious food while taking it, and for the love of god, do not stay up more than 2 or 3 nights in a row without sleep. It’s not worth it….make no mistake—modafinil is an effective medication, and like all effective medications, it has side effects, (light) mental habituation, and potentially life threatening side effects if used improperly. At the end of one particularly rough 9 days or so of straight usage during a major release for a contract, averaging 3 hours of sleep once every two to three nights (and the rest solidly awake), I settled with the team at a 24-hour diner right before release, and had an all-potato breakfast. My stomach had been steadily gaining in acidity over the week, but I had ignored it. A couple of hours later, I threw up and accidentally inhaled a small amount of the most corrosive stomach acid I’ve ever felt. When I coughed it out I tasted blood, and shortly after found it harder to breath. The bleeding was so profuse that I found it necessary to handstand over a hotel bathroom sink to let it all drain out without choking me. Luckily the person who had dropped me off was nearby—I phoned him and he took me straight to the hospital. I never had experienced that level of lung trauma before, and I’ve had a lot of hospitalization events related to some pretty severe asthma in my life, and it was this moment more than any other in my life that I seriously considered that I might die. In the end, I made it out with a light lung infection, and was treated at the hospital for an allergic reaction. I’ve never been able to eat potatoes since without experiencing an allergic reaction.
+
+↩︎
+- 
+
+A 2005 case study discussed a 17-year-old boy who had a manic episode on methylphenidate and then on modafinil (“…this may be the first report of a patient experiencing mania while undergoing treatment with modafinil in therapeutic doses”). An extremely pleasurable experience would certainly be worrisome from an addiction point of view, but users often note the ‘subtlety’ of being on modafinil and general lack of altered states that would make modafinil more of a ‘recreational’ than ‘study’ drug. (As well, 3 doctors in 200620ya pointed out in a letter to The American Journal of Psychiatry that the cocaine addicts in their study—who ought to know—were not hoarding the prescribed modafinil and assert that “Postmarketing surveillance and animal studies suggest modafinil has little potential for abuse.”)
+
+
+Mueller et al 201214ya tested healthy naive adults:
+
+
+It is also important to gauge some of the psychological mechanisms by which modafinil may exert its beneficial effects on cognition, both in terms of clinical and shift-work related use. An important finding of this study is that there was a striking increase in task motivation. Participants on modafinil felt considerably more pleasurable after performing individual tasks assessing ‘cold’ cognition and on all but one of the creativity tasks (the Group Embedded Task). This finding is reminiscent of the reinforcing effects of modafinil in humans described by Stoops et al 200521ya which were only evident when there were additional cognitive task demands, suggesting that any motivational effects of the drug derived mainly from its perceived effects on task performance and were thus not similar to those of ‘recreational’ drugs of abuse such as cocaine and amphetamine. The interesting question is whether modafinil enhances motivation through an hypothesised perception by the subject of its ability to enhance performance, or alternatively whether the drug enhances motivational factors which directly impact cognition (and both of these may obtain). It should be noted, however, that modafinil did not produce obvious subjective effects, for example, on arousal, as indicated by visual analogue rating scales or cardiovascular measures.
+
+
+This finding of motivation enhancing effects of modafinil lends empirical validity to anecdotal evidence from lifestyle use of modafinil that the drug improves concentration and enhances the ability to work for longer periods (Sahakian and Morein-Zamir, 201115ya). On the other hand, cognitive enhancing effects as described by recreational users of modafinil have to be carefully differentiated from placebo effects. So far, no study has demonstrated cognitive enhancing effects of modafinil in real life situations outside of laboratory settings.
+
+↩︎
+- 
+
+From a Cephalon-funded study, “An evaluation of the abuse potential of modafinil using methylphenidate as a reference”, Jasinski 200026ya:
+
+
+Preclinical studies indicate a mechanism of action which is distinct from that of amphetamine or methylphenidate. To compare the pharmacodynamic profiles of modafinil, methylphenidate [Ritalin], and placebo in humans, a double-blind Latin square crossover study was conducted in 24 male volunteers with a history of polysubstance abuse that included the stimulant cocaine. Each subject was given single oral doses of methylphenidate (45 mg or 90 mg), modafinil (200 mg, 400 mg or 800 mg) and placebo. Measures of subjective, behavioral, and physiological responses were evaluated at fixed intervals during 72 h after each dosing occasion. Subjects discriminated both modafinil and methylphenidate from placebo. Subjects liked the effects of both drugs. However, modafinil differed from methylphenidate in its lack of a significant response on the Amphetamine Scale of the Addiction Research Center Inventory. The profile of physiological effects for modafinil differed from methylphenidate in that it showed greater inhibition of observed and reported sleep, less facilitation of orthostatic tachycardia and less reduction of caloric intake. These findings are consistent with preclinical pharmacological data suggesting that modafinil is not an amphetamine-like agent.
+
+
+Why compare these two? From the Discussion section:
+
+
+One method of assessing the abuse potential of a new drug is to determine if the drug is pharmacologically equivalent to a prototypic drug of abuse. In a series of prior studies, it was shown that methamphetamine, ephedrine, phenmetrazine, methylphenidate, diethylproprion and phentermine produced a grossly similar profile of subjective and physiologic effects to amphetamine (Martin et al 197155ya; Chait et al 198739ya). For the most part, the relative potencies of these agents, calculated from parallel line bioassays, were similar across pressor response, decreases in caloric intake, and subjective measures, indicating a lack of pharmacological selectivity among these agents. For these reasons, it was judged that all of these phenylethylamines possessed the same potential for producing reinforcing effects and adverse effects as amphetamine. Consequently, all were judged to have similar potential for abuse.
+
+
+…The subjective findings from our study are consistent with those from a study by Warot and colleagues (199333ya) in which they compared the effects of amphetamine 15 mg, modafinil 300 mg, and caffeine 300 mg in healthy volunteers. Their results showed that modafinil was clearly differentiated from amphetamine on the Amphetamine Scale of the ARCI. Furthermore, subjects indicated that if they had to take the drug on another occasion, they would chose amphetamine rather than modafinil or caffeine…If pharmacological equivalence to a drug with known abuse potential is not shown, a second method of assessing the abuse potential of a new drug is to determine if the drug produces reinforcing or toxic effects that could lead to abuse. At the doses tested in our study, modafinil was ‘liked’ by the subjects and raised mean blood pressure; however, it is our opinion that these qualities alone do not indicate that the drug will be abused. Other drugs with adrenergic ‘stimulant’ activity, such as phenylpropanolamine and caffeine, raise blood pressure and promote wakefulness, but do not represent significant public health or safety concerns as drugs of abuse (Chait et al 1988; Warot, 199333ya). In a prior study, Warot et al 199333ya determined that the subjective effects of modafinil 300 mg were very similar to those produced by caffeine 300 mg; however, further study may be required to compare the effects of higher doses of modafinil to those produced by these agents…However, it should be noted that non-pharmacological factors that are part of the social response to its availability will also determine whether this drug will be abused or misused. Because of the unique pharmacologic profile and low toxicity, there is likelihood for off-label use in which physicians prescribe modafinil to promote wakefulness in situations other than patients with narcolepsy.
+
+
+The mechanisms of modafinil are poorly understood, but the wakefulness at least seems to involve different mechanisms than the amphetamines; from “Distinctive effects of modafinil and d-amphetamine on the homeostatic and circadian modulation of the human waking EEG” (Chapotot et al 200323ya):
+
+
+Results: One hour following ingestion, both psychostimulants increased alertness during 10-12 h, independently of the time of administration. At the level of the waking EEG, d-amphetamine attenuated the natural circadian rhythm of the different frequency bands and suppressed the sleep deprivation-related increase in low frequency (0.5-7 Hz) powers. In contrast, modafinil, which exhibited a transient amphetamine-like effect, had slight effect on circadian rhythms. Its selective action was characterized by maintenance of the a1 (8.5-11.5 Hz) EEG power, which under placebo exhibited a homeostatic decrease paralleling that of alertness with a circadian trough at night. Conclusions: These findings demonstrate that the alertness-promoting effects of modafinil and d-amphetamine involve distinct EEG activities and do not reside on the same vigilance regulatory processes. While d-amphetamine inhibits the expression of a sleep-related process, probably through a direct cortical activation masking EEG circadian rhythms, modafinil, through a synchronic effect, preferentially disrupts the homeostatic down-regulation of a waking drive.
+
+
+See the Wisor 201313ya review, “Modafinil as a catecholaminergic agent: empirical evidence and unanswered questions”.↩︎
+- 
+
+The poorer response of multiple sclerosis patients to 400mg than 200mg was due to a U-shaped response curve—or perhaps tolerance, speculates “Efficacy and safety of modafinil for the treatment of fatigue in multiple sclerosis: a two center phase 2 study” Rammohan et al 200224ya. On the positive side, this study represents another citation for the thesis that modafinil has few and minor side-effects.↩︎
+- 
+
+One study mentions that the subjects were taking “drug holidays” from modafinil; see “Efficacy and safety of modafinil for improving daytime wakefulness in patients treated previously with psychostimulants”, Schwartz 200224ya.↩︎
+- 
+
+Jasinski 2000’s summary:
+
+
+Modafinil does not bind with high affinity to dopamine uptake carrier sites (Mignot et al 1994) or stimulate release of dopamine in vitro (Simon et al 1995), increase extracellular catecholamine levels (De Séréville et al 1994), alter the electrophysiology of dopaminergic (nigrostriatal) or noradrenergic (locus coeruleus) neurons; and is not anxiogenic (Simon et al 1994). Dopamine antagonists attenuate only the wakefulness and hyperlocomotion promoted by amphetamine, not modafinil (Duteil et al 1990; Lin et al 1992).
+
+↩︎
+- 
+
+“Sniffing out the internet drug barons”, Guardian:
+
+
+The MHRA collaborates with a number of organisations to target illegal websites, from the Metropolitan police e-crimes unit to US homeland security and specialised organisations that identify suspect online activity…Not long after the officers made their way up the stairs, Lee-Frost, on the pavement outside, got a call on his mobile. He looked glum. “It’s a one-room bedsit,” he said. “He claims he has closed down the website and it all comes from China. He rents a mailbox in the City and says that’s where his laptop is.” There were no pills and just a small amount of paperwork. They would try to persuade the suspect to hand over his laptop, but this raid was unlikely to lead to a spectacular court case, although they do happen. In April, the MHRA got a confiscation order in Southwark crown court for £14.4m against a fake medicines dealer after tracking down his assets across Europe, which a judge decided were all the proceeds of crime. ModafinilUK, the website registered to the man in north-west London, was closed down on the day of the raid, just one of nearly 9,000 illegal pharmacy websites shut down. Like twigs on the branches of a tree, their URL addresses lead to a few “anchor sites” run, said the MHRA’s head of enforcement, Nimo Ahmed, by organised crime networks, often based in Russia…Unable to stamp out the anchor sites, the MHRA is still managing to choke off a lot of their trade, closing down linked sites, confiscating and testing suspect packages entering the country and working with Visa, MasterCard, PayPal and other payment organisations to stop the money getting through to the dealers.
+
+↩︎
+- 
+
+But Nubrain itself is a cautionary anecdote; it may have a very good reputation, but it’s still not hard to find bad reviews. This is a point that should not need to be made, but I still will anyway: everything in this page deals with risky & uncertain probabilities. If you want guarantees and certainty, go read a logic textbook.↩︎
+- 
+
+Caveat: Nubrain can process and ship orders very slowly; and as of 201115ya, their adrafinil seems to be fake or in some wise deficient even while people (including personal acquaintances of the author) continue to report their modafinil copacetic. There are negative reports for Nubrain though, eg. unsleepable saw no benefit and anxiety from Modalert bought from Nubrain.↩︎
+- 
+
+Prices in pounds are converted to dollars. Milligrams per dollar is calculated: round(mg⋅Amount$+S&H)↩︎
+- 
+
+If ordering from TPE, I recommend avoiding the MoneyGram payment option. The discount seems to barely cover the MoneyGram fees and MoneyGram is strict about what they will allow.↩︎
+- 
+
+Calculated in bulk: 10x10x200mg units, £5.39 each. Note that 4NRX appears to be denying access to US-based IPs; the price information may be out of date.↩︎
+- 
+
+Like 4NRX, appears to be filtering accesses by geography. UP used to sell 10 pill units, but as mentioned above, this would massively penalize UP and who orders 10 pills at a time? So this row calculates an order of 10 units of 10 pills each, at the volume price of £5.49 each. ↩︎
+- 
+
+See previous UP note; this is calculated at 10x10, £3.99 each.↩︎
+- 
+
+Biogenesis AntiAging says their modafinil “can NOT be shipped to South Africa, European Union, United Kingdom, Canada, the United States of America and Japan.”↩︎
+- 
+
+The owner announced 2013-11-10 that he was temporarily backlogged and took down price information.↩︎
+- 
+
+Modadeals is very new & informal; I do not recommend using them.↩︎
+- 
+
+Prices in pounds are converted to dollars. Milligrams per dollar is calculated: round(mg⋅Amount$+S&H)↩︎
+- 
+
+Not accepting new orders as of 2013-11-15.↩︎
+- 
+
+UP may no longer be offering Waklert. Calculated as 10x10 at £6.39↩︎
+- 
+
+10x10 at £3.59↩︎
+- 
+
+4NRX may no longer be offering Waklert. Calculated at 10x10 with free S&H.↩︎
+- 
+
+I once ordered armodafinil off Silk Road.↩︎
+- 
+
+For example, Sun apparently used to confirm or disconfirm batch numbers via email or telephone, but I have been told that they have stopped doing this because of worries over the exporting of their modafinil and a desire to discourage it. It may be possible to call them via Skype or hire an Indian to check.↩︎
+- 
+
+I dropped them when I checked into my accounts and discovered I had been credited with $0 after that time-span. Why bother?↩︎
+- 
+
+They seem to do ~20% commission; for the cheapest modafinil, as of 2011-04-28:
+
+- 
+
+200x200 sells for $197.95, commission of $39.59
+- 
+
+100x200 sells for $131.95, commission of $26.39
+
+↩︎
+- 
+
+For example, if multiple sites/‘businesses’ were set up, each with different prices, then the true owners may be able to engage in price discrimination and capture more of the consumer surplus. It’s impossible to know for sure how many online pharmacies are just independent-looking fronts for one real business; it has been asserted that this is the case, eg. dontj:
+
+
+thepharmacyexpress.com is actually the same source as usadiscreetmeds and a whole bunch of other sites (see my first post in this thread). Monarchpharm just uses different sites (that also look really similar) to sell the same meds at sometimes different prices. I think when I ordered from usadiscreetmeds.com the [SSL] certificate was also expired—but NP [no problem]. I’d say go for it!
+
+↩︎
+- 
+
+S. Cobb: The Economics of Spam. ePrivacy Group, February 200323ya. Cited in “‘Proof-of-Work’ Proves Not to Work”, Laurie, Ben; Clayton, Richard (May 200422ya)↩︎
+- 
+
+Note, incidentally, that the BBC writer took a modafinil and a placebo blinded—and guessed wrong which day was modafinil, but saw some computer test scores improve.↩︎
+- 
+
+Due to the problems in processing credit card payments & the researchers’ mailbox expiring, it’s a little more complicated than that, but I believe 53⁄56 is the most relevant proportion here:
+
+
+We attempted 120 purchases, of which 76 authorized and 56 settled.10 Of those that settled, all but seven products were delivered. We confirmed via tracking information that two undelivered packages were sent several weeks after our mailbox lease had ended, two additional transactions received no follow-up email, another two sent a follow-up email stating that the order was re-sent after the mailbox lease had ended, and one sent a follow-up email stating that our money had been refunded (this refund, however, had not been processed three months after the fact).
+
+↩︎
+- 
+
+Which is more than a year’s supply because taking it every single day is asking for tolerance to build up.↩︎
+- 
+
+Miyamoto Musashi, “Book of Water”, Book of Five Rings↩︎
+- 
+
+When Hal Finney announced he had developed ALS in “Dying Outside”, he wrote something that surprised me (but later struck a cryonics chord in me, especially given heart attack research):
+
+
+Although ALS is generally described as a fatal disease, this is not quite true. It is only mostly fatal. When breathing begins to fail, ALS patients must make a choice. They have the option to either go onto invasive mechanical respiration, which involves a tracheotomy and breathing machine, or they can die in comfort. I was very surprised to learn that over 90% of ALS patients choose to die. And even among those who choose life, for the great majority this is an emergency decision made in the hospital during a medical respiratory crisis. In a few cases the patient will have made his wishes known in advance, but most of the time the procedure is done as part of the medical management of the situation, and then the ALS patient either lives with it or asks to have the machine disconnected so he can die. Probably fewer than 1% of ALS patients arrange to go onto ventilation when they are still in relatively good health, even though this provides the best odds for a successful transition.
+
+↩︎
+- 
+
+US Army personnel, considering various large bonus offers, manifested annual discount rates as high as 57.2%.↩︎
+- 
+
+I say improbably low because at a discount rate of 2%, a person ought to exhibit behaviors like never spending a single penny as they shovel all their money into bonds and stocks, to be spent when they are ancient and about to die—they are extreme misers. Most people discount too much rather than too little, but nevertheless, one can damage one’s quality of life with too low a discount rate.↩︎
+- 
+
+Commenter Spike questions the terminology here:
+
+
+Is modafinil a “sulpha drug”? Sulpha drugs contain a single sulphanomide functional group, eg. SO2NH2 or SO2NHR. modafinil does not contain a sulphanomide functional group, it does, however, contain discrete, separate sulphonyl (SO2) and carboxamide (CONH2) groups. Modafinil is also deficient an aromatic amino group, which are common in “sulpha” compounds (the haptens formed by the reaction of the aromatic amino group with proteins in the body is thought to be the cause of allergic reactions in people using “sulpha” drugs). Alas, modafinil is a “sulphonyl amide”, not a sulphanomide. I don’t why that is important, but I just thought I’d let you know.
+
+↩︎
+- 
+
+For example, all the test could tell us is the ‘presence of sulfur’. But this is not the same thing as the ‘presence of modafinil’. Spike again:
+
+
+There are obviously a number of possible reasons why the quality of Modalert (and other generics of modafinil) is so variable. There is one other explanation; the process by which the generics are produced. The original US Patent for modafinil contains a number of methods of synthesis. The simplest and most cost effective (fair to say that this is what the generic manufacturers are using) results in a problem of over-oxidation of the sulphide to sulphone, a phenomenon that is particularly difficult to reverse and may sterically hinder the compound. A closely related method (perhaps the second most likely synthesis procedure used by the generic manufacturers) involves a sequence of inert intermediates being produced in relatively large proportions; these compounds are also very difficult to separate from the modafinil. Personally, I think that this may be a primary reason behind the variable quality of generic modafinil products.
+
+↩︎
+
+
+
+Error: JavaScript disabled.
+
+Backlinks, similar links, and the bibliography require JS enabled to load.
+        # Backlinks
+
+
+        [Backlinks (what links here)]
+        # Similar Links
+
+
+        [Similar links by topic]
+        # Bibliography
+
+ ' is redundant with the ''; but added to parallel Pandoc-generated headers which set all attributes/classes on both. -->
+        [Bibliography of links/references used in page]
+
+
+
+
+        [&hairsp;Send Anonymous Feedback&hairsp;]
+
+[Quote Of The Day]
+
+[Site Of The Day]
+
+[Annotation Of The Day]
+
+[adblock public service announcement]
+
+      ​
