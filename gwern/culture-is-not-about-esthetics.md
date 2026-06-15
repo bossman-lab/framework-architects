@@ -1,0 +1,2379 @@
+# Culture Is Not About Esthetics
+
+[Source](https://gwern.net/culture-is-not-about-esthetics)
+
+- 
+
+
+  
+
+  
+    Skip to main content
+
+    
+    
+    
+      
+        
+        
+          
+            
+
+Warning: JavaScript Disabled!
+          
+          
+
+For support of key website features (link annotation popups/popovers & transclusions, collapsible sections, backlinks, tablesorting, image zooming, sidenotes etc.), you must enable JavaScript.
+        
+      
+    
+    
+
+    
+    
+        
+      
+      
+      
+        Site
+        Me
+        New
+        Blog
+        Links
+        Patreon
+        Substack
+      
+    
+
+    
+
+    
+
+      
+        # Culture Is Not About Esthetics
+
+
+      
+
+      
+      
+         
+
+
+music, philosophy, psychology, sociology
+ 
+        
+
+Aesthetically & economically, maybe there is too much new art. Don’t take this too seriously.
+        
+            
+            2009-07-16–5y2015-07-0511ya
+            in progress
+            certainty: unlikely
+            importance: 7
+            backlinks
+            similar
+            bibliography
+        
+      
+      
+
+      
+- The Price Is Not Right
+
+- Subsidies
+
+- 100 Apples in the Barrel
+- 100 Books on the Shelf
+
+- Reading Them
+- New = Bad
+
+- Generalizing This
+- Music
+- Movies
+- Genres in General
+
+- Media Shock
+
+- Let’s Ban New Books
+
+- Objections
+
+- Society Doesn’t Care?
+- What’s Efficiency Anyway?
+
+- They Snatched Society’s Brain!
+- Two Sides of the Same Organ
+- Won’t Someone Think of the Chemists?
+
+- Accept No Substitutes, Or, I Can’t Believe It’s Not Octavia Butler
+- Lost Works
+
+- In-Progress Works
+- New Book Smell
+- The Experimental Results
+
+
+- At the End of the Day
+- External Links
+- Appendices
+
+- Musical Instruments Are Not about Music
+- Good and Plenty
+
+- Subsidies
+
+- Indirect
+- Direct
+
+- Propaganda
+- New Book Smell
+
+- “Pericalypsis”, Stanislaw Lem
+
+ 
+
+
+The climate of our culture is changing. Under these new rains, new suns, small things grow great, and what was great grows small; whole species disappear and are replaced.
+
+
+Randall Jarrell1
+
+
+The Amazon Kindle ignited ebook markets by providing a e-ink interface which is visually competitive with paper, and easy access to a remarkable fraction of Amazon’s inventory. It’s very nice.
+
+
+The pricing of ebooks is controversial2; why should an ebook cost as much as the book? The Kindle’s ebooks are small digital files, as opposed to multi-pound slabs of exactingly manufactured wood and cloth3. The former is delivered wirelessly, while the latter requires globe-spanning transport networks. Surely there is vast overhead for the paper, and ebook prices should reflect their marginal cost of production of 0 cents?
+
+
+Not many expect ebooks to be priced in cents, since the author expects to be paid a fair bit for her writing, and the publisher expects to be paid for editing & formatting it, and Amazon is there discreetly coughing for its share45. So it won’t be 0¢, but why not $3 or less?
+
+# The Price Is Not Right
+
+
+In a sense, this is a very easy question. The right price for ebooks is whatever the market will bear. If $3 is not the right price, then consumers will not buy, and the price will continue to fall until they do.
+
+
+In another sense, it’s a difficult question as some people seem to be thinking in medieval terms with the moral concept of the ‘just price’, which is inapplicable to books. (Just prices are easy to set for necessities - eg. if anybody is starving to death, then the price of food is not at the just price - but this doesn’t work for luxuries. And most of Amazon’s merchandise must be classified as a luxury. One is not going to die without the latest Madden NFL video game or James Patterson novel.)
+
+## Subsidies
+
+
+But the presupposition of a discussion of how to ensure a profitable price level mutually acceptable to consumers & corporate publishers is that the publishers should survive. That is: if books are not economically sustainable at natural e-book prices (eg. $3), will society be worse off? Should publishers or novelists be subsidized67? They certainly are subsidized in many ways direct & indirect. Some areas of artistic endeavour seem to try to prove that art is worthless and a joke; it’s a little hard to explain some areas of modern or post-modern art8 in any other way, and who are we to disagree with them? But that’s a cheap way out. What about art that is quite serious and aspires to the age-old goals of art?
+
+
+The more I think about it, the harder I find justifying any subsidy.
+
+
+We value high author royalties because this allows authors to specialize in being authors; specialization is a good thing because it allows authors to produce more than they otherwise would; and higher production is good because we value the fruits thereof.
+
+
+But higher production isn’t always good; production can be misguided or wasted 9. (And strengthened copyright law may not be an effective subsidy regardless.10)
+
+
+# 100 Apples in the Barrel
+
+
+Where words are scarce, they are seldom spent in vain, / For they breathe truth that breathe their words in pain.
+
+
+William Shakespeare11
+
+
+Suppose we all have 100 apples. Our lives do not revolve around apples, though we like them well enough. But still, 100 is too many; even if we ate 5 a day, the rest would go bad before we ate them. And of course, it’s unlikely that any of us will go to the greengrocers and buy more. Our marginal utility of apples has plunged to zero12.
+
+
+From our perspective, the farmer bringing a truck of apples to the greengrocers has wasted his labor. Let’s hope he’ll find something to do with those surplus apples so the resources that went into making them were not wasted - maybe bake some apple pies, or compost them all.
+
+
+Now suppose this wasn’t a one-time gift. We live in a magic world where everyone gets 100 apples a week. Here the farmer’s entire career is wasted. Isn’t he wasting his life? He’s a smart fellow; no reason he couldn’t go do something more useful.
+
+
+We could invent ways to employ this farmer. Perhaps every week he breaks into everybody’s kitchens and steals their apples so they have to buy apples from him. Perhaps he’ll run a large marketing campaign to convince everyone that his apples are superior to the magical apples. Perhaps some people get Granny Smith but really wanted Red Delicious, and he runs an apple-trading hub, filling in deficits with his apples. Perhaps he lives on government subsidy checks & farms apples as a hobby. Or something.
+
+
+But nevertheless, these apple-farmers represent a dead-weight loss. That’s bad.
+
+
+# 100 Books on the Shelf
+
+
+Do technology and economic growth create problems? Certainly. But as Maurice Chevalier said about the disadvantages of growing old, consider the alternative…if you chose to live in Renaissance Florence you would not be able to enjoy Cézanne and Picasso. In Johnson’s London, you would not be able to listen to Beethoven or Brahms. In La Belle Époque, you would not be able to read Joyce or Faulkner. To live in today’s world is not only to have access to all the best that has come before, but also to have a breadth and ease of access that is comparably greater than that enjoyed even by our parents, let alone earlier generations.
+
+
+Charles Murray, Human Accomplishment
+
+
+Now, can we apply this analogy? I don’t have 100 apples, but perhaps I have - 100 novels.
+
+
+Not any novels, but science fiction novels. Nor any 100 Sci-Fi novels, but the winners of the 2 most prestigious SF awards for the last 50 years: the Hugo and Nebula Awards.
+
+## Reading Them
+
+
+Delicacy of taste is as much to be desired and cultivated as delicacy of passion is to be lamented, and to be remedied, if possible. The good or ill accidents of life are very little at our disposal; but we are pretty much masters what books we shall read, what diversions we shall partake of, and what company we shall keep…When a man is possessed of that talent, he is more happy by what pleases his taste, than by what gratifies his appetites, and receives more enjoyment from a poem or a piece of reasoning than the most expensive luxury can afford.
+
+
+David Hume, Essays Moral, Political, Literary 1777249ya (Essay I: “Of The Delicacy Of Taste And Passion”)
+
+
+…in an information-rich world, the wealth of information means a dearth of something else: a scarcity of whatever it is that information consumes. What information consumes is rather obvious: it consumes the attention of its recipients. Hence a wealth of information creates a poverty of attention and a need to allocate that attention efficiently among the overabundance of information sources that might consume it…A relatively straightforward way of measuring how much scarce resources a message consumes is by noting how much time the recipients spends on it.
+
+
+Herbert A. Simon, “Designing Organizations for an Information-Rich World”, 197155ya.
+
+
+…the cost of a thing is the amount of what I will call life which is required to be exchanged for it, immediately or in the long run.
+
+
+Thoreau, Walden
+
+
+Suppose I read the 100 at the rate of 1 a week13, or 52 a year. I will finish them in ~2 years.14
+
+
+It will take an appreciable fraction of my life to read a vanishingly small fraction of one small fiction genre, that itself has existed for less than 2 centuries and been written almost exclusively in 2 countries15.
+
+
+And what if I want to read the prequels and sequels? Not all winners are as prolific in sequels & prequels as Dune, but these winners include many duologies and trilogies (or more)16. I can probably expect to lose another 2 or 6 years to them. Certainly, I can expect it to take another 4 years to read the 2 top runner-ups for each award. And did I mention that these awards have multiple categories? Many of SF’s greatest works are short stories or novellas, which compete for different Nebula & Hugo awards.
+
+
+And of course, it’s not like the Hugo & Nebula awards are the definitive list of SF ‘books to read’ - The Encyclopedia of Science Fiction treats of hundreds of writers, and mentions thousands of works; The Encyclopedia of Fantasy has more than 4000 entries. Like Mandelbrot’s fractal coast of England, the more thoroughly I search, the longer my reading list becomes.
+
+
+## New = Bad
+
+
+It is worth serious consideration how great an amount of time—their own and other people’s—and of paper is wasted by this swarm of mediocre poets, and how injurious their influence is. For the public always seizes on what is new, and shows even more inclination to what is perverse and dull, as being akin to its own nature. These works of the mediocre, therefore, draw the public away and hold it back from genuine masterpieces, and from the education they afford. Thus they work directly against the benign influence of genius, ruin taste more and more, and so arrest the progress of the age.
+
+
+Arthur Schopenhauer17
+
+
+The list is now 8 years in length; if the SF industry had imploded the day I started, I would not have noticed.
+
+
+I would be better off, actually, if the industry did implode! The last SF or Fantasy I read was Brandon Sanderson’s Mistborn trilogy. It was good, but I know there are better18. My reading time is finite, and reading Mistborn pushed out reading Gene Wolfe’s Book of the Long Sun tetralogy - which I ultimately enjoyed more. If the industry had imploded before Mistborn was published, I would have read Long Sun instead19.
+
+
+It wouldn’t be difficult to spend the rest of my life reading only SF published before 200917ya, and it would be more efficient as time is the keenest critic.
+
+
+The connection to other aspects of modern life and akrasia is apparent: there’s a Gresham’s Law whereby cheap yet unsatisfying works will push out more satisfying but more demanding entertainment. Humans suffer from hyperbolic discounting; we may know that in the long run, Mistborn will be forgotten when Long Sun is remembered, and that once we get started, we will enjoy it more - yet when the moment comes to choose, we prefer the choice of immediate pleasure.
+
+
+Why is this? For that matter, why do so many discrete subcultures flourish around fiction and seem to outnumber subcultures based on nonfiction topics like guns? Why does fiction seem to sabotage effectiveness in real-life? Rather than enhance it as seems plausible and as it could very well do since interactive fiction is capable of slipping enormous amounts of information into one’s mind (eg. What video games have to teach us about learning and literacy, Gee 200323ya). Right now, we can only speculate; I suspect the answer lies at the convergence of highly abstract interpretations of creative experience, modern video-game instantiations of addictive token economies, and the neurology of fiction20. Robin Hanson suggests, based in part on analysis of 201 major British novels21, fiction is closer to signaling and wish-fulfillment - serving to educate us about group membership or interaction, and sending messages about what groups one is in (it’s hard to fake a real knowledge of The Silmarillion, eg.) It’s an interesting area, but not strictly relevant to the topic of whether new fiction should be subsidized and its merits compared to old (existing) fiction.
+
+Generalizing This
+
+
+Reading anything less than 50 years old is like drinking new wine: permissible once or twice a year and usually followed by regret and a headache…I definitely have followed that dictum. Maybe a little too much so, in that I rarely read anything modern at all. When it comes to books. I don’t follow that rule when it comes to music or movies or blogs. But on the level of books, there is so much good stuff out there that has stood the test of time, I don’t run out of interesting things to read.
+
+
+topologist Robert Ghrist22
+
+
+But reading only SF is impoverishing. I always wanted to get into mysteries and French literature. But those will take at least 2 decades. Now I’m in my 50s. I’d better hurry if I ever want to read English or Chinese literature, or any nonfiction!
+
+
+So, why do I care what happens to the SF market? How does it concern me that the short story magazines are collapsing and will train no new writers? I have no need of them. I already have 100 apples.
+
+
+Music
+
+
+Or how about the genre of classical music? I once saw a complete collection of J.S. Bach in 160 CDs. I’ve no idea how many hours of music that is, and am too frightened to calculate it. And how many listens would it take to reasonably appreciate it? A lifetime perhaps.
+
+
+Why should I care about some publisher trying to record another CD of the Brandenburg Concertos? I’m not a conductor, I will hear no improvement. To me, there is no difference between the world’s greatest violinist and the 10th-greatest.
+
+
+Movies
+
+
+Or consider another medium: movies. Have you seen the IMDB’s Top 250 movies? There are excellent movies in there. Some are profound, others moving, and not a few profoundly moving. Why are you going to watch Transformers 2 or Ice Age 3? For entertainment value? But there are movies in that list which are far more entertaining, I assure you.
+
+
+Even if you’ve seen the top 50, there’s another 200 to choose from. If you think the IMDB is too faddish and Internet-centric, there’s no shortage of other lists - the New York Times would be happy to tell you all about “The Best 1,000 Movies Ever Made” (6 years at 3 movies a week). And what about television? If we ask IMDB about movies by year or all the movies and TV episodes it knows about, it’s happy to tell us: 1,111,244 episodes; 263,524 movies; and 1,920,757 works in total (as of 2011-06-28). We can also look at movie production over time, where we find that as early as 1917109ya there were 5,490 movies made. (A current estimate for the EU is “1100 features and 1400 shorts per year”.) So even if we got in at the beginning, we never had a chance at watching so much as a small fraction.
+
+
+Here’s a thought problem: suppose an intensive study revealed, authoritatively, that removing all subsidies and ‘intellectual property rights’ would cause movie production to fall by 95%. Would you regard that as a disaster, something to be decried and abhorred and legislated against? I suspect so. Suppose the study found that, specifically, this 95% fall was composed partially of movies never getting made, but also partially of movies getting made and then lost or never distributed or never shown at all (perhaps because in the absence of copyright, pirates would undercut them and take all profits); would this change your opinion much? Probably not for the better - if anything, it’s even more horrifying, in the same way almost winning the lottery but missing by 1 number is more saddening than missing it by 2 numbers.
+
+
+But the interesting thing is that this is already happening: less than 5% of movies are available to the public23, and only around 10% of silent films survive in any sense anywhere24. So that 95% fall has already happened; civilization seems to have survived25. (A reflection on the ‘movie canon’: if you believe the canon is aesthetically invalid and has not successfully picked out the best movies made, then that implies anywhere up to 90% of the best movies ever made are lost forever to you.)
+
+
+Genres in General
+
+
+When will we realize that the fact that we can become accustomed to anything, however disgusting at first, makes it necessary to examine carefully everything we have become accustomed to?
+
+
+George Bernard Shaw, A Treatise on Parents and Children, 1910
+
+
+Any field over a century old has built up a stock of masterpieces that could fill a lifetime.26
+
+
+Fields that are new, or still technically developing, may not have enough. For example, video games - even the greatest arcade games from 20 or 30 years ago such as Pac-Man or Space Invaders has a hard time competing against mediocre contemporary games. Something similar may be true of modern television programs27 (although presumably the development and sophistication is finished in still other modern formats like movies, which draw the most capable and most money).
+
+
+Granting that new/developing argument, one only delays the day of reckoning, and as time passes, new fields are necessarily an ever smaller fraction of the general surplus of art. After all, while we may not be able divide up all art into categories of ‘painting’ or ‘Russian novel’, there is something we can count and which is absolutely crucial to the argument: time. Our lives are only so long, and they are denominated quite precisely, second by second. We have 500,000 hours.28
+
+
+Does it matter whether it’s a ballet or a novel if we devote 3 of those hours to it? Artworks may be as non-commodified or incomparable or subjective as we please, but we can’t get around our own limits. For our finite lives, it’s good enough if we call it art. And we don’t necessarily need to assume substitution of works across genres; given enough time, any genre will outrun your lifespan. As genres multiply, it becomes ever more difficult to argue that some new and small genre is the only one that can satisfy one and that it merits subsidy. (And yet, despite the scarcity of our attention, we fritter it away and value our time at next to nothing: someone watching an hour of TV is so worthless that after nearly a century, the most an advertiser can afford to pay the TV station for that person’s attention is 20 cents.)
+
+
+## Media Shock
+
+
+The soul has no assignments, neither cooks
+
+Nor referees: it wastes its time. It wastes its time.
+
+Here in this enclave there are centuries
+
+For you to waste…
+
+The books, just leafed through, whisper endlessly.
+
+
+Randall Jarrell29
+
+
+I hope I’ve made my point: we live in an age of utter media abundance. Like none before us, we can partake of the greatest works in all mediums of all ages. We do not sip from a fountain laboriously supplied by hard-working artists & authors, nor even guzzle from a fire-hose hooked up to a printing press; we are being shot off Niagara Falls. The impact alone will kill us.
+
+
+This has been true for a very long time. Even mediums dismissed as dead produce astounding quantities; the American magazine Poetry receives 100,000 poem submissions a year. The Bodleian Library has been running out of space since the 1970s; it ordered a 13-acre warehouse with 153 miles of high-density shelving - and expects this to suffice for just 20 years30. This abundance may have been invisible to most people before the Internet. The largest collection a person would ever run into would be his local library, and that is reassuringly small. It has a few dozen thousand volumes, perhaps, of which someone will want to read only a small fraction. A good reader could get through 1 book a day on average, and so one could encompass the whole in a lifetime. Who visits the Library of Congress and is struck by the physical reality of dozens of millions of items? No one. Between 200224ya and 200917ya, publishing analysts R.R. Bowker estimated 6,785,915 ISBNs were assigned31. (Google Books estimates there are >130 million books.) One couldn’t hope to buy more than one could consume either, as books and media are expensive per hour. (Niche consumer can expect even worse prices; at one point, American anime fans were paying more than $40 for <30 minutes32.)
+
+
+But the Internet puts the equivalent of multiple Libraries of Congresses at one’s fingertips. One only has to visit a BitTorrent tracker website and see the entries scroll off the screen for hundreds of pages, each representing a massive collection soaking up endless weeks and years. All of it is there for the taking. It can’t be ignored. Everyone who wants a particular webpage or album or movie is forced to see the results of their search queries and muse, ‘if my narrow request turned up this much - how much must there be in all?’ The numbers become numbing if one projects out just a little way into the future:
+
+
+“So far humans have created 500,000 different movies and about one million TV episodes. At least 11 million different songs have been recorded…If the current rates of inventiveness continue, in 2060 there will be 1.1 billion33 unique songs and 12 billion different kinds of products for sale.”34
+
+
+1.1 billion unique songs beggars the imagination. When I was a child, I would sometimes see how high I could count before I lost track, mentally counting in a blur; over a periods of many months, occasionally writing down the current number before bedtime, I managed to count to 2 million. The numbers began to appall me - ever since I have never seen the word ‘number’ without seeing ‘numb’ in it. But 2 million is tiny. It is barely 1⁄600 of the raw numerical count of songs that I will live to see produced.
+
+
+Even individual sites or writers now surpass the human. Who has the time to read and understand all of Donald Knuth?35 Who can view every article and document and photograph and edit that streams through Wikipedia every second? I have seen sober estimates that if one were to start at the first Wikipedia article and read alphabetically, the percentage of Wikipedia one has read will go down over time, the articles were created so fast. Who can watch the 35 hours of video uploaded to YouTube every minute?
+
+
+This is a situation that old nostrums do not address. We do not need more creativity for the sake of creation36.
+
+
+# Let’s Ban New Books
+
+
+Consequently, it is soon recognised that they write for the sake of filling up the paper, and this is the case sometimes with the best authors… As soon as this is perceived the book should be thrown away, for time is precious. As a matter of fact, the author is cheating the reader as soon as he writes for the sake of filling up paper; because his pretext for writing is that he has something to impart…It is only the man who writes absolutely for the sake of the subject that writes anything worth writing. What an inestimable advantage it would be, if, in every branch of literature, there existed only a few but excellent books!
+
+
+Arthur Schopenhauer, “On Authorship and Style”
+
+
+By this, my sonne, be admonished: of making many bookes there is no end, and much studie is a wearinesse of the flesh.
+
+
+Ecclesiastes 12:12
+
+
+With our too too short lives, and so much to see, one does oneself a great disservice by consuming anything but the best.
+
+
+And thus, do not authors & artists do us a disservice by creating mediocrity we, being only human, will at least try? Maybe these authors & artists are only creating attractive nuisances!
+
+
+Let’s look back on the argument:
+
+- 
+
+Society ought to discourage economically inefficient activities.
+
+At least, it ought not to encourage inefficiency. It may not do this perfectly, but this is still a desiderata; special pleading for some activity, saying that some other activity or market is far more economically inefficient, is not a good reason.
+- 
+
+If some good a can be created to fill a need, and there is an existing & available good b that fills that need equally well, then it is economically inefficient to use a and not b.
+- 
+
+Consumers of new art would be equally satisfied by existing art.
+- 
+
+By 2 & 3: it is economically inefficient to produce new art.
+
+
+∴ By 1 & 4: Society ought to discourage new art
+
+
+In short: old stuff is as good as the new, and it’s cheaper; so making new stuff is wasteful.
+
+## Objections
+
+
+One of the basic tactics with any objectionable argument is to see whether any of the inference steps are faulty. In this case, we can see that there is nothing wrong with the logic. So we’re left with rejecting premises, or accepting the conclusion.
+
+
+Here’s what we can reject:
+
+- 
+
+that societies ought to encourage efficiency
+- 
+
+that creating something when there’s an existing object is inefficient
+- 
+
+that old books can replace new ones.
+
+
+Society Doesn’t Care?
+
+
+Now, #1 seems unobjectionable. To reject that premise is to argue either that society ought to discourage economic efficiency, or be neutral about efficiency.
+
+
+The former is false. There are governmental programs and policies acknowledged to be economically inefficient, but everyone agrees that their inefficiency is a flaw, and the programs are justifiable not because of, but despite the inefficiency - they supposedly deliver some other benefit which compensates for the cost. If there were some alternative which was efficient, it would be better.
+
+
+Neutrality may not be wrong. But voters consistently elect candidates who promise to grow the economy & make things better; and governments have a long history of supporting projects - like bridges & highways - whose justifications are that government ought to help make the economy more efficient. So it seems wrong as well.
+
+
+What’s Efficiency Anyway?
+
+
+Premise #2 is weaker. To me, this premise about substitutability seems so fundamental that I’m not sure how to defend it. If you need a glove, and you have a perfectly good one already, isn’t spending $20 on a new glove the same thing as throwing your money away? Isn’t #2 a generalization of this principle?
+
+
+If you reject #2, I’m not really sure what economics you’re working under. But there are a few objections we could classify under this heading, generally postulating externalities, such as Keynesian thinking about stimulus spending.
+
+They Snatched Society’s Brain!
+
+
+When one reads the verse of people who cannot write poems—people who sometimes have more intelligence, sensibility, and moral discrimination than most of the poets—it is hard not to regard the Muse as a sort of fairy godmother who says to the poet, after her colleagues have showered on him the most disconcerting and ambiguous gifts, ‘Well, never mind. You’re still the only one that can write poetry.’
+
+
+Randall Jarrell, “Verse Chronicle”37
+
+
+An interlocutor might suggest that perhaps the creation & consumption of new fiction or novels serves some laudable purpose beyond swelling libraries.
+
+
+Now, what good deeds could only new works produce? Certainly it’s not edifying & educating our youth; it is not as if the pedagogy of Euclidean geometry has changed much over the last millennia, nor is 20th century fiction known for teaching moral lessons.
+
+
+But new fiction could be an important societal mechanism for discussing new developments and for pondering the future. SF would be an excellent example of this; the name preferred by connoisseurs - ‘speculative fiction’ - points straight to this benefit, and creators often cite this as the non-entertainment value of their works38. Who but knows that the constant undercurrent of computers & cloning & space travel in SF has not helped society prepare for the future? Hasn’t SF directly inspired any number of young men & women to enter the hard sciences (as opposed to dedicating their talents to, say, finance), with benefits redounding to all humanity? What’s a dead-weight loss of billions a year compared with landing on the Moon?
+
+
+I find this argument uncomfortable. It’s arguing that fiction is justified inasmuch as it makes superior propaganda39; , an age-old use of art and one particularly prominent in the 20th century. It may be propaganda in the service of a noble & good cause, and swaying someone to choose a career in science is not as evil as propagandizing children into clearing Iraqi minefields with their bodies - but the morality of it is difficult.
+
+
+And an utilitarian might cavil about the benefits.
+
+Propaganda
+
+
+The reading of stories and delighting in them made Don Quixote a gentleman: the believing them literally made him a madman who slew lambs instead of feeding them.
+
+
+George Bernard Shaw, Back to Methuselah (“A Touchstone For Dogma”)
+
+
+If someone does not believe in fairies, he does not need to teach his children ‘There are no fairies’; he can omit to teach them the word ‘fairy’.
+
+
+Ludwig Wittgenstein, Zettel40
+
+
+Fiction can be unfairly persuasive, bypassing our rational faculties41; it may be that we default to believing what we’re told and disbelief is only a latecomer. Information from fiction can substitute for nonfiction (time consumption is zero-sum between fiction & nonfiction) and in sufficient volume, discredit it, which can lead to direct harm - TvTropes’s “Reality is Unrealistic”, which is about self-reinforcing unrealistic fictional depictions of reality, claims that “…Nonetheless, the public is largely convinced that cars present a serious danger of explosion after a crash, which has resulted in many, many cases of well-meaning members of the public pulling injured victims out of cars, causing further injury to them, to get them away from the car before it explodes.” (SF, in particular, is often good inversely proportional to how much scientific truth it contains.) The author’s motive may be malign as easily as benign; readers can read a blatant allegory of Naziism like Spinrad’s The Iron Dream without cottoning on, and the generic fantasy/medieval and science fiction settings/plots are intrinsically hostile to almost all modern values (see for example “The Sword of Good”, or Brin on Lord of the Rings & Star Wars). The author’s intent may not even matter; one’s default reaction to being told something is to believe it42, and psychology has found that unrelated input still affect substantially our beliefs (these effects are known as priming, anchoring, availability heuristic etc.). This effects are not trivial; instances like hypotheticals change what purchases you make or whether you dislike someone, prime foreign goals, affect mood, and they can lead to the formation of vicious stereotypes. Priming & contamination is very bad news for anyone who wants to think that they are not affected by the fiction they read. People seem to believe what they dream, the more engrossing a fiction the more you blindly favor the protagonist and believe the story realistic, people who watch TV believe43 poetic justice actually happens outside stories and the world is more dangerous than it is and looks like TV (which may explain why it’s easier to brainwash people with TV into supporting the death penalty rather than gay marriage), perhaps because viewers can emotionally treat characters on screen as real44 and replacements for real relationships with negative consequences like reductions in family size or pregnancy rates
+
+
+When we read thorough research on narratives that lead to changes in behavior and reduction in stereotyping, we should not forget that this makes fiction a double-edged sword.
+
+
+Everyone tells kids that what they see on TV isn’t real - of course! But what makes you so sure that you don’t believe what fictions you read?
+
+
+The human brain evidently operates on some variation of the famous principle enunciated in [Lewis Carroll’s] ‘The Hunting of the Snark’: ‘What I tell you 3 times is true.’
+
+
+Norbert Wiener, Cybernetics: Or the Control and Communication in the Animal and the Machine (194878ya)
+
+
+As a society, is it good to have our discussions and views about incredibly important matters like space exploration hijacked by fiction? It’s hard to see why fiction would yield discussion of equal or superior quality to discussions based on non-fiction. Fictional evidence is particularly fallacious. Consider discussions of Artificial Intelligence; if one sees any mention of fictional entities like HAL 9000 or Skynet, one can stop reading immediately, for the exchange is surely worthless. A discussion about the nonfictional entities SHRDLU or Eurisko, though, might be worthwhile.
+
+
+So either fiction is effective as propaganda and setting societal agendas, or it isn’t. If the latter, then the loss is nil; if the former, then fiction is dangerous!
+
+
+Two Sides of the Same Organ
+
+
+It is a good rule, after reading a new book, never to allow yourself another new one till you have read an old one in between. If that is too much for you, you should at least read one old one to every three new ones. Every age has its own outlook. It is specially good at seeing certain truths and specially liable to make certain mistakes. We all, therefore, need the books that will correct the characteristic mistakes of our own period. And that means the old books…Nothing strikes me more when I read the controversies of past ages than the fact that both sides were usually assuming without question a good deal which we should now absolutely deny. They thought that they were as completely opposed as two sides could be, but in fact they were all the time secretly united - united with each other and against earlier and later ages - by a great mass of common assumptions….None of us can fully escape this blindness, but we shall certainly increase it, and weaken our guard against it, if we read only modern books.
+
+
+C.S. Lewis45
+
+
+And there never was a time, I believe, when those who read at all, read so many more books by living authors than books by dead authors; there never was a time so completely parochial, so shut off from the past…Individualistic democracy has come to high tide: and it is more difficult today to be an individual than it ever was before.
+
+
+T.S. Eliot46
+
+
+Maybe there’s a different externality. Instead of powering decision-making, or funneling people into science, maybe fiction serves as kind of a global brain - enabling creative thinking and breakthroughs that a more sober society will not.
+
+
+This thesis reminds me of the Orson Welles quote from The Third Man that goes:
+
+
+“…in Italy for thirty years under the Borgias, they had warfare, terror, murder and bloodshed, but they produced Michelangelo, Leonardo da Vinci and the Renaissance. In Switzerland, they had brotherly love, they had five hundred years of democracy and peace - and what did that produce? The cuckoo clock.”47
+
+
+The evidence for this idea might be that every great scientific or technological power was also strong in the humanities, and exceptions like Soviet Russia only prove the rule by creating scientific enclaves mimicking the freer countries.
+
+
+But of course, this might be confusing correlation with causation. What characterizes those countries is a general freedom of action & thought. Some incline to the arts, some to the sciences. Successes in both domains spring from a common cause, not each other. After all, if the arts could fertilize the sciences, one would expect some reciprocity - and the humanities have made notoriously little use48 of science’s techniques, worldview, or results.
+
+
+Conceptually, I see no problem with a nation of sober hard-headed engineers and scientists doing quite as well without the novelists.
+
+
+If we think of specifics, the idea of cross-fertilization retreats. What Elizabethan plays helped Isaac Newton? When Einstein thought of riding a beam of light, did the novels of Thomas Mann play any role? What hath Stephen King to do with Stephen Hawking?
+
+
+Won’t Someone Think of the Chemists?
+
+
+One could worry that the failure of fiction markets to find a sustainable model might mean the end for nonfiction material, which includes texts & research on things precious to us all such as vaccines.
+
+
+After all, many of the same arguments seem to apply to the flood of nonfiction material. ProQuest’s database includes 1.023 million PhD theses published in the last 30 years from just 151 American institutions;49 and it says that its full database of PhD and Masters’ theses runs to over 2 million, and is increasing at more than 70,000 works a year. Much of this material would seem to be sterile and unproductive, as can be scientific papers in general.505152
+
+
+But this worry is unnecessary. There are several possibilities.
+
+
+The nonfiction market could be subsidized. This is quite justifiable. Science, after all, is heavily subsidized already. Why? Because it has enormous value 53 and new research can’t be replaced by old, almost by definition. There’s intrinsic value to populating new chapters and books with new results, value that isn’t there with fiction.
+
+
+The nonfiction market could survive as the fiction market withers away. Fields might lose the subsidy of students forced to buy the latest trivially-changed edition, but that’s a predatory subsidy and more valuable to the publishers than the academic authors, so the loss would be minimal.
+
+
+Accept No Substitutes, Or, I Can’t Believe It’s Not Octavia Butler
+
+
+The claim of #3 is that we can, without loss, switch everyone over from reading contemporary fiction to not-so-contemporary fiction. I daresay this is the premise everyone will question immediately. The classics are an essential part of an intellectually balanced breakfast, but can they be all of it? That is, would creating new works move us to an optimal selection of works, a move large enough that it pays for all the costs involved?
+
+
+This immediately seems true, but is it? Why can’t new works just rearrange rankings, and merely displace equally good works?
+
+
+Lost Works
+
+
+In many respects, much of fiction is worthless. For example, the medieval Japanese believed that The Tale of Genji was missing several chapters. Suppose this were true? How exactly has the world been harmed? People seem to enjoy Genji monogatari quite well enough. Would the discovery of 3 or 4 concluding chapters improve the work? Clearly it would lead to a great deal of work being done, since textbooks and papers would have to be updated, but how likely is it that the extra chapters will make Genji a greater work? Genji isn’t the most tightly plotted work. If an act were cut out of Macbeth, it would be a poorer play for it, and many poems would suffer for losing a stanza; but plays and poems are usually written with an eye to performance - there’s a premium on length that isn’t there with novels. Consider Charles Dickens’s The Pickwick Papers. If 100 pages dropped right out of the middle, do you think any new readers would notice? Or if a few heroic hexameters dropped out of the Iliad, would our enjoyment be any less? ‘Even Homer nods’; it is the entire work that is valuable.
+
+
+People might say that they would derive much less enjoyment from an incomplete, edited, or abridged version, but I don’t know how much we can trust such utterances. They might just be making a ritual genuflection to the eminent author, or upholding a social image as a person who cares about accuracy, completeness, and authenticity. If we can’t, if there is some ceiling of n utilons of enjoyment which is reached by many books, then premise #3 is saved.
+
+
+Further, there is a great deal of historical evidence that we have lost awe-inspiring works, yet no one but scholars particularly lament them. There is the Library of Alexandria and Qin Shi Huang’s Burning of books and burying of scholars, to cite two famous mass losses, but in general the great classics survive in surprisingly few numbers; Beowulf survived only in one (fire-damaged) copy, and the Eddas (almost the sole sources for Norse mythology) likewise. The Greek plays suffered similar losses (7 of Sophocles’s >123, 7 of Aeschylus’s 90, 19 of Euripedes’s 92), and what survived were not always the best works54. And literature is favored as words can be reproduced; the Greek music Plato & Aristotle considered so important, or the Chinese music Confucius considered equally vital? Gone. Greek art is little better - who even knows that Greek statues were not austere marble but painted?
+
+
+But can we assume that there’s a common valuation for how enjoyable all books are? Moby Dick is quite different from The Importance of Being Earnest. Alice may value the former much less than the latter, while Bob wants a nautical drama & not a comedy of manners. In this case, because both works exist, both Alice & Bob can be satisfied and we reach an optimum.
+
+
+But what if the book Bob desires hasn’t been published, but would be soon if there were a market? He will be saddened to have to read of butlers and harpooners instead of the shadow war of Pirates versus Ninjas. In this binary case, Alice will still be fine, but Bob will be worse off.
+
+
+The full example is not so bad for us, though. It’s plausible that Bob would enjoy Pirates versus Ninja: The Stabbening more than Moby Dick if those were the only 2 choices. But there are over 32 million books in the Library of Congress; is Bob so extraordinarily picky that not a single existing book would be as or more enjoyable than Pirates vs Ninja?
+
+
+This is not so implausible; American culture stagnated in many ways during the 20th century. The economist Tyler Cowen considers a reader’s thought experiment:
+
+
+…what if the law said we couldn’t make any new art (movies, novels, music etc.). And perhaps said we ought to rerelease each year the art that first appeared 50 or 30 years ago. How would people’s leisure activity and society’s cultural evolution change?
+
+
+And replies 55:
+
+
+After the adjustment process, I believe that matters would settle in an orderly fashion, although whether we pick the art from 30 or 50 years ago would make a big difference in terms of the required rejiggling of our aesthetic sensibilities. We would pick out bestsellers from 30 or 50 years ago and some of them would be in demand, if only because people wish to share common cultural experiences. Overall it is the more obscure books from that era that would likely rise to be the bestsellers today.
+
+1979 is barely an aesthetic leap; could not The Clash be a hit today? How about Madonna? Is it so ridiculous to think that people still might go hear The Rolling Stones or Paul McCartney in concert?
+
+
+In the same vein, John Taylor (bassist for Duran Duran), who is unhappy with the “slow down”56 of “innovative culture” (and music in particular), admits that:
+
+
+Most students I know have an extremely broad appreciation of music…My stepson is at New York University (NYU) and he was telling me how he’s currently into Cole Porter, music from the 1920s and swing music from the 40s. So the availability and accessibility of music on the internet today is truly incredible, and I applaud anything that can inspire interest or curiosity in anyone.
+
+But this also means that those of us who before would have been looking towards the current culture for inspiration are now often to be found, like my stepson, in various backwaters of older music.
+
+This relative lack of need for current, innovative culture can cause, has caused, is causing - maybe - the innovative culture to slow down, much as an assembly line in Detroit slows down and lay-offs have to be made when the demand for a new model recedes.57
+
+
+Pejorative language aside (Cole Porter is a backwater?), does Taylor’s grandson sound unhappy with old music? Would he be unhappy if his choices were universalized and less new music were created as a result?
+
+In-Progress Works
+
+
+But, you say, Herbert & Wolfe are fine, but dammit you have a hunger for some Cory Doctorow, and can’t help but be curious as to how the deuce The Wheel of Time will end. OK, fine. There are ~300 million Americans who couldn’t care less if a market dissolution balked you. And of course, the problem of works-in-progress is a problem that solves itself: Doctorow must one day die, and if he shuffles off the mortal coil tomorrow, then your situation was the same as mine - except with a slightly higher upper bound.
+
+
+And even if you were balked, or in-progress series permitted to finish, that’s a fixed one-time cost58. It may cost quite a bit to liquidate all the companies and shift their assets into more productive occupations; some people will never shift. But that’s creative destruction for you: the long-term benefits win in the long run.
+
+
+New Book Smell
+
+
+Maybe there’s something intrinsically better about new books. Not that they deal with new subjects - we addressed that earlier - but perhaps it’s about the style, or appearance, or apparent novelty. Maybe when one looks at Tom Jones, the antique language instantly subtracts 10 utilons even if it’s still comprehensible.
+
+
+But the language can’t be the reason. Maybe Shakespeare and Chaucer aren’t as enjoyable and this explains why they aren’t as popular as they should be given their eminence, but for this to explain why books from the ’50s or ’60s are very unpopular or why books from the ’00s sell better than books from the ’90s - despite them all reading much the same59, we need to posit large penalties and attribute to readers remarkable powers of discrimination. (And we could argue that the existing relatively low level of support for new works compared to other forms of recreation like professional sports indicates that new book smell is even less valuable than one might expect just from sales.60)
+
+
+Could it be due to ‘spoilers’? Some spoilers, like King Kong dying or Darth Vader being Luke Skywalker’s father, are so universal as to ‘spoil’ pretty much anyone who would watch those movies. A new work, however, has a long lag before the ‘spoilers’ escape into the general population, and so if spoilers destroyed the pleasure people take in works, one would naturally expect people to gravitate towards newer works.
+
+
+While commonly voiced, this suggestion can only be part of the picture. Only the very most prominent works can be spoiled inadvertently; ‘Snape killed Dumbledore’ or ‘Aeris dies’ were successful spoiler memes only because the book and video game (respectively) sold millions of copies and were major cultural events. By definition, there are only a small number of such works. Perhaps a handful of such books or movies or games would be involuntarily spoiled each year, leaving thousands of other new works being produced despite no anti-spoiler advantage. Further, if this were the sole reason for new works, we would have the odd situation that people apparently are willing to spend many billions to encourage production of as-yet-unspoiled works, but will do nothing else to stem the spread of spoilers - even though a negative externality in the billions calls out for prevention or regulation of some sort. Society quite successfully stems the spread of other categories of undesirable information like private information or information on weapons of mass destruction or child pornography, and spoilers would seem to be far easier to suppress than any existing category of information. Finally, and most damning, the minimal research on the topic of spoilers suggests that the net displeasure caused by spoilers is unclear, with one study finding benefits to being spoiled61 and another finding harm.
+
+
+If there is a new book smell, and it can explain why books from the recent past are less popular than new book, then that means it is nothing intrinsic about the books themselves. Which suggests that it’s a matter of consumer perception; marketing has a long history of altering consumer perceptions for fun & profit. There may be no new book smell at all: it may simply be that new materials ‘crowd out’ previous publications in catalogs or locations with limited space62. This would then feed into the habit-formation or introspective views of fiction consumption: one either hardens into liking only the music one heard as a teenager which is a tiny (commercially-driven) selection of the total corpus, or one is similarly locked into a small subset of works because they are the ones previously consumed and give the proper subjective experience63 (regardless of aesthetics).
+
+
+If new books ceased to be written, then the publishers of the existing books will have to compete on other grounds, such as price and marketing - which would include faking new book smell. If people are so frequently mistaken about what they would enjoy most now, surely they can be mistaken in the future about new book smell. The modern success of Jane Austen and of lightly edited versions such as Pride and Prejudice and Zombies demonstrates that the centuries need be no bar.
+
+
+The Experimental Results
+
+
+Existing research on things like the mere exposure effect suggest that much of esthetics might be trained and essentially arbitrary:
+
+
+In a 200323ya study, psychologist James Cutting (Cutting 200323ya, Cutting 200620ya) briefly exposed undergraduate psychology students to canonical and lesser-known Impressionist paintings (the lesser-known works exposed four times as often), with the result that after exposure, subjects preferred the lesser-known works more often than did the control group. Cutting took this result to show that canon formation is a result of cultural exposure over time. He further took this to show that the subjects’ judgments were not merely a product of the quality of the works. “If observers were able to judge quality alone in the image pairs, their judgments should not have been contaminated by appearance differences in the classroom. To be sure, quality could still play a role, but such an account must then rely on two processes- mere exposure and quality assessment (however that might be done). My proposal is that these are one-process results and done on the basis of mere exposure inside and outside the classroom” (Cutting 200323ya, 335).64
+
+
+A followup found that in some cases, exposure to art decreased liking65 (a result seen in some of the mere-exposure effect studies); exposure to lower-quality formats can cause the development of active preference for the artifacts of the lower-quality, a phenomenon we may be seeing with the MP3 audio format66, and one wonders how much social pressures play a role in perception, given historical anecdotes like Edison’s phonographs being hailed as indistinguishable by (his contemporary, not modern) audiences67. Other studies demonstrate specific connections to such contingent properties as perceived prestige; we’ve all heard of the many hilarious wine-tasting results where even individual judges flatly contradict themselves, but there are more value-neutral examples like the McGurk effect where what you expect is what you get. And fMRI studies are revealing interesting things like the neural correlates of pleasantness increasing with price or spikes in value-assessment regions and increased activation in regions which look like subjects trying to find something to criticize and justify their prejudice.68
+
+
+But we can to some extent get a handle on what degree popularity or rankings corresponds to any intrinsic esthetic quality by running experiments using very obscure works. If there is a very close connection between quality and popularity, then that undermines my case: new works are extremely popular and often ranked very high (as a percentage of all works), so any reduction in new works would come at a corresponding esthetic losses. But conversely, the more random and unconnected to quality our ratings are, the less we should care about producing new works. We don’t know what quality is, or don’t care, or have some sort of self-discipline problem and can’t make ourselves prefer what we ought to, or something.
+
+
+What do we find in the experiments? We find the results are not completely random, but they’re pretty close.
+
+
+The 200620ya study “Experimental Study of Inequality and Unpredictability in an Artificial Cultural Market” (and also Salganik & Watts 2009), took 14,300 online participants and presented them with a screen full of songs and asked them to rank them. Half were presented with information on how popular a song was (as measured by downloads after listening), and half were not. The rankings differed drastically between the two groups. This is a major blow to any belief that the jewels will rise to the top, since both groups can’t be right. But which? The researchers were clever, and further subdivided the 7,000 shown the popularity information into 7 subsections, which were shown the popularity information for their own particular subsection (each subsection starting with 0 downloads for each song); each subsection popularity ranking clashed with all the others. In other words, the social-influenced rankings were substantially random. They disagreed with the aggregated independent rankings of quality, and with all the other social-influenced rankings. (If 2 contradictory rankings cannot be correct, what about 9?) The most assurance the authors can give us is that “The best songs rarely did poorly, and the worst rarely did well, but any other result was possible.” This matches well with randomized models of cultural diffusion. A 200818ya followup, “Leading the Herd Astray: An Experimental Study of Self-fulfilling Prophecies in an Artificial Cultural Market”, found that with a subsequent 12,000 participants, songs could be made popular just by lying to participants that they were popular (although again the best songs tended to recover somewhat).
+
+
+One might hope that cultural experts like literature professors and critics would give us true rankings of quality, and so we could at least trust the canonical rankings, but that seems quite desperate; such experts have more social pressures available than a mere download count, professional pressures, etc. If ethicists are not more ethical (to cite just one of many examples), why would we expect critics to be more critical?
+
+
+There is a fundamental tension in these discussions, between the revealed preferences of people and a claimed enjoyment or esthetic factor; if the latter really are greater for older works, why do people choose the inferior goods? One general observation is that people in general may not benefit from additional choices, as they suffer willpower depletion. This ties into the observation that some studies point to an paradigm in which people do not evaluate choices based on the total benefits each choice delivers (with a fixed time penalty, exponential discounting), but rather based on a constantly mutating time factor which short-changes the future for the present (hyperbolic discounting); with hyperbolic discounting, an otherwise rational agent can know he would receive many more utilons from reading his Dickens novel, but because Dickens would pay off slowly, he would choose the trashy magazine, again and again, winding up with a lower total utilon score - by his own reckoning! - than if he had just sat down to Dickens.69 An imaging study70 found that they could predict sales data for songs by measuring activation in the ventral striatum (a very low-level part of the brain, strongly linked with emotions & weakly linked to instincts), and predict better than asking the participants what song they liked. All this suggests to me that esthetic works is one of the rare situations where taking away choices can make people better off.
+
+
+# At the End of the Day
+
+
+There is nothing so absurd but that some philosopher has said it.
+
+
+Cicero71
+
+
+The point of philosophy is to start with something so simple as not to seem worth stating, & to end with something so paradoxical that no one will believe it.
+
+
+Bertrand Russell (“The Philosophy of Logical Atomism”)
+
+
+But I had become aware, even so early as during my college life, that no opinion, however absurd and incredible, can be imagined, which has not been maintained by some on of the philosophers; and afterwards in the course of my travels I remarked that all those whose opinions are decidedly repugnant to ours are not in that account barbarians and savages, but on the contrary that many of these nations make an equally good, if not better, use of their reason than we do.
+
+
+René Descartes
+
+
+We’ve covered quite a bit of ground here. There are a number of different theses I’ve tried to argue for here:
+
+- 
+
+There’s more fiction than anyone could hope to consume
+- 
+
+People would be happier reading only the best fiction
+- 
+
+It’s easier to figure out what the good old fiction is, than it is new fiction
+
+- 
+
+there’s also more good old fiction than good new fiction
+
+- 
+
+people write too much new fiction
+
+- 
+
+they also read too much
+
+- 
+
+Society shouldn’t subsidize economically inefficient things like new fiction
+
+- 
+
+We might go so far as to suggest a Pigovian tax on new works because they encourage their own consumption
+
+- 
+
+The uses of fiction are much less than one might think, and many of those uses are propagandistic, dangerous, or both
+- 
+
+Subsidizing the nonfiction market may be justifiable
+
+
+I hope you’ve been convinced of at least 2 or 3 of these theses. I want to reject the idea that new works should not be encouraged, but the only class of objections that can hold any water is the non-substitutability one, and I don’t see any solid arguments there.
+
+
+People are better off reading the best books, and the best ones are predominately the ones that already exist, there is more than can be read, and new books have no compelling advantage over the classics. The economics place me against new fiction. And when I remember how people are beguiled by new fiction into reading crap, I find myself placed against new fiction on esthetic grounds as well!
+
+
+I have started with common-sense grounds and wound up somewhere strange.
+
+
+# External Links
+
+
+- 
+
+“E unibus pluram: television and U.S. fiction”, David Foster Wallace
+- 
+
+“Culture is not about aesthetics. Punk rock is now enforced by law.”
+- 
+
+“On Authorship”, Arthur Schopenhauer
+- 
+
+XKCD: “915: Connoisseur”/“1095: Crazy Straws”/“Reading Every Book”
+- 
+
+Every Noise At Once (“From charred death to deep filthstep: the 1,264 genres that make modern music”)
+- 
+
+“Why Read New Books?”
+- 
+
+“A Story With Zombies”
+- 
+
+“Three thousand reasons to choose your reading carefully: The realisation that I’m a third of the way through all the books I can ever read has prompted me to take a stiffer line on those I bother with”
+- 
+
+“The Creative Apocalypse That Wasn’t”
+- 
+
+“A Storm Of Stories”
+- 
+
+“Why Is Art Expensive?”
+- 
+
+Tyler Cowen on Stories
+- 
+
+“I am not a story: Some find it comforting to think of life as a story. Others find that absurd. So are you a Narrative or a non-Narrative?”
+- 
+
+“Net Wisdom: Why some of the best writing is to be found on the internet, and what I’ve learnt from reading it every day, by Robert Cottrell, editor of the Browser”
+- 
+
+“The secret of taste: why we like what we like: How does a song we dislike at first hearing become a favorite? And when we try to look different, how come we end up looking like everyone else?”
+- 
+
+“The Slaughterhouse of Literature”, Moretti 2000
+- 
+
+“Aesthetic Universals”, Dutton 2002
+- 
+
+“America’s Cultural Offensive Throughout The World: Extension of Remarks of Hon. Alexander Wiley of Wisconsin in the Senate of the United States”, 1955
+- 
+
+“Too Much Music: A Failed Experiment In Dedicated Listening”
+- 
+
+“Here are the Biggest Fiction Bestsellers of the Last 100 Years (And What Everyone Read Instead)”
+- 
+
+“Avoid News: Towards a Healthy News Diet”, Dobelli 2010
+- 
+
+“The Lost Picture Show: Hollywood Archivists Can’t Outpace Obsolescence—Studios invested heavily in magnetic-tape storage for film archiving but now struggle to keep up with the technology”
+- 
+
+“The universal decay of collective memory and attention”, Candia et al 2019
+- 
+
+“Why most narrative history is wrong: Even the best histories fail to identify the real causal forces that drive events. Science explains why”
+- 
+
+“Strike with the Band: The meritocratic failures of classical music”
+- 
+
+“Why We Fight Over Fiction”, Robin Hanson
+- 
+
+“Is Old Music Killing New Music? All the growth in the music business now comes from old songs—how did we get here, and is there a way back?”
+- 
+
+Discussion:
+
+- 
+
+HN
+- 
+
+Reddit
+- 
+
+“Against Gwern On Stories”
+- 
+
+“The Tower”
+
+
+# Appendices
+
+
+## Musical Instruments Are Not about Music
+
+
+To get a rough estimate of how many musical instruments (like the piano) are we can look through Wikipedia’s Category:Musical instruments. Lots of non-instruments and notable examples of a kind of instrument, but it makes the numbers pretty clear - there are hundreds of instruments if not thousands, from most cultures, even if we compress the variations.
+
+
+Suppose one had a well-defined aesthetic preference - a total ordering (or at least a partially ordered set with a greatest element) - so we can speak of an ‘ideal instrument’ for that person, an instrument which gives them the greatest aesthetic gratification of all known instruments.
+
+
+If we picked a random instrument for them from our set of thousands of instruments, the odds aren’t good we’ll pick the ideal one. Thousands to one, after all. If a parent inflicted such a choice on their kid, the kid ought to believe the choice is suboptimal from his aesthetic point of view (with a confidence of >99%). if he cares about the matter, then he should probably go looking as an adult for a better choice.
+
+
+Depending on how much he cares and how easy it is to ‘search’ through thousands of instruments, he might search quite a bit.
+
+
+Strangely, you don’t see much of this. Most people seem pretty happy with their current instrument and even music nerds don’t spend as much time as one might expect sampling instruments and pondering their merits. How to explain this? Sunk cost into learning the inferior instrument? Maybe the aesthetic difference between an average and the ideal isn’t that great (despite a theremin sounding very different from a synthesizer or a keyboard or a piano, or even violas and violins sounding quite different, and the revealed preference of antique highly-regarded individual instruments going for hundreds of thousands or millions of dollars to performers)? Or maybe it’s…. status.
+
+
+Maybe people don’t search through all manner of rare instruments because musical instruments aren’t about aesthetics as much as they are about social signals and status and prestige. There can only be a few prestigious instruments (perhaps less than 10; surely not as high as 20), after all, and we all hear them quite a bit. By the time a kid hits middle school, he’s spent many years watching movies and TV where there’s a lot of instrumental background music and he’s learned whether he likes piano better than violin or cello.
+
+
+There’s just not many options to think about. If you aspire to WASPy high society, you learn piano; if you aspire to prestige among young people, the guitar or drums. And so on. This is so ingrained it can be difficult to see; Western society does not, that I know of, have any standard expression like the Four Arts of the Chinese Scholar (which mandates a scholar know the guqin and such rules of etiquette as the Seven Should-not-plays or Six Avoidances). But nevertheless, the bongo drums are not prestigious and similarly one can point out the middling status of the harmonica (which only avoids being low by its use in the blues and jazz). Note that in the stereotype of Asian parents in America forcing their kids to learn instruments, the parents are not choosing oddball instruments you’ve never heard of (you know, one of the thousands of instruments not included in your standard Western-style orchestra), they’re choosing ones as familiar as dirt:
+
+
+Let’s go back to her crazy list of why her parenting is better. #9: violin or piano, no other instruments. If Chua is so Chinese, and has full executive control over her kids, why does she–and the real Chinese parents out there–make their kids play violin, play Bach and not Chinese music? They’d be happy to educate you on the beauty of Chinese music, I’m sure, but they don’t make their kids learn that. Why not?
+
+
+She wants them learning this because the Western culture deems classical music as high culture, and therefore anyone who can play it is cultured. Someone said Beethoven is great music so they learn that. There is no sense of understanding, it is purely a technical accomplishment. Why Beethoven and not Beethoven’s contemporaries? The parents have no idea. Can her kids write new music? Do they want to write music? It’s all mechanics. This isn’t a slander on Asian musicianship, it is an observation that the parents who push their kids into these instruments are doing it for its significance to other people (eg. colleges) and not for itself. Why not guitar? Why not painting? Because it doesn’t impress admissions counselors. What if the kid shows some interest in drama? Well, then kid can go live with his white friends and see how far he gets in life. That’s why it’s in the WSJ. The Journal has no place for, “How a Fender Strat Changed My Life.” It wants piano and violin, it wants Chua’s college-resume worldview. –“Are Chinese Mothers Superior To American Mothers?”, The Last Psychiatrist
+
+
+William Weir in The Atlantic, “Why Is It So Hard for New Musical Instruments to Catch On?”:
+
+
+As composer Edgard Varese put it in 193690ya, “It is because new instruments have been constantly added to the old ones that Western music has such a rich and varied patrimony.” So what happened? Why has there been such a drought of new instruments-especially in rock and pop, which thrive on novelty?
+
+
+Inventor Aaron Andrew Hunt blames it in part on the “music industrial complex.” He created the Tonal Plexus in 199630ya and has since sold, by his count, “not many.” With 1,266 keys, the instrument is designed especially for microtonal composition, so it would be a tough sell at just about any time. But Hunt said the deck is particularly stacked against new instruments now that a standard repertoire has been locked in, as has the popular idea of what a proper instrument is. “The biggest barrier is the institutionalization of Western music and the mass marketing of all the instruments,” he says. “The problem is that no one can break though this marketing barrier and this education barrier because it’s become this machine.” In the past, support from the establishment has made a difference in whether new instruments find a market. The research and backing of universities and corporations like RCA helped make the synthesizer happen. In Hector Berlioz, the saxophone got a major boost from a major composer. But many instruments have risen from very humble origins. The steel drum evolved from frying pans and oil cans after the Trinidadian government banned other musical instruments. Folks of limited means also turned household objects into music makers with washboards and turntables.
+
+
+Or Amy Chua herself:
+
+
+That’s one of the reasons I insisted [her two daughters] do classical music. I knew that I couldn’t artificially make them feel like poor immigrant kids. … But I could make sure that [daughter #1] and [daughter #2] were deeper and more cultivated than my parents and I were. Classical music was the opposite of decline, the opposite of laziness, vulgarity, and spoiledness. It was a way for my children to achieve something I hadn’t. But it was also a tie-in to the high cultural tradition of my ancestors.
+
+
+It’s simple logic that the less popular an instrument, the easier it is to become world-class in it - because the “world” is smaller. I was shocked to one day download an album of Studio Ghibli music as played on a nose-flute (Sound Of Noseflute 4 (Song Works Of Studio Ghibli)), and even more shocked that the title implied there was a whole series of nose-flute albums; but in retrospect, it makes sense: is it easier to make a career as a nose-flute performer where you are competing against perhaps a few thousand people at most, or as a concert pianist where one’s competition is measurable (if at all) in the millions?
+
+
+Standardizing on just a few instrument and turning them into positional goods also tragically turns them into an arms race (and anecdotally, admissions officers have begun to disregard them because of their popularity72):
+
+
+On the whole, discipline makes life easier and better. On the other hand, who the fuck cares about the piano and violin? If all tiger mothers push the piano, say, the winner-take-all race for piano becomes utterly brutal, and the tiger-mothered pianist will likely get less far in the piano race than a bunny-mothered bassoonist. That just seems dumb! Gamble on the flugelhorn! The Western ethos of hyper-individuation produces less of the sort of hugely inefficient positional pileup (not that there aren’t too many guitarists) that comes from herding everybody onto the same rutted status tracks. It also produces less discipline and thus less virtuosity, but a greater variety of excellence by generating the cultural innovation that opens up new fields of endeavor and new status games. It’s just way better to be the world’s best acrobatic kite-surfer than the third best pianist in Cleveland. –“Amy Chua”, Will Wilkinson
+
+
+The defense for these practices?
+
+
+There are definitely aspects of my upbringing that I’d like to replicate. I’m never going to be a professional pianist, but the piano has given me confidence that totally shapes my life. I feel that if I work hard enough, I can do anything. I know I can focus on a given task for hours at a time. And on horrible days when I’m lost and a mess, I can say to myself, “I’m good at something that I really, really love.” –“Q&A: elves, dirt, and college decisions”, Sophia Rubenfeld-Chua
+
+
+The point of learning the piano is NOT about acquiring the skill of playing the piano so that the student can earn a living as a pianist. It is about building the character of the person. Here is the thing about character – you can’t build it by explicitly setting out to build it. Character is not a skill like tying your shoelaces. If it must be put in terms of “skill”, character is a “meta-skill” – a foundational human skill that is necessary to perfect any number of mechanical skills. And the only way to develop this meta-skill is to develop at least one highly sophisticated mechanical skill, such that the student may acquire the meta-skill in the course of building the mechanical skill.
+
+
+So, once again: the point of learning the piano is NOT about acquiring the skill of playing the piano. As Rubenfeld-Chua put it, it is about acquiring genuine confidence and iron discipline. With such confidence and discipline, she can move on and do anything she wants in her life because there is no task in life in which confidence and discipline hinder success. THIS is the whole point of Tiger Parenting, and the reason why Tiger Parenting is so successful. –“Confucianism and Korea - Part V: What Can Confucianism Do For America?”, The Korean
+
+
+The cynical questions almost ask themselves. Would Sophia love piano so much if she hadn’t had to practice for hundreds of hours? How unlikely is it that piano would just happen to be the perfect instrument for her? And like the old argument that learning Latin was worthwhile because it sped up subsequent language learning, are even the basic facts correct - does the building-character practice actually build character? Juvenile boot camps have generally failed to show any noticeable improvement in their inmates, and soldiers frequently discuss the difficulty of adapting to civilian life (despite decades of self-discipline)73. Were we to grant the character-building nature of piano, that raises a further question - don’t other instruments build character as well, and so why not learn the flugelhorn and gain both benefits - character and useful skill building? Why must we all pile into the same high-prestige occupations like being a rock star or actor74? This may be good for the tiny subset of “insiders: pianists, concert presenters and pianophiles” who are actually able to notice the differences and value highly small improvements, though even they seem to be a bit jaded and no longer very interested in technical proficiency75 - but everyone else?
+
+
+But hey, there is one benefit to all this human capital poured into narrow status signaling. We get a ton of anime operas76 and music played with classical instruments on YouTube!77
+
+
+## Good and Plenty
+
+
+Extracts from Good and Plenty: the creative successes of American arts funding, by Tyler Cowen 200620ya, ISBN 978-0-691-12042-3. See also Saunders’s The Cultural Cold War: The CIA and the World of Arts and Letters (originally titled Who Paid the Piper? The CIA and the Cultural Cold War) and the CIA involvement in Dr. Zhivago, discussed in The Zhivago Affair (excerpts).
+
+Subsidies
+
+Indirect
+
+
+Art lovers sometimes write or talk as if economic costs do not matter. They tend to evaluate regimes in terms of the quality of the art that is produced, without considering the opportunity costs of that art. More and better art is equated with a better society. We are never told how many bags of potato chips, or how many antipoverty programs, we should sacrifice to receive another great artistic performance, or how we might hope to find out such an answer. The economic approach reflects the view of the common man that art is not everything, or even the most important thing.
+
+
+The Federal Writers’ Project of the New Deal supported Saul Bellow, Richard Wright, Ralph Ellison, and Zora Neale Hurston, among other individuals who later became noted writers (see chapter 3). Many literature lovers then conclude that the program was a good one. The economist, in contrast, could point out that the Federal Writers’ Project spent $27 million for about one thousand books and pamphlets, at a cost of $27,000 per publication. Translated into dollars for the year 2000, this amounts to $337,500 per publication, or $337.5 million for the total. While some of the publications were of very high quality, they cost a great deal. It is hard to believe that offering indiscriminate literary advances of $337,500 per work is a worthwhile investment, even if it produces some first-rate books. Frederic Bastiat, writing in the nineteenth century, argued that proponents of arts subsidies typically focus on what is seen and neglect what is not seen, namely the other projects and outputs that would have been funded with the money.78
+
+
+These artworks benefit relatively small numbers of people, including the artist, but the benefits are [substantial] for each recipient. Most of the benefits lie well above the threshold of noticeability, and thus they increase human happiness. The less extreme form of the argument, rather than finding a free lunch, relies on antiegalitarian intuitions. We take small amounts from many individuals to give concentrated benefits to a few, and indeed often to the relatively wealthy. The distribution of goodness in society becomes less equal, but our peaks of aesthetic achievement become more beautiful. Subsidy supporters do not like to publicize this reality, but these antiegalitarian intuitions are central to many of the arguments for subsidies.
+
+
+According to figures for U.S. symphony orchestras, 33% of their income comes from private donations; endowments and related sources account for another 16%. Concert income generates 42% of revenue, and direct government support provides only 6%. Looking at nonprofit arts institutions more generally, individual, corporate, and foundation donors make up about 45% of the budget. 12% of income comes from foundation grants; this is two and a half times more than the contribution of the NEA and state arts councils combined. While these numbers fluctuate each year, they provide a rough measure of the relevant magnitudes.79
+
+
+That being said, the U.S. government supports the arts far more than these figures would indicate. Let us now turn to indirect subsidies in more detail, starting with the role of the tax system. American policy provides support for artistic nonprofits but lets donors decide which institutions will receive the funds. The government is removed from the role of judging artistic quality, yet creative activity receives a spur nonetheless.
+
+
+The tax system provides the most [important] arts subsidy in the United States. Rough estimates suggest that Americans donated over $29.4 billion to the category Arts, Culture, and the Humanities in 2003. This amounts to about $100 for each individual in the United States. In contrast, individual private philanthropy to the arts is virtually nonexistent in most European nations. If we look at individual donors, Americans give almost ten times more to nonprofits, per capita, than their French counterparts give.80
+
+
+We do not know, for instance, how much very large changes in tax rates would affect donations and nonprofits. Nonetheless if we take this figure as a workable and available estimate, the U.S. government is making a fiscal sacrifice in the range of $26 billion to $41 billion to support the arts.81
+
+
+The estate tax also boosts arts donations. To avoid paying taxes on bequests, many individuals leave money to nonprofits and arts institutions.82
+
+
+European governments do not offer comparable tax benefits to their arts. France, for instance, limits tax deductions to 1% of taxable income for individuals and 0.1% for corporations. Other countries, such as Germany, have allowed tax deductibility in law but made the deduction unworkable through bureaucratic restrictions. In particular, individual donors had to give through complex intermediary institutions and endure heavy paperwork. In 199927ya Germany took steps to move closer to the American model, but the fundamental nature of German arts policy has yet to make the transition. France is beginning to make similar steps. England allows tax deductions but also makes the requirements more difficult than in the United States. Typically a taxpayer has had to agree to make payments for at least seven years to earn the deduction. Furthermore, the donations have not always been deductible at the top marginal rate, but rather at a lower rate.83
+
+
+For these reasons, some European arts institutions, especially in Great Britain, find their leading private donors in the United States. In the mid-1980s, J. Paul Getty donated $62.5 million to the National Gallery in London, the largest donation the institution has received.
+
+
+Corporate giving, like private and foundation giving, has been influenced by public policy decisions. Corporations have received tax breaks for supporting the arts since 193690ya. As with individuals, the evidence suggests that corporations give more to the arts when they receive tax benefits for doing so.84
+
+
+Consider the Minneapolis Artspace group, which wanted to renovate a decrepit warehouse and turn it into artists’ apartments and studios. They started by going to the State Housing Finance Agency and applying for low-income tax credits, available for renovation projects. These credits are paid for by the federal government but allocated through state governments. The project had an estimated value of $20 million, which meant that the available tax credit was about $900,000 per year. This sum is paid out yearly for ten years, or $9 million in total. ArtSpace used these tax credits to get a bank loan of $7 million and then set up a corporate partnership, in essence selling the tax credits to the corporate partner for cash. ArtSpace also financed 20% of the $20 million cost from the historic tax credits available through the Department of the Interior, again selling these tax credits for 93¢ on the dollar. Eleven million of the $20 million total was now in hand, and construction could begin. County and state tax programs served to complete the financing, and the remainder was raised from private foundations, again with an implicit tax break for the donations.85
+
+
+In fiscal year 2002, U.S. libraries had budgets of over $8 billion, most of which came from government support, usually at the local level. This is the largest and best-developed public library system in the world.86
+
+
+Since the 1920s, U.S. foreign policy has ensured that foreign markets stay open to Hollywood exports. In 1926100ya the Department of Commerce added a Motion Picture Section. After the Second World War, America used foreign aid and its military muscle to discourage European cultural protectionism, especially in Italy, France, and England. The struggle continued through institutions associated with the General Agreement on Tariffs and Trade and then the World Trade Organization. The State Department also supported the cartelization of Hollywood export efforts through the major studios. Hollywood currently receives export tax subsidies, which of course support the production of films at home. Note that this support has involved an implicit trading of favors. Hollywood might not have received governmental assistance in opening markets had it not strongly supported the American role in World War II.
+
+
+Some trade subsidies arise through the failure to enforce laws. The U.S. government has helped make America a center of the art world by relatively laissez-faire importation policies. Imported artworks, unlike most other forms of commerce, are exempt from import and export duties in the United States. This policy has stimulated American art collecting and has helped make New York a center of the art world. Note that in 1883143ya American artists lobbied successfully for a heavy tax on the importation of artworks, fearing competition from European creators. The famous Armory Show of 1913113ya introduced modern art to the United States and stimulated an entire generation of painters. The show became possible only when this tax was repealed shortly before its staging.87
+
+
+The U.S. government has subsidized postal mailings since the beginning of the Postal Service in the late eighteenth century. Newspapers, which carried literary installments and informed the public about the arts, received especially favorable treatment. Starting in 1851175ya the Postal Service offered subsidized rates to book mailings. The period 1874152ya to 1885141ya brought further rate changes that gave a huge boost to the mailing of magazines. By the end of this time magazines were cheaper to mail than were advertising circulars. The result was a magazine boom, which gave writers a new way to reach audiences and make a living. Between 1885141ya and 1900126ya, the number of magazines with 100,000 circulation or more rose 21 → 85; by 1905121ya the figure was 159. By 1903123ya Ladies’ Home Journal had garnered more than one million subscribers.
+
+
+The first artist-in-residence in an American university was American painter John Steuart Curry, who worked at the University of Wisconsin in the 1930s. The pianist Gun- nar Johansen joined him there in 193987ya. Robert Frost received support from the University of Michigan, which in fact offered him a stipend for life. For the most part, however, the artist at the university is a post-World War II development, most of all from the 1960s. [Morrison, Jack. 197353ya. The Rise of the Arts on the American Campus. New York: McGraw-Hill]
+
+
+Creative writing programs, often at state or state-subsidized universities, train American writers or help them connect with publishing houses. John Barth spent the first twenty years of his career at two state universities, Penn State and SUNY Buffalo. A study of the New York Times Book Review found that 31% of the reviewed authors earned their living from the academic world (although this figure includes nonfiction books as well).88 Universities support the arts in many ways, not just through full-time faculty hires. In the world of classical music, almost every composer serves as a guest composer at an university for some period of time. Universities also are a venue for classical music performances. They bring performers to audiences, including to smaller towns such as Ann Arbor, Michigan, and Bloomington, Indiana. The recent boom in world music is due, in part, to the concerts held at universities. The University of California at Davis alone spends $7 million a year on the performing arts.89 Roughly two dozen universities are currently active in commissioning new artworks. The list includes Ohio State University, the University of Iowa, the University of Michigan, and the University of California, all state schools. The University of Iowa is arguably the leader in this regard, having commissioned more than eighty works since 198640ya.
+
+
+The university poetry anthology - required reading for many introductory survey classes - provides the primary market demand for the writings of poets. Contemporary poets receive royalty income and some measure of fame from these volumes. Universities also subsidize many literary magazines. DePaul University has published Poetry East, and Southern Methodist University has published Southwest Review. University presses publish many works, including fiction, that commercial houses reject.
+
+
+The College Art Association lists over seven hundred art museums at American colleges and universities. Yale, Chicago, Berkeley, Michigan, Howard University, Bob Jones University, and Williams College are among those with the best-known collections, but many smaller institutions fill important niches. They cover areas - such as ethnography, ceramics, or prints - that get crowded out of many larger, nonuniversity museums. They also show many local artists, or artists in special genres, who otherwise might not receive exhibition space.90 College radio stations, and the college tour circuit, are critical to the success of independent rock bands and do much to help musical diversity. A commercial radio station, for instance, might play only five hundred or so songs a year. WHRB-FM, at Harvard University, estimates that it plays seventy thousand to ninety thousand songs a year.
+
+
+Subsidies to higher education remain [substantial]. In 1995, the United States had over 14 million students enrolled in higher education and approximately 915,000 faculty, spread out over 3,706 institutions. Private schools receive large subsidies; federal direct subsidies to higher education cost $11 billion yearly, with another $18 billion allocated to research support, mostly going to private schools. Federal support alone (not including student loans) accounts for about 14% of higher education expenditures. Henry Rosovsky (1990, p. 262) estimates that 20% of Harvard’s budget comes directly from government funds.91
+
+
+If we take the public and private sectors together, National Science Foundation figures from 1995 indicate a total income for research universities at slightly over $87 billion. Sixteen billion of this total comes from state and local government appropriations, and $12 billion comes from federal grants and contracts, for slightly less than a third of the total.92 Tuition revenue relies heavily on federal and state subsidies. In 2000 federal direct and federally guaranteed loans amounted to about $41 billion, covering more than six million students.
+
+
+Nonprofit universities are tax-exempt, and their charitable benefactors can deduct donations to universities from their taxes. These various tax deductions are estimated to be worth at least $11 billion to universities each year.93 Historically universities and colleges benefited greatly from the Land Grant Acts of 1862164ya and 1890136ya. The federal government gave free land to universities with few restrictions. The area of this land was equal to the size of Switzerland, and helped schools such as Cornell, MIT, Yale, and Texas A&M, among others.94
+
+
+Direct
+
+
+General direct subsidies:
+
+
+Much of the Smithsonian budget comes from Congress (in fiscal 2004 the net budget authority was $488 million); additional government contracts and grants can run up to nearly $100 million per year. The endowment has stood as high as $755 million. Unlike most other government arts programs, the Smithsonian receives [substantial] private funds; in 2003 the Smithsonian raised over $200 million.95
+
+
+The National Gallery of Art, one of the premier art museums in America, received $79 million in 2003 from the federal government (this allocation is independent and not on Smithsonian ledgers)…The Mellon family gave much of the art; it has been speculated that the gift was in return for the IRS stopping a tax fraud suit against Mellon.
+
+
+The CPB [Corporation for Public Broadcasting] appropriation for 2004 is $380 million. That being said, public television relies on many other sources of support. In a typical year the federal government supplies no more than 15% of the public television budget through grants and another few percentages through direct contracts. State and local governments, often working with public universities, put up 30% or so.
+
+
+The Institute for Museum and Library Services (created in 1976, and formerly the Institute for Museum Services) spends $262 million a year (circa 2004) on museums, zoos, botanical gardens, and most of all libraries. The Arts and Artifacts Fund insures foreign objects lent to American museums and enables many art exhibitions. The Kennedy Center for the Performing Arts receives a direct congressional appropriation, currently in the neighborhood of $17 million
+
+
+Since that time the commissioning of soldier and civilian artists has been common, even in peacetime. The army has no permanent art museum, but many of these artworks are on display at various army bases, installations, museums, and the Pentagon, and sometimes go on tour. The navy has an art museum, based at the U.S. Naval Academy at Annapolis. The military art held by the government includes works by such notable artists as Jacob Lawrence, Reginald Marsh, Horace Pippin, and Thomas Hart Benton.96 The USO (United Service Organizations Inc.) entertains soldiers by bringing in movie stars, musicians, and other celebrities. During World War II the USO employed 5,424 salaried entertainers and had a total show attendance of 172 million. The USO is not formally part of the federal government, but it is chartered by Congress and endorsed by the president, who is typically the honorary chairman. The USO today is smaller than during previous wars, but it still has 120 centers around the world and serves an average of 5 million individuals each year.97 The Department of Defense budget contains an allocation for military bands; this sum is now infamous for exceeding the entire NEA appropriation. On at least one occasion these bands supported art in the conventional sense; John Philip Sousa was conductor of the Marine Corps band 1882–1890 and drew his later private band members from this time. The military band appropriation dates back to 1790; a 1995 estimate cites eighty-five military bands in total, with an aggregate budget usually in the neighborhood of $200 million.98
+
+
+There is no complete estimate of total arts expenditures at the local level. Nonetheless the U.S. Urban Arts Federation conducts periodic polls of its members. It forecast 2003 expenditures of $338 million at the local urban level. The single largest spender is the New York City Department of Cultural Affairs, which in 2004 spent $118.8 million; the San Francisco Arts Commission was next at $25.5 million.99
+
+
+In most American [opera] houses, in contrast, only a few operas are staged a year. Even the Met has a season of less than eight months, shorter than the season in a typical provincial German opera house. In German opera houses, 50% of the singers employed are American; these houses thus comprise a [substantial] portion of the demand for American singing talent.100
+
+
+The auteur films may not turn a commercial profit, but European subsidies often support greater directorial independence, thus allowing the auteurs to demonstrate their talents. In other words, Hollywood uses European cinema as a training ground for talent, which it then hires on the cheap. For all its past complaints about European subsidies and unfair competition, Hollywood benefits from those subsidies. First the subsidies keep the European filmmakers commercially weak and limit their threat to Hollywood. Second, and more important for this context, the subsidies allow European cinema to serve as a research and development laboratory for Hollywood.101
+
+
+Nor has twentieth-century French history provided a reassuring case for direct subsidies. Arguably no state in history has spent more on the arts per capita, since the 1960s, than has France. Late-twentieth-century France did not, however, attain world leadership in many artistic fields, in comparison to the nineteenth century or the prewar era. French culture has become highly bureaucratic and driven by Parisian insiders, rather than by consumers or by up-and-coming creators.
+
+
+Propaganda
+
+
+Funding for the New Deal photography programs came from the Department of Agriculture and the Civilian Conservation Corps in addition to the WPA. These subsidies helped make the 1930s a golden age of documentary photography, supporting such notable photographers as Dorothea Lange, Walker Evans, Russell Lee, Ben Shahn, John Vachon, Marion Post Wolcott, and Arthur Rothstein. As with so many of the New Deal programs, the motive was often nonartistic. The USDA photography program, in particular, produced propaganda for New Deal programs. They encouraged photographers to depict federal bureaucrats as sympathetic friends of the farmers, and as concerned with helping ordinary Americans make a good living. According to one account, The government always appeared as friendly advisor, and the changes it introduced were best.102
+
+
+…The WPA did not lead to a permanent arts agency, but government extended its hand in the arts through foreign policy. Policymakers saw the arts as a primary weapon in the Cold War against the Soviet Union and a means of spreading the American way. Once again, arts programs were driven by nonartistic motives. Cultural imperialism has driven governmental support, and destruction, of the arts throughout history. The Roman and Chinese empires viewed acculturation as a means of spreading their rule, and encouraged the arts toward this end. The European colonial powers, especially France, sought to carry their cultures to their colonies. The settlement of the American West and Midwest, and the corresponding treatment of the native Indians, was a form of cultural policy, often enforced by violence.
+
+
+The United States government instituted comprehensive cultural control in Germany, Austria, and Japan. In Austria and Germany, the U.S. Information Services Branch controlled the presentation of virtually all cultural activities, including films, theater, concerts, radio, newspapers, magazines and books, advertisements, circuses, balls, and carnival festivities. The American occupiers saw cultural control as essential to denazification and the reconstruction of a healthy society. Broadcasting sovereignty was not returned to West Germany until 195571ya. In Japan censorship and control covered every form of media and entertainment, at one point suppressing Tolstoy’s War and Peace, as well as any Japanese cultural product that might appear militaristic.103
+
+
+As the Cold War developed, politicians supported the performance of American arts abroad to counter Soviet propaganda about the vitality of communism. They believed that if American culture could be shown to be strong and creative, democracy would look good. The Republican administration of Eisenhower spent more on cultural outreach programs, in real terms, than was later spent on the NEA. These programs were spread out over several agencies (see below), but the best available estimate of their scope is as seen in table 1104. For purposes of contrast, note that NEA expenditures hit a maximum of just over $175 million in 1992. If we convert the 1953 expenditure on foreign cultural programs to 1992 dollars, the sum is roughly $690 million.
+
+
+At its peak, the United States foreign propaganda machine spent $2 billion a year, employed a staff of more than ten thousand, and reached 150 countries. These operations were larger than the twenty biggest United States public relations firms combined.105
+
+
+This act called for the spread of information abroad about the government and culture of the United States, thereby creating the Office of International Information and Educational Exchange (OIE) and the United States Information Service (USIS). The Voice of America (VOA), expanded in the late 1940s, transmitted radio programs, often of a cultural nature, as did Radio Free Europe and Radio Liberty. In 195373ya the United States Information Agency (USIA) was created to spread a favorable American image around the world.106 …typically they sought to promote entertaining culture, if only to keep their audiences and thus their budgets. Through pure accident, this was the most customer-driven American arts program in history. State Department and USIA programs sent leading American orchestras, singers, jazz musicians, musical shows, and instrumentalists on tours of the world, at U.S. government expense. The United States government ran its own 120-piece symphony orchestra and a swing dance band, both said to be among the best of their kind in Europe.107 The later domestic arts programs, such as the NEA, pale in comparison. Over nineteen years (1948–19196759ya) the Marshall Plan had a Media Guarantee Program that distributed 134 million copies of American books to Europe. In 197056ya the United States Information Agency was publishing 140 magazines with a total circulation of approximately 30 million; during the 1980s the USIA operated 135 libraries in eighty three countries (interest in that agency peaked under the Reagan administration). A 196957ya estimate noted that 25 million people visited these libraries annually.108
+
+
+By 1980 there were 101 government-sponsored radio stations, often directed toward the Iron Curtain. In one year, 1983, Voice of America alone received $1.3 billion in government funds for modernization. In the 1980s the station was estimated to reach 80 million listeners a day, excluding China. The propaganda broadcast by these stations usually included culture; the USIA has claimed that half of VOA broadcasts are devoted to culture and education, rather than to politics in the narrower sense.109 Jazz promotion, through VOA and other government-sponsored radio stations, has been one of the most successful American arts programs. Willis Conover emceed the VOA Music USA program for twenty-five years and was the single most influential ambassador for American jazz in Eastern Europe. A Cold War survey indicated that Conover was the best-known living American in Poland. American jazz spread as far as the Soviet gulags, where prisoners started their own bands. These jazz programs can be thought of as a form of artistic famine relief.110
+
+
+The State Department funded tours by Leontyne Price, Dizzy Gillespie, Marian Anderson, and the Martha Graham Dance Troupe. Gershwin’s opera Porgy and Bess, with a primarily black cast, toured for over a decade with government support and received an enthusiastic reception around the world.111 The United States, of course, received Soviet culture in exchange. Americans were able to see the Moiseyev Folk Dance Ensemble, the Bolshoi Ballet, and the Kirov Ballet, in addition to numerous classical pianists and violinists.112 Cultural outreach programs continue today, but their scope has declined. Even before the end of the Cold War, the budget of the USIA and the cultural activities of the CIA had been pared back. The fall of the Soviet Union only continued this trend. The USIA, however, still runs artistic ambassador programs that support performances by U.S. artists abroad. The Arts America budget, for instance, has run in the neighborhood of $3.4 million annually for the last five years.
+
+
+The recently established Radio Sawa received a $35 million grant from Congress to broadcast popular Arabic music, and news from an American perspective, in the Middle East. The station has reached number one among listeners under thirty in Amman, and is very popular in Baghdad and Kuwait. It is estimated that the station reaches 86% of the target audience (seventeen- to twenty-eight-year-olds) each week. If anything, the station has been criticized for concentrating too much on music rather than too little.113 Congress also has allocated $62 million for an Arabic-language TV station, Al Hurra (Free One), to broadcast throughout the region. In addition to news and documentaries, the station offers movies, music, and cultural commentary.114
+
+
+Albert Ailey’s dance company used government sponsored tours to stay in business. Government support allowed Dizzy Gillespie to assemble and maintain an expensive big band, which led to some of his most important music.115
+
+
+Given program secrecy, the extent of CIA involvement is difficult to gauge, especially since the money was usually laundered through private foundations. A 1976 congressional study of foundation grants in the mid-1960s found that of the 700 grants involving more than $10,000 (1963–1966, and not just for culture), at least 108 involved CIA funding. Half of the large grants for international activities during this same period involved CIA funding. The New York Times estimated that the CIA supported the publication of at least one thousand books, including such odd choices as translations of the poetry of T. S. Eliot. Frances Saunders (1999, pp. 1, 129) describes the effort in terms of vast resources, and describes the CIA as America’s Ministry of Culture during this period. Michael Josselson, head of the CCF, was a CIA agent during that time.116
+
+
+…The foreign-policy motivations of these cultural outreach programs led inevitably to censorship and selective presentation. For instance, the America House institution brought books and records to European audiences, but only on a selective basis. Sherwood Anderson, Leonard Bernstein, Pearl S. Buck, Aaron Copland, John Dewey, John Dos Passos, Theodore Dreiser, W.E.B. DuBois, Albert Einstein, George Gershwin, Dashiell Hammett, Norman Mailer, Arthur Miller, Reinhold Niebuhr, Arthur M. Schlesinger, Mickey Spillane, Virgil Thomson, and Frank Lloyd Wright, among others, were all censored from America House. (Note that some of the banned creators, such as Copland, had received support from earlier New Deal arts programs.) From European literature, Boccaccio, Flaubert, Stendahl, and Thomas Mann were kept out as well. Most ironically, Thomas Paine’s Common Sense and Thoreau’s Walden were banned, despite (because of?) the status of those books as paeans to liberty. For a while, the USIA refused to fund the exhibition of any art produced after 1917109ya, the year of the Russian Revolution.117
+
+
+Further reading;
+
+- 
+
+“Worldwide Propaganda Network Built by the CIA; A Worldwide Network for Dissemination of Propaganda Was Built by the CIA”, The New York Times
+- 
+
+“What was the Congress for Cultural Freedom?”, The New Criterion
+- 
+
+“Modern art was CIA ‘weapon’”, The Independent
+- 
+
+“The Paris Review, the Cold War and the CIA”, Salon (although evidence for any real role of the CIA in The Paris Review remains elusive)
+
+
+New Book Smell
+
+
+The book trade shows the importance of symbolic demands. To put it bluntly, most people do not read the books they buy. In January 200026ya Marcel Proust’s Remembrance of Things Past was number 544 on the U.K. best-seller list, yet few of its buyers finish a single volume. Many of them never start the book. Highbrow best sellers by authors such as Stephen Hawking and Camille Paglia are read by only a small fraction of their purchasers. Most cookbooks are never used. Popular-fiction best sellers and self-help books are widely read, but much of the book trade is about selling image and symbols, rather than words on paper.118 Nonreading buyers are not always wasting their money out of stupidity, as an elitist perspective might suggest. Rather most people buy books for reasons other than the desire to process the information. People buy books to put them on the coffee table, to show their friends, or as a measure of expressive support for some idea or celebrity. Buying a book bears some resemblance to individual voting, rooting for a sports team, or donating to a charity. Perhaps most of all, people buy books to support their self-image as a kind of person who likes a certain kind of book. For these reasons, books as we know them will not go away anytime soon. Book superstores have recognized this fact, and they offer the book-buying experience, replete with Starbucks coffee, singles night, live concerts, high ceilings, stylish interiors, and celebrity lectures. Superstores have increased the symbolic values associated with book shopping, and in a manner that digital technologies and the Internet cannot easily replicate…One of the biggest early web successes in the book market came when 400,000 people downloaded Stephen King’s Riding the Bullet in the first twenty-four hours it was available. Yet most of these people appear to have taken more interest in the downloading experience, and participating in a new trend, than in reading the work. One industry source estimated that three-quarters of the downloaders did not read the book.119
+
+
+…the free public library does not put the book trade out of business. Books must be returned to the library within three weeks, and the library book experience is usually lacking in glamour. The book trade can coexist with freely available book copies, provided the booksellers bundle their wares with attractive symbols and appealing complementary experiences.
+
+
+…That being said, legal product suppliers hold some key advantages in producing certain kinds of aura. Aura often comes through the association of a product with given institutions, given celebrities, or a given history. This favors products supplied by identifiable institutions with well-established reputations. Book superstores, concert halls, and art museums have auras because institutions have invested resources in making their venues attractive, interesting, or otherwise focal. Outlaw or hacker suppliers, who wish to remain anonymous or at least low profile, are unlikely to make comparable investments. They cannot easily turn aura-producing investments into reputational or financial gains for themselves.
+
+
+In other words, customers often do not want products supplied by anonymous institutions. This truth limits the dangers from copyright-damaging Web sites. If the copyright-damaging institution is truly anonymous, and thus impervious to legal sanction, it will have a hard time producing aura. Other copyright-infringing institutions have a central and traceable identity and thus can develop aura more easily and effectively. These same institutions, however, usually can be reached by the law.
+
+
+…It is a mystery why fans spend almost all their music money on products of very recent vintage. Until we untangle this puzzle, and we have not yet, we will not understand how Internet music is likely to affect consumer welfare. Most consumers are not interested in buying much music from 195076ya, regardless of its objective quality in the eyes of the critic. Music from 1650376ya is even less popular. Few people search the history of music for the best recordings and focus their buying on those. Rather, in any given year the most recent recordings dominate the charts. At a typical moment, all the Billboard Top 40 singles, or albums, come from the most recent two years of recorded output. Every now and then there is a Beatles revival, but such events are the exception rather than the rule. Consumers evince an overwhelming preference for music produced in the very recent past.
+
+
+Most likely the music market is about more than simply buying good music, as a critic might understand that term. People buy music to signal their hipness, to participate in current trends, or to distinguish themselves from previous generations. Buyers use music to signal their social standing, whether this consists of going to the opera or listening to heavy metal. Others value partaking in novelty per se. They find newness exciting, a way of following the course of fashion, and the music market offers one handy arena for this pursuit. For some people music is an excuse to go out and mix with others, a coordination point for dancing, staying up late, drinking, or a singles scene. Along these lines, many fans seem to enjoy musical promotions, hype, and advertising as ends in themselves, and not merely as means to hearing music. They like being part of the next big thing. The accompanying music cannot be so bad to their ears as to offend them, but the deftness of the harmonic triads is not their primary concern.
+
+
+In other words, the features of the market that matter to the critic may not be very special to consumers at all. Most of all, consumers seem to care about some feature of newness and trendiness, more than they care about music per se. So how much does it matter, from a consumer’s point of view, if weaker copyright protection reshapes the world of music? Under one hypothesis, the specific musics of our day are easily replaced or, in economic terminology, highly substitutable. All other things equal, people will buy the new, but they could get along with alternatives almost as well. For instance perhaps ravers could use Gregorian chants to define their cultural status. Indeed one chant CD (Chant) had a very long and successful chart run. Young rave and techno fans were among the largest buyers of this recording.
+
+
+…Consider two further examples. First, in the former Soviet Union, dissident rock and roll bands performed many popular-culture functions and commanded a fervent following. These bands fell short of the objective critical quality of their Western counterparts. Still they provided consumers with many useful services, including a means to signal rebellion against the Soviet state. Second, in 194185ya, the major radio stations refused to carry the catalog of the music publisher ASCAP, in a dispute over fees. At that time ASCAP, the leading music publisher and clearinghouse in the United States, dominated the music market. The stations instead played BMI music, which was more oriented toward rhythm and blues and offered less Tin Pan Alley, crooning, and big band. Radio listeners seemed to take the sudden change in stride; there is little evidence of a serious problem. Music fans continued pretty much as before, except for the change in styles and associated music publishers.120
+
+
+…Furthermore previous generations already have claimed older musics, making them less well suited for social differentiation. Perhaps musical taste is a game of secession and repudiation more than anything else. So the music of Chuck Berry no longer fits the world of 200521ya, and cannot be made to fit it. Critics still love the music, and some niche consumers will be drawn to its merits, but it can never hold the current place of Britney Spears. That is why hit reissues are rare.
+
+
+## “Pericalypsis”, Stanislaw Lem
+
+
+pg157–168, A Perfect Vacuum, Stanisław Lem (translated by Michael Kandel, 197947ya)
+
+
+Joachim Fersengeld
+
+
+(Editions de Minuit, Paris)
+
+
+Joachim Fersengeld, a German, wrote his Pericalypse in Dutch (he hardly knows the language, which he himself admits in the Introduction) and published it in France, a country notorious for its dreadful proofreading. The writer of these words also does not, strictly speaking, know Dutch, but going by the title of the book, the English Introduction, and a few understandable expressions here and there in the text, he has concluded that he can pass muster as a reviewer after all.
+
+
+Joachim Fersengeld does not wish to be an intellectual in an age when anyone can be one. Nor has he any desire to pass for a man of letters. Creative work of value is possible when there is resistance, either of the medium or of the people at whom the work is aimed; but since, after the collapse of the prohibitions of religion and the censor, one can say everything, or anything whatever, and since, with the disappearance of those attentive listeners who hung on every word, one can howl anything at anyone, literature and all its humanistic affinity is a corpse, whose advancing decay is stubbornly concealed by the next of kin. Therefore, one should seek out new terrains for creativity, those in which can be found a resistance that will lend an element of menace and risk - and therewith importance and responsibility - to the situation.
+
+
+Such a field, such an activity, can today be only prophecy. Because he is without hope - that is, because he knows in advance that he will be neither heard out nor recognized nor accepted - the prophet ought to reconcile himself a priori to a position of muteness. And he who, being a German, addresses Frenchmen in Dutch with English introductions is as mute as he who keeps silent. Thus Fersengeld acts in accordance with his own assumptions. Our mighty civilization, he says, strives for the production of commodities as impermanent as possible in packaging as permanent as possible. The impermanent product must soon be replaced by a new one, and this is good for the economy; the permanence of the packaging, on the other hand, makes its disposal difficult, and this promotes the further development of technology and organization. Thus the consumer copes with each consecutive article of junk on an individual basis, whereas for the removal of the packagings special antipollution programs are required, sanitary engineering, the coordination of efforts, planning, purification and decontamination plants, and so on. Formerly, one could depend on it that the accumulation of garbage would be kept at a reasonable level by the forces of nature, such as the rains, the winds, rivers, and earthquakes. But at the present time what once washed and flushed away the garbage has itself become the excrement of civilization: the rivers poison us, the atmosphere burns our lungs and eyes, the winds strew industrial ashes on our heads, and as for plastic containers, since they are elastic, even earthquakes cannot deal with them. Thus the normal scenery today is civilizational droppings, and the natural reserves are a momentary exception to the rule. Against this landscape of packagings that have been sloughed off by their products, crowds bustle about, absorbed in the business of opening and consuming, and also in that last natural product, sex. Yet sex, too, has been given a multitude of packagings, for this and nothing else is what clothes are, displays, roses, lipsticks, and sundry other advertising wrappings. Thus civilization is worthy of admiration only in its separate fragments, much as the precision of the heart is worthy of admiration, the liver, the kidneys, or the lungs of an organism, since the rapid work of those organs makes good sense, though there is no sense whatever in the activity of the body that comprises these perfect parts - if it is the body of a lunatic.
+
+
+The same process, declares the prophet, is taking place in the area of spiritual goods as well, since the monstrous machine of civilization, its screws having worked loose, has turned into a mechanical milker of the Muses. Thus it fills the libraries to bursting, inundates the bookstores and magazine stands, numbs the television screens, piling itself high with a superabundance of which the numerical magnitude alone is a deathblow. If finding forty grains of sand in the Sahara meant saving the world, they would not be found, any more than would the forty messianic books that have already long since been written but were lost beneath strata of trash. And these books have unquestionably been written; the statistics of intellectual labor guarantees it, as is explained - in Dutch - mathematically - by Joachim Fersengeld, which this reviewer must repeat on faith, conversant with neither the Dutch language nor the mathematical. And so, ere we can steep our souls in those revelations, we bury them in garbage, for there is four billion times more of the latter. But then, they are buried already. Already has come to pass what the prophecy proclaimed, only it went unnoticed in the general haste. The prophecy, then, is a retrophecy, and for this reason is entitled Pericalypse, and not Apocalypse. Its progress (retrogress) we detect by Signs: by languidity, insipidity, and insensitivity, and in addition by acceleration, inflation, and masturbation. Intellectual masturbation is the contenting of oneself with the promise in place of the delivery. first we were onanized thoroughly by advertising (that degenerate form of revelation which is the measure of the Commercial Idea, as opposed to the Personal), and then self-abuse took over as a method for the rest of the arts. And this, because to believe in the saving power of Merchandise yields greater results than to believe in the efficacy of the Lord God.
+
+
+The moderate growth of talent, its innately slow maturation, its careful weeding out, its natural selection in the purview of solicitous and discerning tastes - these are phenomena of a bygone age that died heirless. The last stimulus that still works is a mighty howl; but when more and more people howl, employing more and more powerful amplifiers, one’s eardrums will burst before the soul learns anything. The names of the geniuses of old, more and more vainly invoked, already are an empty sound; and so it is mene mene tekel upharsin, unless what Joachim Fersengeld recommends is done. There should be set up a Save the Human Race Foundation, as a sixteen-billion reserve on a gold standard, yielding an interest of four percent per annum. Out of this fund moneys should be dispensed to all creators - to inventors, scholars, engineers, painters, writers, poets, playwrights, philosophers, and designers - in the following way. He who writes nothing, designs nothing, paints nothing, neither patents nor proposes, is paid a stipend, for life, to the tune of thirty-six thousand dollars a year. He who does any of the aforementioned receives correspondingly less.
+
+
+Pericalypse contains a full set of tabulations of what is to be deducted for each form of creativity. For one invention or two published books a year, you receive not a cent; by three titles, what you create comes out of your own pocket. With this, only a true altruist, only an ascetic of the spirit, who loves his neighbor but not himself one bit, will create anything, and the production of mercenary rubbish will cease. Joachim Fersengeld speaks from personal experience, for it was at his own expense - at a loss! - that he published his Pericalypse. He knows, then, that total unprofitability does not at all mean the total elimination of creativity.
+
+
+Egoism manifests itself as a hunger for mammon combined with a hunger for glory: in order to scotch the latter as well, the Salvation Program introduces the complete anonymity of the creators. To forestall the submission of stipend applications from untalented persons, the Foundation will, through the appropriate organs, examine the qualifications of the candidates. The actual merit of the idea with which a candidate comes forward is of no consequence. The only important thing is whether the project possesses commercial value, that is, whether it can be sold. If so, the stipend is awarded immediately. For underground creative activity, there is set up a system of penalties and repressive measures within the framework of legal prosecution by the apparatus of the Safety Control; also introduced is a new form of police, namely, the Anvil (Anticreative Vigilance League). According to the penal code, whosoever clandestinely writes, disseminates, harbors, or even if only in silence publicly communicates any fruit of creative endeavor, with the purpose of deriving from said action either gain or glory, shall be punished by confinement, forced labor, and, in the case of recidivism, by imprisonment in a dark cell with a hard bed, and a caning on each anniversary of the offense. For the smuggling into the bosom of society of such ideas, whose tragic effect on life is comparable to the bane of the automobile, the scourge of cinematography, the curse of television, etc., the law provides capital punishment as the maximum and includes the pillory and a life sentence of the compulsory use of one’s own invention. Punishable also are attempted crimes, and premeditation carries with it badges of shame, in the form of the stamping of the forehead with indelible letters arranged to spell out “Enemy of Man.” However, graphomania, which does not look for gain, is called a Disorder of the Mind and is not punishable, though persons so afflicted are removed from society, as constituting a threat to the peace, and placed in special institutions, where they are humanely supplied with great quantities of ink and paper.
+
+
+Obviously world culture will not at all suffer from such state regulation, but will only then begin to flourish. Humanity will return to the magnificent works of its own history; for the number of sculptures, paintings, plays, novels, gadgets, and machines is great enough already to meet the needs of many centuries. Nor will anyone be forbidden to make so-called epochal discoveries, on the condition that he keep them to himself.
+
+
+Having in this way set the situation to rights - that is, having saved humanity - Joachim Fersengeld proceeds to the final problem: what is to be done with that monstrous glut which has already come about? As a man of uncommon civil fortitude, Fersengeld says that what has so far been created in the twentieth century, though it may contain great pearls of wisdom, is worth nothing when tallied up in its entirety, because you will not find those pearls in the ocean of garbage. Therefore he calls for the destruction of everything in one lump, all that has arisen in the form of films, illustrated magazines, postage stamps, musical scores, books, scientific articles, newspapers, for this act will be a true cleaning out of the Augean stables - with a full balancing of the historical credits and debits in the human ledger. (Among other things, the destruction will claim the facts about atomic energy, which will eliminate the current threat to the world.) Joachim Fersengeld points out that he is perfectly aware of the infamy of burning books, or even whole libraries. But the autos-da-fé enacted in history - such as in the Third Reich - were infamous because they were reactionary. It all depends on the grounds on which one does the burning. He proposes, then, a life-saving auto-da-fé, progressive, redemptive; and because Joachim Fersengeld is a prophet consistent to the end, in his closing word he bids the reader first tear up and set fire to this very prophecy!
+
+
+ To incorporate that idea into analysis, the BEA needs to also calculate a depreciation schedule for these cultural works which reveals some interesting differences across media. The most ephemeral cultural works turn out to be musical records, which depreciate at a staggering annual rate of 26.7%-meaning they earn a huge share of their lifetime income in their first year of release, and only a tiny number of works has a meaningful level of back-catalogue sales. Television shows come next, depreciating at a 16.8% rate. Then you have books at 12.1%. Movies turn out to be far more durable than TV, music, or books depreciating only at a fairly low 3.8% rate. The reason for that, presumably, is that movie studios are quite sophisticated about selling the same product repeatedly. First in theaters, then in DVD and pay TV stations, then to cable networks, and with simultaneous rollouts happening abroad. My guess is that when the BEA looks back in 5 or 10 years they're going to find that they've miscalibrated this number because the movie industry is facing substantial business model transformation on precisely this point. The rise of on-demand entertainment options and the falling quantity of films produced in any given year is putting pressure on traditional market segmentation practices and this number may not hold up. So how about plays? Well unfortunately for theater lovers, "theatrical play scripts" are placed into a miscellaneous category along with stock photography and greeting card design. That aggregate has a 10.9% annual depreciation rate
+-->
+
+
+th-century sense, requiring an unattainable and dubiously desirable quashing of human nature.72
+Nor is it necessary. The ideal of the expanding circle does not mean that we must feel the pain of everyone else on earth. No one has the time or energy, and trying to spread our empathy that thinly would be an invitation to emotional burnout and compassion fatigue.73 The Old Testament tells us to love our neighbors, the New Testament to love our enemies. The moral rationale seems to be: Love your neighbors and enemies; that way you won't kill them. But frankly, I don't love my neighbors, to say nothing of my enemies. Better, then, is the following ideal: Don't kill your neighbors or enemies, even if you don't love them.
+What really has expanded is not so much a circle of empathy as a circle of _rights_ - a commitment that other living things, no matter how distant or dissimilar, be safe from harm and exploitation. Empathy has surely been historically important in setting off epiphanies of concern for members of overlooked groups. But the epiphanies are not enough. For empathy to matter, it must goad changes in policies and norms that determine how the people in those groups are treated. At these critical moments, a newfound sensitivity to the human costs of a practice may tip the decisions of elites and the conventional wisdom of the masses. But as we shall see in the section on reason, abstract moral argumentation is also necessary to overcome the built-in strictures on empathy. The ultimate goal should be policies and norms that become second nature and render empathy unnecessary. Empathy, like love, is in fact not all you need.
+pg880
+-->
+
+
+but in part due to rising production? 
+positive externalities - people better: 
+esthetic value too idiosyncratic to judge: 
+values change over time: 
+sensory stimulation, zeitgeist: 
+coordination problem: 
+political: 
+but too many books: 
+
+"An inventor in our times can apparently expect to earn an average of roughly 2.2% of the gains from an invention" sourced to Review of Deirdre N. McCloskey's Bourgeois dignity: why economics can't explain the modern world. Chicago (IL): University of Chicago Press, 2010, 592 pp
+
+OB comment about specialists vs generalists:
+
+> Here's a thought. Are these broad questions increasing in number or decreasing in number or static?
+>
+> If they are either of the latter, then fewer undergraduates able to grapple about them may not be bad, since the population is growing so much. Per capita, the number of generalists can shrink but still be going up in absolute terms.
+>
+> Another thought. These questions tend to be very old. Old questions have been thought about by many people with many perspectives, and it's unlikely you'll make a new worthwhile contribution compared to thinking about new questions. So since these generalist questions seem to usually be very old and unrewarding, you would want most people to be focused on new questions.
+>
+> (I guess you would want as few people working on old questions as it takes to apply new observations and methods to the old questions, in the hope that the new observation/method might finally crack it.)
+-->
+
+
+ In February 2007, Microsoft lost a \$1.5 billion judgment for infringing on MP3 patents, even though Microsoft had licensed MP3! The problem with MP3 is that multiple companies have patent claims, which makes the situation a particular mess. We can argue as to whether patents add value, but they indisputably add costs.
+>
+> The Software Freedom Law Center calculates that Microsoft has paid \$4 billion in lawsuits in the last three years to companies who have won patent claims against the company, which works out to a tax of \$20 per copy of Windows. (The costs are actually higher because some of the settlements are secret.)
+
+
+> This report examines changes in the patenting behavior of the software industry since the 1990s. It finds that most software firms still do not patent, most software patents are obtained by a few large firms in the software industry or in other industries, and the risk of litigation from software patents continues to increase dramatically. Given these findings, it is hard to conclude that software patents have provided a net social benefit in the software industry.
+"A Generation of Software Patents"  Bessen 2012
+
+> The authors used a database of 1,630 patent troll lawsuits compiled by Patent Freedom. Because many of the lawsuits had multiple defendants, there was a total of 4,114 plaintiff-defendant pairs. The median defendant over all of these pairs lost \$20.4 million in market capitalization, while the mean loss was \$122 million.
+> ...To test this hypothesis, the authors focused on 14 plaintiffs who were publicly traded companies. These firms' lawsuits accounted for \$88 billion of lost wealth for defendants. Yet the total revenue of these companies was only \$7.6 billion. This suggests that the original inventors got less than 10% of defendants' lost wealth. And the real number is likely much lower, because some of the \$7.6 billion came from unrelated lawsuits, and we're willing to bet the patent lawyers took a big cut.
+ describing "The Private and Social Costs of Patent Trolls", Bessen et al 2011 https://scholarship.law.bu.edu/cgi/viewcontent.cgi?article=1240&context=faculty_scholarship
+
+Another idea:
+
+> There's evidence that the long tail has been overblown, and if anything, blockbusters are taking more of the market. (As one might expect of someone as glib and fad-driven as Chris Anderson.) If this is true, it's strong evidence that just as terrorism is not about terror, culture is... well, not about esthetics. (It's about shibboleths and injokes and that sort of social thing.)
+http://www.theregister.co.uk/2008/11/07/long_tail_debunked/
+http://entertainment.timesonline.co.uk/tol/arts_and_entertainment/music/article5380304.ece
+
+> An EU Directive to harmonise and increase protection for databases was adopted in 1996. Its aims were to (a) harmonise laws between Member States to aid the functioning of the single market and (b) increase protection for databases in those Member States where they were "not sufficiently protected". The hope was that by introducing such protection throughout the EU, database producers would be incentivized to invest in databases and information processing systems, and thereby reduce the "very great imbalance" in the level of investment in the database sector between the EU and third countries - notably the US, which has no such right. The aim was to ensure the EU got a foothold in this growing sector at an early stage. The European Commission carried out an evaluation of the Directive in 2006.13 This found that EU database creation had declined since introduction of the Directive, whilst it had continued to rise in the US, undermining the rationale for the right in the first place. The EU Database Directive remains unchanged.
+
+> Economic evidence is clear that the likely deadweight loss to the economy exceeds any additional incentivizing effect which might result from the extension of copyright term beyond its present levels.14 This is doubly clear for retrospective extension to copyright term, given the impossibility of incentivizing the creation of already existing works, or work from artists already dead. Despite this, there are frequent proposals to increase term, such as the current proposal to extend protection for sound recordings in Europe 50 → 70 or even 95 years. The UK Government assessment found it to be economically detrimental.15 An international study found term extension to have no impact on output.16
+
+13European Commission, 2005, First evaluation of Directive 96/9/EC on the legal protection of databases, DG Internal Market and Services Working Paper, http://ec.europa.eu/internal_market/copyright/docs/databases/evaluation_report_en.pdf
+14Handke C, 2010, The Economics of Copyright and Digitisation: A Report on the Literature and the Need for Further Research, Report for the UK Strategic Advisory Board for Intellectual Property Policy http://www.ipo.gov.uk/ipresearcheconomics-201005.pdf
+15IPO, 2010-01-07, Impact Assessment of: Proposed Directive to extend the term of copyright protection for performers and sound recordings
+16Png I P L and Qiu-hong W, 2009, Copyright Law and the Supply of Creative Work: Evidence from the Movies, Review of Economic Research on Copyright Issues
+
+http://www.bvresources.com/freedownloads/HargreavesReport.pdf
+
+> Among other things, we went out and interviewed 22 companies, and we added to that 69 questionnaires about various aspects of company patent policy and their susceptibility to compulsory licensing. We also did a very large statistical analysis and came to a number of conclusions that, at least at the time, given the way the patent system was being viewed by most scholars, were, to us, mind boggling. One of our conclusions was that patents just weren't very important in large corporations' research and development decisions. Of 91 respondents, only 7 accorded high significance to patent protection as a factor in their R&D investments. Most cited patents as the least important of considerations. Most of them said that what was really important in their research and development decisions was the necessity of remaining competitive, the desire for efficient production, and the desire to expand and diversify their sales. A lot of the companies in our sample had, in fact, been subjected to patent compulsory licensing decrees. And the vast majority of them said that the decrees had had, at most, a very, very minor negative impact on their R&D investments.
+
+[1995-11-29 testimony](http://www.ftc.gov/opp/global/GC112995.shtm) by F.M. Scherer
+
+https://en.wikipedia.org/wiki/Anti-copyright#Economic_arguments
+
+> "The evolution of copyright from an occasional grant of royal privilege to a formal and eventually widespread system of law should in principle have enhanced composers' income from publication. The evidence from our quantitative comparison of honoraria received by Beethoven, with no copyright law in his territory, and Robert Schumann, benefiting from nearly universal European copyright, provides at best questionable support for the hypothesis that copyright fundamentally changed composers' fortunes. From the qualitative evidence on Giuseppe Verdi, who was the first important composer to experience the new Italian copyright regime and devise strategies to derive maximum advantage, it is clear that copyright could make a substantial difference. In the case of Verdi, greater remuneration through full exploitation of the copyright system led perceptibly to a lessening of composing effort."
+
+Scherer, F.M. (2004), Quarter Notes and Bank Notes. The Economics of Music Composition in the Eighteenth and Nineteenth Centuries, Princeton University Press
+
+Boldrin and Levine, the authors of Against Intellectual Monopoly, performed a detailed, careful econometric analysis in 2009 and concluded that the "optimal" copyright term ought to be about 2 years, and patents about 5 to 10 years: "Market Size and Intellectual Property Protection", Boldrin & Levine 2009 http://pubmail.dklevine.com/papers/scalerev10.pdf ; but note:
+
+> [Levine:] These results assume that without IP a smaller fraction of the social surplus is recovered by the inventor/creator than with IP-that is the sense in which we assume that copyright and patent have some benevolent effect. That is, we assume that IP actually increases innovation. What we ignore is the downstream effect of IP-that future innovation/creation is reduced due to existing rights. We also ignore the fact that the producers who count-the marginal ones-are not especially likely to benefit from IP. In practice I suspect that those two are the main reasons that empirically IP just doesn't increase creation/innovation. Of course our calculation ignores any other social costs of IP other than the standard economic loss due to monopoly power.
+http://blog.mises.org/17319/optimal-patent-and-copyright-term-length/
+
+"Why a Seventeen Year Patent," 38 J. Pat. Off. Society 839 (1956), C. Michael White describes the historical basis for the seventeen-year patent term and proposes shortened terms.
+
+Merges & Nelson, in "On the Complex Economics of Patent Scope," pp. 868-70,  argue that most economic models of patent scope and duration focus on the relation between breadth, duration, and incentives to innovate, without giving serious consideration to the social costs of greater duration and breadth in the form of retarded subsequent improvement.
+
+> This lack of a single unified patent system creates self evident problems for innovative firms attempting to operate in the European market compared with the unified markets of the US, India and China.8 It causes wasteful duplication in terms of litigation in each jurisdiction - projected private annual savings on duplicated litigation alone are estimated at between €120 million and €240 million.9 Furthermore, it increases the cost of cross border commerce. Removal of inter EU country barriers in IP could increase UK national income by over £2billion a year by 2020.10
+9: Harhoff D, 2009, _Economic Cost-Benefit Analysis of a Unified and Integrated European Patent Litigation System_, Report for the Institute for Innovation Research, Technology Management and Entrepreneurship
+10:  http://www.bis.gov.uk/assets/biscore/economics-and-statistics/docs/e/11-517-economic-consequences-of-completing-single-market - taking a conservative estimate of the contribution made by IP harmonisation to inter country barriers of one per cent
+
+> After IBM's presentation, our turn came. As the Big Blue crew looked on (without a flicker of emotion), my colleagues - all of whom had both engineering and law degrees - took to the whiteboard with markers, methodically illustrating, dissecting, and demolishing IBM's claims. We used phrases like: "You must be kidding," and "You ought to be ashamed." But the IBM team showed no emotion, save outright indifference. Confidently, we proclaimed our conclusion: Only one of the seven IBM patents would be deemed valid by a court, and no rational court would find that Sun's technology infringed even that one.
+>
+> An awkward silence ensued. The blue suits did not even confer among themselves. They just sat there, stonelike. Finally, the chief suit responded. "OK," he said, "maybe you don't infringe these seven patents. But we have 10,000 U.S. patents. Do you really want us to go back to Armonk [IBM headquarters in New York] and find seven patents you do infringe? Or do you want to make this easy and just pay us \$20 million?" After a modest bit of negotiation, Sun cut IBM a check, and the blue suits went to the next company on their hit list.
+
+-->
+
+
+ The cumulative value of these tax subsidies is beyond substantial. In 2007, for example, the exemption from a tax on endowment investment returns cost the U.S. Treasury as much as \$18 billion. 14 In 2008, the deductibility of gifts to educational institutions cost over \$4.26 billion in forgone income taxes alone.15
+...A host of other tax subsidies benefit colleges and universities by helping create demand for their services. 16 Among these are the Helping Outstanding Pupils Educationally (HOPE) tax credit (projected to cost the Treasury \$3 billion in 2008), 17 the Lifetime Learning tax credit ($2 billion),' 8 the tax treatment of education individual retirement accounts ($140 million), 19 state prepaid tuition plans ($710 million),20 employer-provided educational assistance ($660 million), 21 the deductibility of student loan interest ($820 million), 22 and the tax-free discharge of student loan indebtedness ($20 million).2 3
+
+"The Coming Showdown Over University Endowments: Enlisting the Donors" Waldeck 2008 https://ir.lawnet.fordham.edu/cgi/viewcontent.cgi?article=4428&context=flr
+-->
+
+
+ let's say that we're talking about sentences instead of large-scale works like books
+ now, for a given person's subjective taste, we can probably form an ordering of sentences from the least to most aesthetic
+ but i don't think that that is going to hold still very long!
+ depending on the immediate situation that person is in, they may be more apt to find aesthetic enjoyment in one particular thing a person says, whereas another possibly quite brilliant thing would fly over their heads since they're not prepared for it
+ and longer-scale, people often experience major changes in their values and their filters for viewing the world
+ the larger the domain, more unstable any particular absolute position would be. but why would this mean a major percentage shift? Brownian motion
+ gwern, we know that there's been a major percentage shift because of the changes that have occurred at large scale over relatively short periods of time (ie. decades)
+ this is a direct contradiction to the classics/Great Books approach, BTW
+ yeah, agreed
+ i tend to think that people change enough over time, and also that people vary enough from each other, that new targets which are not hit by existing works (or not hit by a high enough percentage of well-known-enough existing works that a match is likely) pop up
+ and even if you claim there is a major percentage shift, how does that involve new works?
+ gwern, previously undiscovered mind-states?
+ and that this fuels people's need for new works; the existing stuff wasn't written by an author who had the right mindset or experience to properly target stuff that they didn't know about and didn't anticipate
+ er, yeah, what papermachine said, which is what i said but shorter
+ and how do these justify subsidies of any kind? if the new mind-states are so valuable...
+ well, aesthetic enjoyment is valuable
+ and new mind states require new works to achieve it
+ they will only be a marginal improvement on the existing body of work
+ (or to achieve it better, anyways)
+ gwern, yes, so there's an optimal rate of new work production, that is proportional to the rate of zeitgeist-change
+ more than that point and effort is wasted; less and we're at suboptimal aesthetic enjoyment even assuming people do their best to try out old good works
+ the optimal rate can be zero, given the costs of new work (storing, production, cataloguing, marketing)
+ agreed, i hadn't considered that
+ and the cost of subsidies to attain a non-zero rate too
+ i am not really arguing for subsidies
+ i took from your paper that you were making a more general argument that authors should just stop writing new stuff and focus on something else, if they're interested in improving the world
+ also, regarding the costs of storage, cataloguing, and marketing: the internet reduces these costs by a great deal
+ production less so, but that's still assisted by improvements in tech; it's certainly a lot easier to write a novel if you have a decent word processing app
+ as compared to a typewriter or quill and inkwell
+ there's another argument - what's the opportunity cost of a skilled writer? tech/internet may reduce the direct cost of them writing fiction, but increase the opportunity cost of them writing fiction
+ how does it increase the opportunity cost?
+ because it makes other things they could be doing easier as well?
+ yes. it increases the potential value of their labor directed in other ways
+ technical writers are paid fairly well (Ted Chiang, for example, one of the best SF writers around, is a technical writer; Charles Stross was a technical writer.)
+ hm, that only increases their opportunity cost if the tech is even more helpful doing the other thing than it is in producing aesthetic enjoyment... but you have a point even if the opportunity cost is just unchanging
+ come to think of it, gene Wolfe was both an engineer and a technical writer
+ off the top of my head, that's 3 world-class SF authors whom the market say are or were worth more as non-SF writers
+ yes, however the market may undervalue aesthetics
+ you point out in your article that good art can motivate people to do interesting and good things
+ (you have a point there also about propaganda, which is good but let's talk about that in a moment)
+ dsimon: well, that's an interesting question—if, even with the massive subsidies existing, the market still undervalues aesthetics, at what point will you admit that maybe there's no real undervaluation going on?
+ dsimon: btw, if you look at the HTML sources, I have a couple pages of quotes from Tyler Cowen about non-obvious societal subsidies of the arts
+ haven't worked them in yet
+ gwern, i'm not sure i follow; subsidies encourage people to make stuff even if the market doesn't want to buy that much of it, so wouldn't the increase in supply cause a greater market-price undervaluation?
+ is there a place where the sequences are made available on a single, chapter style format, or is EY waiting to publish his book for that?
+ dsimon: no I mean, I'm pointing out a tension in the market failure argument - 'if violence isn't solving your problems, you aren't using enough of it.' 'to alcohol, the cause of, and solution to, all of life's problems' 'that's no true Scotsman!'
+ sorry but i don't think i follow you there
+ dsimon: or like public schools saying what the real problem with public schools is that they don't get enough problem - this is often valid, but at some point...
+ we can look at existing poor payment of SF writers, say, compared to technical writings, and say 'this demonstrates how powerful the market defects are! we need more subsidies so they are paid in line with their true value!' or we can bit the bullet and say 'hey, maybe they really aren't producing that much value'
+ hm, that's a point there
+ "Drug testing...Why doesn't Congress have to, yet to get a minimum wage job I have to."
+ so it may well be that the current level of production is too high; however, if you accept that cultural changes are occupying new territory as time passes, the optimal rate is still > 0....
+ god, that drug testing thing in Florida was such a clusterfuck
+ dsimon: I think I argue that reinterpretation is valid
+ er, s/occupying/creating/
+ \$178 million price tag, only 2% of applicants tested positive
+ another thought-provoking question from a Reddit
+ dsimon: as Shakespeare or heck, any and every religious scripture has taught us, what humans get out of any piece of writing tends to be more what they put in in the first place... why can't one have a more or less fixed literature which is reinterpreted to match the changing zeitgeist? china did that for a couple millennia
+ s/a /
+ zeitgeist changes too fast :P
+ gwern, that could work, but would it necessarily work as well as a changing body-of-work?
+ Steel: so what's cheaper, paying writings to build an entire new corpus for each fast zeitgeist change, or simply reinterpreting a fraction of a fixed corpus to fit the latest fractional shift?
+ _paying writers
+ furthermore, it might actually slow down rate of cultural change to not have new works being created, since if new art leads people to try new and interesting things, that creates even more new mind states and further drives it
+ dsimon: I disagree with that; I think I have a section on art not driving science/tech
+ you have to pay people to reinterpret-or rather, someone who finds a way to get paid to reinterpret emerges
+ generally, they're called priests
+ u_, an example of which specific thing?
+ gwern, yeah, that was the part about propaganda, right?
+ dsimon: I think so
+ an example of art driving people to try stuff
+ u_, when i read about computer programming in science fiction as a child, that motivated me to try learning it myself
+ at least, it seems so to me now; my memories may be inaccurate
+ another example that's less obviously technical: various pieces of art about relationships have driven me to try different things, and to sometimes value different things than before, when seeking romance
+ dsimon: and is that a good thing? how many women are unhappy waiting for their prince?
+ well, stories involving computers are something that actually need to be written now that computers exist
+ gwern, that brings us back to the point about propaganda as a dark art
+ art about relationships has been around... a while?
+ dsimon: indeed
+ u_: I'm talking about the specific Western vein of romantic love starting with the troubadours and culminating in Hollywood crap
+ dsimon: oh, and one good example of propaganda art - copycat suicides. sorrows of Werther in Germany, and various plays in Japan
+ gwern, the potential for wandering off course (behaving less rationally) when influenced by art may be counter-balanced by the information gained when people try new things, and the gains made when the influence happens to push them in a rational direction
+ i don't think people who put suicide in their art are trying to do that
+ u_, yes, but its still an influence that it has aesthetically, so it still counts
+ furthermore, the main supposed benefit of art is motivation and changes in value, rather than technical knowledge about how to do things
+ u_: to some extent the Japanese were; honorable suicide, nobility of spirit, etc. double-suicides as true love
+ that's what I thought
+ it's arguable whether changing the thing-that-is-to-be-protected creates a less rational state than before
+ except for obvious situations like suicide
+ and let's see, we have Paris syndrome for literary depictions of Paris and the Japanese; we have 'Bovarism' for women who read too many romances; in literature, we have Don Quixote; there's Objectivism...
+ I think I mentioned the Nazis and Leni Riefenstahl in the article
+ gwern, so besides new art targeting new states and creating better aesthetic enjoyment, there's also the idea that people being aesthetically satisfied in a new direction may try new things
+ dsimon: again, the connection between art and science/tech doesn't seem to go that way
+ if that pans out, then consider: if we hadn't had art that rebelled against previous notions of various values, would society have advanced more slowly?
+ dsimon: where would society have advanced more slowly? did the industrial revolution require Shakespeare? did the American revolution draw force from paintings I am unaware of? wasn't the french revolution's philosophes mostly writing nonfiction like Diderot's Encyclopedie?
+ gwern, those aren't fair requests; you can't just pick an event X and a work Y and say "can you show that Y contribute to X? if not your hypothesis is in trouble"
+ however, i'm agreeing with your more general point, that the idea of art influencing societal change is common, but i'm having a hard time thinking of particular supporting examples
+ would the US have banned slavery later without the influence of uncle tom's cabin?
+ dsimon: I was giving examples - you don't have to prove art helped the industrial revolution specifically, but you ought to have some sort of data or example or something - you can't simply say 'art may make people try new things!' and expect me to agree that you're correct
+ gwern, agreed, i lack data in this respect
+ Hyphenated: that's a good example; it's generally accepted uncle tom's cabin helped speed things up
+ i do have the personal anecdotes i mentioned earlier as examples, but something a little more rigorous would be a lot better
+ i wasn't expecting that ending, but i should've been
+ dsimon: and again, it's easy to marshal criticisms of that. how many people has TV stopped from trying new things?
+ just by sucking time and energy?
+ TV is a pretty pure subsidy
+ gwern, well, i can actually think of specific examples of TV motivating people to try new things
+ a friend i knew in college specifically was studying forensics because of CSI
+ (TV kills, as an Australian study I linked here found correlations for)
+ however, such instances may not outweigh the costs of TV in particular
+ dsimon: that's not helping your case - my understanding is that CSI has had negative effects on juries and trials ('the CSI effect') and has resulted in an oversupply of forensics - a bad investment from society's point of view
+ gwern, interesting, i hadn't heard about that
+ [CSI effect]( ! Wikipedia) on Wikipedia
+ the summary appears to weakly disagree with you, actually;  let me see what it says further down
+ [CSI effect#Academia]( ! Wikipedia) 'In 2004, the forensics programs at Florida International University and the University of California, Davis doubled in size, reportedly as a result of the CSI effect. However, many students enter such programs with unrealistic expectations.[38] Vocational interest in forensic science has proliferated among students in countries besides the United States, including Australia,[39] the ...
+ ... United Kingdom,[40] and Germany.[41] The increased popularity of the forensic science program at the University of Lausanne in Switzerland has also been attributed to the CSI effect.[42]'  according to the wikipedia article CSI also led to an increased demand for forensics specialists
+ well, CSI and similar shows
+ which in turn may be good thing, as forensic evidence (when done right) is better than witness testimony
+ 'The biggest problem, however, is that crime has not kept pace with the explosion in TV detective shows. The government-owned Forensic Science Service currently finds 1,300 scientists sufficient for its crime-solving needs. The UK's largest private provider, LGC Forensics, employs 500 people. In 2008 alone, 1,667 students embarked on forensic science degree courses. In order to ensure there are enough jobs to go round, more than half of them will ...
+ ... have to retrain as serial killers.' https://www.theguardian.com/education/2009/oct/15/csi-effect-forensic-science
+ gwern, I've got a cached notion that many rape cases and instances of less-serious-than-murder but still serious crimes (ie. burglary, car theft) would benefit from additional forensics support
+ let me see if i can track down anything proper on that
+ dsimon: possibly. arguing that the CSI effect is net positive is kind of hard, since you need to argue that before the CSI effect things were suboptimal, and why would they be?
+ because people were less influenced by and aware of scientific evidence?
+ gwern, wikipedia says at least that there's a backlog for collecting forensic evidence on rape cases in a few states
+ _ efm has been keeping up on her anti-paranoia regime
+ [Rape kit]( ! Wikipedia)
+ dsimon: are the forensics people are training for the same people who collect the rape kit samples?
+ gwern, a good question; i guessed it to be so because it's described as forensic evidence
+ but i suppose the backlog might simply be on collecting it, with an oversupply of people to analyze it
+ dsimon: from the description it seems like something anyone could collect, or perhaps a nurse
+ dsimon:  eg. 'The Sexual Assault Nurse Examiner (SANE) program was established in 2000 at Howard University Hospital in order to address this concerns, after a decade of attempts by Denise Snyder, executive director of the D.C. Rape Crisis Center (DCRCC), to find a major hospital willing to host the program, most of whom either cited economic concerns or declined to respond to her inquiries.'
+ dsimon: also, that makes it sound like lack of forensics personnel is not the major bottleneck
+ some parts of the article specifically describe the backlog as being of kits which have been collected but not "which have not been tested in a timely manner"
+ u_: nah, contrarians have it rough. meta-contrarians do well though
+ which has in turn led to delays in case handling
+ dsimon: 'Findings include: 1. As an indicator of how widespread this problem has become, "18% of unsolved alleged sexual assaults that occurred 2002–2007 contained forensic evidence that was still in police custody (not submitted to a crime lab for analysis)"; 2. One major challenge is that 43% of law enforcement agencies "do not have a computerized system for tracking forensic evidence, either in their inventory or after it is ...
+ ... sent to the crime lab"; 3. On average, 50-60% of kits test positive for biological material that does not belong to the victim; 4. Survey responses indicated that there may be some misunderstanding of the value of biological evidence. 44% of the law enforcement agencies said that one of the reasons they did not send evidence to the lab was that a suspect had not been identified. 15% said that they did not submit evidence because "analysis had ...
+ ... not been requested by a prosecutor."'
+ ^ sounds like bureaucracy and problems outside the lab
+ hm, yeah, and a public perception problem
+ perhaps more art letting people know that forensic evidence is awesome would help that?
+ if violence isn't solving your problems...
+ gwern, well, that joke works because violence does cause damage, but causing damage doesn't always (or even often) solve the problem
+ however, if we agree that the issue is a lack of public appreciation for X, and that good art portraying X increases that appreciation, then..
+ gwern, so i guess to summarize, my rebuttals to your paper are: 1. we do need new art, because new mind states pop up pretty often that aren't well targeted by old art for maximum enjoyment, and 2. sure, propaganda is dark-arts-ish, but getting people to try out new things and ideas may be good for society as a whole even if many of the new things on their own aren't rational
+
+ you have to say that this is a strong trend, that there are not bad books undoing the benefit of the new ones, and that the net benefit is so good as to justify the many billions the publishing industry comprises
+ foucist: I am a little short because I thought my essay already dealt with 'but modern books are more readable!'
+ sh: well,  one might rephrase that as 'government provides subsidies, subsidies inherently increase production,' etc.
+ and not focus on the industry per se
+ sh: well, excuse me for trying to turn your comments into a coherent argument against my essay and not simply perceiving them as random brain farts worthy of twitter or something -_-
+ gwern: btw i recommend reading 'The Nature of Technology' by Brian Arthur and then think about your essay again in light of that
+-->
+
+
+ language evolves, cultures evolve, having the current fiction reflect what the current people like to read is not a bad thing.
+ I think it can even be a good thing
+ The need for expression and whatnot
+ Weeks: you read the Octavia Butler section?
+ Weeks: new fiction is better than old fiction, always!
+ Not to the author
+ it's an iterative process, continuously making better and better writing!
+ building on the giants that came before with the time honored strategy of plagiarism
+ yes, that's why we scrapped the classics a few centuries back
+ we still keep them around to torture schoolchildren with
+ forget about classics and you won't be confused
+ there's a mind warp around the concept of classics
+ Weeks: I tried to address the issue of relevancy in that and following sections
+ Old cultures were mostly non inclusive about many people
+ It is reflected in much of the language right
+ fiction is non-inclusive by its very nature
+ what do you mean?
+ I wrote a fair bit about that... but come to think of it, that was in a LW comment, not in the essay
+ About target audiences?
+ Weeks: I mean, fiction never has and never will be inclusive. people don't want to read about statistically accurate average characters. they always have been interested in characters which are highly unrealistic
+ BTW, regarding non-fiction, I've noticed that newer books tend to be far more readable than older books
+ even a difference of 5 years
+ a 2000 book vs 2005 book
+ foucist: that makes sense. sort
+ _ a sorting program is more elegant now than in the 1950s
+ language gets worked out better i think
+ Well, not just the characters, gwern
+ The language
+ Weeks: I don't follow, then
+ iterative process of explaining things
+ author 1 writes book1, author 2 internalizes concepts from book 1, writes book 2, etc
+ foucist: yeah. better explanation, vocab, diagrams evolve, that sort of thing
+ Did you argue for banning books...but just books for sale?
+ As in, fanfiction for example is unaffected?
+ because there's virtually no cost involved in creating and retrieving it?
+ Weeks: also, writers can't get good without practice
+ there's an interesting relationship between the prolificness of a writer and the quality of his writing (it ends up pretty good)
+ Shakespeare, Stephen king, Asimov, Pohl, etc. :P
+ I'm not a fan of Stephen king but his writing is probably pretty good heh
+ Weeks: I think I say that banning the creation of new fiction would be difficult, but at the very least, the state can drop its subsidies and society will gain
+ i think there are actively negative things that get subsidized by the state
+ so that even if fiction has very little value it's better than say giving tax breaks to churches
+ Weeks: so, since electronic transmission is so cheap, and enforcement would be so expensive (as BitTorrent and the great wall of china show), it would be best to leave fanfiction alone
+ drethelin: writers don't really get subsidized?
+ drethelin: great. I wasn't discussing subsidizing fiction vs tax breaks for religion.
+ hm, what's the LW term for when you discuss how A is not a net benefit and someone points out 'but Z is even worse!'? maybe it's just a non sequitur
+ gwern: you know we're not discussing anything in particular, even though the gist is that weeks is talking about something that you may or may not have wrote, i haven't seen any links or anything so I'm just blathering on! :P
+ foucist: it is the very first link on Gwern.net!
+ https://gwern.net/Culture%20is%20not%20about%20esthetics.html
+ my point wasn't about whether x was a net benefit but about whether it was worth expending effort to change
+ _ realitygrill wonders how an institution might qualify for a religious tax break
+ drethelin: that's not what I'm discussing in the essay either. you can't ask that question without first concluding that there is a benefit to changing
+ gwern, is 'good' subjective?
+ good art
+ good fiction
+ Weeks: does it matter?
+ gwern: "There's also more good old fiction than more good new fiction"
+ how do you know?
+ math
+ any given year x new good books are made
+ which makes the total of good books x+y which is how many existed before
+ You're assuming the standard stays the same. Pretty sure that's incorrect.
+ x is always going to be way smaller than y unless the books made in a year are somehow all amazing
+ Weeks: there is roughly 2-300x more old fiction than new fiction if new is defined as  if you want to hoe that row, show some evidence
+ define new as  (I'm exaggerating a bit)
+ foucist: the s-curve leveled off a long time ago
+ 12:26  gwern: we prob should factor in all writing on the internet though
+ 12:26  not just traditional publishing
+ 12:27  it only leveled off for traditional publishing recently because of internet i think
+ 12:27  _ foucist is just making guesses!
+ 12:28  you're ignoring the increased marginal value to people of new books they want vs old books  that are subjectively "better"
+ drethelin: is there increased marginal value? and please don't parrot the usual revealed preference stuff
+ basically I disagree with your claim that people would be happier reading only the best fiction
+ what drethelin said.
+ the value to me of reading a book by an author I love is higher than reading an acknowledged classic
+ "You don't know that people will like the classics"
+ drethelin: 'author I love'? what does that even mean? you like the idea of a Kipling working in India and writing stuff? you sleep with the author or are engaged?
+ are you deliberately being dense?
+ I mean an author whose works I particularly enjoy
+ having an affinity for the way the author writes, etc
+ like
+ Cory Doctorow.
+ drethelin: in these matters, you have to be dense or else you go wrong pretty quickly
+ well, you obviously don't like deluding yourself right?
+ Some people do
+ And probably you don't have to delude yourself (perhaps the wrong term) to "love an author"
+ gwern, what is the usual revealed preference stuff
+ Weeks: oh, to argue 'obviously new books are better because people buy them more. to call people's choices wrong is to adopt a fallacious paternalistic fallacy and think you know them better than they do, etc.'
+ ah, I see
+ Weeks: eg. 'we shouldn't ban cigarettes because while they do curtail your life, people have revealed their preference for a short but glorious life by purchasing them. if we frustrate their desires, we reduce utility, etc.'
+ Does someone in this channel use the nick "q q"?
+ gwern, this is what I meant before with language: "Because many of the "classic" books I read are vile - they contain sexism and racism and small language details that make me cringe."  'all voluntary economic transactions should be permitted because if they aren't, then net utility will be reduced etc.'
+ Radivis: no, and isn't it disallowed to have a nick with whitespace in it?
+ Weeks: what a remarkably fastidious reader
+ gwern, let's assume the fastidious reader is common
+ What's wrong with "we shouldn't ban cigarettes because while they do curtail your life [...]"?
+ Weeks: I doubt they are; it sounds like an excuse to me, although the list of banned books in the US might suggest otherwise. easy to argue that they shouldn't be fastidious - unless one is arrogantly confident that all one's current prejudices - sorry, I mean, fastidious preferences - are correct, then one expects some of one's own preferences to be wrong, and if the preferences are strict and only allow a narrow set of fiction, one is cutting ...
+ ... oneself off from entirely too much literature
+ i don't think that's an invalid preference to have
+ have
+ you may be worse off for it but that doesn't change what you like
+ Weeks: the annoying thing about the revealed preference argument is that it is a fully general counter-argument. you can use it to argue against any sort of judgement or condemnation of another's behavior. 'they just walked into the street and got run over because they didn't look both ways!' 'revealed preference, talk to the hand, they just value not looking both ways that much' 'but-!' 'they have REVEALED their PREFERENCE, END OF DISCUSSION'
+ Yes, it is fully general
+ I have attested it
+ Some people say it comes from people's right to have full bodily autonomy
+ and that's already sort of extreme
+ drethelin: you may be worse off for it doesn't make it a bad preference to have? if so, then what on earth could possibly make a preference bad to have?
+ Weeks: that's what I mean about fully general.
+ gwern, I didn't say it wasn't bad to have, just that it was a preference that is valid and needs to be acknowledged
+ what is 'valid'? sounds like a synonym for acceptable or good
+ IF I don't enjoy reading classics, that is worse for me but you won't make my life better by making classics the only thing available to read
+ permissible
+ Perhaps the argument is that any framework that fails to acknowledge personal preference is a bad framework?
+ yes, that's a good way of putting how I see things
+-->
+
+
+- 
+
+“A Sad Heart at the Supermarket”, Daedalus, vol. 89, no. 2 (Spring 196066ya)↩︎
+- 
+
+“E-books spark battle inside the publishing industry”, Washington Post, 27 December 200↩︎
+- 
+
+Surprisingly, the cost of printing a first edition of a book is only about 10% of the publisher’s final wholesale price, and shipping isn’t much more. The money is going into other things. The New Yorker breaks the costs down as follows (emphasis added):
+
+
+Traditionally, publishers have sold books to stores, with the wholesale price for hardcovers set at fifty per cent of the cover price. Authors are paid royalties at a rate of about fifteen per cent of the cover price. A simplified version of a publisher’s costs might run as follows. On a new, twenty-six-dollar hardcover, the publisher typically receives thirteen dollars. Authors are paid royalties at a rate of about fifteen per cent of the cover price; this accounts for $3.90. Perhaps $1.80 goes to the costs of paper, printing, and binding [$1.80 of $26 is ~7%], a dollar to marketing, and $1.70 to distribution. The remaining $4.60 must pay for rent, editors, a sales force, and any write-offs of unearned author advances. Bookstores return about thirty-five per cent of the hardcovers they buy, and publishers write off the cost of producing those books. Profit margins are slim.
+
+↩︎
+- 
+
+I suspect, as does author Charles Stross (“Why the commercial ebook market is broken”), that book publishers and Amazon are taking a considerable percentage of the ebook revenue, since in this The New Yorker article, Amazon expected a newspaper publisher to agree to give Amazon 70% of the subscription fees; Amazon has monopoly control over the Kindle, and it is reasonable to think that they are similarly demanding of book publishers. From “Priced to Sell: Is Free the Future?”, 2009-07-06, by Malcolm Gladwell:
+
+
+At a hearing on Capitol Hill in May, James Moroney, the publisher of the Dallas Morning News, told Congress about negotiations he’d just had with the online retailer Amazon. The idea was to license his newspaper’s content to the Kindle, Amazon’s new electronic reader. “They want seventy per cent of the subscription revenue,” Moroney testified. “I get thirty per cent, they get seventy per cent. On top of that, they have said we get the right to republish your intellectual property to any portable device.”
+
+
+The idea was that if a Kindle subscription to the Dallas Morning News cost ten dollars a month, seven dollars of that belonged to Amazon, the provider of the gadget on which the news was read, and just three dollars belonged to the newspaper, the provider of an expensive and ever-changing variety of editorial content. The people at Amazon valued the newspaper’s contribution so little, in fact, that they felt they ought then to be able to license it to anyone else they wanted.
+
+↩︎
+- 
+
+A Slate article takes the opposite view: that Amazon is losing a great deal of money on each ebook:
+
+
+Amazon pays the same wholesale price for Kindle books as it does for real books - generally 50% of the list price. For a typical hardback that retails for $26 - say, E.L. Doctorow’s Homer & Langley - Amazon pays $13 and then sells it for $9.99 on the Kindle, taking a $3 loss on each sale. (The longer-term strategy, publishers fear, is that once the Kindle gains [substantial] market share, Amazon will negotiate lower wholesale prices for digital versions.)
+
+↩︎
+- 
+
+I’m using ‘subsidy’ in a broad sense. Intellectual property laws are subsidies; stronger IP law or more vigorous enforcement is more government subsidy of the protected rentiers; universities hiring professors of creative writing or English and enabling them to write their books on sabbaticals or summer vacations, and publishing them at or below cost - those are subsidies as well. Tax breaks are subsidies, etc.↩︎
+- 
+
+IP has other effects, some of which directly reduce artistic production, since so much art is based on existing art. This point has been made at length by many authors such as Lawrence Lessig, but a short example from Tyler Cowen’s Good and Plenty:
+
+
+Legislation in 197650ya brought copyright protection to new extremes, namely the life of the author plus fifty years, and for a company seventy-five years from publication or one hundred years from creation, whichever is sooner. The renewal process was eliminated altogether. Over time the large corporations of the entertainment industry have captured Congress in this matter, and the copyright period has now been extended eleven times in the last forty years. The most recent extension was the Sonny Bono Copyright Term Extension Act of 199828ya, which expanded copyright protection to the life of the creator plus seventy years, rather than fifty. Corporate copyrights also were extended twenty years to a total of ninety-five years, as were copyrights for all works produced before 197848ya. The campaign to change these laws was led by Disney, which had feared the forthcoming expiration of copyright on Mickey Mouse and other lucrative cartoon characters.6
+
+
+Copyright can restrict output in other ways as well. Many artists borrow heavily from each other, often without paying royalties or receiving permission. Disney characters are frequently drawn from European fairy tales or American folktales, without payment of any licensing fee. Some of Bob Dylan’s songs are so close to the works of Woody Guthrie that Dylan would lose a lawsuit, had Guthrie received contemporary copyright protection. Of course Guthrie borrowed heavily as well, most of all from blues musicians. This did not stop Dylan, once a populist 1960s radical, from joining the lobbying effort in favor of copyright extension.7 Copyright also makes it harder for rap artists to sample music. Looking back into history, many Shakespeare plays draw their plots from other works; Hamlet, for instance, was based on Thomas Kyd’s Spanish Tragedy. Large sections of Chaucer’s poetry are borrowed from other writers, through either translation or paraphrase. Blues, jazz, country music, and rap are all based on widespread borrowing of melodies and riffs, usually without any acknowledgment and certainly without any payment of licensing fees. It is debatable whether these artistic forms could have developed as we know them, had today’s copyright laws been enforced all along.
+
+↩︎
+- 
+
+The examples are legion; from “Buying the Concept of Art” (‘Talking Philosophy’, The Philosophers’ Magazine):
+
+
+Since I have taught Aesthetics since 199432ya, little that occurs in the strange world of art surprises me. One of the more recent trends is the selling of the ideas of artists, as opposed to the selling of an actual work of art. For example, Lawrence Weiner put a $160,000 price tag on his idea of “2 Metal Balls + 2 Metal Rings (Set Down in the Groove).” For the $160,000 you do not get any balls, rings or a groove. Rather, you would receive a certificate that permits you to write the phrase in a room or create/commission the sculpture that you think it happens to describe.
+
+
+Works, if that term can be used, were also sold by Sol LeWitt before his death. While he did create art objects, he also created “works” that were just vague instructions for creating a piece. For example, “Alternate Yellow Ink and Pencil Straight, Parallel Lines, of Random Length, Not Touching the Sides.”
+
+
+Tino Sehgal tops both DeWitt and Weiner. Sehgal does not even offer a certificate or set of instructions, he apparently just makes odd things occur and permits no recording of the event. These “works” are sold for cash in front of witnesses, but no documentation is provided. One of his “works”, which was purchased for around $100,000 is the concept of a museum security guard slowly undressing. Naturally, the money does not buy an actual security guard or an undressing, merely the concept as put forth by Sehgal.
+
+
+Or “Woman Pays $10,000 For ‘Non-Visible’ Work Of Art”:
+
+
+Franco and Praxis also warn that, “When you contribute to this Kickstarter project, you are not buying a visible piece of art!” Yes, after contributing real money, buyers will not receive any tangible piece of art and will instead be presented with a written description of their purchase. With prices ranging from $1,000 to $,10,000, you might ask yourself, “who would actually willingly donate money for pretty much nothing?” Answer: Montreal web producer, social media marketer, model and actor Aimee Davison.
+
+
+Davison’s explanation is at least somewhat sensible:
+
+
+Also, I wanted to note that I bought Franco et al’s art because I want to promote the benefits of bigger brands sponsoring new media artists and social media art (or Internet projects). My patronage is funding Franco’s project but it is equally a sponsorship; it is a marketing tool to publicize my own projects. Sponsoring a social media art project allows a brand or individual to attach their name to a project wherever it appears online, co-create, gain agency and credibility in the social media sphere and share in the buzz, audience, and cultural impact of a work.
+
+↩︎
+- 
+
+cf. broken window fallacy↩︎
+- 
+
+The academic literature is mixed; for example, some find little to no detrimental effect to Internet-borne copyright infringement: from “File-Sharing and Copyright”, Oberholzer-Gee & Strumpf 201016ya (media coverage):
+
+
+Data on the supply of new works are consistent with our argument that file sharing did not discourage authors and publishers.2 The publication of new books rose by 66% over the 2002–5200719ya period. Since 200026ya, the annual release of new music albums has more than doubled, and worldwide feature film production is up by more than 30% since 200323ya. At the same time, empirical research in file sharing documents that consumer welfare increased substantially due to the new technology.
+
+↩︎
+- 
+
+King Richard II↩︎
+- 
+
+Or below; I dislike clutter.↩︎
+- 
+
+A rate which, if surveys are to be believed, puts me in a quite rarefied percentile; eg. “One in Four Read No Books Last Year” (The Washington Post), and mentions the average for Americans was 4 books a year, and the median among those who read at least one book was 7, roughly 1 every 7 weeks.↩︎
+- 
+
+Another writer (Linda Holmes, “The Sad, Beautiful Fact That We’re All Going To Miss Almost Everything”, NPR) considers if you read 2 a week:
+
+
+If we assume you start now, and you’re 15, and you are willing to continue at this pace until you’re 80. That’s 6,500 books, which really sounds like a lot. Let’s do you another favor: Let’s further assume you limit yourself to books from the last, say, 250 years. Nothing before 1761265ya. This cuts out giant, enormous swaths of literature, of course, but we’ll assume you’re willing to write off thousands of years of writing in an effort to be reasonably well-read.
+
+
+Of course, by the time you’re 80, there will be 65 more years of new books, so by then, you’re dealing with 315 years of books, which allows you to read about 20 books from each year. You’ll have to break down your 20 books each year between fiction and nonfiction - you have to cover history, philosophy, essays, diaries, science, religion, science fiction, westerns, political theory … I hope you weren’t planning to go out very much…We could do the same calculus with film or music or, increasingly, television - you simply have no chance of seeing even most of what exists. Statistically speaking, you will die having missed almost everything.
+
+
+Edward Stourton, “The Year of Reading Differently” 201115ya:
+
+
+All of this has restricted the reading time I have been able to devote to our existing collection of books - the only one of my vows I was really looking forward to. I began by revisiting Evelyn Waugh and Graham Greene, and honesty compels me to admit that I have got no further. Indeed, I find that I am in no great hurry to get further…Here is a cheerful conclusion: on the basis of the experiment to date I am persuaded that, if I have to, I can go on re-reading my existing library without ever getting bored - I estimate I have enough good literature in the house to last me for the rest of my life.
+
+↩︎
+- 
+
+America, and Great Britain. France contributed a little to SF with Jules Verne, and Japan’s SF is copious (but uninfluential). Besides that, further sources of SF can be named on one hand. Poland offers us Stanislaw Lem, Russia has… someone, no doubt. And that’s about it. SF isn’t prolific even in the Anglophone First World, much less the rest of the globe.↩︎
+- 
+
+By a rough count of Nebula Award for Best Novel, 14 of the 43 winners were part of some franchise or series of works. To account for Hugos, we double that to 28 for the 2 awards; if each is part of a trilogy, we need to add 84 more works to our reading list, for another 2 years.↩︎
+- 
+
+The World as Will and Representation, section 51, footnote 41↩︎
+- 
+
+And the reason I was reading Mistborn at all was curiosity as to how his The Wheel of Time novels might go - and Wheel of Time is itself an excellent example of a mediocre work that sucked time that could’ve gone to something better, but which I could not quit because the curiosity would kill me.↩︎
+- 
+
+See the later discussion of hyperbolic discounting and experimental results with songs.↩︎
+- 
+
+“Your Brain on Fiction”, Annie Murphy Paul 201214ya, NYT:
+
+
+Researchers have discovered that words describing motion also stimulate regions of the brain distinct from language-processing areas. In a study, led by the cognitive scientist Véronique Boulenger, of the Laboratory of Language Dynamics in France, the brains of participants were scanned as they read sentences like “John grasped the object” and “Pablo kicked the ball.” The scans revealed activity in the motor cortex, which coordinates the body’s movements. What’s more, this activity was concentrated in one part of the motor cortex when the movement described was arm-related and in another part when the movement concerned the leg.
+
+
+The brain, it seems, does not make much of a distinction between reading about an experience and encountering it in real life; in each case, the same neurological regions are stimulated. Keith Oatley, an emeritus professor of cognitive psychology at the University of Toronto (and a published novelist), has proposed that reading produces a vivid simulation of reality, one that “runs on minds of readers just as computer simulations run on computers.” Fiction - with its redolent details, imaginative metaphors and attentive descriptions of people and their actions - offers an especially rich replica. Indeed, in one respect novels go beyond simulating reality to give readers an experience unavailable off the page: the opportunity to enter fully into other people’s thoughts and feelings.
+
+
+…Raymond Mar, a psychologist at York University in Canada, performed an analysis of 86 fMRI studies, published last year in the Annual Review of Psychology, and concluded that there was substantial overlap in the brain networks used to understand stories and the networks used to navigate interactions with other individuals - in particular, interactions in which we’re trying to figure out the thoughts and feelings of others. Scientists call this capacity of the brain to construct a map of other people’s intentions “theory of mind.” Narratives offer an unique opportunity to engage this capacity, as we identify with characters’ longings and frustrations, guess at their hidden motives and track their encounters with friends and enemies, neighbors and lovers.
+
+
+It is an exercise that hones our real-life social skills, another body of research suggests. Dr. Oatley and Dr. Mar, in collaboration with several other scientists, reported in two studies, published in 2006 and 2009 [see also their 2008 review], that individuals who frequently read fiction seem to be better able to understand other people, empathize with them and see the world from their perspective. This relationship persisted even after the researchers accounted for the possibility that more empathetic individuals might prefer reading novels. A 2010 study by Dr. Mar found a similar result in preschool-age children: the more stories they had read to them, the keener their theory of mind - an effect that was also produced by watching movies but, curiously, not by watching television. (Dr. Mar has conjectured that because children often watch TV alone, but go to the movies with their parents, they may experience more “parent-children conversations about mental states” when it comes to films.)
+
+
+Fiction, Dr. Oatley notes, “is a particularly useful simulation because negotiating the social world effectively is extremely tricky, requiring us to weigh up myriad interacting instances of cause and effect. Just as computer simulations can help us get to grips with complex problems such as flying a plane or forecasting the weather, so novels, stories and dramas can help us understand the complexities of social life.”
+
+
+(See also Kidd & Castano 2013 but note that it has failed to replicate in the large Panero et al 2016, which strongly supports self-selection as the mechanism.) Justifying fiction on practical benefits is a powerful justification—if it’s true. But these claims of benefit are a little questionable, being largely correlational. More generally, the question is one of “transfer of learning”: the typical result in psychology is that if you spend time learning or training on something, you will improve substantially on that, improve a little or moderately on things which resemble that closely (“near transfer”), and improve hardly at all on anything else (“far transfer”). So no matter how much of a mental workout you get playing chess, it won’t “transfer” to, say, learning English vocabulary. Anything which might cause far transfer would be unusual and exciting (such as dual n-back), but the task is tantamount to increasing IQ in normal healthy people - a holy grail which remains out of reach half a century later. (Even years of schooling, spending hours a day on a variety of subjects, fails to increase childrens’ IQ more than a few points at best.) So, what does reading fiction transfer to? Does it only lead to “near transfer” like higher WPM or appreciation of literature, or does it also lead to more “far transfer” like better theory of mind and real-life social skills?↩︎
+- 
+
+The post “Data On Fictional Lies”, discussing the paper “Hierarchy in the Library: Egalitarian Dynamics in Victorian Novels”. It’s worth noting that things like the Terman sample find that in real life, being Extroverted and low on Agreeableness correlate with success; the latter, at least, is more characteristic of antagonists than protagonists:
+
+
+Follow-up tests showed a [statistically-]significant Valence * Salience interaction effect on Extraversion (F1,374 = 11.40, p = 0.001) and Agreeableness (F1,374 = 16.65, p < 0.001). On Extraversion, protagonists score [statistically-]significantly lower than antagonists (-0.26 versus 0.44, F1,377 = 22.18, p < 0.001). Also, protagonists score lower than good minor characters (-0.26 versus 0.01, F1,377 = 5.57, p = 0.019) and antagonists score higher than bad minor characters (0.44 versus -0.26, F1,377 = 7.33, p = 0.007). On Agreeableness, protagonists score [statistically-]significantly higher than antagonists (0.37 versus -1.15, F1,377 = 149.73, p < 0.001), and good minor characters score higher than bad minor characters (0.33 versus -0.25, F1,377 = 8.34, p = 0.004). Also, antagonists scored [statistically-]significantly lower on Agreeableness than bad minor characters (-1.15 versus -0.25, F1,377 = 5.57, p = 0.019). Follow-up tests also showed that valence had a [statistically-]significant main effect on Conscientiousness, Emotional Stability, and Openness to Experience. Good characters score [statistically-]significantly higher than bad characters on Conscientiousness (0.17 versus -0.29, F1,374 = 10.59, p = 0.001), Emotional Stability (0.17 versus -0.51, F1,374 = 22.10, p < 0.001); and Openness to Experience (0.17 versus -0.32, F1,374 = 11.88, p = 0.001). In real life, higher levels of Agreeableness, Conscientiousness, and Emotional Stability are generally considered to be desirable, so it is not surprising that good characters score higher than bad characters on these factors. However, Extraversion and Openness in real life are more desirable in some situations and less desirable in others. Why bad characters score higher on Extraversion and good characters, on Openness, is considered in the Discussion section.
+
+↩︎
+- 
+
+“Applied topology and Dante: an interview with Robert Ghrist”, John D. Cook 2010-09-13.↩︎
+- 
+
+“…But tragically, some of the world’s strangest movies will never be available on DVD at all. The TCM database estimates that only 4.8% of all films ever made are currently available to the public. Though the Internet has been invaluable in finding strange and forgotten relics, some films, whether through accident, disaster or perceived disinterest, have been lost or temporarily displaced.” –io9, “Weird and Wonderful Movies That You’ll Never Get to See”↩︎
+- 
+
+“Pandora’s digital box: Pix and pixels”, quoting Jan-Christopher Horak, Director, UCLA Film and Television Archive.↩︎
+- 
+
+Of course, one could argue that there is something uniquely optimal and special about the current existing level of movie production, such that this invisible 95% fall is acceptable but another 95% fall would be cataclysmic. I hope the reader understands that this is a deeply untrustworthy position to take (and they should read the Bostrom link on the ‘status quo bias’) - I’d parody this argument as “oh, that 95% fall is OK because it still leaves us a number of movies which is bigger than some-number-I-made-up-just-now-based-on-the-information-you’ve-provided-me; but another 95% fall, well, that’d just be madness!”↩︎
+- 
+
+This seems to go unrecognized sometimes in literary fields, with its close attention to the rare landmarks of literary history; Franco Moretti remarks in pg3–4 of Graphs, Maps, Trees: Abstract Models for a Literary History (200521ya):
+
+
+…what a minimal fraction of the literary field we all work on: a canon of two hundred novels, for instance, sounds very large for nineteenth-century Britain (and is much larger than the current one), but is still less than 1% of the novels that were actually published: twenty thousand, thirty, more, no one really knows - and close reading won’t help here, a novel a day every day of the year would take a century or so.
+
+↩︎
+- 
+
+See Everything Bad Is Good for You, and the author’s essay-summary “Watching TV Makes You Smarter”; see also the Flynn effect.↩︎
+- 
+
+‘total hours - sleeping hours’, or, 80 years × 365 days × 24 hours = 700,800; 700,800 - (1⁄3 × 700,800) = 467,200.↩︎
+- 
+
+“A Girl in a Library”, lines 32-29; The Seven-League Crutches↩︎
+- 
+
+“Vast bookstore opens as famed library runs out of space”, BBC News, 2010-10-06↩︎
+- 
+
+Their 2010 report is provisional about the 201016ya ISBNs, and so I exclude them. Over 2002–7200917ya, the number of ISBNs per year increased dramatically: 247777, 266322, 295523, 282500, 296352, 407646, 561580, 1335475, and 3092740. Nearly half the total came just from 200917ya! In a remarkable testament to the growth of electronic and print-on-demand publishers, Bowker estimates for 2010 that BiblioBazaar accounted for 1,461,918 ISBNs.↩︎
+- 
+
+Nor was this the extreme for that period. “Remember when you had to pay 50 bucks for a two-episode VHS tape from Japan, plus shipping? Or, shudder, a hundred dollars to import a LaserDisc for a two-episode OAV that turned out to be total garbage? Those were dark times, my friend.” (Anime News Network)↩︎
+- 
+
+Not unreasonable a figure, given how many albums and other works are released every year; from Oberholzer-Gee & Strumpf 201016ya:
+
+
+While album sales have generally fallen since 2000, the number of albums being created has exploded. In 2000, 35,516 albums were released. Seven years later, 79,695 albums (including 25,159 digital albums) were published (Nielsen SoundScan, 2008). Similar trends can be seen in other creative industries. For example, the worldwide number of feature films produced each year has increased from 3,807 in 2003 to 4,989 in 2007 (Screen Digest, 2004 and 2008). Countries where film piracy is rampant have typically increased production. This is true in South Korea (80 to 124), India (877 to 1164), and China (140 to 402). During this period, U.S. feature film production has increased from 459 feature films in 200323ya to 590 in 200719ya (MPAA, 200719ya).
+
+↩︎
+- 
+
+pg281 of Kevin Kelly’s What Technology Wants (201115ya).↩︎
+- 
+
+From his 2006 interview:
+
+
+As you can see from my comments that I’m addicted to writing, I love the idea of communicating ideas to other people. I think, in every case, the books that I’ve written were things where I had learned about some phenomenon that I thought was just too good to keep to myself and so I wanted other people to share in the joy of reading it. So it turns out then that I have more than 20 books in print now and that’s, you know, so many that I doubt that there’s anybody in the world who’s read more than half of them. And I sometimes think what tragedy it would be if there were ten people in the world like me because we wouldn’t have time to read each other’s books, you know, it doesn’t scale up.
+
+↩︎
+- 
+
+See also Robin Hanson’s brief essay. “The Myth Of Creativity: Innovation matters, but releasing your inner bohemian isn’t the answer”↩︎
+- 
+
+The Nation (1946-02-23); reprinted as “Bad Poets” in Poetry and the Age (195373ya)↩︎
+- 
+
+To take an obscure recent example; “Sleep Dealer Injects Sci-Fi Into Immigration Debate”, Wired, 2008-01-24:
+
+
+Sleep Dealer is remarkably topical for a film set in the future (albeit one described by Rivera as taking place “five minutes from now”). Central themes include outsourcing, corporate ownership of water, remote warfare, confessional internet diaries and military contractors who are accountable to no one. It’s the rare political film without any reference to contemporary politics; like Blade Runner and other big-brained sci-fi flicks, it’s about ideas, not selling merchandise. “I love gnomes and goblins and elves,” said Rivera, who’s made a name for himself touring museums and festivals with his award-winning shorts. “But what I’m really interested in is speculative fiction. I wanted to use this film to ask the question, ‘Where are we going?’”…That ironic juxtaposition started Rivera thinking: What if technology could extract the life force from the Mexican population and send it north?
+
+↩︎
+- 
+
+A loaded word, I admit. But fiction is fundamentally lies - stories about things that never were and never will be - and ‘convincing someone to do something they wouldn’t’ve based on lies or rhetoric for some ulterior purpose’ is as good a definition of ‘propaganda’ as I can think of.
+
+
+The nicer word is ‘inspiration’. (Although one person’s inspired man is another person’s inflamed zealot. Lenin was pretty inspired.) That this is one of the roles of SF has long been acknowledged by authors; Asimov in his 196363ya essay “The Sword of Achilles” isn’t clear about whether interest in SF causes scientific achievement or just predicts/correlates with it, but Neal Stephenson in 2011 no longer even feels the need to justify the theory:
+
+
+In early 201115ya, I participated in a conference called Future Tense, where I lamented the decline of the manned space program, then pivoted to energy, indicating that the real issue isn’t about rockets. It’s our far broader inability as a society to execute on the big stuff. I had, through some kind of blind luck, struck a nerve. The audience at Future Tense was more confident than I that science fiction [SF] had relevance - even utility - in addressing the problem. I heard two theories as to why:
+
+- 
+
+The Inspiration Theory. SF inspires people to choose science and engineering as careers. This much is undoubtedly true, and somewhat obvious….
+
+
+NASA seems to agree, sponsoring its own fiction collaborations, much as such an initiative bothers some people, and Neil Gaiman attributes such a belief to Chinese government officials:
+
+
+Fiction, however, “shows you that the world doesn’t have to be like the one that you live in. Which is an incredibly dangerous thing for the world.” He related a story about being at a science fiction convention in China in 200719ya and asking one of the government officials assigned to watch over the proceedings why China was now allowing such a convention. The official answered that while China has a worldwide reputation for being excellent at constructing things that others bring to them, China is not considered inventive or innovative. Through outreach to huge American tech companies like Google, Microsoft, and Apple, the Chinese government discovered that a lot of the individuals in those companies grew up reading science fiction. That, essentially, they were told at a young age that the world wasn’t static, that they could change it, that they could introduce new concepts and inventions. Thereafter, The Chinese government relaxed their control over science fiction stories, and those stories began immediately seeping in to their culture.
+
+
+William Gibson, in his usual contrarian mode, disdains this claim:
+
+
+INTERVIEWER: “Do you think fiction should be predictive?”
+
+
+GIBSON: “No, I don’t. Or not particularly. The record of futurism in science fiction is actually quite shabby, it seems to me. Used bookstores are full of visionary texts we’ve never heard of, usually for perfectly good reasons.”
+
+↩︎
+- 
+
+§41 (as quoted in “Narrowing the circle of thought (George Orwell)”)↩︎
+- 
+
+Robin Hanson has a number of good articles on how fiction can very easily mislead us, and that this may be a fundamental fact about the human brain (the ‘Near/Far’ psychology paradigm):
+
+- 
+
+“Biases of Science Fiction”
+- 
+
+“What Insight Literature?”
+- 
+
+“Disagreement is Near-Far Bias”
+- 
+
+“Beware Detached Detail”
+- 
+
+“BSG is Detached Detail”
+- 
+
+“Against Propaganda”
+
+
+It’s worth noting that one of the standard ‘jobs’ for prominent science-fiction authors is consulting and helping ‘visualize’ particular scenarios and futures for think-tanks and corporations and government agencies; David Brin has mentioned doing this on more than one occasion, and Karl Schroeder has a degree in that. From his “Science Fiction as Foresight” post:
+
+
+For about ten years now I’ve been periodically hired to write fictionalized versions of foresight findings. It works like this: mysterious government group A approaches me and tells me they’ve just spent six months researching the future of X (where X is something like “farm equipment” or “Alternatives To The Syringe”). What they’ve got is one or more scenarios, which are basically alternative plotlines for future events. They’d like me to turn these into actual stories, which I’m happy to do. (The most extreme example of this is the book Crisis in Zefra, which I wrote for the Canadian army back in 200521ya)…Curiously, when I write scenario fictions I’m not trying to generate new ideas of my own, but rather to represent the ideas that some set of futurists, subject experts, or public panels has already developed. This makes scenario fictions different than SF prototypes…Science fiction is more than just a genre of fiction. Hell, it’s more than just fiction. It’s a mode of thought; because our brains are hardwired and optimized to think in narratives, SF can be seen as a primary means by which we make sense of and plan for the future. By understanding how this process works, we have an opportunity to grow a new branch of SF parallel to but not replacing or displacing the traditional arm-a branch that’s rigorous and methodical and deliberately used to help solve real-world problems. In fact, that’s been happening for a while now (see Johnson’s book); I’m delighted to have found myself in a position to be able to help make it formally recognized.
+
+
+It’s worth noting that when it comes to anecdotal evidence (like stories) versus factual evidence (like statistics), statistics are preferred when they reinforce one’s current beliefs but anecdotes work better than statistics when the message contradicts one’s current beliefs (Slater & Rouner 1996). As one would expect, the less analytic one is, the more one weights random comments and anecdotes (Lee & Jang 2010); one wonders if heavy fiction consumers are more likely to be highly analytic or not… To the extent that statistics are vastly more trustworthy then pre-selected anecdotes of dubious veracity, this is a very troubling observation: if there must be an interaction with one’s beliefs, the opposite would be much preferable!↩︎
+- 
+
+Gilbert’s original results should be considered modified by Hasson et al 2005 & Richter et al 2009, which replicate the results but with limitations that may or may not render invalid any application to fictional works.↩︎
+- 
+
+Appel 200818ya offers some background:
+
+
+There are numerous anecdotes about pieces of fiction shifting people’s worldview. As Strange (200224ya) pointed out, Uncle Tom’s Cabin by Beecher Stowe (1853173ya/198145ya) seems to have changed many readers’ beliefs about equal rights. Its publication is even connected to the outbreak of the U.S. Civil War. Apart from the vast amounts of literature on the effects of aggressive media content and pornography, fiction has been widely neglected by mass communication researchers-clearly in contrast to the regularly ascribed impact on individuals and societies. Among approaches aimed at filling this gap, the idea of a “persuasion through fiction” has received the widest attention. A growing body of research has demonstrated profound persuasive effects shortly after recipients encounter fictional stories (Gerrig & Prentice, 199135ya; Green & Brock, 200026ya; Prentice, Gerrig, & Bailis, 199729ya; Strange & Leung, 199927ya; Wheeler, Green, & Brock, 199927ya) and an even higher impact after a 2-week delay (Appel & Richter, 200719ya). People who read about a fictional character who quit school because of personal problems tend to attribute school dropouts to individual circumstances in the real world as well (Strange & Leung, 199927ya), whereas people who read about someone who thinks that wearing a seat belt is unsafe are less convinced about wearing seat belts themselves, and so forth (eg. Appel & Richter, 200719ya; Prentice et al 199729ya). Recipients seem to learn whatever “facts” fictional narratives teach them.
+
+
+…Newsmakers and other producers of nonfictional television content may be tempted to produce just worlds because viewers appreciate “good news” (Schmitt & Maes, 200620ya; Zillmann, Taylor, & Lewis, 199828ya), but content analyses point in a different direction. Research indicates that nonfictional programming contains a lot of immoral, antisocial behavior that has no negative consequences. In a majority of cases, those immoral acts have no consequences at all and sometimes even positive ones (Potter, Warren, Vaughan, Howley, Land, & Hagemeyer, 199729ya; Stone, Hartung, & Jensen, 198739ya). Potter et al. stated that the low rates for punishment of antisocial acts in nonfictional programming correspond to the lack of punishment in the real world (as represented in criminology statistics). But in contrast to real-world statistics, people do believe that antisocial acts have serious consequences (as, eg. indicated by people’s evaluations of police records). Because nonfictional television as well as real-life statistics cannot account for this widespread belief in fair consequences, it may be the entertaining fare of fictional narratives that cultivate just-world beliefs…A big part of (early) studies related the BJW to the evaluation of victims of undesirable incidents, like rape, accidents, cancer, or HIV infection. People high in the BJW tend to look down on victims and attribute the reasons for their misfortunes to the victims themselves (cf. Montada, 199828ya). People high in the BJW have the positive illusion (cf. Lerner, 198046ya) that social situations are under one’s own control or that they are at least predictable (Lipkus, Dalbert, & Siegler, 199630ya).
+
+
+…It has been shown in the United States that reality-based crime shows (like Cops, L.A.P.D.) are related to fear in the audience (Dowler, 200323ya; Oliver & Armstrong, 199531ya). Until recently, this kind of programming has not been available in major German language television stations. Concerning genre-based cultivation processes, interviews with German adolescents imply that the tabloid television news (Boulevardmagazine), which may be labeled as infotainment (containing a mixture of celebrity gossip, animal stories, and crime news), cultivate a mean- and scary-world view (Eggert, 200125ya).
+
+
+In another example, the meta-analysis Winterbottom et al 2008 found that medical narratives (especially in the first-person) influenced decisions more than the truer statistical information.↩︎
+- 
+
+Which, ironically, can lead to perceiving real people as fake! And also less relevant to one’s life than the fakes, oddly enough. One odd study I found was on how superheros influence body perception; men liking Batman or Spider-Man apparently makes them feel stronger and more manlier even though the superheros are so much more fit & muscular, and similarly for women & models.↩︎
+- 
+
+Introduction to The Incarnation of the Word of God↩︎
+- 
+
+“Religion and Literature” 1935, from Selected Prose of T.S. Eliot ed Kermode 197551ya, pg97–106↩︎
+- 
+
+On the other hand, Switzerland is, adjusted for size, one of the most scientifically prolific countries in the world. Albert Einstein was a Swiss citizen, incidentally.↩︎
+- 
+
+And while the situation has gotten better since C.P. Snow’s day, can we really say there’s so much cross-fertilization as to prove this externality, or prove it of sufficient magnitude?↩︎
+- 
+
+See “Which universities lead and lag? Toward university rankings based on scholarly output”, Ramage 201016ya.↩︎
+- 
+
+Various disciplines have many papers and essays arguing that researchers deliberately inflate their paper counts to meet publishing requirements, pursue unproductive but publishable avenues, and are so lacking in rigor that many (or even most) results are wrong - so it would be difficult to offer any citations for such a broad claim. Mencius Moldbug has written a meandering & funny essay/blog post about what is wrong with the field of computer science, however, that conveys this general vein of thought.↩︎
+- 
+
+ One way of trying to measure productivity per researcher is to examine what experts/researchers in that area consider worth mentioning. Charles Murray examines encyclopedias and biographical dictionaries up to 195076ya in Human Accomplishment and finds, once one corrects for the explosive growth of the human population in recent centuries and the even more explosive growth in urbanized educated people, a decline.
+
+
+Less historically, one can simply look at how many published peer-reviewed papers go uncited for 5 years. If a paper is not cited once in that period, even just as part of a review, then one begins to wonder whether it is a good paper; and if a field publishes a lot of such papers, one begins to wonder about that field’s researchers. There are many interesting statistics in this vein. From “The Rise and Fall of Uncitedness”, by Charles A. Schwartz:
+
+
+…55% of scientific articles do not receive a single citation within five years of publication. A few weeks later, another report in Science by the same research body, the Institute for Scientific Information (ISI), noted still higher rates of uncitedness for the social sciences (75%) and humanities (92%)….Among the new findings eventually produced, but not published, was the rate of uncitedness in library and information science (LIS). This rate turned out to be 72%…The popular press treated this issue with cavalier remarks, such as one attributed to a professor: “If the bottom 80% of the literature just vanished, I doubt if the scientific enterprise would suffer.”’…Against ISI’s initial 55% uncitedness rate for the physical sciences, one study found a 5% rate for astronomy and an 8% rate for physics. And against ISI’s initial 75% uncitedness rate for the social sciences, another study found a 9% rate for sociology.
+
+
+There are quite a range of uncited estimates; to give just some ranges that particularly struck me, even after making allowance for all the possible confounding factors:
+
+- 
+
+physical sciences: 55-14%
+
+- 
+
+72-34% engineering
+- 
+
+55-26% math
+- 
+
+chemistry: 28% (nuclear chemistry 17%; applied chemistries: 78%)
+
+- 
+
+social: 75-48%
+
+- 
+
+international relations 83-53%
+- 
+
+political science 90-58%
+
+- 
+
+humanities: 98-93%
+
+- 
+
+theater, American literature, architecture 99-95%
+- 
+
+religious studies 98-93%
+
+
+Mark Bauerlein’s 2011 report found that:
+
+
+Once those books and essays are published, the vast majority of them attract scant attention from other scholars - for example, of 16 research articles published by University of Vermont professors in 200422ya, 11 of them received 0-2 citations, three received 3-6 citations, one received seven citations, and one 11….Of 13 research articles published by current SUNY-Buffalo professors in 200422ya, 11 of them received zero to two citations, one had five, one 12. Of 23 articles by Georgia professors in 200422ya, 16 received zero to two citations, four of them three to six, one eight, one 11, and one 16….A 200026ya book on Gerard Manley Hopkins collected four citations in eight relevant books on the poet published 2007–201016ya. A 200323ya book on Thomas Hardy garnered one citation in 16 relevant books published 2007–201016ya. Of eight books published by Vermont professors 2002–200521ya, four of them received zero to 10 citations in subsequent essays, and four received 11 to 20 (four of the top five were studies in film). There are, of course, some breakout items. One book by an Illinois professor collected 82 citations in essays, another one 57.
+
+
+Some further reading:
+
+- 
+
+Van Dalen & Klamer 200521ya, “Is Science A Case of Wasteful Competition?”
+- 
+
+Redner 199828ya, “How popular is your paper? An empirical study of the citation distribution”
+- 
+
+Klamer et al 200224ya, “Attention and the art of scientific publishing”
+- 
+
+Mansilla et al 200719ya, “On the behavior of journal impact factor rank-order distribution”
+
+
+“The Prestige Chase Is Raising College Costs”, Frank 201214ya:
+
+
+Researchers have responded as expected to these incentives. But the additional papers they’ve written have added little value. The economist Philip Cook and I found [The Winner-Take-All Society: Why the Few at the Top Get So Much More Than the Rest of Us, Frank & Cook 199630ya], for example, that in the first five years after publication, many fewer than half of all papers in the two most selective economics journals had ever been cited by other scholars.
+
+
+It doesn’t seem likely to improve, as institutions continue to allocate tenure and funding based on metrics like impact factor. From “We Must Stop the Avalanche of Low-Quality Research”, The Chronicle of Higher Education:
+
+
+Consider this tally from Science two decades ago: Only 45% of the articles published in the 4,500 top scientific journals were cited within the first five years after publication. In recent years, the figure seems to have dropped further. In a 200917ya article in Online Information Review, Péter Jacsó found that 40.6% of the articles published in the top science and social-science journals (the figures do not include the humanities) were cited in the period 200224ya to 200620ya.
+
+
+Business analysts make the same point (“Reed Elsevier: A Short History of Two Days in July (and Why Investors Should Care)”, Aspesi et al 201214ya; BernsteinResearch):
+
+
+In the past we could not understand why Reed Elsevier opposed OA so much. After all, why not just charge an adequate APC and do without the aggravation of antagonizing librarians and the academic community? We believe we made a major mistake: we treated all journals as equal, while they are not. Exhibit 5 and Exhibit 6 explain what we think is the real underlying issue for the industry (and for Elsevier) - a lot of the articles published are not very relevant. The two exhibits show the readership of articles in life sciences and chemistry, respectively, at 10 UK universities; the top 20-25% of journals account for 75-90% of the readership and the top 50% for about 95%. Conversations with academic librarians suggest they see similar data elsewhere. In other words, half of the articles which are published today are largely ignored by the scientific community, even if the libraries acquire (and pay) them.
+
+
+Does Elsevier do any better than this? Of course only the company itself, looking at internal data, can know the precise answer. There is, however, evidence that Elsevier is not [substantially] better off. New Mexico State University made available the readership data for two big deals it had discontinued, which included Elsevier (Exhibit 7). The curve looks very similar to that of the UK universities we saw earlier: 10% of journals from major publishers had been accessed at least once a week in the previous year, while more than two thirds had been accessed less than once a month.
+
+
+To be fair, low readership numbers may be a function of the number of faculty, researchers and doctoral candidates working in a specific discipline. But NMSU, when it went through a second round of titles cutting earlier in 201214ya (which did not involve Elsevier titles, since they had been culled in 201016ya), involved the faculty to make sure it would not cancel titles of high value to small community. In its information release10, the library noted that the faculty asked to protect only 5% of the low readership titles: “In May 2012 the Library announced that it would be cancelling 276 journal titles to meet its target amount of $200,000. University faculty contested the cancellation of 14 of the 276 titles, noting the high research value of each. Due to the generosity of the University Administration, the Library has reduced its cancellation list to 261 titles for a total cancellation amount of $167,935. These 261 journal titles show low use (10 or fewer uses), or no use, or cost $100 or more per use”.
+
+↩︎
+- 
+
+Nor are papers/articles the only scholarly productions which have extremely small audiences; conferences and monographs do not draw very many participants. From “University Presses: Balancing Academic and Market Values”, Mary M. Case; ARL: A Bimonthly Report no. 193 (August 199729ya):
+
+
+Since libraries are the main market for scholarly monographs, the decline in the number of books purchased triggered university presses to reduce print runs. While print-runs of 1,000 to 1,500 copies were standard ten years ago, presses are now confronting sales of 400-500 copies. While sales do vary across disciplines and sub-disciplines, these low numbers hold true for even award-winning books in the less ‘popular’ fields.
+
+
+“Reflections on University Press Publishing”, Bill Harnum:
+
+
+The numbers are hard to quantify, given the wide variety of subject areas involved, but a fair estimate would be that the average sale of a scholarly monograph has shrunk from 600-700 copies in the 1980s to 300-400 copies in 200719ya. This reduction in sales units has led some publishers to increase their number of titles published annually as a means of maintaining their revenues. The phrase, “Flat is the new up” seems to be in vogue, meaning that no sales increase from year to year is the equivalent of the increases we have seen in the past.
+
+
+Alex Reid, “On the value of academic blogging”:
+
+
+In my experience, the average audience for a conference presentation is <20.
+
+↩︎
+- 
+
+How much economic growth since the Middle Ages has been due to science & technology, and not solely increased population & resource exploitation? Most of the growth…↩︎
+- 
+
+Charles Murray comments, “One of the greatest of Euripides’s surviving works, The Trojan Women, won only second prize in a contemporary competition. We know nothing about the play that came in first.” (pg277, Human Accomplishment)↩︎
+- 
+
+Links as in original.↩︎
+- 
+
+He is not the only one diagnosing this slowdown; see composer Glenn Branca’s “The Score: The End of Music” for another lament.↩︎
+- 
+
+“Is the internet stifling new music?”, 2009-11-09, BBC News↩︎
+- 
+
+One-time, of course. It’s hard to imagine what an on-going cost for in-progress works might be. People dreaming up possible series and being unhappy that they won’t be written? But we hardly are concerned by ‘ten thousand freaks that died in thinking’.↩︎
+- 
+
+From the distance of centuries, everything written in the 1600s sounds equally 1600-ish. But there is more intra-group variation in the books of the ‘50s and ’90s then there is inter-group variation. A book from the 1950s can easily date itself, but it’ll be usually through allusions and ideologies, and not the actual words. (Large-scale culturomics studies like Hughes et al 2012 can offer insight on how much writers’ language changes over time and whether it is changing faster or slower, but such studies don’t tell us whether the changes actually matter to enjoyment or whether the changes are real yet irrelevant to our pleasure - a distinction of effect size versus statistical-significance.)↩︎
+- 
+
+Professional sports and Olympic sports routinely break world records as they develop ever more effective training & teaching methods, and scour the populace for people capable of historic performance; chess has followed a similar trajectory with Magnus Carlsen becoming a grandmaster at age 13 & peaking - for now - just below his not-too-distant predecessor (and greatest chess player in history), Garry Kasparov. The Dominican Republic is vastly overrepresented in baseball, demonstrating that there is tremendous latent reserves of world-class baseball players in even tiny populations.
+
+
+Baseball statistician & writer Bill James says in an excerpt from his book Solid Fool’s Gold: Detours on the Way to Conventional Wisdom:
+
+
+I believe that there is a Shakespeare in Topeka today, that there is a Ben Jonson, that there is a Marlowe and a Bacon, most likely, but that we are unlikely ever to know who these people are because our society does not encourage excellence in literature. That’s my opinion. This observation is nowhere near as gloomy as it might seem. Our society is very, very good at developing certain types of skills and certain types of genius. We are fantastically good at identifying and developing athletic skills - better than we are, really, at almost anything else. We are quite good at developing and rewarding inventiveness. We are pretty good at developing the skills necessary to run a small business - a fast food restaurant, for example. We’re really, really good at teaching people how to drive automobiles and how to find a coffee shop.
+
+
+We are not so good at developing great writers, it is true, but why is this? It is simply because we don’t need them. We still have Shakespeare. We still have Thomas Hardy and Charles Dickens and Robert Louis Stevenson; their books are still around. We don’t genuinely need more literary geniuses. One can only read so many books in a lifetime. We need new athletes all the time because we need new games every day - fudging just a little on the definition of the word need. We like to have new games every day, and, if we are to have a constant and endless flow of games, we need a constant flow of athletes. We have gotten to be very, very good at developing the same.
+
+
+…The average city the size of Topeka produces a major league player every 10 or 15 years. If we did the same things for young writers, every city would produce a Shakespeare or a Dickens or at least a Graham Greene every 10 or 15 years. Instead, we tell the young writers that they should work on their craft for 20 or 25 years, get to be really, really good - among the best in the world - and then we’ll give them a little bit of recognition.
+
+↩︎
+- 
+
+“Story Spoilers Don’t Spoil Stories” (Psychological Science 201115ya)↩︎
+- 
+
+“Why does attention to web articles fall with time?”, Simkin & Roychowdhury 201214ya:
+
+
+We analyze access statistics for a few dozen blog entries for a period of several years. Access rate falls as an inverse power of time passed since publication. The power law holds for periods up to thousand days. The exponents are different for different blogs and are distributed between 1 and 3. Decay of attention to aging web articles has been reported before and two explanations were proposed. One explanation introduced some decaying with time novelty factor. Another used some intricate theory of human dynamics. We argue that the decay of attention to a web article is simply caused by the link to it first dropping down the list of links on the website’s front page, disappearing from the front page and subsequent movement further into background.
+
+
+…The probability of following a link depends not only on its position in the list, but also on how attractive is its description. The attractiveness factor is constant and does not vary from day to day. Naturally, it influences only a prefactor and not the power law exponent. At different times, Reality Carnival linked to two webpages from reverent.org. One can see from Figure 2(a) that the prefactors differ 1.5 times, but exponents are the same within 2%. Similar pattern holds for three other blogs shown in Fig. 2.
+
+↩︎
+- 
+
+[“Why You Like to Watch the Same Thing Over and Over and Over Again: Reruns spark contemplation about personal growth”], Scientific American:
+
+
+The responses suggested that sometimes choosing to do something again was about reaching for a sure thing-the brain knows the exact kind of reward that it will receive in the end, whether it is laughter, excitement or relaxation. They also learned that people gained insight into themselves and their own growth by going back for a do-over, subconsciously using the rerun or old book as a measuring stick for how their own lives had changed. One woman, for example, rewatched the romantic Kevin Costner movie Message in a Bottle more than once: “It was helping her work through having an engagement that hadn’t worked out,” Russell says. Every time she watched that movie, it reminded her of her own failed relationship-and her reactions helped her see she was getting over it. “I was very surprised,” Russell says. “I thought that people reconsumed these things for nostalgia, to go back to the past. But they were actually very forward-looking and prospective.” What about the boredom factor, you might ask? There was none to speak of. After all, Russell says, paraphrasing Greek philosopher Heraclitus: You never cross the same river twice-it’s not the same river, and it’s not the same you.
+
+↩︎
+- 
+
+“Mere Exposure to Bad Art: Experiment Results”, Margaret Moore↩︎
+- 
+
+The same post summarizes the experiment Moore et al ran:
+
+
+We replicated Cutting’s study exposing subjects to 12 little-known late landscapes of John Everett Millais, alongside 48 paintings by the American artist Thomas Kinkade, (again, half of each group of paintings were exposed four times as often). We asked control groups[1] and the experimental group to express the extent to which they liked each painting using a 10 point Likert scale. We found that with bad paintings by Kinkade, exposure decreased, rather than increased, liking in relation to our control groups.
+
+
+…The experiment subjects had been exposed to all 60 paintings in the study at least once. In light of this, we distinguished between those paintings to which that group had been exposed once versus those to which they had been exposed multiple times. That is, we compiled results for four groups of paintings: Millais (single exposure); Millais (multiple exposure); Kinkade (single exposure); and Kinkade (multiple exposure). Comparing the ratings given by our experimental subjects to those given by the members of our philosophy control group, we observed almost uniformly lower ratings for the Kinkade paintings. 47 out of 48 Kinkades received lower mean liking scores from the experimental subjects than they received from those in the unexposed control group. This resulted in mean scores of 5.9 (control) versus 5.1 (experiment) for the single exposure Kinkade paintings, and mean scores of 5.74 (control) versus 4.75 (experiment) for the multiple exposure Kinkades.
+
+↩︎
+- 
+
+I qualify it because the claim comes from a professor based on informal testing of his students, and the one published study I know of, by Sean Olive, did not reproduce the finding, plausible as it seems.↩︎
+- 
+
+“Pandora’s digital box: From films to files”, David Bordwell
+
+
+…This raises the fascinating question of changing perceptual frames of reference. My friend knew the film [Night of the Living Dead] very well, and he’d watched it many times on VHS. Did he somehow see the 16 screening as just a bigger tape replay? Did none of its superiority register? Maybe not. 1915–101925101ya, Thomas Edison demonstrated his Diamond Disc Phonograph by inviting audiences to compare live performances with recordings. His publicists came up with the celebrated Tone Tests. A singer on stage would stand by while the disc began to play. Abruptly the disc would be turned down and the singer would continue without missing a note. Then the singer would stop and the disc, now turned up, would pick up the thread of melody. Greg Milner writes of the first demonstration:
+
+
+The record continued playing, with [the contralto Christine] Miller onstage dipping in and out of it like a DJ. The audience cheered every time she stopped moving her lips and let the record sing for her.
+
+
+At one point the lights went out, but the music continued. The audience could not tell when Miller stopped and the playback started. The Tone Tests toured the world. According the publicity machine run by the Wizard of Menlo Park, millions of people witnessed them and no one could unerringly distinguish the performers from their recording. Edison’s sound recording was acoustic, not electrical, and so it sounds hopelessly unrealistic to us today. (You can sample some tunes here.) And there’s some evidence, as Milner points out, that singers learned to imitate the squeezed quality of the recordings. But if the audiences were fairly regularly fooled, it suggests that our sense of what sounds, or looks, right, is both untrustworthy and changeable over history.
+
+↩︎
+- 
+
+“Human cortical activity evoked by the assignment of authenticity when viewing works of art”; Jonah Lehrer’s summary:
+
+
+Many of these variables are capable of distorting our perceptions, so that we imagine differences that don’t actually exist; the verdict of art history warps what we see. The power of a Rembrandt, in other words, is inseparable from the fact that it’s a Rembrandt. The man is a potent brand. To test these competing hypotheses, a team of researchers at Oxford University, including Mengfei Huang, Holly Bridge, Martin Kemp and Andrew Parker, set up a simple experiment. They recruited 14 volunteers who were familiar with Rembrandt but had no formal training in art history. The subjects were then put into an fMRI machine and given the following instructions:
+
+
+In this experiment you will see a sequence of 50 Rembrandt paintings. Before each image appears, an audio prompt will announce whether the upcoming painting is ‘authentic’ or a ‘copy’ (Please see background for further information on copies). A blank screen will appear for a few seconds after each image to allow you to relax your gaze.
+
+
+…The mischievous scientists reversed the attribution of the paintings, so that half of the subjects were told that the real Rembrandts were actually copies…That said, it’s not exactly surprising that such similar paintings would elicit virtually identical sensory responses. It takes years of training before critics can reliably discern real Rembrandt from copies. And even then there is often extensive disagreement, as the 199531ya Metropolitan show demonstrates. However, the scientists did locate a pattern of activity that appeared whenever a painting was deemed to be authentic, regardless of whether or not it was actually “real.” In such instances, subjects showed a spike in activity in the orbitofrontal cortex, a chunk of brain just behind the eyes that is often associated with perceptions of reward, pleasure and monetary gain. (According to the scientists, this activation reflects “the increase in the perceived value of the artwork.”) Interestingly, there was no difference in orbitofrontal response when the stamp of authenticity was applied to a fake Rembrandt, as the brain area responded just as robustly. The quality of art seemed to be irrelevant. The last meaningful result from the fMRI experiment came when the subjects stared at the inauthentic portraits. It turns out that these fake Rembrandts generated the strongest activations, both in the frontopolar cortex and precuneus. The scientists explain this activation in terms of working memory, as the people were actively trying to “detect the flaws in the presented image.” Because the portraits looked like real Rembrandts - and in many instances were - the subjects were forced to search for visual blemishes to justify the negative verdict, analyzing the paintings for flaws and mistakes that Rembrandt would never make. All of this mental analysis requires frontal lobe activity; being a critic is hard work. Here is Parker, summarizing the results:
+
+
+Our findings support the idea that when people make aesthetic judgements, they are subject to a variety of influences. Not all of these are immediately articulated. Indeed, some may be inaccessible to direct introspection but their presence might be revealed by brain imaging. It suggests that different regions of the brain interact together when a complex judgment is formed, rather than there being a single area of the brain that deals with aesthetic judgements.
+
+
+↩︎
+- 
+
+This sort of paradox is why exponential discounting is almost universally considered a more rational discounting scheme, and indeed, places where outcomes really matter and competition is brutal, like finance, use exponential discounting. But it doesn’t come easy; it can take financial penalties and rewards to force people to adopt more exponential schemes.↩︎
+- 
+
+“A Neural Predictor of Cultural Popularity”, abstract:
+
+
+How can we predict popularity? Although superficially a trivial question, the desire for popularity consumes a great portion of the lives of many youths and adults. Being popular is a marker for social status, and consequently, would seem to confer a reproductive advantage in the evolution of the human species, thus explaining the importance of popularity to humans. Such importance extends to economic success as well because goods and services that are popular command higher prices. Here, we are interested in predicting cultural popularity - something that is popular in the broadest sense and appeals to a large number of individuals. Neuroeconomic research suggests that activity in reward-related regions of the brain, notably the orbitofrontal cortex and ventral striatum 1-4, is predictive of future purchasing decisions, but it is unknown whether the neural signals of a small group of individuals are predictive of the purchasing decisions of the population at large. For neuroimaging to be useful as a measure of widespread popularity, these neural responses would have to generalize to a much larger population that is not the direct subject of the brain imaging itself. Moreover, to be useful as a predictor, such a test would need to be done prospectively. Here, we test the possibility of using functional magnetic resonance imaging (fMRI) to predict the relative popularity of a common good: music. We used fMRI to measure the brain responses of a focus group of adolescents while listening to songs of relatively unknown artists 5. As a measure of popularity, the sales of these songs were totaled for the three years follow ing scanning, and brain responses were then correlated with these “future” earnings. Although subjective likability of the songs was not predictive of sales, activity within the ventral striatum was [statistically-]significantly correlated with the number of units sold. These results suggest that the neural responses to goods are not only predictive of purchase decisions for those individuals actually scanned, but such responses generalize to the population at large and may be used to predict cultural popularity.
+
+↩︎
+- 
+
+De Divinatione, bk. 2, sct. 58↩︎
+- 
+
+Given that this is all common knowledge, any advantage to musical instruments in college admissions would constitute a kind of inefficiency (see also Goodhart’s law); hence it does not surprise me to read observations to that effect (even if they are only pseudonymous online anecdotes):
+
+
+When I was an admissions office for a short time, my advice to Asian applicants looking to be noticed was to go to clown school, perform as a semi-professional magician, or even excel at sports. Violin, cello, piano, essays about translating for your immigrant parents, computers, math, science…all that stuff blends together after awhile and makes it hard for an admissions office to remember you when sitting around the table voting on applicants…This is pretty close to how we did things at Princeton. You can only admit so many violin playing science hopefuls. –brandnewlow
+
+
+Full disclaimer: I’m a sophomore at Yale, my adviser last year was an admissions officer, and a friend of mine works in the admissions…There is no EXPLICIT comparison of Asians to Asians. Nobody looks at your application and says “Oh, another Asian, let me turn on my Asian scale!” What happens, subconsciously, is that the stereotypical Asian profile is “high scoring, high GPA, piano/violin, tennis, math/science.” So a lot of qualified Asians get rejected because their admission officer can’t find enough good arguments for them. Regardless of how qualified you are individually, Yale is trying to build a diverse class, so if you do the same thing as 1000 other candidates, it’s very hard to vouch for you. “What do you bring to the campus that this other kid doesn’t?” , and that’s the end of it. –BlackJack
+
+↩︎
+- 
+
+Mental disorders like post-traumatic stress disorder and suicide, perhaps the ultimate indicator of unhappiness, are increasingly common in former American soldiers thanks to the perpetual War on Terror:
+
+- 
+
+From 1999–5200422ya, 70,000 new veterans received the highest level PTSD benefits, for 216,000 diagnosed PTSD cases in total; “17% of troops returning from duty in Iraq met the strict screening criteria for mental problems such as PTSD” (which is still better than 30% in Vietnam, but worse than 10% in WWII)
+- 
+
+A 2007 study found a 12% PTSD rate for the Iraq & Afghanistan theaters (>1.8m Americans deployed)
+- 
+
+162 active-duty soldiers committed suicide in 200917ya (with 101 drug deaths 2006–200917ya, some of which may be suicides); estimates of PTSD now start at 300,000
+- 
+
+2009 and 201016ya active-duty suicides exceeded combat deaths in Iraq and Afghanistan
+- 
+
+the VA deals with 950 suicide attempts as of April 201016ya, See also the RAND study “The War Within: Preventing Suicide in the U.S. Military” which covers the 50% rise in suicide rates 2001–7200818ya, and tactics like Battle buddy.
+
+
+With all that in mind, it is interesting to consider the positives and negatives of being a military brat.↩︎
+- 
+
+Steve Sailer retells one of many jokes expressing this observation:
+
+
+“I can’t get a date, Doc,” the new patient griped to his psychiatrist. “See, I sweep up the circus elephants’ droppings and can never wash the stench off me.”
+
+
+“Perhaps you should get a different job.”
+
+
+“What, and quit show business?”
+
+↩︎
+- 
+
+“Virtuosos Becoming a Dime a Dozen”, Anthony Tommasini, New York Times; besides inadvertently making the point that we truly do not need more pianists, Tommasini also adds some fodder to the notion that this is not just an East Asian or Asian-American arms race but includes Europe and Russia as well:
+
+
+Ms. Wang’s virtuosity is stunning. But is that so unusual these days? Not really. That a young pianist has come along who can seemingly play anything, and easily, is not the big deal it would have been a short time ago. The overall level of technical proficiency in instrumental playing, especially on the piano, has increased steadily over time. Many piano teachers, critics and commentators have noted the phenomenon, which is not unlike what happens in sports…Something similar has long been occurring with pianists. And in the last decade or so the growth of technical proficiency has seemed exponential. Yes, Ms. Wang, who will make her New York recital debut at Carnegie Hall in October, can play anything. But in China alone, in recent years, there have been Lang Lang and Yundi Li. Russia has given us Kirill Gerstein, born in 197947ya, the latest recipient of the distinguished Gilmore Artist Award
+
+
+…Because so many pianists are so good, many concertgoers have simply come to expect that any soloist playing the Tchaikovsky First Concerto with the New York Philharmonic will be a phenomenal technician. A new level of technical excellence is expected of emerging pianists. I see it not just on the concert circuit but also at conservatories and colleges. In recent years, at recitals and chamber music programs at the Juilliard School and elsewhere, particularly with contemporary-music ensembles, I have repeatedly been struck by the sheer level of instrumental expertise that seems a given. …The first several decades of the 20th century are considered a golden era by many piano buffs, a time when artistic imagination and musical richness were valued more than technical perfection. There were certainly pianists during that period who had exquisite, impressive technique, like Josef Lhevinne and Rachmaninoff himself. And white-hot virtuosos like the young Vladimir Horowitz wowed the public. But audiences and critics tolerated a lot of playing that would be considered sloppy today. Listen to 1920s and ’30s recordings of the pianist Alfred Cortot, immensely respected in his day. He would probably not be admitted to Juilliard now. Despite the refinement and élan in his playing, his recording of Chopin’s 24 études from the early 1930s is, by today’s standards, littered with clinkers.
+
+
+…I would place essential artists today like Richard Goode, Mitsuko Uchida and Andras Schiff among the group with all the technique they need. Among younger pianists, this club would include Jonathan Biss, a sensitive, musically scrupulous player; and one of my new favorites, the young Israeli David Greilsammer, who played an inspiring program at the Walter Reade Theater last year in which he made connections among composers from Monteverdi to John Adams, with stops at Rameau, Janacek, Ligeti and more. He may not be a supervirtuoso. But I find his elegant artistry and pianism more gratifying than the hyperexpressive virtuosity of Lang Lang, whose astonishing technique I certainly salute. Besides, the group of play-anything pianists, of which Mr. Lang is a leader, is getting pretty big. Among them you would have to include Garrick Ohlsson, who not only plays with resourceful mastery but seems to play everything, including all the works of Chopin. I would include Leif Ove Andsnes, an artist I revere, who does not call attention to himself but plays with exquisite technique and vibrant musicality. This list goes on. Martha Argerich can be a wild woman at the piano, but who cares? She has stupefying technique and arresting musical ideas. I would add Krystian Zimerman, Marc-André Hamelin and probably Jean-Yves Thibaudet to this roster. There are others, both older and younger pianists….After Mr. Kissin’s Liszt Sonata a piano enthusiast sitting near me asked, “Have you ever heard the piece played so magnificently?” I said that the performance was indeed amazing, but that actually, yes, I had heard a comparably magnificent performance on the same stage a few months earlier during a recital by Stephen Hough. Mr. Hough’s playing was just as prodigious technically, and I found his conception more engrossing. He reconciled the episodic sections of this teeming work into an awesome entity. Mr. Hough is another pianist who can play anything. Join the club.
+
+↩︎
+- 
+
+A Higurashi ‘doujin opera’ (homepage) was performed, to apparently good reviews, although I can’t evaluate the recorded scene online myself, not being an opera person.↩︎
+- 
+
+This is a general assertion that is fairly hard to prove, but an example may be suggestive. The Touhou doujinshi-game phenomenon has a fair amount of music, but to get a sense of the true scale, we can look at some numbers. From the talk “Riding on Fans’ Energy: Touhou, Fan Culture, and Grassroot Entertainment” (Barcamp Bangkok 2 on August 31, 200818ya):
+
+
+Touhou is ZUN’s work as much as it is a gigantic repertoire of fan-made manga, games, music, and video clips. I estimate that there are roughly at least three thousands short manga, five hundred music rearrangement albums, and one hundred derivative games created since 200323ya. These works are traded mainly in conventions dedicated to them, and some commercial firms are starting to capitalize on their popularity. Doujinshi shops like Tora no Ana and Mandarake have shelves dedicate to Touhou comics. And Amazon.co.jp are carrying CDs of arranged/sampled Touhou music (but not ZUN’s originals). More and more people are attracted to the franchise because its diverse derivative works provide a variety of entry points for potential fans. In fact, Touhou’s popularity skyrocketed when it became one of the killer content of Nico Nico Douga, a Japanese equivalent of YouTube launched one year and a half earlier. There, Touhou content spread like wild fire and gave rise to many recurring memes and tens of thousands of mashup videos. To give a sense of how popular Touhou is in Nico Nico Douga, 18 of 100 most viewed videos are Touhou-related, and the best Touhou video ranks the 6th. [5]
+
+
+For a recent estimate, we can turn to TV Tropes’s article on Touhou music:
+
+
+The Touhou Project really gets a lot of great pieces of music for [the music] being [originally] made up by a single guy with a synthesizer. To put the sheer number of remix CDs in perspective, there is a torrent with over 870.4 gigabytes of over 3000 Touhou remixes, and that only includes the ones that the (English-speaking) maintainers of the torrent have added.
+
+
+(This is outdated; the October 201115ya lossless torrent is 1,020 gigabytes. Personally, I enjoy the orchestral pieces like the WAVE group’s Luna Forest (第七楽章).)↩︎
+- 
+
+On the dollar figures, see Mangione (197254ya, p. 369). Mangione, Jerre. 197254ya. The Dream and the Deal: The Federal Writer’s Project, 1935–8194383ya. Boston: Little, Brown and Company On the seen and the unseen, see Bastiat (1850176ya). Bastiat, Frédéric. 1850176ya. Essays on Political Economy. London: A. W. Bennett↩︎
+- 
+
+See Johnson (199729ya, p. 9); the data refer to 199531ya. Johnson, Arthur T. 199729ya. Symphony Orchestras and Local Governments. Working paper, Maryland Institute for Policy Analysis and Research, University of Maryland Baltimore County. On foundations, see Dowie (200125ya, p. 169). Dowie, Mark. 200125ya. American Foundations: An Investigative History. Cambridge, Massachusetts: MIT Press↩︎
+- 
+
+See Giving USA (200323ya, pp. 195-97). On the French comparison, see Archambault (199729ya, p. 208). Archambault, Edith. 199729ya. The Nonprofit Sector in France [and “Historical Roots of the Nonprofit Sector in France”, Archambault 200125ya]. Manchester, England: Manchester University Press.↩︎
+- 
+
+See Clotfelter (198541ya, chap. 2, and p. 274). Clotfelter, Charles T. 198541ya. Federal Tax Policy and Charitable Giving. Chicago: University of Chicago Press.↩︎
+- 
+
+Some provisions of the tax law have hurt artists. This includes the taxation of fellowship awards and unemployment compensation (both instituted in 198640ya), disallowance of income averaging (which had helped artists with volatile incomes), and the 198640ya restrictions on in-kind deductions for artworks given to museums. But for the most part the American tax system subsidizes the arts.↩︎
+- 
+
+See Frey and Pommerehne (198937ya, p. 43) Frey, Bruno S., and Werner W. Pommerehne. 198937ya. Muses and Markets: Explorations in the Economics of the Arts. Cambridge, Massachusetts: Basil Blackwell. and on England, see Clotfelter (198541ya, pp. 96-97). Schuster (198937ya, p. 33) catalogs some of the tax privileges that European governments have granted to the arts since the Second World War. Schuster, J. Mark Davidson. 198937ya. The Search for International Models: Results from Recent Comparative Research in Arts Policy. In Who’s to Pay for the Arts? The International Search for Models of Arts Support, edited by Milton C. Cummings Junior, and J. Mark Davidson Schuster. New York: ACA Books, pp. 15-42↩︎
+- 
+
+If we use the average tax rate, the potency of corporate tax incentives appears to be quite high, less so for the marginal rate. The marginal rate is the technically correct magnitude, but difficulties in measuring the true marginal rate suggest that the average rate is sometimes the better proxy. See Clotfelter (198541ya, chap. 5) on these issues.↩︎
+- 
+
+Conlogue, Ray. 200026ya. “From the St. Lawrence Center to Steel City”. Toronto Globe and Mail, June 21, p. R5.↩︎
+- 
+
+That is from the National Center for Education Statistics; see “Public Libraries in the United States: Fiscal Year 200224ya (E.D. TAB)”↩︎
+- 
+
+See Goldstein (200026ya, pp. 59, 89, 109). Goldstein, Malcolm. 200026ya. Landscape with Figures: A History of Art Dealing in the United States. Oxford: Oxford University Press.↩︎
+- 
+
+Hamilton 200026ya (pg31). Casanova Was a Book Lover, and Other Naked Truths and Provocative Curiosities about the Writing, Selling, and Reading of Books. Baton Rouge: Louisiana State University Press↩︎
+- 
+
+Arenson, Karen W. 200224ya. Arts Groups and Artists Find Angels: Universities, The New York Times, October 30, pp. B1, B8↩︎
+- 
+
+Russell, John J., and Thomas S. Spencer. 200026ya. Art on Campus: The College Art Association’s Official Guide to American College and University Art Museums and Exhibition Galleries. Monkton, Maryland: Friar’s Lantern↩︎
+- 
+
+See Arthur Cohen (199828ya, pp. 292, 393), The 14% figure is from Arthur Cohen (199828ya, p. 394). Cohen, Arthur M. 199828ya. The Shaping of American Higher Education. San Francisco: Jossey-Bass Publishers Trow (199333ya, p. 40) Trow, Martin. 199333ya. “Federalism in American Higher Education”. In Higher Learning in America, 1980–20200026ya, edited by Arthur Levine. Baltimore: The Johns Hopkins University Press, pp. 39-65 Page and Simmons (200026ya, pp. 194-95). Page, Benjamin I., and James R. Simmons. 200026ya. What Government Can Do: Dealing with Poverty and Inequality. Chicago: University of Chicago Press↩︎
+- 
+
+Cohen and Noll (199828ya, pp. 36-37). Cohen, Linda R., and Roger G. Noll. 199828ya. Universities, Constituencies, and the Role of the States. In Challenges to Research Universities, edited by Roger G. Noll. Washington, D.C.: Brookings Institution Press, pp. 31-62 ↩︎
+- 
+
+Page and Simmons (200026ya, p. 195).↩︎
+- 
+
+Trow (199333ya, pp. 57-58).↩︎
+- 
+
+On Smithsonian fund-raising, see Trescott 200026ya. On the federal appropriation, see Puente 200323ya and also the Smithsonian Web site.↩︎
+- 
+
+On the history of the army collection, see Sullivan (199135ya); on works held and also on the navy collection, see Evans (194680ya, app. 2). The most famous war pictures of an American artist are those by John Singer Sargent (Gassed is the best known), although these were commissioned by the British authorities, not the American government. On Sargent’s war work, see Little (199828ya)↩︎
+- 
+
+On the USO, see Fawkes (197848ya, chap. 9, and p. 122) and the USO Web site.↩︎
+- 
+
+Wyszomirski 199927ya (pg177). On Sousa, see Overmyer 193987ya (pg155) and Crawford 200125ya (pg457–58). On bands, see Trescott 199531ya.↩︎
+- 
+
+United States Urban Arts Federation Fiscal Year 200224ya (200224ya, p. 3). See also Cowen (200521ya, pp. 6-7).↩︎
+- 
+
+Midgette (200026ya).↩︎
+- 
+
+Cowen (200224ya, chap. 4)↩︎
+- 
+
+See Bustard (199729ya, pp. 12-14) on the programs in general and Daniel (198739ya) on the USDA program, with the quotation from Daniel, p. 41↩︎
+- 
+
+See Wagnleitner (199432ya, p. 72) and Pommerin (199630ya, p. 9). On censorship in Japan, see Dower (199927ya, chap. 14)↩︎
+- 
+
+The numbers are taken from Wagnleitner (199432ya, p. 57) and drawn from U.S. budget data↩︎
+- 
+
+Snyder (199531ya, p. xi)↩︎
+- 
+
+For a summary of the Smith-Mundt Act, and other relevant legislation, see Henderson (196957ya, pp. 302-7). On the genesis of the very complicated network of overlapping agencies, see Henderson (196957ya). On the roots in the 1930s, see Thompson and Laves (196363ya, pp. 36-37) and Shuster (196858ya)↩︎
+- 
+
+Snyder (199531ya, p. xi)↩︎
+- 
+
+Wagnleitner (1994, pp. 61, 149). On the 1969 estimate, see Henderson (1969, p. 75). Ironically many of the funds for these cultural outreach programs were taken from the Counterpart Funds from the Marshall Plan, and thus paid for by European taxpayers, not American taxpayers. (European governments had to put up money for each dollar received through Marshall Plan aid.) In essence, the Europeans were bribed to spend money on American cultural producers, so that they might be swayed to the American way of life. See Wagnleitner (1994, p. 57). On USIA more generally, see Elder (1968). In 1985 the USIA budget was $796 million, many times larger than the NEA allocation. On the post-Reagan decline in these programs, see Kinzer (2001)↩︎
+- 
+
+On the USIA estimate, see Coombs (196462ya, pp. 59-60). On audience size, see Browne (198244ya, p. 116). See also Wagnleitner (199432ya, pp. 61, 210-11) and Hixson (199729ya, pp. 115-17)↩︎
+- 
+
+See Wagnleitner (199432ya, pp. 61, 210-11) and Hixson (199729ya, pp. 115-17). Heil (200323ya) is a good source on VOA. I am indebted to Bryan Caplan for the phrase artistic famine relief. Richmond (200323ya) surveys cultural exchange programs, with an emphasis on their impact on the Soviet Union↩︎
+- 
+
+See von Eschen (200026ya and 200422ya) on jazz and the State Department, and Saunders (199927ya, pp. 20, 291) and Hixson (199729ya, p. 137) on African-American issues↩︎
+- 
+
+See, for instance, Richmond (200323ya, p. 124) on these exchanges.↩︎
+- 
+
+See Fine & Whiteman 200224ya on Sawa’s origins; on criticisms, see Kessler (200422ya)↩︎
+- 
+
+MacFarquhar (200422ya)↩︎
+- 
+
+On the importance of federal support for these arts, see Lowry & Hooker 196858ya and von Eschen (200026ya, passim, p. 167). On Ailey, see Dunning (199630ya, pp. 145-255). On Gillespie, see Maggin (200521ya, chaps. 27, 28) and von Eschen (200422ya, p. 35)↩︎
+- 
+
+On the penetration of foundations, see Saunders (199927ya, pp. 134-35); on books, see p. 245↩︎
+- 
+
+Wagnleitner (199432ya, pp. 137-38). On USIA, see Wetenhall (199234ya, p. 145).↩︎
+- 
+
+On Proust, see the Guardian, “Finding the time”.↩︎
+- 
+
+See Learning to e-read, The Economist (200026ya).↩︎
+- 
+
+On this episode, see Crawford (200125ya, pp. 720-21).↩︎
+
+
+      
+      
+        
+          
+            
+
+Error: JavaScript disabled.
+          
+          
+
+Backlinks, similar links, and the bibliography require JS enabled to load.
+        
+      
+      
+      
+        # Backlinks
+
+
+        [Backlinks (what links here)]
+      
+      
+        # Similar Links
+
+
+        [Similar links by topic]
+        
+      
+        # Bibliography
+
+ ' is redundant with the ''; but added to parallel Pandoc-generated headers which set all attributes/classes on both. -->
+        [Bibliography of links/references used in page]
+          
+      
+       
+
+    
+
+    
+    
+    
+        
+      
+      
+      
+    
+    
+      
+
+
+        [&hairsp;Send Anonymous Feedback&hairsp;]
+      
+      
+        
+
+[Quote Of The Day]
+        
+
+[Site Of The Day]
+        
+
+[Annotation Of The Day]
+      
+      
+
+[adblock public service announcement]
+    
+
+    
+    
+     
+      ​
